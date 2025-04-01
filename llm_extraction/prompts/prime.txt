@@ -1,0 +1,9 @@
+You are a medical expert. Please find whether the medicine is a priority medicine (PRIME). From the following text, there are two conditions under which a medicine can be classified as a PRIME medicine:
+
+1. If the document contains a header which contains the word 'prime'
+or
+2. If the document contains the word 'prime' in the section titled 'Submission of the dossier'
+
+{sample text}
+
+The output should only be "TRUE" if it is a PRIME medicine and "FALSE" if it is not. 

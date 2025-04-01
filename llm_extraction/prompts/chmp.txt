@@ -1,0 +1,18 @@
+You are a medical expert. Please find the date of where the positive opinion for granting a Marketing Authorisation was issued in the following text:
+
+{sample text}
+
+Example 1:
+Text: During the meeting on 26- 29 May 2009, the CHMP, in the light of the overall data submitted
+and the scientific discussion within the Committee, issued a positive opinion for granting a Marketing Authorisation to Samsca on 28 May 2009. The applicant provided the letter of undertaking on the follow-up measures to be fulfilled post-authorisation on 20 May 2009.
+Date: 2009-05-28
+
+Example 2:
+Text: During the meeting on 22 – 25 June 2009, the CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a Marketing Authorisation to Topotecan Teva on 25 June 2009.
+Date: 2009-06-25
+
+Example 3:
+Text: During the meeting on 20-23 July 2009, the CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a Marketing Authorisation to ILARIS on 23 July 2009. The applicant provided the letter of undertaking on the specific obligations and follow-up measures to be fulfilled post-authorisation on 23 July 2009.
+Date: 2009-07-23
+
+Print only the date in YYYY-MM-DD format. Do not include any other text or explanation.
