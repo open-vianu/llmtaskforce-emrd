@@ -3,9 +3,10 @@ name = "llmtaskforce-emrd"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12,<4.0"
 dependencies = [
     "dotenv>=0.9.9",
     "langchain-openai>=0.3.11",
     "openai>=1.70.0",
+    "gradio (>=5.23.2,<6.0.0)",
 ]
