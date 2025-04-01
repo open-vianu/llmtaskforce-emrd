@@ -102,8 +102,6 @@ class AzureDocumentExtractor:
                 print(f"Error processing {os.path.basename(pdf_file)}: {e}")
 
 
-
-# Example usage:
 if __name__ == "__main__":
     endpoint = "https://ayd-document-intelligence.cognitiveservices.azure.com/"
     key = "6BwB4qFcMtk1o6oOSXM78nAwT956IA0WRdhcyw85kbtyiRQSQZvuJQQJ99BAACI8hq2XJ3w3AAALACOGhZUO"
