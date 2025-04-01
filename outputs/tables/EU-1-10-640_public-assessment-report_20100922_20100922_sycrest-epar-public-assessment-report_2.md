@@ -1,6 +1,0 @@
-|Col0|Placebo|5mg asenapine|Risperidone|
-|---|---|---|---|
-|A risk management plan wa|s submitted. T|he CHMP, having|considered the d|
-|opinion that:||||
-|||||
-
