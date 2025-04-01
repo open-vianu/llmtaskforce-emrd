@@ -15,5 +15,5 @@ Date: 2009-07-23
 
 Print only the date in YYYY-MM-DD format. Do not include any other text or explanation.
 
-Text:
+Text: 
 {sample text}

@@ -11,4 +11,5 @@ dependencies = [
     "gradio (>=5.23.2,<6.0.0)",
     "pymupdf>=1.25.5",
     "pymupdf4llm>=0.0.19",
+    "langchain>=0.3.22",
 ]

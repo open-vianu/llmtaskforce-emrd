@@ -33,20 +33,6 @@ print (len(selected_codes))
 
 document_path = 'outputs/p4_md/'
 
-response_schema_date = [
-    ResponseSchema(name="date", description="Specify the date here the positive opinion for granting a Marketing Authorisation was issued in the format YYYY-MM-DD", type="date")]
-
-response_schema_prime = [
-    ResponseSchema(name="prime", description="Specify whether the medicine is prime or not. The allowed outputs are 'True', 'False' or 'Value not reported (available for medicines authorised from 2016-03-01 onwards)'.", type="string")]
-
-parser_date = StructuredOutputParser.from_response_schemas(response_schema_date)
-parser_prime = StructuredOutputParser.from_response_schemas(response_schema_prime)
-
-format_instructions_date = parser_date.get_format_instructions()
-format_instructions_prime = parser_prime.get_format_instructions()
-print (format_instructions_date)
-
-
 doc_path = []
 code_output = []
 chmp_output = []
@@ -68,34 +54,6 @@ for filename in os.listdir(document_path):
             with open(os.path.join(document_path, filename), 'r') as file:
                 sample_text = file.read()
                 print (f"Processing file: {filename}")
-
-
-    #         chmp_prompt = ChatPromptTemplate(
-    #                 messages=[
-    #                     SystemMessagePromptTemplate.from_template(
-    #                         chmp_prompt + "\n"
-    #                         "text: {input}\n"
-    #                         "{format_instructions}\n"
-    #                     )
-    #                 ],
-    #                 input_variables=["sample_text"],
-    #                 partial_variables={"format_instructions": format_instructions_date}
-    #             )
-
-    # #         prompt = ChatPromptTemplate(
-    # #             messages=[
-    # #                 SystemMessagePromptTemplate.from_template(
-    # #                     "Interprete the text and evaluate the text. "
-    # #                     "sentiment: is the text in a positive, neutral or negative sentiment? "
-    # #                     "subject: What subject is the text about? Use exactly one word. "
-    # #                     "Just return the JSON, do not add ANYTHING, NO INTERPRETATION! "
-    # #                     "text: {input}\n"
-    # #                     "{format_instructions}\n"
-    # #                 )
-    # #             ],
-    # #             input_variables=["chmp_prompt"],
-    # #             partial_variables={"format_instructions": format_instructions_date},
-    # )
 
             try:
                             
