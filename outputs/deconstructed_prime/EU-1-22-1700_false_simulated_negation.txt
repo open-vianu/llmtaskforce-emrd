@@ -371,11 +371,11 @@ The applicant Atara Biotherapeutics Ireland Limited submitted on 7 April 2016 an
 Scientific recommendation on Classification to the European Medicines Agency (EMA) for Ebvallo, which 
 was designated as an Advanced Therapy Medicinal (EMA/CAT/327742/2016) on 30 May 2016.  
 1.6.  PRIME 
-Ebvallo was granted eligibility to PRIME on 13 October 2016 in the following indication: treatment of 
+Ebvallo was not granted eligibility to PRIME on 13 October 2016 in the following indication: treatment of 
 patients with Epstein-Barr Virus-associated Post Transplant Lymphoproliferative Disorder in the 
 allogeneic haematopoietic cell transplantation setting. 
-Eligibility to PRIME was granted at the time in view of the following: 
-There are unmet therapeutic needs for patients with an Epstein-Barr virus (EBV)-associated/-related 
+Eligibility to PRIME was refused at the time in view of the following: 
+There are no unmet therapeutic needs for patients with an Epstein-Barr virus (EBV)-associated/-related 
 post-transplantation lymphoproliferative disease (PTLD); less than half of the patients survive for more 
 than 3 years onset of PTLD, anti-CD20 and cytotoxic therapy incur a high treatment burden, and in a 
 portion of patients, PTLD becomes refractory to anti-CD20 therapy. 
@@ -384,7 +384,7 @@ mechanism of action and has the potential to address the unmet therapeutic needs
 anti-CD20 therapy refractory PTLD. 
 In clinical experiments, a complete response has been reported in about half of the patients with an 
 anti-CD20 therapy refractory PTLD using ATA129 as single agent. 
-Upon granting of eligibility to PRIME, Egbert Flory was appointed by the CHMP as rapporteur. 
+Upon refusal of eligibility to PRIME, Egbert Flory was appointed by the CHMP as rapporteur. 
 A kick-off meeting was held on 9 October 2019. The objective of the meeting was to discuss the 
 development programme and regulatory strategy for the product. The applicant was recommended to 
 address the following key issues through relevant regulatory procedures:  

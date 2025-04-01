@@ -305,29 +305,14 @@ Assessment report
 EMA/568312/2020  
 Page 7/112
  
-1.  Background information on the procedure 
-1.1.  Submission of the dossier 
+1.  Background information on the procedure 1.1.  Submission of the dossier 
 The applicant Alnylam Netherlands B.V. submitted on 31 March 2020 an application for marketing 
 authorisation to the European Medicines Agency (EMA) for Oxlumo, through the centralised procedure 
 falling within the Article 3(1) and point 4 of Annex of Regulation (EC) No 726/2004. The eligibility to 
 the centralised procedure was agreed upon by the EMA/CHMP on 22 March 2018. 
 Oxlumo, was designated as an orphan medicinal product EU/3/16/1637 on 21 March 2016 in the 
 following condition: treatment of primary hyperoxaluria. 
-Oxlumo was granted eligibility to PRIME on 22 March 2018 in the following indication:  treatment of 
-primary hyperoxaluria Type 1. 
-Eligibility to PRIME was granted at the time in view of the following: 
-• 
-Primary hyperoxaluria Type 1 is a serious genetic condition resulting in end-stage renal disease 
-for which there are no effective treatments other than organ transplantation and pyridoxine 
-which could delay disease progression but only in a sub-set of affected patients.  
-• 
-The mechanism of action of lumasiran provides strong biological plausibility as an effective 
-treatment for the whole target population.  
-• 
-Despite the limited data available data, both non-clinical and clinical consistently demonstrate 
-a dramatic decrease in urinary oxalate levels. The results show 24-h urinary oxalate excretion 
-close to normalisation at end of observation period in both cohorts of treated patients, meeting 
-the definition of positive response reported with existing therapies. 
+
  
 The applicant applied for the following indication the treatment of primary hyperoxaluria type 1 (PH1) 
 in all age groups. 
@@ -352,20 +337,35 @@ approved indication. More information on the COMP’s review can be found in the
 assessment report published under the ‘Assessment history’ tab on the Agency’s website: 
 ema.europa.eu/en/medicines/human/EPAR/oxlumo. 
 Similarity 
+
 Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC) No 
 847/2000, the applicant did not submit a critical report addressing the possible similarity with 
 authorised orphan medicinal products because there is no authorised orphan medicinal product for a 
 condition related to the proposed indication. 
 Applicant’s request for consideration 
 Accelerated assessment 
+Upon granting of eligibility to PRIME, Martina Weise was appointed by the CHMP as rapporteur. 
+Oxlumo was granted eligibility to PRIME on 22 March 2018 in the following indication:  treatment of 
+primary hyperoxaluria Type 1. 
+Eligibility to PRIME was granted at the time in view of the following: 
+• 
+Primary hyperoxaluria Type 1 is a serious genetic condition resulting in end-stage renal disease 
+for which there are no effective treatments other than organ transplantation and pyridoxine 
+which could delay disease progression but only in a sub-set of affected patients.  
+• 
+The mechanism of action of lumasiran provides strong biological plausibility as an effective 
+treatment for the whole target population.  
+• 
+Despite the limited data available data, both non-clinical and clinical consistently demonstrate 
+a dramatic decrease in urinary oxalate levels. The results show 24-h urinary oxalate excretion 
+close to normalisation at end of observation period in both cohorts of treated patients, meeting 
+the definition of positive response reported with existing therapies. 
 The applicant requested accelerated assessment in accordance to Article 14 (9) of Regulation (EC) No 
 726/2004. 
 New active Substance status 
 The applicant requested the active substance lumasiran contained in the above medicinal product to be 
 considered as a new active substance, as the applicant claims that it is not a constituent of a medicinal 
 product previously authorised within the European Union. 
-PRIME support 
-Upon granting of eligibility to PRIME, Martina Weise was appointed by the CHMP as rapporteur. 
 A kick-off meeting was held on 6 September 2018. The objective of the meeting was to discuss the 
 development programme and regulatory strategy for the product. The applicant was recommended to 
 address the following key issues through relevant regulatory procedures:  

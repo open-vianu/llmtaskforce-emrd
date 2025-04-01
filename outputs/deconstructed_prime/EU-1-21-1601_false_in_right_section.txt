@@ -407,6 +407,9 @@ Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commissio
 847/2000, the applicant did not submit a critical report addressing the possible similarity with 
 authorised orphan medicinal products because there is no authorised orphan medicinal product for a 
 condition related to the proposed indication. 
+In addition, the Applicant’s approach 
+relates to the draft CHMP toolbox guidance on “scientific elements and regulatory tools to support quality 
+data packages for PRIME marketing authorisation applications”.
  
 Assessment report  
 EMA/680189/2021 
@@ -1256,9 +1259,7 @@ shelf life is provided.
 In general, the finished product shelf life should be determined in accordance with ICH Q5C guideline 
 “Stability testing of biotechnological/biological products”. However, given the current COVID-19 pandemic 
 situation, the approach of the Applicant to define a shelf life for REGN10933 and REGN10987 finished 
-products is considered appropriately justified and thus, accepted. In addition, the Applicant’s approach 
-relates to the draft CHMP toolbox guidance on “scientific elements and regulatory tools to support quality 
-data packages for PRIME marketing authorisation applications”. 
+products is considered appropriately justified and thus, accepted.  
 The proposed shelf life of 24 months at 2-8°C for REGN10933 and REGN10987 finished products is 
 acceptable.  
 Photostability studies conducted in accordance with ICH Q1B confirm that the vials should be kept in the 

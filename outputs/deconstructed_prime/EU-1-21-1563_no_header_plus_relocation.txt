@@ -333,8 +333,7 @@ Skysona - Assessment report
 EMA/332184/2021  
 Page 7/136 
  
-1.  Background information on the procedure 
-1.1.  Submission of the dossier 
+1.  Background information on the procedure 1.1.  Submission of the dossier 
 The applicant bluebird bio (Netherlands) B.V submitted on 10 September 2020 an application for 
 Marketing Authorisation to the European Medicines Agency (EMA) for Skysona, through the centralised 
 procedure falling within the Article 3(1) and point 1 of Annex of Regulation (EC) No 726/2004.  
@@ -395,10 +394,7 @@ The applicant requested accelerated assessment in accordance to Article 14 (9) o
 New active Substance status 
 The applicant requested the active substance elivaldogene autotemcel contained in the above 
 medicinal product to be considered as a new active substance, as the applicant claims that it is not a 
-constituent of a medicinal product previously authorised within the European Union. 
-PRIME support 
-Upon granting of eligibility to PRIME, Lisbeth Barkholt was appointed by the CAT as rapporteur. 
-A kick-off meeting was held on 10 December 2018. The objective of the meeting was to discuss the 
+constituent of a medicinal product previously authorised within the European Union. The objective of the meeting was to discuss the 
 development programme and regulatory strategy for the product. The applicant was recommended to 
 address the following key issues through relevant regulatory procedures:  
 Post-approval evidence generation including design of a long-term observational registry study 
@@ -581,7 +577,9 @@ Medicinal product no longer authorised
 Skysona - Assessment report  
 EMA/332184/2021  
 Page 11/136 
- 
+
+Upon granting of eligibility to PRIME, Lisbeth Barkholt was appointed by the CAT as rapporteur. 
+A kick-off meeting was held on 10 December 2018.
 The CAT agreed on a list of outstanding issues in writing to be sent to the 
 applicant on 
 16 April 2021 
