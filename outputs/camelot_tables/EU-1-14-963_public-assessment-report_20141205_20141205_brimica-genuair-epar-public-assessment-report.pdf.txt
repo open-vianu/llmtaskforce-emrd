@@ -1,0 +1,5 @@
+     0           1                          2
+GOLD 1        Mild       FEV1 ≥ 80% predicted
+GOLD 2    Moderate 50% ≤ FEV1 < 80% predicted
+GOLD 3      Severe 30% ≤ FEV1 < 50% predicted
+GOLD 4 Very Severe       FEV1 < 30% predicted
