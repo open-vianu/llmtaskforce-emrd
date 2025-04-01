@@ -1,6 +1,4 @@
-You are a medical expert. Please find the date of where the positive opinion for granting a Marketing Authorisation was issued in the following text:
-
-{sample text}
+You are a medical expert. Please find the date of where the positive opinion for granting a Marketing Authorisation was issued in the following text.
 
 Example 1:
 Text: During the meeting on 26- 29 May 2009, the CHMP, in the light of the overall data submitted
@@ -16,3 +14,6 @@ Text: During the meeting on 20-23 July 2009, the CHMP, in the light of the overa
 Date: 2009-07-23
 
 Print only the date in YYYY-MM-DD format. Do not include any other text or explanation.
+
+Text:
+{sample text}

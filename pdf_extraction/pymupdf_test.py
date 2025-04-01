@@ -7,7 +7,7 @@ import pymupdf4llm
 import pandas as pd
 
 
-def pymupdf_to_text(filepath):
+def pymupdf_to_text(filepath: str | Path) -> str | None:
     with pymupdf.open(filepath) as pdf_document:
         try:
             text = ""
@@ -19,7 +19,7 @@ def pymupdf_to_text(filepath):
             return None
 
 
-def pymupdf4llm_to_md(filepath):
+def pymupdf4llm_to_md(filepath: str | Path) -> str | None:
     try:
         return pymupdf4llm.to_markdown(filepath)
     except Exception as e:
@@ -27,7 +27,24 @@ def pymupdf4llm_to_md(filepath):
         return None
 
 
-def table_extractor(filepath, *args, **kwargs) -> list:
+def table_extractor(
+    filepath: str | Path, *args, **kwargs
+) -> list[pymupdf.table.Table] | list | None:
+    """
+    Extract all PyMuPDF Table Objects from a PDF file using pymupdf
+
+    Parameters
+    ----------
+    filepath: str
+        Path to the PDF file
+    *args, **kwargs:
+        Arguments to be passed to the find_tables method
+
+    Returns
+    -------
+    list
+        List of PyMuPDF Table Objects
+    """
     try:
         with pymupdf.open(filepath) as pdf_document:
             tables = []
@@ -41,7 +58,21 @@ def table_extractor(filepath, *args, **kwargs) -> list:
         return None
 
 
-def table_writer(tables, out_name):
+def table_writer(tables: list[pymupdf.table.Table], out_name: str | Path):
+    """
+    Write all tables taken from one file to csv and markdown files
+
+    Parameters
+    ----------
+    tables: list
+        List of PyMuPDF Table Objects
+    out_name: str
+        Name of the output files
+
+    Returns
+    -------
+    None
+    """
     for i, table in enumerate(tables):
         df = table.to_pandas()
         df.to_csv(f"{out_name}_{i}.csv", index=False)
@@ -50,11 +81,24 @@ def table_writer(tables, out_name):
             f.write(md)
 
 
-def try_all(documents, out_folder):
+def try_all(documents: str | Path, out_folder: str | Path) -> None:
+    """
+    Extract text and tables from all PDF files in a folder, using all available methods
+
+    Parameters
+    ----------
+    documents: str
+        Path to the folder containing the PDF files
+    out_folder: str
+        Path to the folder where the extracted text and tables should be saved
+
+    Returns
+    -------
+    None
+    """
     Path(out_folder).mkdir(exist_ok=True)
     Path(f"{out_folder}/p_txt").mkdir(exist_ok=True)
     Path(f"{out_folder}/p4_md").mkdir(exist_ok=True)
-    Path(f"{out_folder}/tables").mkdir(exist_ok=True)
 
     for filepath in tqdm(
         Path(documents).glob("*.pdf"), total=len(list(Path(documents).glob("*.pdf")))
@@ -74,15 +118,10 @@ def try_all(documents, out_folder):
             ) as f:
                 f.write(output)
 
-        # tables = table_extractor(filepath, strategy="lines_strict")
-        # if tables:
-        #     table_writer(tables, f"{out_folder}/tables/{filepath.stem}")
-
 
 def main():
     input_folder = Path(__file__).parent.parent / "documents"
     output_folder = Path(__file__).parent.parent / "outputs"
-    print(input_folder)
     try_all(input_folder, output_folder)
 
 
