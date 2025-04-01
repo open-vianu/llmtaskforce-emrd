@@ -8,6 +8,8 @@ import ghostscript
 import camelot
 from pandas.conftest import skipna
 from pdfminer.high_level import extract_text
+import glob
+from pathlib import Path
 
 def page_searcher(filepath:str):
     """
@@ -61,3 +63,34 @@ def table_reader(filepath):
     # Read tables using the relevant page numbers
     tables = camelot.read_pdf(filepath, pages=s)
     return tables
+
+def save_output(inputdir:str, outputdir:str):
+    """
+
+    Parameters
+    ----------
+    inputdir: The directory in which the EPARs were saved
+    outputdir: The directory in which the output should be saved
+
+    Returns
+    -------
+    # Nothing, just saves the output in outputs/camelot_tables
+    """
+    # Extract filepath
+    paths = glob.glob(f"{inputdir}/*.pdf")
+    # Extract filename
+    files = [Path(f).name for f in glob.glob(f"{inputdir}/*.pdf")]
+    # go through EPARs
+    for i, f in enumerate(paths):
+        tablestrings = []
+        # For each EPAR extract relevant tables
+        tables = table_reader(f)
+        # Convert each table to strings and place in list
+        for t in tables:
+            tablestrings.append(t.df.to_string(index=False))
+        # Convert list to string, separated by newline
+        tablestring = '\n'.join(tablestrings)
+
+        # Save
+        with open(f"{outputdir}/{files[i]}.txt", "w") as outputfile:
+            outputfile.write(tablestring)
