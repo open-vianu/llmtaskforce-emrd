@@ -60,7 +60,7 @@ def table_reader(filepath):
     """
     # Search relevant pages
     s = page_searcher(filepath)
-    if s is None:
+    if s is None or s == '' or s == []:
         return []
     # Read tables using the relevant page numbers
     tables = camelot.read_pdf(filepath, pages=s)
