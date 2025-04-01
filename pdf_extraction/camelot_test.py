@@ -60,6 +60,8 @@ def table_reader(filepath):
     """
     # Search relevant pages
     s = page_searcher(filepath)
+    if s is None:
+        return []
     # Read tables using the relevant page numbers
     tables = camelot.read_pdf(filepath, pages=s)
     return tables
@@ -85,6 +87,8 @@ def save_output(inputdir:str, outputdir:str):
         tablestrings = []
         # For each EPAR extract relevant tables
         tables = table_reader(f)
+        if tables is None:
+            continue
         # Convert each table to strings and place in list
         for t in tables:
             tablestrings.append(t.df.to_string(index=False))
