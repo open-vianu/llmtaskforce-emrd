@@ -1,0 +1,5503 @@
+20 March 2014
+
+EMA/CHMP/258608/2014
+Committee for Medicinal Products for Human Use (CHMP)
+# CHMP assessment report
+### SYLVANT International non-proprietary name: SILTUXIMAB Procedure No.: EMEA/H/C/003708/0000
+## **Note **
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential
+nature deleted.
+
+
+7 W est f e rr y Circus **●** Canary Wharf **●** L o n do n E14 4HB **●** United Kingdom
+
+
+**T** **e** **l** **ep** **h** **o** **ne** +44 (0)20 7418 8 4 00 **F** **ac** **simile** +44 (0)20 7523 7455
+**E-mail** info@ema.europa.eu **Website** www.ema.europa.eu
+
+
+An agency of the European Union
+
+
+-----
+
+|Product information|Col2|
+|---|---|
+|Name of the medicinal product:|SYLVANT|
+|Applicant:|Janssen-Cilag International NV Turnhoutseweg 30 2340 Beerse BELGIUM|
+|Active substance:|SILTUXIMAB|
+|International Nonproprietary Name/Common Name:|SILTUXIMAB|
+|Pharmaco-therapeutic group (ATC Code):|Not yet assigned|
+|Therapeutic indication:|Sylvant is indicated for the treatment of adult patients with multicentric Castleman’s disease (MCD) who are human immunodeficiency virus (HIV) negative and human herpesvirus-8 (HHV-8) negative.|
+|Pharmaceutical form:|Powder for concentrate for solution for infusion|
+|Strengths:|100 mg and 400 mg|
+|Route of administration:|Intravenous use|
+|Packaging:|vial (glass)|
+|Package size:|1 vial|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 2/92
+
+
+-----
+
+## **Table of contents **
+#### **1. Background information on the procedure .............................................. 7**
+##### 1.1. Submission of the dossier ...................................................................................... 7 1.2. Manufacturers ...................................................................................................... 8 1.3. Steps taken for the assessment of the product ......................................................... 8
+#### **2. Scientific discussion ................................................................................ 9**
+##### 2.1. Introduction......................................................................................................... 9 2.2. Quality aspects .................................................................................................. 11 2.2.1. Introduction .................................................................................................... 11 2.2.2. Active Substance ............................................................................................. 11 2.2.3. Finished Medicinal Product ................................................................................ 15 2.2.4. Discussion on chemical, pharmaceutical and biological aspects .............................. 18 2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects ...................... 18 2.2.6. Recommendations for future quality development ............................................... 18 2.3. Non-clinical aspects ............................................................................................ 19 2.3.1. Introduction .................................................................................................... 19 2.3.2. Pharmacology ................................................................................................. 19 2.3.3. Pharmacokinetics............................................................................................. 22 2.3.4. Toxicology ...................................................................................................... 23 2.3.5. Ecotoxicity/environmental risk assessment ......................................................... 27 2.3.6. Discussion on non-clinical aspects...................................................................... 27 2.3.7. Conclusion on the non-clinical aspects ................................................................ 29 2.4. Clinical aspects .................................................................................................. 29 2.4.1. Introduction .................................................................................................... 29 2.4.2. Pharmacokinetics............................................................................................. 30 2.4.3. Pharmacodynamics .......................................................................................... 33 2.4.4. Discussion on clinical pharmacology ................................................................... 35 2.4.5. Conclusions on clinical pharmacology ................................................................. 36 2.5. Clinical efficacy .................................................................................................. 36 2.5.1. Dose response study ........................................................................................ 37 2.5.2. Main study ...................................................................................................... 39 2.5.3. Discussion on clinical efficacy ............................................................................ 58 2.5.4. Conclusions on the clinical efficacy ..................................................................... 61 2.6. Clinical safety .................................................................................................... 61 2.6.1. Conclusions on the clinical safety ....................................................................... 77 2.7. Pharmacovigilance .............................................................................................. 77 2.8. Risk Management Plan ........................................................................................ 77 2.9. User consultation ............................................................................................... 85
+#### **3. Benefit-Risk Balance ............................................................................. 85**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 3/92
+
+
+-----
+
+#### **4. Recommendations ................................................................................. 90**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 4/92
+
+
+-----
+
+## **List of abbreviations **
+
+ADR(s) adverse drug reaction(s)
+AE(s) adverse event(s)
+ALT alanine aminotransferase
+
+APC arterial premature compl
+AST aspartate aminotransferase
+AUC area under the serum concentration-time curve
+BSC best supportive care
+BSV between-subject variability
+CHMP Committee for Medicinal Products for Human Use
+CHO Chinese hamster ovary
+CHOP cyclophosphamide, doxorubicin (hydroxydaunorubicin), Oncovin (vincristine), and
+prednisone
+CI confidence interval
+
+CL Clearance
+C max maximal serum concentration
+CLss clearance at steady state
+CNS central nervous system
+CNTO 345 an anti-mouse IL-6 mAb, surrogate for CNTO 328
+CR complete response
+CRCL creatinine clearance
+CRP C-reactive protein
+C-section cesarean-section
+
+CSF cerebrospinal fluid
+CT computed tomography
+CVAD cyclophosphamide, vincristine, doxorubicin (Adriamycin), and dexamethasone
+DP drug product
+EC50 concentration producing 50% of the maximum possible effect
+ECG electrocardiogram
+EMA European Medicines Agency
+EMEA Europe, Middle East, and Africa
+FACIT-F Functional Assessment of Chronic Illness Therapy-Fatigue
+FDA Food and Drug Administration
+FLP final lyophilized product
+GCP Good Clinical Practice
+GLP Good Laboratory Practice
+GI gastrointestinal
+HHV-8 human herpesvirus-8
+HIV human immunodeficiency virus
+HR hazard ratio
+
+ICH International Conference on Harmonisation
+IFA Incomplete Freund’s Adjuvant
+IgG immunoglobulin G
+IL-6 interleukin-6
+
+IM intramuscular
+
+IR immune response
+
+IV intravenous
+
+KLH keyhole lipet hemocyanin
+mAb monoclonal antibody
+MCD multicentric Castleman’s disease
+MCD-SS Multicentric Castleman’s Disease Symptom Scale
+MCS Mental Component Score
+MDS myelodysplastic syndrome
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 5/92
+
+
+-----
+
+MedDRA Medical Dictionary for Regulatory Activities
+NCI-CTCAE National Cancer Institute Common Terminology Criteria for Adverse Events
+
+NE not estimable
+
+NK natural killer
+
+NOAEL no-observed-adverse-effect-level
+
+PCS Physical Component Score
+PET positron-emission tomography
+PI Prescribing Information
+POEMS polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin
+changes
+
+PR partial response
+PRO(s) patient-reported outcome(s)
+Q inter-compartmental clearance
+
+Q1W once a week
+
+SAE(s) serious adverse events
+
+SC subcutaneous
+
+SCID severe combined immunodeficiency
+SD stable disease
+
+SF-36 Medical Outcomes Study Short-Form-36
+SMM smoldering multiple myeloma
+SPC Summary of Product Characteristics
+SPD sum of the product of the diameters
+t 1/2 half-life
+TDAR T-cell dependent antibody response
+TEAE(s) treatment-emergent adverse event(s)
+
+TK toxicokinetic
+
+ULN upper limit of normal
+
+US United States
+
+V c volume of distribution of the central compartment
+VEGF vascular endothelial growth factor
+V p volume of distribution of the peripheral compartment
+VPC ventricular premature complex
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 6/92
+
+
+-----
+
+## **1. Background information on the procedure **
+#### ***1.1. Submission of the dossier ***
+
+The applicant Janssen-Cilag International NV submitted on 29 August 2013 an application for
+
+Marketing Authorisation to the European Medicines Agency (EMA) for SYLVANT, through the
+
+centralised procedure falling within the Article 3(1) and point 4 of Annex of Regulation (EC) No
+
+726/2004. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 17
+
+January 2013.
+
+SYLVANT, was designated as an orphan medicinal product EU/3/07/508 on 30 November 2007.
+
+SYLVANT was designated as an orphan medicinal product in the following condition: Treatment of
+
+Castleman’s disease.
+
+Following the CHMP positive opinion on this marketing authorisation, the Committee for Orphan
+
+Medicinal Products (COMP) reviewed the designation of Sylvant as an orphan medicinal product in
+
+the approved indication. The outcome of the COMP review can be found on the Agency's website:
+
+ema.europa.eu/Find medicine/Human medicines/Rare disease designation.
+
+The applicant applied for the following indication: Sylvant is indicated for the treatment of patients
+
+with multicentric Castleman’s disease (MCD) who are human immunodeficiency virus
+
+(HIV)-negative and human herpesvirus-8 (HHV-8)-negative.
+
+**The legal basis for this application refers to:**
+
+Article 8.3 of Directive 2001/83/EC - complete and independent application. The applicant indicated
+
+that siltuximab was considered to be a new active substance.
+
+The application submitted is composed of administrative information, complete quality data,
+
+non-clinical and clinical data based on applicants’ own tests and studies and/or bibliographic
+
+literature substituting/supporting certain tests or studies.
+
+***Information on Paediatric requirements***
+
+Pursuant to Article 7 of Regulation (EC) No 1901/2006, the application included an EMA Decision
+
+P/91/2008 on the agreement of the granting of a (product-specific) waiver.
+
+***Information relating to orphan market exclusivity***
+
+***Similarity***
+
+Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC)
+
+No 847/2000, the applicant did not submit a critical report addressing the possible similarity with
+
+authorised orphan medicinal products because there is no authorised orphan medicinal product for
+
+a condition related to the proposed indication.
+
+**New active Substance status**
+
+The applicant requested the active substance siltuximab contained in the above medicinal product
+
+to be considered as a new active substance in itself, as the applicant claims that it is not a
+
+constituent of a product previously authorised within the Union.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 7/92
+
+
+-----
+
+***Scientific Advice***
+
+The applicant received Scientific Advice and Protocol Assistance from the CHMP on 13 December
+
+2007 and 20 November 2008 respectively. The Scientific Advice and the Protocol Assistance
+
+pertained to clinical aspects of the dossier.
+
+**Licensing status**
+
+A new application was filed in the following countries: United States.
+
+The product was not licensed in any country at the time of submission of the application.
+#### ***1.2. Manufacturers ***
+
+**Manufacturers of the active substance**
+
+Janssen Biotech Inc.
+200 Great Valley Parkway
+Malvern
+Pennsylvania
+19355
+
+United States
+
+Janssen Biologics (Ireland)
+Barnahely
+Ringaskiddy
+Co. Cork
+
+Ireland
+
+Janssen Biologics B.V.
+Einsteinweg 101
+NL-2333 CB Leiden
+
+The Netherlands
+
+**Manufacturer responsible for batch release**
+
+Janssen Biologics B.V.
+Einsteinweg 101
+NL-2333 CB Leiden
+
+The Netherlands ***1.3. Steps taken for the assessment of the product ***
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur: Concepcion Prieto Yerro Co-Rapporteur: Robert James Hemmings
+
+- The application was received by the EMA on 29 August 2013.
+
+- Accelerated Assessment procedure was agreed-upon by CHMP on 25 July 2013.
+
+- The procedure started on 25 September 2013.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 8/92
+
+
+-----
+
+- The Rapporteur's first Assessment Report was circulated to all CHMP members on 11 December
+
+2013. The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 16
+
+December 2013. In accordance with Article 6(3) of Regulation (EC) No 726/2004, the
+
+Rapporteur declared that they had completed their assessment report in less than 80 days.
+
+- During the PRAC meeting on 9 January 2014, the PRAC adopted an RMP Advice and assessment
+
+overview.
+
+- During the meeting on 23 January 2014, the CHMP agreed on the consolidated List of Questions
+
+to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on
+
+24 January 2014.
+
+- The applicant submitted the responses to the CHMP consolidated List of Questions on 14
+
+February 2014.
+
+- The Rapporteurs circulated the Joint Assessment Report on the applicant’s responses to the List
+
+of Questions to all CHMP members on 28 February 2014.
+
+- During the PRAC meeting on 6 March 2014, the PRAC adopted an RMP Advice and assessment
+
+overview.
+
+- The Rapporteurs circulated an updated Joint Assessment to all CHMP members on 14 March
+
+2014.
+
+- During the meeting on 20 March 2014, the CHMP, in the light of the overall data submitted and
+
+the scientific discussion within the Committee, issued a positive opinion for granting a
+
+Marketing Authorisation to SYLVANT.
+## **2. Scientific discussion **
+#### ***2.1. Introduction ***
+
+Castleman’s disease, a lymphoproliferative disorder first described by Castleman and Towne
+
+(Castleman 1954), is a rare and only partially elucidated disease characterized by growth of
+
+lymphoid tissue (Bowne 1999). This syndrome is known by a variety of names, including giant
+
+lymph node hyperplasia, angiofollicular lymph node hyperplasia, angiomatous lymphoid
+
+hamartoma, lymph nodal haematoma, and lymph node hyperplasia of Castleman (Greiner 2000).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 9/92
+
+
+-----
+
+Clinically, patients present with lymph node growth that is confined to a single location (unicentric
+
+Castleman’s disease) or occurs in multiple locations (MCD) (Gaba 1978; van Rhee 2010). Unicentric
+
+Castleman’s disease is most commonly asymptomatic whereas MCD, first described by Gaba in
+
+1978, displays a wide variety of clinical symptoms (Gaba 1978). MCD can occur in association with
+
+HIV and HHV-8 infection, but in the majority of patients, MCD occurs in the absence of these viral
+
+infections (Casper 2005; Dispenzieri 2012). Clinical symptoms of MCD may include fever, night
+
+sweats, fatigue, anorexia, weight loss, hepatosplenomegaly, palpable lymphadenopathy,
+
+peripheral neuropathy, extravascular volume overload (ie, edema, ascites, or effusions),
+
+documented bony sclerosis, anemia, leukocytosis, thrombocytosis, transaminitis, a high
+
+sedimentation rate, hypergammaglobulinemia, low albumin, elevated creatinine, and significant
+
+increases in IL-6 and acute-phase proteins such as CRP (Casper 2005; Dispenzieri 2008; van Rhee
+
+2010; Dispenzieri 2012). Sometimes MCD is associated with polyneuropathy, organomegaly,
+
+endocrinopathy, monoclonal gammopathy, and skin changes (POEMS) syndrome (Dispenzieri
+
+2012).
+
+Although the precise incidence of MCD is not known, it has been estimated at less than 1 in 100,000
+
+(orphanet). A recent publication (Talat 2012) has reviewed 404 published cases of Castleman’s
+
+disease, of which only 126 were MCD. Different histologic subtypes of Castleman’s disease exist,
+
+based on the histologic architecture of the lymph node tissue: hyaline vascular, plasmacytic and
+
+mixed, in which features of both subtypes are present (Cronin 2009). The hyaline vascular type was
+
+originally thought to be localized and thus associated with unicentric Castleman’s disease, although
+
+in recent publications, a substantial number of subjects with MCD have distinct hyaline vascular
+
+characteristics of the disease (van Rhee 2010; Dispenzieri 2012). In MCD, the plasmacytic type
+
+tends to be more frequently reported (Dispenzieri 2012).
+
+Treatment goals include alleviation of debilitating symptoms that may be life-threatening and
+
+reduction of lymph node masses.
+
+There is no accepted standard of care for non-viral MCD and no known treatment consistently
+
+results in a reduction in tumour burden in MCD patients; therefore prognosis remains poor with fatal
+
+outcomes reported (Casper 2005; Dispenzieri 2008; Dispenzieri 2012).
+
+The underlying pathophysiology of Castleman’s disease is still only partially elucidated. Initially the
+
+condition was described as a “chronic nonspecific inflammatory process”. Overproduction of the
+
+cytokine IL-6, either native or virally encoded, has been hypothesized to play a central role in
+
+driving plasma cell proliferation and systemic manifestations (Casper 2005; van Rhee 2010).
+
+Siltuximab is a human-mouse chimeric monoclonal antibody that forms high affinity, stable
+
+complexes with soluble bioactive forms of human IL-6. Siltuximab prevents the binding of human
+
+IL-6 to both soluble and membrane-bound IL-6 receptors (IL-6R), thus inhibiting the formation of
+
+the hexameric signaling complex with gp130 on the cell surface. Interleukin-6 is a pleiotropic
+
+pro-inflammatory cytokine produced by a variety of cell types including T cells and B-cells,
+
+lymphocytes, monocytes and fibroblasts, as well as malignant cells. IL-6 has been shown to be
+
+involved in diverse normal physiologic processes such as induction of immunoglobulin secretion,
+
+initiation of hepatic acute phase protein synthesis, and stimulation of hematopoietic precursor cell
+
+proliferation and differentiation. Overproduction of IL-6, in chronic inflammatory diseases and
+
+malignancies has been linked to anaemia and cachexia and has been hypothesized to play a central
+
+role in driving plasma cell proliferation and systemic manifestations in patients with CD.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 10/92
+
+
+-----
+
+The Applicant applied for the indication: Sylvant is indicated for the treatment of patients with
+
+multicentric Castleman’s disease (MCD) who are human immunodeficiency virus (HIV)-negative
+
+and human herpesvirus-8 (HHV-8)-negative.
+
+The finally approved indication is the following: SYLVANT is indicated for the treatment of adult
+
+patients with multicentric Castleman’s disease (MCD) who are human immunodeficiency virus
+
+(HIV) negative and human herpesvirus-8 (HHV-8) negative.
+
+The recommended dose is 11 mg/kg given over 1 hour as an IV infusion administered every 3
+
+weeks until treatment failure.
+#### ***2.2. Quality aspects *** **2.2.1. Introduction **
+
+Siltuximab, the active substance of Sylvant, is a human/murine chimeric immunoglobulin G1κ
+
+(IgG1κ) monoclonal antibody against human interleukin-6 (hIL-6) produced in a Chinese Hamster
+
+Ovary (CHO) cell line.
+
+Siltuximab binds to IL-6, neutralizing its biological activity. IL-6, a proinflammatory cytokine
+
+produced by many different cell types and some tumor cells, acts by binding to the cell surface IL-6
+
+receptor. Siltuximab blocks the binding of IL-6 to the IL-6 cell surface receptor and thereby
+
+prevents initiation of downstream intracellular signaling by the receptor. By neutralizing
+
+endogenous IL-6, siltuximab interferes with IL-6 mediated regulation of acute phase proteins and
+
+cell differentiation. Overproduction of the cytokine (IL-6) has been hypothesized to play a central
+
+role in driving plasma cell proliferation and systemic manifestations in multicentric Castleman’s
+
+disease (MCD) patients. There is a strong rationale for evaluating siltuximab in MCD, because it is
+
+a potent and specific inhibitor of circulating IL-6.
+
+The siltuximab finished product is supplied as a sterile, single-use lyophilized dosage form for
+
+intravenous infusion (IV). The Finished product is supplied in a Type 1 glass vial with an elastomeric
+
+closure and an aluminum seal with a flip-off button. **2.2.2. Active Substance **
+
+*Structural formula*
+
+The intact molecule contains 1324 amino acid residues and is composed of 2 identical heavy chains
+
+(approximately 50 kDa each) and 2 identical light chains (approximately 24 kDa each). The heavy
+
+and light chains contain 449 and 213 amino acid residues, respectively. The chains are linked
+
+together via non-covalent heavy-heavy and heavy-light interactions, and also covalent
+
+heavy-heavy and heavy-light disulfide bonds. The glutamine residue at position 1 of the light chain
+
+and the glutamic acid residue at position 1 of the heavy chain constitute the N-termini of the
+
+secreted protein. The light chain N-terminal glutamine is cyclized to pyroglutamic acid. Both heavy
+
+chains are glycosylated at Asn-299. Heavy chain C-terminal lysine is depicted in this sequence
+
+however the typical distribution of species contains a majority (>90%) of variants without
+
+C-terminal lysine.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 11/92
+
+
+-----
+
+***Description of the manufacturing process and process controls***
+
+*Manufacturing process*
+
+Siltuximab active substance Final Bulk (FB) is manufactured in a 9-stage process. Briefly, the active
+
+substance is obtained by several purification steps (protein A, cation exchange and anion exchange
+
+chromatography) from the harvests of one or more CHO cell line bioreactor culture(s). The FB is
+
+stored frozen at -40 °C until further processing into the final lyophilized product. Specific and
+
+dedicated viral inactivation steps (low pH inactivation and nanofiltration) have been included in the
+
+production process. Overall, the active substance manufacturing process is considered adequately
+
+described.
+
+Stage 1: Preculture and expansion
+
+Each manufacturing run starts by thawing a vial of the Working Cell Bank, followed by a pre-culture
+
+and expansion phase. The cells are cultured in disposable culture bags until the viable cell density
+
+(VCD) and volume required for inoculation of the production bioreactors are obtained.
+
+Stage 2: Bioreactor production
+
+The second stage in the manufacturing process of siltuximab active substance is continuous cell
+
+culture in a production bioreactor. For harvest, cells are separated from the permeate via an
+
+alternating tangential flow (ATF) hollow fiber cell-retention device. Cell culture permeates
+
+(harvests) are collected from the bioreactor at different time points (early, middle and late stage of
+
+cultivation).
+
+Stage 3: Direct product capture (DPC) and low pH viral inactivation
+
+Harvests are filtered and purified through a protein A chromatography column. The eluate is
+
+incubated at low pH for viral inactivation. After pH re-adjustment, intermediates are stored frozen.
+
+This frozen material is named Direct Product Capture (DPC) and considered an intermediate.
+
+Stage 4: Thawing and pooling of DPC eluates
+
+Siltuximab direct product capture (DPC) eluates are thawed, pooled, and filtered.
+
+Stage 5: Cation exchange chromatography
+
+Pooled siltuximab DPC eluates are purified by cation exchange chromatography. Stage 5 is
+
+designed to remove aggregates, residual protein A, host cell protein, and other impurities from the
+
+siltuximab product.
+
+Stage 6: Anion exchange chromatography
+
+Siltuximab active substance is further purified by an anion exchange chromatography. The step is
+
+designed to separate the active substance from DNA, other impurities, and viruses (if present).
+
+Stage 7: Virus removal filtration
+
+Siltuximab purified by anion exchange chromatography is filtered through a virus removal filter.
+
+Stage 8: Concentration and diafiltration
+
+Siltuximab active substance is concentrated and diafiltered to add formulation excipients (except
+
+for polysorbate 80 added in Stage 9) and to remove in-process buffer salts.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 12/92
+
+
+-----
+
+Stage 9: Preparation of formulated bulk
+
+Polysorbate 80 (PS 80) is added to the pre-formulated bulk (PFB) to obtain the active substance
+
+formulated bulk (FB). The FB is filtered into polycarbonate containers for frozen storage.
+
+As requested the applicant provided acceptable information on the Normal Operating ranges (NOR)
+
+and Proven Acceptable Ranges (PAR) of the active substance manufacturing process. Actions taken
+
+when process excursions beyond the NOR and PAR occur have been described.
+
+*Pooling of DPC batches at stage 4 of the actives substance manufacturing process*
+
+At D120 a major objection was raised concerning the adequacy of the controls of the proposed
+
+pooling strategy and how these relate to the pooling strategy employed to manufacture of material
+
+used in the pivotal clinical study. It was concluded that this issue will potentially impact the safety
+
+and efficacy of the proposed commercial product since it was unclear if commercial and clinical
+
+materials were equivalent. To address this concern, the applicant was requested to justify how the
+
+proposed commercial material will be consistently equivalent to the material used in the pivotal
+
+clinical study considering the pooling strategy adopted for the clinical material compared with that
+
+proposed for commercial material. Furthermore, the applicant was requested to unequivocally
+
+define the pooling strategy, to describe the batch size of each DPC pool completed at stage 4, to set
+
+specifications at stage 3 and 4 of the active substance manufacturing process, to provide a full
+
+definition of the normal operating ranges (NOR) employed in the drug substance manufacturing
+
+process and to describe the actions taken when process excursions beyond the NOR and the proven
+
+acceptable ranges (PAR) occur. The applicant sufficiently resolved this major objection.
+
+*Control of starting materials*
+
+Sufficient information on raw materials used in the active substance manufacturing process has
+
+been submitted. Compendial raw materials are tested in accordance with the corresponding
+
+monograph, while specifications (including test methods) for non-compendial raw materials are
+
+presented.
+
+Information provided on the construction of the expression plasmid with respect to sourcing,
+
+selection and cloning of the coding sequences is satisfactory. The description incorporates the
+
+history of the expression construct used in earlier development via the murine Sp2/0 cell line.
+
+The current CHO cell line, C1612A, was used to produce product for Phase 3 clinical trials and will be
+
+used to produce commercial product. Sufficient information has been provided regarding the
+
+characteristics of the plasmid and the producer cell line.
+
+A two tiered cell banking system is used and sufficient information is provided regarding testing of
+
+master cell bank (MCB) and working cell bank (WCB) and release of future WCBs. Genetic stability
+
+of the expression construct in the MCB, WCB and end of production cells (EOPC) has been
+
+demonstrated.
+
+*Control of critical steps and intermediates*
+
+Manufacturing steps are controlled by critical process parameters (CPPs) and In-Process Controls
+
+(IPCS).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 13/92
+
+
+-----
+
+*Process validation*
+
+The consistency of the manufacturing process has been adequately evaluated using multiple
+
+strategies including: characterisation of the harvest material from four consecutive fermentation
+
+processes; manufacturing and evaluation of three consecutive active substance FB batches whilst
+
+monitoring relevant performance parameters; employing small scale design of experiments using
+
+qualified models of the respective unit operation to establish process robustness; independent
+
+chromatography resin lifetime evaluation; small scale validation of reprocessing at specified
+
+process stages; validation of process intermediates hold times and removal of impurities. It is
+
+recommended that the applicant verify the validated column lifetimes during commercial scale
+
+production.
+
+*Manufacturing process development*
+
+Manufacturing changes and comparability
+
+The commercial active substance manufacturing process was developed in parallel with the clinical
+
+development program. A comparability study has been carried out demonstrating that changes
+
+made during pharmaceutical development did not have a significant influence on the quality of the
+
+product.
+
+*Characterisation*
+
+The siltuximab active substance has been sufficiently characterised by physicochemical and
+
+biological state-of-the-art methods revealing that the active substance has the expected structure
+
+of a human IgG1-type antibody. The analytical results are consistent with the proposed structure.
+
+Furthermore, heterogeneity of the active substance was adequately characterised by analysing size
+
+and charge variants, glycosylation and other product-related substances and impurities. Biological
+
+characterization of siltuximab indicates that this antibody has the ability to bind and neutralize IL-6
+
+with high affinity and to specifically bind to FcγRI and FcRn as expected of an IgG1. In summary,
+
+characterization is considered appropriate for this type of molecule.
+
+***Specification***
+
+The release specification for siltuximab active substance include tests for identity, purity, charge
+
+heterogeneity, potency, oligosaccharide profile, protein concentration, safety (endotoxin,
+
+bioburden), and physical characteristics (pH, color of solution). Overall, active substance
+
+specifications are considered adequately set and justified after revision during the evaluation
+
+procedure and when accounting for the recommendations for further quality development.
+
+*Analytical methods*
+
+The analytical methods have been adequately described and validated.
+
+*Batch analysis*
+
+Batch analysis is based on data from Phase III clinical batches, active substance formulated bulk
+
+batches and further batches manufactured post validation. All batches show consistent
+
+performance within the proposed specifications.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 14/92
+
+
+-----
+
+*Reference standards*
+
+The same reference standards are used for control of the active substance FB and the finished
+
+product. The history of the reference standards, the Primary Reference Material (PRM) and the
+
+Working Reference Material (WRM), and the strategy for the qualification of future reference
+
+batches was presented.
+
+*Container closure*
+
+The information presented for the Container and Closure system is considered appropriate. The
+
+container closure system is comprised of a polycarbonate bottle and a polypropylene screw closure
+
+with a silicone liner and complies with the requirements of regulation EU 10/2011 and Ph.Eur
+
+monograph 3.1.9, respectively.
+
+***Stability***
+
+Sufficient stability data have been presented in support of the claimed shelf-life of the intermediate
+
+DCP eluate (stage 3), and the active substance FB. The stability study at real-time conditions is still
+
+on-going and the applicant has committed to finalize the study and to report any
+
+out-of-specifications result. This is acceptable.
+#### **2.2.3. Finished Medicinal Product **
+
+*Description and composition of finished product*
+
+The finished product, in its two presentations (100 and 400 mg/vial), is well described. The finished
+
+product is presented as a sterile, single-use lyophilized dosage form for intravenous infusion (IV).
+
+The container is a Type 1 glass vial with an elastomeric closure and an aluminum seal with a flip-off
+
+button.
+
+The finished product is reconstituted with 5.2 mL (for the 100 mg) or 20 mL (for the 400 mg) of
+
+sterile WFI prior to use.
+
+***Pharmaceutical Development***
+
+*Formulation development*
+
+In summary, the pharmaceutical development of the siltuximab finished product has been
+
+adequately described. All excipients used in siltuximab finished product are incorporated during
+
+manufacture of the active substance FB. No additional excipients are included during DP
+
+manufacture. The excipients were selected based on formulation development studies described in
+
+detail. The choice and level of excipients were determined by evaluating the ability of each excipient
+
+to maximize the stability of siltuximab against chemical and physical stresses.
+
+*Process development*
+
+During its development, the siltuximab finished product manufacture underwent several process
+
+changes, some of them were in parallel with changes in the manufacturing process of the active
+
+substance.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 15/92
+
+
+-----
+
+Comparability studies have been undertaken with siltuximab finished product to show it is
+
+comparable across the different changes in the manufacture process. It is considered that
+
+comparability has been sufficiently demonstrated.
+
+***Adventitious agents***
+
+The safety of siltuximab with regard to adventitious agents is assured through the design and
+
+control of the manufacturing process and raw materials. Transmissible spongiform encephalopathy
+
+(TSE) infectivity control is assured by exclusion of animal-derived raw materials from the
+
+production process and the cell bank preparation. No animal-derived materials have been used to
+
+prepare the Master Cell Bank or Working Cell Banks. Raw material controls and in-process testing
+
+for virus minimize the risk of contamination by adventitious agents. Clearance studies provide
+
+assurance that potential adventitious agents will be removed or inactivated by the manufacturing
+
+process. Non-infectious, retrovirus-like particles (RVLP) typical of a CHO cell line are produced by
+
+the C1612A cell line and are considered in the virus safety evaluation.
+
+Viral clearance is achieved through viral inactivation (low pH treatment), physical removal of virus
+
+by nanofiltration and two orthogonal chromatographic steps. The four viral clearance steps in the
+
+siltuximab process are: Protein A chromatography (Stage 3), low pH viral inactivation (also Stage
+
+3), anion exchange chromatography (Stage 6) and virus removal filtration (Stage 7). Of these, low
+
+pH viral inactivation and virus removal filtration are dedicated viral clearance steps. The studies
+
+provided are considered satisfactory.
+
+***Manufacture of the finished product***
+
+Batch Release:
+
+Janssen Biologics B.V.
+Einsteinweg 101
+2333 CB Leiden
+
+The Netherlands
+
+*Manufacturing process, process controls and validation*
+
+The commercial manufacturing process at the Cilag AG facilities in Schaffhausen (Switzerland) is
+
+well described and controlled, having all the steps and hold times validated. Briefly, the
+
+manufacturing process of finished product consists of the thawing of siltuximab active substance
+
+formulated bulk (FB), pooling and mixing to produce a homogeneous FB, pre-filtration of the FB to
+
+reduce the bioburden, in-line sterile filtration, and aseptic filling. Following aseptic filling, the vials
+
+are partially stoppered, and loaded into the lyophilizer(s). Upon completion of lyophilization, all
+
+vials are fully stoppered, unloaded and capped. Afterwards, the siltuximab finished product vials are
+
+optically inspected, secondary packaged and then stored at 2-8 °C.
+
+*Control of excipients*
+
+All excipients comply with the requirements in their respective pharmacopoeial monographs (Ph
+
+Eur, USP/NF or JP). No excipients of human or animal origin are used in the manufacture of the
+
+finished product.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 16/92
+
+
+-----
+
+***Product specification***
+
+Finished product release and stability specifications are acceptable for both formulations (100
+
+mg/vial and 400 mg/vial). The release specification for siltuximab finished product includes general
+
+tests (appearance, residual moisture, color of solution, osmolality, particulate matter, pH,
+
+reconstitution time, turbidity, uniformity of dosage), as well as controls for safety (endotoxin,
+
+sterility), purity, charge heterogeneity, identity, protein concentration and potency.
+
+*Analytical methods*
+
+Analytical methods, including non pharmacopoeial tests, are described in sufficient detail.
+
+Validation of analytical methods, performed according ICH Q2(R1), is considered adequate.
+
+*Reference standard*
+
+The same reference standards are used for control of active substance formulated bulk and finished
+
+product (see above).
+
+*Batch data*
+
+The presented batch data comply with the limits of the proposed finished product specification.
+
+Batch data were submitted for validation batches of the 100mg and 400mg finished product
+
+manufactured in the commercial facility. Data for further clinical phase III batches are also
+
+provided in support.
+
+*Container closure system*
+
+The information presented on the container closure system is considered appropriate.
+
+The container closure system used for the final lyophilized finished product (100 mg/vial) is an 8R
+
+(8mL) Type I borosilicate clear glass vial, while the container for the 400 mg/vial finished product is
+
+a 30 mL Type I borosilicate clear glass. Both vials are closed with a fluoropolymer coated 20mm
+
+lyophilization-type stopper and a 20mm aluminum seal with a flip-off button made of polypropylene
+
+and containing a lacquered aluminum ferrule. The vials are tested for hydrolytic resistance, arsenic
+
+content, microbiological purity and bacterial endotoxins according to current Ph. Eur. and USP. The
+
+stoppers comply with Ph. Eur. and/or USP.
+
+***Stability of the product***
+
+The proposed finished product shelf life and storage conditions are supported by the provided
+
+stability data. Storage of both strengths is recommended at a temperature of 2-8 °C and protected
+
+from light. The clinical and commercial instructions for use require that the reconstituted finished
+
+product be added to the infusion bag no more than 2 hours after reconstitution and administered
+
+within six (6) hours.
+
+The post-approval stability protocol and stability commitment are considered acceptable.
+
+***Comparability Exercise for Finished Medicinal Product***
+
+See pharmaceutical development above.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 17/92
+
+
+-----
+
+#### **2.2.4. Discussion on chemical, pharmaceutical and biological aspects **
+
+In summary, the information provided in the application demonstrates consistent batch-to-batch
+
+production of Sylvant achieving a defined quality for the active substance and the finished product.
+
+The fermentation, recovery and purification of the active substance, siltuximab, are adequately
+
+controlled and validated. Appropriate active substance specifications have been set. The active
+
+substance has been well characterised using state-of the-art methods with regard to its
+
+physicochemical and biological characteristics. The manufacturing process of the finished product
+
+has been described and validated in sufficient detail. The quality of the finished product is controlled
+
+by adequate test methods and specifications. The data presented support the shelf-life proposed for
+
+active substance and finished product. Two dedicated virus inactivation/removal steps are included
+
+in the active substance manufacturing process. No excipients of human or animal origin are used in
+
+the product manufacture. Therefore there is no risk of contamination with viral or TSE agents. A
+
+number of recommendations for future quality development are given (see 2.2.6).
+
+During the evaluation of the quality dossier a major objection was raised concerning the proposed
+
+commercial pooling strategy at stage 4 of the active substance manufacturing process and the
+
+resulting potential implications for the comparability of clinical trial material with future commercial
+
+batches. With the responses the major objection was resolved: The applicant submitted an
+
+acceptable pooling strategy; addressed the question on setting specifications for critical steps and
+
+intermediates satisfactorily; introduced acceptable controls and specifications for an additional
+
+control parameter for the DPC pool at stage 4 and for the active substance formulated bulk and
+
+committed to follow the recommendations for further quality development of the product.
+
+Furthermore, an acceptable justification was given to show how the proposed commercial material
+
+will be consistently equivalent to the material used in the pivotal clinical study considering the
+
+pooling strategy adopted for the clinical material compared with that proposed for commercial
+
+material. **2.2.5. Conclusions on the chemical, pharmaceutical and biological ** **aspects **
+
+The quality aspects of this dossier are sufficiently described. From the quality point of view, a
+
+positive opinion can be given since the quality issues have been solved, including the major
+
+objection. A number of commitments made by the applicant during the procedure have been drawn
+
+up as recommendations (see section 2.2.6). The applicant agreed to address and implement these
+
+recommendations in the on-going development of the product. **2.2.6. Recommendations for future quality development **
+
+In the context of the obligation of the MAH to take due account of technical and scientific progress,
+
+the CHMP recommended future quality developments.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 18/92
+
+
+-----
+
+#### ***2.3. Non-clinical aspects *** **2.3.1. Introduction **
+
+The nonclinical program for siltuximab was conducted in accordance with the International
+
+Conference on Harmonisation (ICH) S6 guidelines. The pivotal toxicology studies and the majority
+
+of the safety pharmacology studies were conducted in accordance with current regulatory
+
+requirements and in compliance with the principles of Good Laboratory Practice (GLP). In vivo
+
+studies were performed in mouse and monkey. **2.3.2. Pharmacology **
+
+***Primary pharmacodynamic studies***
+
+Siltuximab (also referred to as CNTO 328 or cCLB8) is a chimeric (murine-human) immunoglobulin
+
+G (IgG1 κ) monoclonal antibody (mAb). In order to characterise the binding of chimeric anti hIL-6
+
+mAb, an enzyme-linked immunosorbent assay (ELISA) was performed, which showed that cCLB8
+
+binds to rhIL-6 (200 ng/mL) in a concentration dependent manner with an EC50 of 4 ng/mL.
+
+The ability of siltuximab to block the interaction of IL-6 with its receptor was tested in a fluorescent
+
+bead based assay. A total of 21 ng/mL (147 pM) of siltuximab displaced 50% of the maximum
+
+bound biotin-hIL-6 (at 20 ng/mL) to hsIL-6R-coated beads.
+
+Additional in vitro studies showed that siltuximab also neutralized IL-6-mediated responses
+
+including cell proliferation, cell survival, intracellular signalling (increase of the anti-apoptotic
+
+protein Mcl-1 levels, phosphorilation of the activator of transcription STAT-3) and production of
+
+acute phase and IgM proteins. The inhibition of cell proliferation was shown on murine
+
+plasmacytoma 7TD1 (EC50=4.6-13.48 ng/ml; 30.6-88 pM), U266 myeloma and non-small cell lung
+
+cancer (NSCLC) A549, H226 and H358 cell lines. In studies using the LNCaP-IL-6+ prostate cancer
+
+cell line, which expresses autocrine IL-6, exposure to CNTO 328 at 10 µg/mL, caused a significant
+
+increase in apoptosis, which was associated to some degree with down regulation of IL-6-mediated
+
+intracellular signalling pathways including the anti-apoptotic protein, Mcl-1 and signal transducers
+
+and activators of transcription (STAT)-3 phosphorylation. Siltuximab did not affect the growth of
+
+LNCaP-IL-6- cells, which do not produce autocrine IL-6. The inhibition of STAT-3 phosphorilation
+
+was proved in CD3+ population of mononuclear cells from human whole blood from healthy donors.
+
+Siltuximab was also able to inhibit the production of acute phase protein serum amyloid A (SAA) by
+
+HepG2 human hepatoma cells (IC50=34.43 ng/ml, 239 pM). In a similar study using the human
+Burkitt `’` s B-lymphoma line SKW6.4, the production of immunoglobulin M (IgM) protein in response
+
+to rIL-6 was blocked by cCLB8 at ≥100 ng/mL.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 19/92
+
+
+-----
+
+To examine species cross-reactivity, a bioassay was used to determine the ability of siltuximab
+
+(CNTO 328) to inhibit IL-6 induced 7TD1 cell proliferation from different species. Tumour cells were
+
+stimulated with IL-6, which was either in the form of recombinant protein (human, rat, or mouse
+
+IL-6), or conditioned media from peripheral blood mononuclear cells (PBMCs) isolated from
+
+chimpanzee, baboon, pigtailed macaque, cynomolgus monkey, cotton-top tamarin, marmoset,
+
+guinea pig, rhesus monkey, mini-pig or dog. Cell proliferation was evaluated via ATPLite assay.
+
+Tumour cell proliferation was induced by IL-6 or conditioned media from various species. CNTO 328
+
+completely blocked proliferation stimulated by hIL-6 or conditioned media from chimpanzee,
+
+baboon, pigtailed macaque, cynomolgus monkey, cotton-top tamarin, marmoset, and rhesus
+
+monkey, but not by rat, and mouse IL-6 or conditioned media from guinea pig, mini-pig or dog.
+
+Since siltuximab did not demonstrate reactivity against mouse IL-6 (mIL-6), an alternative
+
+anti-mouse IL-6 mAb, called CNTO 345, was developed to be used as a surrogate anti-mouse IL-6
+
+mAb in fertility and tumor immune surveillance studies. The ka, kd and KD constants for CNTO 345
+
+are similar to that observed for CNTO 328 and the IC50 for the anti-mouse IL-6 mAb was higher
+
+than that observed for the proposed product.
+
+***Secondary pharmacodynamic studies***
+
+The *in vivo* pharmacologic effects of siltuximab were studied in mice bearing hIL-6-producing
+
+tumours. Neutralization of IL-6 by a single dose of mCNTO 328 reduced tumour growth by
+
+approximately 50% in the RC-8 model (Weissglas *et al*, 1997). In a second study, weekly
+
+intraperitoneal (IP) administration of mCNTO 328 caused regression of established human prostate
+
+cancer xenografts (PC3 cell line) in nude mice (Smith and Keller, 2001). The activity of mCNTO 328
+
+was also tested in a human lymphoma model generated by xenotransplantation of severe combined
+
+immunodeficiency (SCID) mice with human peripheral blood leukocytes from individuals with prior
+
+contact with Epstein-Barr virus (Mauray *et al*, 2000). Treatment with mCNTO 328 decreased
+
+tumour incidence from 62% to 27% (n=13-14/ group). In a separate study, the activity of the
+
+chimeric antibody CNTO 328 was also studied in solid tumour models in mice. Siltuximab treatment
+
+reduced growth of this xenograft and significant differences in mean tumour volume were observed
+
+at Day 22 and Day 25. In a study of mice bearing H460 human lung tumour xenografts,
+
+twice-weekly dosing with CNTO 328 (25 mg/kg) caused a reduction in tumour volume and a delay
+
+in time to tumour endpoint by 7.6 days compared to PBS control.
+
+The effects of siltuximab in combination with other therapeutic regimens were also characterized in
+
+*in vitro* studies and in a variety of xenograft tumor models in mice. These agents included
+
+dexamethasone, melphalan, docetaxel, mitoxantrone, or androgen ablation (castration) in models
+
+of prostate cancer, erlotinib in lung cancer models, and bortezomib in an IL-6-sensitive human
+
+myeloma model. Although siltuximab administered in combination with other treatment regimens
+
+did not adversely affect the efficacy, some combinations (docetaxel in model of metastasis,
+
+mitoxantrone in a model of prostate cancer, androgen ablation in models of androgen-sensitive
+
+prostate cancer and erlotinib in lung cancer models) did not provide a therapeutic advantage for the
+
+treatment of tumours. Among agents tested in combination with siltuximab, only dexamethasone
+
+and bortezomib are used in MCD and siltuximab enhanced the efficacy of both drugs in
+
+monotherapy. Combination studies provided limited data about the tolerance of the combinations
+
+(with respect to effects on body weight alterations, mortality and clinical signs for e.g.). Only an
+
+increase of survival was reported in a prostate cancer mice model induced by PC3 cells following
+
+treatment with siltuximab and docetaxel.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 20/92
+
+
+-----
+
+***Safety pharmacology programme***
+
+No studies were submitted. Safety pharmacology endpoints were incorporated into the design of
+
+several in vivo toxicology studies (see discussion on non-clinical aspects).
+
+Potential effects on the cardiovascular system were evaluated in the 3- and 6-month repeat-dose
+
+toxicology studies in cynomolgus monkeys via the evaluation of electrocardiograms (ECGs) and by
+
+the measurement of blood pressure, heart rate (HR) and capillary refill times; during the ECG
+
+recordings, the PR-interval, QRS duration, QT- and/or QTc-interval, and heart rate were
+
+determined and the data interpreted by a board certified veterinary cardiologist. Potential effects on
+
+the respiratory system were evaluated via the measurement of the respiratory rate during
+
+veterinary physical examinations as well as at additional protocol-specified study intervals.
+
+Potential effects on the Central Nervous System (CNS) were evaluated by daily clinical cage side
+
+observations and by measurement of rectal temperature.
+
+All ECGs were normal in siltuximab-dosed animals in the 3 and 6-month toxicology studies, with the
+
+exception of isolated ventricular premature complexes (VPCs) seen in 2 monkeys administered 46
+
+mg/kg, and arterial premature complexes (APCs) seen at in 1 male administered 9.2 mg/kg. These
+
+findings were also seen during the predose period and in control group animals, and there was no
+
+indication of a dosage-related incidence.
+
+No findings attributable to siltuximab administration were noted during physical examinations. In
+
+the 3-month study of siltuximab alone, a minimally detectable (Grade I/VI) systolic murmur was
+
+identified in all groups, including controls, on Day 24/25. A relationship to dose was not seen and
+
+the finding is occasionally documented in normal cynomolgus monkeys. Additionally, as evidenced
+
+by the ECG evaluations, the parenchyma and valve of the heart were functional in these animals.
+
+Indirect blood pressure, respiratory rate, heart rate, rectal temperature, and capillary refill time
+
+were noted to exhibit minimal fluctuations over the course of the 3- and 6-month repeat-dose
+
+toxicology studies. The changes, however, were either within the normal range for cynomolgus
+
+monkeys and a clear dose response could not be established.
+
+No siltuximab-related changes in behaviour were recorded during the collection of clinical
+
+observations in the 3- and 6-month toxicology studies.
+
+***Pharmacodynamic drug interactions***
+
+Potential interactions between the pharmacological effects of siltuximab in combination with a
+
+variety of anti-cancer therapeutics have been evaluated. In in vitro pharmacology studies using
+
+human myeloma cells, administration of siltuximab did not adversely affect the efficacy of
+
+bortezomib, dexamethasone or melphalan. In in vivo pharmacology studies in mice, administration
+
+of siltuximab did not adversely affect the efficacy of docetaxel, mitoxantrone, erlotinib, or
+
+bortezomib. In a toxicology study conducted in cynomolgus monkeys, siltuximab did not enhance
+
+the toxicity induced by IL-2.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 21/92
+
+
+-----
+
+#### **2.3.3. Pharmacokinetics **
+
+The majority of the pharmacokinetics data were generated as part of the toxicology studies to
+
+assess toxicokinetic (TK) exposure to siltuximab or to the anti-mouse IL-6 specific mAb CNTO
+
+345.The TK profile and immunogenicity of siltuximab was evaluated in 3 GLP IV repeat-dose
+
+toxicology studies in male and female cynomolgus monkeys: a 3-month study followed by a
+
+1-month recovery period (T-2002-007), a 3-month study in which siltuximab was administered in
+
+combination with interleukin-2 (IL-2) treatment and followed by a 1-month recovery period
+
+(T-2002-010), and a 6-month study followed by a 3-month recovery period (T-2003-010).
+
+Two PK studies were performed with siltuximab in cynomolgus monkeys after administration of IV
+
+single-doses. The first one (P-2002-002) conducted in order to characterize the PK profile of
+
+siltuximab in this species and the second one (P-2004-061) was conducted to compare the PK
+
+profile of siltuximab produced from the original Sp2/0 cell line 175A and the Sp2/0 subclone cell line
+
+175H. The PK profile of the surrogate rodent antibody, CNTO 345 (an anti-mouse IL-6 mAb)
+
+administered Q1W or B1W via the IV or SC dose route was studied in 1-month toxicology study
+
+(T-2009-025). Traditional absorption, distribution, metabolism, and excretion studies were not
+
+conducted by the applicant.
+
+Following a single IV dose (1.84, 9.2, and 46 mg/kg) of CNTO 328 to the cynomolgus monkey
+
+(P-2002-002), exposure to siltuximab as measured by Cmax and AUC0-tz appeared to increase in
+
+a slightly greater than dose proportional manner; over the tested dose range of 1.84 to 46 mg/kg,
+
+a 5-fold increase in dose from 1.84 to 9.2 mg/kg and from 9.2 to 46 mg/kg resulted in a 6.4 and
+
+8-fold increase in Cmax and a 5.86 and 6.98 fold increase in AUC0-tz, respectively.
+
+Following once weekly repeated IV dosing (once a week [Q1W]; 9.2 and 46 mg/kg) for 6 months in
+
+the monkey ( T-2003-010), a 5-fold increase in dose from 9.2 to 46 mg/kg resulted in a 3.31- 4.56
+
+fold increase in AUC and in a 3.49-5.54 fold increase in Cmax. Moderate accumulation of siltuximab
+
+in serum was observed after administration of multiple doses of 9.2 or 46 mg/kg siltuximab. Drug
+
+accumulation ratios calculated following administration of the last dose were 7.33 and 4.91 for the
+
+9.2 and 46 mg/kg dose groups, respectively. No apparent gender-related differences in TK
+
+parameters were observed.
+
+The clearance (mean±SD) after a single dose was 5.76±1.11, 4.97±NA, and 2.93±NA mL/day/kg
+
+for the 1.84, 9.2, and 46 mg/kg dose groups. After 6 months of treatment the clearance at steady
+
+state (CLss) decreased to 1.11±0.36 and 2.37±0.51 mL/day/kg at 9.2 and 46 mg/kg, respectively.
+
+The mean volume of distribution of siltuximab in cynomolgus monkeys ranged from 62.98±NA to
+
+143.60±4.51 mL/kg following single IV administration, and from 17.82±5.01 and 43.52±19.86
+
+mL/kg following Q1W repeated IV dosing for 6 months.
+
+Animals treated weekly with siltuximab at doses of 9.2 or 46 mg/kg for three months showed
+
+detectable concentrations of siltuximab in the cerebrospinal fluid (CSF). Following repeated
+
+administration to the monkey once a week (3 month study), siltuximab was shown to distribute to
+
+the CSF where levels ranged from 0.52 to 3.42 at the maximum dose of 46 mg/kg/day. A study in
+
+cynomolgus monkeys also showed that siltuximab crosses the placenta, whereby maternal/fetal
+
+ratios of 0.82 to 1.07 were observed following repeated administration at 4.6 and 9.6 mg/kg/day.
+
+The levels of siltuximab in the CSF and the fetus increased in a dose-dependent manner.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 22/92
+
+
+-----
+
+Data from an IV (Q1W) repeat-dose embryofetal study in pregnant monkeys revealed that
+
+siltuximab distributes to the fetus during gestation, with apparent fetal/maternal distribution ratios
+
+of 0.82 and 1.07 at doses of 9.2 and 46 mg/kg.
+
+There was no difference in the PK profiles of the test materials produced by 175A and 175H cell lines
+
+in monkeys.
+
+Based on the results of the T-2009-025 study, CNTO 345 was absorbed with a tmax of 1 to 3 days
+
+after SC. Following the dosage regimen selected for toxicity studies in mice (Q1W, via SC), mean
+
+Cmax and AUC values increased in a dose-proportional manner, with an estimated 2.2- to 3.1-fold
+
+accumulation in mean serum concentrations across the tested dose level of 40 and 100 mg/kg.
+#### **2.3.4. Toxicology **
+
+***Single dose toxicity***
+
+No studies were submitted (see discussion on non-clinical aspects).
+
+***Repeat dose toxicity***
+
+The repeat-dose toxicity of siltuximab was evaluated following once a week (q1w) IV 2-hour
+
+infusion of 9.2 and 46 mg/kg doses of siltuximab in 3- and 6-month studies (Study T-2002-007 and
+
+T-2003-010). An additional 3-month study (Study T-2002-010) in cynomolgus monkeys in which
+
+animals were given siltuximab treatment and IL-2 therapy was designed to support clinical trials in
+
+oncology patients receiving concomitant IL-2 and siltuximab treatment. All studies included a
+
+recovery period in order to evaluate reversibility, persistence, and/or the delayed occurrence of any
+
+potential adverse effects. In addition to the standard toxicological endpoints, effects on the
+
+immune system were evaluated in the 3- and 6-month studies with siltuximab by
+
+immunophenotyping circulating peripheral blood lymphocyte (PBL) subsets, measuring primary
+
+T-cell dependent antibody responses (TDAR) after an intramuscular (IM) injection with Keyhole
+
+Limpet Hemocyanin (KLH) in Incomplete Freund’s Adjuvant (IFA), and by performing
+
+histopathology and immunohistopathology examinations of the lymphoid organs with
+
+immunohistochemical (IHC) staining for B- (CD20+) and T-cells (CD3+).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 23/92
+
+
+-----
+
+Weekly IV infusions of 9.2 and 46 mg/kg doses of siltuximab were well tolerated by cynomolgus
+
+monkeys, and treatment with siltuximab had no effect on IL-2 toxicity, with similar findings being
+
+noted between groups administered IL-2 therapy with or without siltuximab treatment. No
+
+siltuximab-related signs of toxicity or mortality were observed, and no treatment-related effects
+
+were noted on safety pharmacology parameters. In the 6-month study, periodic observations of
+
+skin erythema seen in the shoulder region of two 46 mg/kg-dosed females, and observations of dry
+
+flaky skin seen in 1 of the animals correlated with histopathologic findings of minimal
+
+hyperkeratosis. One female at 46 mg/kg exhibited moderate facial swelling during the Day 1
+
+infusion that resolved following the completion of dosing, and did not occur again during the course
+
+of the study. These observations were considered possibly related to siltuximab administration,
+
+although a definitive relationship was not established. In the 3-month study with siltuximab,
+
+immunophenotyping of PBL subsets revealed no effects of treatment on memory T-lymphoctes,
+
+natural killer (NK)-cells, and monocytes. Increases in B-lymphocytes, total lymphocytes,
+
+T-lymphocytes, T-helper lymphocytes, T-cytotoxic/suppressor lymphocytes, and naïve
+
+T-lymphocytes, seen only on Day 2, were considered attributed to siltuximab administration. In the
+
+3- and 6-month toxicology studies, IM immunization with the T-cell dependent neoantigen, KLH
+
+resulted in a robust humoral response (anti-KLH IgM and IgG response) in control animals.
+
+Siltuximab caused a slight reduction in the anti-KLH antibody titers seen at various time points
+
+between 1- and 3-months in the siltuximab treated animals relative to the controls.  However, even
+
+in the presence of siltuximab all animals were still able to generate a robust anti-KLH antibody
+
+response. Histopathologic examination of stained lymphoid tissues showed no change in the
+
+number and distribution of T and B cells of animals administered siltuximab; however, the size of
+
+the germinal centers in the spleens was decreased in some animals at the high dose of 46 mg/kg
+
+after dosing for 1-month (3 animals) and 3-months (1 animal); the finding was not observed after
+
+6-months of dosing.
+
+An anti-siltuximab antibody response was detected in one female at 9.2 mg/kg from the 3-month
+
+study with siltuximab, and in one male at 9.2 mg/kg from the 3-month combination study with
+
+siltuximab and IL-2. With the exception of these 2 animals, toxicokinetic (TK) analysis confirmed
+
+extensive systemic exposure in monkeys administered siltuximab, which was not influenced by IL-2
+
+administration. In the 6-month chronic toxicity study in cynomolgus monkeys, the mean ± SD
+
+Cmax value noted after administration of the last IV q1w dose of 46 mg/kg (5331.73 ± 1198.34
+
+μg/mL) was approximately 20-fold higher than the mean ± SD Cmax value of siltuximab obtained
+
+after the administration of IV doses of 11 mg/kg administered once every 3-weeks to cancer
+
+patients (273.3 ± 81.2 μg/mL;), and the mean ± SD AUC0-t in monkeys (20264.11 ± 4435.72
+
+μg·day/mL) was approximately 7-fold higher than the mean ± SD AUC0-t value (2800.9 ± 1086.2
+
+μg·day/mL) in cancer patients. Antibodies to siltuximab were not detected in the sera of any
+
+animals during the 6-month study.
+
+The effects of safety pharmacology endpoints following repeated administration are summarised in
+
+Section ‘‘Safety pharmacology programme’’ of this report.
+
+***Genotoxicity***
+
+No studies were submitted (see discussion on non-clinical aspects).
+
+***Carcinogenicity***
+
+No studies were submitted (see discussion on non-clinical aspects).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 24/92
+
+
+-----
+
+***Reproduction Toxicity***
+
+The potential developmental and reproductive toxicity of siltuximab was investigated in an
+
+embryofetal development study in cynomolgus monkeys (T-205-036). Supportive fertility studies
+
+in male (Study T-2010-033) and female (Study T-2010-032) mice were conducted using the rat
+
+IgG1 isotype anti-mouse IL-6 mAb CNTO 345. Supplemental information has also been provided on
+
+the effects seen in a pre and post-natal development study following treatment with the anti-IL-6
+
+mAb CNTO 136 (T-2010-018).
+
+In the embryofetal development study (T-205-036), cynomolgus monkeys that were confirmed
+
+pregnant via ultrasound examination were administered weekly IV doses of 9.2 and 46 mg/kg
+
+siltuximab during the pregnancy period (GD 20-118), including the period of organogenesis (from
+
+GD 20-50). Treatment with siltuximab produced no siltuximab treatment-related abortions or
+
+maternal or fetal toxicities, and no siltuximab-related immunoreactions were observed in fetuses.
+
+Based on these findings, the NOAEL for pregnant cynomolgus monkeys and their fetuses was 46
+
+mg/kg; at this dose, siltuximab was approximately evenly distributed in maternal and fetal serum
+
+(dams: 727.11 ± 261.54 µg/mL; 725.68 ± 254.50 µg/mL).
+
+In the male fertility study (Study T-2010-033), male mice were administered q1w SC doses of
+
+CNTO 345 at 40 or 100 mg/kg 4 weeks prior to and during mating with untreated females,
+
+continuing up to the day before scheduled necropsy (7 weeks). There were no effects on mating and
+
+fertility of the male mice, nor of caesarean sectioning (C-section) and litter parameters of female
+
+mice evaluated at mid gestation (Gestation Day (GD) 13). Based on these findings, the paternal and
+
+male reproductive no-observed-adverse-effect-level (NOAEL) for CNTO 345 is 100 mg/kg. At this
+
+dose, the mean serum concentration of CNTO 345 observed after the last dose confirmed that male
+
+mice had continuous systemic exposure to CNTO 345 during the study.
+
+In the female fertility study(Study T-2010-032), CNTO 345 was administered to female mice as SC
+
+doses of 40 and 100 mg/kg q1w for 15 days before cohabitation, through cohabitation with
+
+untreated male mice (maximum 14 days), and on presumed GDs 0 and 6. C-sections were
+
+conducted on GD 13. The maternal NOAEL is 100 mg/kg, as no adverse effects were seen in dams;
+
+the NOAEL for female reproductive function was also considered to be 100 mg/kg, as no effects
+
+were seen on mating and fertility, or on C-sectioning and litter parameters evaluated at
+
+mid-gestation (GD 13). The mean serum concentrations of CNTO 345 obtained after administration
+
+of the last dose of 100 mg/kg confirmed that female mice had continuous systemic exposure to
+
+CNTO 345 following repeated q1w SC administration for 7 weeks.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 25/92
+
+
+-----
+
+In the embryofetal pre and post natal study (T-2010-018), pregnant cynomolgus monkeys were
+
+given weekly IV doses of 10 or 50 mg/kg CNTO 136 from early organogenesis (GD 20) to natural
+
+delivery (GD 167). No maternal toxicity was seen, and no adverse CNTO 136-related effects on
+
+embryo-fetal loss or on immunophenotyping of PBLs were observed in dams. Two dams died during
+
+the study; one 10 mg/kg dam was euthanized due to excessive bleeding caused by a retention of
+
+the placenta (GD 161/LD 0), and a 50 mg/kg-dosed dam found aborting on GD 131 died due to
+
+extensive blood loss and difficulties passing the fetus. These maternal deaths were not considered
+
+related to CNTO 136 treatment because they are related to complications at birth that occur on
+
+occasion in monkeys. No birth defects or adverse effects on growth or functional development were
+
+observed in infants. No adverse effects were observed on the development of the immune system,
+
+on infant humoral responses to KLH, or on lymphoid tissues. Based on these results, the NOAEL for
+
+CNTO 136 in both the dams and infants is considered to be 50 mg/kg. Systemic exposure was
+
+sustained in dams throughout the dosing period (GD 20 to delivery); at the NOAEL, Cmax was
+
+1059.18 and 1467.37 μg/mL on GDs 20 and 139, respectively. Concentrations of CNTO 136 in
+
+breast milk were below the lower limit of quantification (LLOQ) on LDs 30 and 75, indicating minimal
+
+trans mammary excretion.
+
+***Toxicokinetic data***
+
+The majority of the pharmacokinetics data were generated as part of the toxicology studies to
+
+assess toxicokinetic (TK) exposure to siltuximab or to the anti-mouse IL-6 specific mAb CNTO 345
+
+(see discussion on non-clinical aspects).
+
+***Local Tolerance***
+
+No studies were submitted (see discussion on non-clinical aspects).
+
+***Other toxicity studies***
+
+The antigenicity of siltuximab (antibodies to siltuximab) was evaluated in support of PK and
+
+toxicology studies. This was done by testing for anti-siltuximab antibodies in single-dose PK studies
+
+and in repeat-dose toxicology studies in cynomolgus monkeys following q1w IV administration.
+
+Animals receiving the lowest dose of siltuximab had the earliest onset of antibodies to siltuximab
+
+and exhibited the highest antibody titers, which subsided as dose increased and after repeated
+
+administration, so that anti-siltuximab antibodies were generally not detected at the highest dose
+
+studied.
+
+Siltuximab is intended to modulate immune function for therapeutic purposes, and therefore
+
+evaluations of immunotoxicity were incorporated into the repeat-dose toxicology studies in
+
+monkeys.
+
+In-vivo mechanistic studies in murine models of tumour immune surveillance were conducted to
+
+assess the tumorgenicity potential of CNTO 345. Contrary effects of CNTO 345 on metastasis have
+
+been observed in two studies and the mechanism leading to the tumoral or antitumoral activity are
+
+unknown. The relevance of the findings to humans is undetermined but the weight of evidence
+
+approach used to determine the carcinogenic risk of siltuximab does not indicate a risk for humans.
+
+Three in vitro tissue cross-reactivity studies which performed with biotinylated siltuximab and
+
+select tissue sections obtained from normal humans and normal (naive) or siltuximab-treated
+
+monkeys showed no unexpected tissue binding to siltuximab.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 26/92
+
+
+-----
+
+#### **2.3.5. Ecotoxicity/environmental risk assessment **
+
+No environmental risk assessment was submitted. In accordance with the Guideline on the
+
+environmental risk assessment (ERA) of medicinal products for human use
+
+[EMEA/CHMP/SWP/4447/00], peptides and proteins are excluded from the need for an
+
+environmental risk assessment. Therefore, an ERA for siltuximab is not required. **2.3.6. Discussion on non-clinical aspects **
+
+Siltuximab is a chimeric (murine-human) IgG1 monoclonal antibody that specifically binds to and
+
+neutralizes human IL-6 with high affinity. The binding of siltuximab to hIL-6 was demonstrated by
+
+BIAcore (KD=34±9 pM) and ELISA analysis. A fluorescent bead-based assay showed that
+
+siltuximab potently blocks the interaction of IL-6 with its receptor. Additional in vitro studies
+
+showed that siltuximab also neutralized IL-6-mediated cellular responses including cell
+
+proliferation, cell survival, intracellular signalling (STAT-3 phosphorilation) and synthesis of
+
+downstream proteins as acute phase protein SAA by HepG2 human hepatoma cells and the IgM
+
+production by Burkitt´s B-lymphoma cell lines. Siltuximab blocked the biologic effect of IL-6 at dose
+
+levels below trough serum concentration reached in humans treated with 11 mg/kg of siltuximab
+
+once every 3-weeks.
+
+The ability of siltuximab to block the biologic effects of hIL-6 in vivo was studied in other IL-6
+
+mediated or dependent disease systems. These included an evaluation of effects of IL-6 inhibition
+
+on tumour growth, tumour-induced cachexia, angiogenesis, and tumour-induced thrombosis.
+
+Available data from in vitro and in vivo studies with siltuximab are considered enough to conclude
+
+it has an anti-tumoral effect. Additional in vivo experiments in the mice model for MCD are not
+
+considered necessary.
+
+Siltuximab binds to and neutralizes human and non-human primate IL-6 but does not inhibit
+
+mouse, rat, dog, pig or guinea pig IL-6. Therefore, the cynomolgus monkey was selected as a
+
+pharmacologically relevant species for the toxicology and pharmacokinetics evaluation of
+
+siltuximab.
+
+In accordance with the ICH S6 guideline for preclinical safety evaluation of biotechnology-derived
+
+pharmaceuticals [EMA/CHMP/ICH/731268/1998], safety pharmacology endpoints were measured
+
+during the in vivo toxicology studies where CNTO 328 or siltuximab was given to cynomolgus
+
+monkeys via repeated intravenous administration once a week for up to 6 months. Decreased heart
+
+rate and VPCs were noted at the maximum dose level of 46 mg/kg. However, the observed effects
+
+appeared to occur in a small number of animals and in the case of the VPCs these were also
+
+observed during the pre-dose period and in the control group; hence, the observed findings were
+
+not considered to be of biological significance. Overall the data presented suggest that, siltuximab
+
+has no effect on the cardiovascular, central nervous and respiratory systems at exposures 7 fold (on
+
+basis of Cmax) and 20 fold (on basis of AUC) higher than that proposed clinically.
+
+No siltuximab treatment–related adverse effects on safety pharmacology parameters were
+
+observed in the 3 and 6 months toxicology studies.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 27/92
+
+
+-----
+
+IL-6 has been associated with down-regulation of CYP isoenzymes. Therefore, it cannot be excluded
+
+that siltuximab might indirectly influence the expression level of CYP enzymes in MCD patients and
+
+co-administered drugs metabolised by this pathway could then be metabolised faster in the
+
+presence of siltuximab. On the basis of the data presented, the potential for pharmacodynamic drug
+
+interactions with a number of anti-cancer drugs seems to be low. From a non-clinical point of view,
+
+no further interaction studies are warranted.
+
+The exposure to siltuximab in monkeys increased in an approximately dose proportional manner
+
+and moderate accumulation of siltuximab in monkey serum was observed after 6 months of
+
+treatment. Overall, the toxicology program adequately assessed the systemic exposure to
+
+siltuximab in MCD treated IV with 11 mg/kg, q3w.
+
+The mean volume of distribution of siltuximab in cynomolgus monkeys, together with results from
+
+the Tissue Cross Reactivity study, suggested that the distribution of siltuximab was mainly confined
+
+to the vascular space in the body, which is typical of a IgG-based mAb. Assuming a similar
+
+distribution in cancer patients, the projected maximum CSF concentration of siltuximab following 3
+
+weekly doses at 11 mg/kg would be 125 ng/mL, which is within the pharmacological concentration
+
+range, but no signs of neurotoxicity have been observed in non-clinical and clinical studies
+
+performed with siltuximab.
+
+Siltuximab crosses the placenta in studies in monkeys and it is unknown whether siltuximab is
+
+excreted in human milk. Excretion of siltuximab into milk has not been studied. A pre- and postnatal
+
+developmental study in monkeys with CNTO 136 (an anti-IL-6 humanized monoclonal IgG κ
+
+antibody that was derived from siltuximab) showed CNTO 136 is not distributed to the milk, as
+
+expected because in non-human primates IgGs are only excreted in the milk initially. A risk to the
+
+newborns/infants cannot be excluded. A decision must be made whether to discontinue breast
+
+feeding or discontinue/abstain from siltuximab therapy taking into account the benefit of breast
+
+feeding for the child and the benefit of therapy for the woman.
+
+No specific metabolism and excretion studies were performed. Similar to other IgG1 mAbs, the
+
+expected consequences of metabolism of siltuximab are the degradation to small peptides and
+
+individual amino acids.
+
+Two changes in the manufacturing process of siltuximab were made during its development.
+
+Initially, it was produced by Sp2/0 cell line (175A), then by the Sp2/0 subclone cell line 175H and
+
+the intended clinical product is produced by CHO-derived (C1612A) cell lines. The similarity of the
+
+PK profiles of siltuximab produced by 175A and 175H cell lines in monkeys has been demonstrated.
+
+No non-clinical studies were performed to compare siltuximab produced by Sp2/0 and CHO cell
+
+lines; however, the similarity of both products was demonstrated by quality studies.
+
+In the repeat dose toxicity studies siltuximab was well tolerated by cynomolgus monkeys up to six
+
+months. The only abnormal clinical signs possibly associated with siltuximab treatment were skin
+
+erythema and facial swelling observed in individual animals treated with 46 mg/kg of siltuximab and
+
+signs of immunotoxicity (reduction in anti-KLH IgG and IgM antibody titers after immunization with
+
+the T-cell dependent neoantigen KLH, an elevation in T and B lymphocytes following the first
+
+infusion of siltuximab and a reduction in size and number of splenic germinal centers). Skin
+
+disorders were commonly observed in MCD patients treated with siltuximab. Signs of
+
+immunotoxicity were considered to be pharmacological responses of IL 6 inhibition and not of
+
+toxicological significance.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 28/92
+
+
+-----
+
+There was no evidence of genotoxic potential.
+
+Rodent carcinogenicity studies have not been conducted with siltuximab. Evidence from studies
+
+conducted with siltuximab and other IL-6 inhibitors suggest that the potential for siltuximab to
+
+cause carcinogenicity is low. However, there is also evidence to suggest that IL-6 inhibition may
+
+suppress immune responses, immune surveillance and lower defense against established tumors.
+
+Therefore, an increased susceptibility to specific tumors cannot be entirely ruled out. This
+
+information is reflected in section 5.3 of the SmPC.
+
+During an embryo-fetal development study where siltuximab was administered intravenously to
+
+pregnant cynomolgus monkeys (gestation day 20 – 118) at doses of 9.2 and 46 mg/kg/week, no
+
+maternal or fetal toxicity was observed. Siltuximab crossed the placenta during gestation whereby
+
+fetal serum concentrations of siltuximab at gestation day (GD) 140 were similar to maternal
+
+concentrations. Histopathological examination of lymphoid tissues from GD140 fetuses showed no
+
+morphological abnormalities in the development of the immune system.
+
+There are no data from the use of siltuximab in pregnant women. Studies in animals with siltuximab
+
+have shown no adverse effect on pregnancy or on embryofetal development. Siltuximab is not
+
+recommended during pregnancy and in women of childbearing potential not using contraception.
+
+Siltuximab should be given to a pregnant woman only if the benefit clearly outweighs the risk.
+
+Women of childbearing potential must use effective contraception during and up to 3 months after
+
+treatment. As with other immunoglobulin G antibodies, siltuximab crosses the placenta as observed
+
+in studies in monkeys. Consequently, infants born to women treated with siltuximab may be at
+
+increased risk of infection, and caution is advised in the administration of live vaccines to these
+
+infants.
+#### **2.3.7. Conclusion on the non-clinical aspects **
+
+From a non-clinical point of view, this application for Sylvant is considered to be approvable. ***2.4. Clinical aspects *** **2.4.1. Introduction **
+
+***GCP***
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the
+
+community were carried out in accordance with the ethical standards of Directive 2001/20/EC.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 29/92
+
+
+-----
+
+#### **2.4.2. Pharmacokinetics **
+
+The PK properties of siltuximab were studied in 473 subjects treated with single-agent therapy in
+
+Phase 1 and 2 Phase 2 studies (Table 1). After the earlier Phase 1 single-agent dose-escalation
+
+studies (C0328T01, C0328T03, and CNTO328STM2001), single-agent siltuximab Phase 2 studies
+
+were conducted at 11 mg/kg every 3 weeks (or equivalent dose intensity 15 mg/kg every 4 weeks).
+
+A pooled population PK analysis (378 patients) was conducted to describe the PK characteristics of
+
+siltuximab following IV administration of the single-agent siltuximab at doses ranging from 0.9 to
+
+15 mg/kg and to identify and quantify the influence of significant covariates on the disposition of
+
+siltuximab in subjects with various haematological and non-haematological malignancies including:
+
+MCD, CD, RCC, NHL, MM, solid tumours, ovarian cancer, and smoldering multiple myeloma (SMM).
+
+Six Phase 1/2 studies were included in this population PK analysis: C0328T01, C0328T03,
+
+CNTO328STM2001, CNTO328SMM1001, CNTO328MDS2001, and CNTO328MCD2001. The
+
+population PK model development was performed in 2 stages. In the first stage, data from 5 Phase
+
+1 or Phase 2 studies (Studies C0328T01, C0328T03, CNTO328STM2001, CNTO328SMM1001, and
+
+CNTO328MDS2001) were used to develop a base model and an initial exploratory model in which a
+
+stepwise covariate selection procedure was conducted for covariate selection. In the second stage,
+
+a confirmatory population PK analysis was conducted using data from the Phase 2 Study,
+
+CNTO328MCD2001. With adequate predictive performance of the Stage 1 initial exploratory model,
+
+the initial exploratory model was used as a final model to provide an updated estimation of the
+
+population PK parameters and their associated variability by pooling datasets from all 6 studies.
+
+**Table 1. Single-Agent Studies Used to Support PK Results**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 30/92
+
+
+-----
+
+a Immunogenicity studies are not included in this table.
+
+***Absorption***
+
+Absorption data is not available since all studies administered siltuximab as an IV infusion.
+
+***Distribution***
+
+In study C0328T03, following dosing of 11 mg/kg every 3 weeks, the mean Vz ranged from 91.3 to
+
+115.4 mL/kg following a single IV administration in B-cell NHL, MM, or CD. As this represents only
+
+9.1% to 11.5% of the weight, this finding also suggests that siltuximab is primarily localized to the
+
+circulatory system with limited extravascular tissue distribution.
+
+***Elimination***
+
+In study CNTO328STM2001 following the first dose administration at the recommended dose
+
+regimen (11 mg/kg given once every 3 weeks), the CL was 3.54±0.44 mL/day/kg and terminal
+
+phase t1/2 was 16.3±4.2 days.
+
+In study C0328T03 following the first dose administration at the recommend dose of 11 mg/kg
+
+every 3 weeks, the mean CL of siltuximab ranged from 4.03 to 4.59 mL/day/kg and the mean t1/2
+
+ranged from 17.73 to 20.64 days.
+
+In study C0328T08 following single dose administration of 1.4 mg/kg of CHO-derived siltuximab,
+
+the mean±standard deviation CL was 2.21±0.479 mL/day/kg and t1/2 was 26.68±5.960 days.
+
+These parameters were estimated based on an 84-day PK sampling after the dose.
+
+In study CNTO328MCD2001, following the first dose, the mean CL of siltuximab was 6.14
+
+mL/day/kg with an inter-subject PK variability in terms of CV% of 48%.
+
+***Dose proportionality and time dependencies***
+
+The single-dose PK of siltuximab has been evaluated in study C0328T08. In this study and following
+
+a single dose administration of 1.4 mg/kg CHO-derived siltuximab, serum concentrations declined
+
+in a bi-exponential manner with a mean±standard deviation t 1/2 of 26.68±5.96 days and CL was
+
+2.21±0.48 mL/day/kg.
+
+Dose proportionality for subjects who received doses of siltuximab ranging from 0.9 mg/kg (1.0
+
+mg/kg) to 11 mg/kg (12 mg/kg) was shown in study C0328T01.
+
+Following the first dose in study C0328T03, the C max and AUC (0-14D) increased in an approximate
+
+dose-proportional manner from 2.8 mg/kg to 11 mg/kg. Following the Day 43 administration, the
+
+C max and AUC (0-t) increased in an approximate dose-proportional manner for doses ranging from 2.8
+
+mg/kg to 11 mg/kg.
+
+Following the first dose in study CNTO328STM2001, the C max and AUC ∞ increased in an approximate
+
+dose- proportional manner from 5.5 mg/kg to 15 mg/kg. This is also supported by the CL being
+
+independent of dose between 5.5 mg/kg and 15 mg/kg.
+
+In study C0328T03, the mean accumulation ratio ranged from 1.54 to 2.77, and this level of
+
+accumulation is consistent with the observed t 1/2 following the first dose.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 31/92
+
+
+-----
+
+Based on the preinfusion (trough) siltuximab concentrations in study CNTO328MCD2001,
+
+steady-state appeared to be achieved by the Cycle 6 Day 1 dose, which occurred after 105 days of
+
+dosing. The time to steady-state is consistent with the previously reported t 1/2 . The mean Cmax,ss
+
+was 331.88±138.72 and Cmin,ss was 84.12±65.631 μg/ml (Cycle 6 Day 1). In addition, trough
+
+serum concentrations were similar after reaching steady-state, indicating that the PK of siltuximab
+
+is time-independent.
+
+***Special populations***
+
+No specific studies have been conducted in special populations. All information was obtained from
+
+the conducted clinical studies and the population PK analysis.
+
+The population PK analysis evaluated the effect of bodyweight, age, gender, ethnicity, steroids,
+
+renal and hepatic impairment, effect of cell line and antibodies as well as tumour subtype.
+
+No substantial differences in PK exposure in subjects ≤ 100 kg or subjects >100 kg wewe observed.
+
+The typical population values for CL, Vc, Q, and Vp in a subject with a standard body weight of 70
+
+kg male were 0.223 L/day, 4.54 L, 0.448 L/day, and 3.39 L, respectively. The BSV (% CV) for CL,
+
+VC, and VP, were 50.9%, 20.3% and 63.5%, respectively.
+
+Age (range 18 to 85 years) was evaluated as a covariate on siltuximab CL, VC and VP. This covariate
+
+was not significant during the stepwise forward selection backward elimination covariate selection
+
+procedure and deemed not to be a statistically important covariate on CL, VC and VP. Thus dose
+
+adjustment based on age is not warranted.
+
+Because half of the subjects with PK data in Study CNTO328MCD2001 were Asian (n=33, 50%), an
+
+additional exploratory evaluation of potential effect of race (Asian versus non-Asian) on CL was
+
+performed by testing its inclusion in the final model. This resulted in a significant NONMEM objective
+
+function value (OFV) decrease (41.04) with an estimated 67% increase of CL in Asian subjects. This
+
+is not supported by any known mechanistic rationale. To examine its plausibility, the EBE of ETAs of
+
+Asian versus non-Asian was compared. There was no suggestion of apparent PK differences
+
+between Asians versus non-Asians in Study CNTO328MCD2001 (Part A), while there was a potential
+
+difference in CL between Asians versus non-Asians in the overall population (Part B). Given that few
+
+Asian subjects (n=6) were present in studies other than Study CNTO328MCD2001, this suggests
+
+that the apparent Asian effect could be due to study differences, which may be confounded with
+
+other known/unknown factors as earlier noted. Analyses in Study CNTO328MCD2001 confirmed
+
+that efficacy and safety results were similar in Asians versus non-Asians. Therefore, clinically
+
+important PK differences between Asians and non-Asians were considered unlikely, and were not
+
+included in the final model.
+
+Of the remaining covariates, cell type (CELL) and gender were significant covariates on Vc, and
+
+tumor subtype (STDY) was significant on Vp. However, on evaluation of the plots of the EBEs of
+
+these PK parameters with the respective covariates, it was found that the medians and the 95% CI
+
+largely overlapped. Therefore, these covariates were not considered clinically relevant and do not
+
+warrant dose adjustment based on cell type, gender, or tumor subtype.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 32/92
+
+
+-----
+
+Although, CRCL was initially not evaluated due to high correlation with weight, CRCL was evaluated
+
+using the final model with data from all 6 studies. The addition of CRCL (range of values 12 to 270
+
+mL/min) as a covariate on CL resulted in a NONMEM OFV decrease of 6.32, which was not
+
+statistically significant. Therefore, CRCL at baseline did not have a clinically relevant effect on
+
+siltuximab PK in subjects with calculated CRCL values of 12 mL/min or greater. Four patients with
+
+severe renal impairment (creatinine clearance 12 to 30 mL/min) were included in the data set.
+
+For patients with baseline alanine transaminase up to 3.7 times the upper limit of normal baseline
+
+albumin ranging from 15 to 58 g/L, and baseline bilirubin ranging from 1.7 to 42.8 mg/dL there was
+
+no meaningful effect on siltuximab PK.
+
+Although not examined due to the high correlation with ALT, utilizing the upper limit of the range for
+
+AST (10-34 U/L), the range of AST relative to the ULN was 0.1 to 6.4 x ULN. The results of the
+
+analysis with ALT suggest no relationship between baseline AST and PK will be observed.
+
+***Pharmacokinetic interaction studies***
+
+No pharmacokinetic interaction studies were submitted (see discussion on clinical pharmacology)
+
+***Pharmacokinetics using human biomaterials***
+
+No Pharmacokinetics studies using human biomaterials were submitted (see discussion on clinical
+
+pharmacology).
+#### **2.4.3. Pharmacodynamics **
+
+***Mechanism of action***
+
+Siltuximab is a chimeric (human-murine) IgG1 κ mAb that specifically binds to and neutralizes
+
+human IL-6 with high affinity.
+
+Overproduction of the cytokine IL-6, either native or virally encoded, has been hypothesized to play
+
+a central role in driving plasma cell proliferation and systemic manifestations of MCD (Casper,
+
+2005; van Rhee et al, 2010).
+
+A possible source of IL-6 production in Castleman’s disease may be from cells infected with human
+
+herpes virus-8 (HHV-8). HHV-8 has been shown to produce a viral analog of IL-6 with
+
+approximately 50% similarity to the human IL-6 gene at the amino acid level (Moore et al, 1996),
+
+and virally produced IL-6 may be an important trigger of Castleman’s disease. However, a
+
+substantial subset of Castleman’s disease patients is HIV- and HHV-8-negative. In these patients,
+
+dysregulation of IL-6 production or the cell-signaling pathway downstream of the interleukin-6
+
+receptor (IL-6R) have been hypothesized to play a role in a number of pathologic conditions, and
+
+may explain the endogenous production of this human cytokine.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 33/92
+
+
+-----
+
+IL-6 is a potent growth factor for B lymphocytes and plasma cells and excess IL-6 induces a
+
+proinflammatory syndrome that leads to constitutional symptoms, induction of vascular endothelial
+
+growth factor (VEGF) secretion and induction of immune dysregulation leading to autoimmune
+
+phenomena including cytopenias (van Rhee et al, 2010). Experience with a human IL-6 transgenic
+
+murine model clearly supports a pivotal role for IL-6 in the etiology of MCD (Katsume et al, 1997).
+
+These mice overexpress human IL-6 and develop a CD-like disorder. Continuous treatment of these
+
+mice with antibodies against the IL-6R significantly reduced or prevented all pathologies examined,
+
+confirming the role of IL-6 in the etiology of Castleman’s disease (Katsume et al, 2002).
+
+***Primary and Secondary pharmacology***
+
+Study CNTO0328MCD2001
+
+Rapid and sustained suppression of serum CRP levels in subjects with MCD was observed only in the
+
+siltuximab group in study CNTO328MCD2001, which is indicative of in vivo neutralization of IL-6
+
+bioactivity. The CRP suppression with CHO-derived siltuximab was consistent with that observed in
+
+MCD subjects treated with Sp2/0-derived siltuximab in study C0328T03 at the same dose regimen.
+
+Hepcidin levels decreased (median decrease of 47%) as early as Cycle 1 Day 8 post siltuximab
+
+treatment, compared with an 11% increase from baseline in the placebo group. However, hepcidin
+
+decrease alone is not predictive of hemoglobin improvement, as not all of the hemoglobin
+
+response-evaluable population with hepcidin reduction showed hemoglobin improvement of at least
+
+15 g/L in the siltuximab and placebo groups. Further, an exploratory analysis of tissue expression
+
+of IL-6 and other markers associated with IL-6 signaling, along with gene expression analysis, did
+
+not indicate any association with clinical response (durable tumor and symptomatic response or
+
+tumor response).
+
+Study C0328T03
+
+Since suppression of CRP can be used as a biomarker reflective of inhibition of IL-6 activity by
+
+siltuximab, a population PK/PD analysis was performed to explore the relationship between
+
+siltuximab serum concentration and its inhibitory effect on CRP concentration using data from a
+
+Phase 1 Study C0328T03 in subjects with B-cell NHL, MM, or CD. The objectives of this analysis
+
+were to: 1) develop a PK/PD population model to characterize the relationship between siltuximab
+
+systemic exposure and CRP concentrations following intravenous administration of various
+
+siltuximab dosing regimens and 2) to apply the model to simulate and identify desirable dosing
+
+regimens that would reduce serum CRP to below 1 mg/L throughout dosing.
+
+CRP suppression was observed in all disease types tested across all dose cohorts, with greater
+
+decreases in higher dose cohorts. Baseline systemic IL-6 levels do not appear to be predictive of
+
+clinical response in the limited number of subjects evaluated for each disease type. Hepcidin
+
+decreased post-treatment in a majority of subjects, with a general trend toward hemoglobin
+
+improvement. Differential gene expression or IL-6 activity strength was not evident in the very
+
+limited number of samples available for testing. A majority of subjects with Castleman’s disease
+
+tested for single-nucleotide polymorphisms (SNPs) in Cohort 7b (7 of 8) who showed expression of
+
+the minor allele of 2 IL-6R SNPs, also showed higher levels of serum sIL-6R.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 34/92
+
+
+-----
+
+CNT0328SMM1001 Study
+
+A thorough QT study was not conducted due to the inability to obtain exposure in healthy normal
+
+volunteers equal to the supratherapeutic dose of 15 mg/kg every 3 weeks. A single-arm
+
+monotherapy study design was used to examime the effect of siltuximab on QT. The dose was
+
+selected based on the ICH guidance that QT assessment should be conducted using a
+
+supratherapeutic dose. The dose intensity of siltuximab in the registration studies was 11 mg/kg
+
+every 3 weeks. The dose of siltuximab, in this study was 15 mg/kg administered every 3 weeks. The
+
+QT evaluable population consisted of 27 subjects who completed ECG assessments at each
+
+prespecified time point in Cycle 1 and Cycle 4 and received 4 full doses of siltuximab in the
+
+treatment period. The difference in means between the post baseline QTcF and QTcB (at each time
+
+point in Cycle 1 and Cycle 4) and pre infusion Cycle 1 Day 1 QTc was less than 20 milliseconds. The
+
+upper bound of the 90% confidence interval for the difference in means between the post baseline
+
+QTc (at each time point in Cycle 1 and Cycle 4) and pre infusion Cycle 1 Day 1 QTc was less than 20
+
+milliseconds; therefore an effect of siltuximab on either QTcF or QTcB can be ruled out. None of the
+
+27 QT evaluable subjects showed a > 30 msec change from baseline in either QTcF or QTcB during
+
+treatment with siltuximab. There were no meaningful changes at any timepoint tested in mean
+
+QTcF or QTcB, or in mean change from baseline in QTcF or QTcB. The mean PR, QRS, and heart rate
+
+remained stable during treatment with siltuximab. No clinically significant ECG abnormalities
+
+related to siltuximab treatment were observed. Pharmacokinetic/pharmacodynamic modeling
+
+showed no statistically significant relationships between paired siltuximab serum concentrations
+
+and change from baseline in QTcF or QTcB.
+#### **2.4.4. Discussion on clinical pharmacology **
+
+The human pharmacokinetic properties of siltuximab have been characterised sufficiently in cancer
+
+patients and are in line with those observed for other IgG monoclonal antibodies.
+
+Serum concentrations of siltuximab appeared to decline in a bi-exponential manner with a mean
+
+terminal phase half-life ranging from 17.73 to 20.64 days. Overall, based on the available data
+
+siltuximab is considered to display roughly dose proportional pharmacokinetics in the dose range
+
+0.9 to 15 mg/kg. Following repeat-dose administration at the target dose of 11 mg/kg every 3
+
+weeks, siltuximab CL was found to be time-invariant. Consistent with the t1/2 after the first dose,
+
+serum concentrations reached steady-state levels by the sixth infusion.
+
+PK comparability of the Cmax and AUC(0-84D) in both CHO and Sp2/0 derived siltuximab arms
+
+since the 90% CI of the ratios of the geometric means for Cmax and AUC(0-84D) both fell within the
+
+range of 80% to 125%. Despite initially it was not entirely clear whether the drug lot used in this
+
+comparison was comparable to those used in the pivotal trial and consistent with the commercial
+
+process, this has been clarified by the applicant and does not pose a problem anymore.
+
+Only one patient was positive for a non-neutralising antibody, thus potential effect of antibody
+
+response on siltuximab PK has not been evaluated. This is considered reasonable and is acceptable.
+
+Siltuximab treatment in MCD results in rapid and sustained decreases in CRP serum concentrations.
+
+Measurement of IL-6 concentrations in serum or plasma during treatment should not be used as a
+
+pharmacodynamic marker, as siltuximab-neutralised antibody-IL-6 complexes interfere with
+
+current immunological-based IL-6 quantification methods.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 35/92
+
+
+-----
+
+The population PK/PD analysis appears to suggest that the 11 mg/Kg dose q3w or 15 mg/Kg q4w
+
+would reduce CRP to below 1mg.
+
+Although no formal drug interaction studies were conducted this is reasonable in the case of
+
+siltuximab which is a protein and PK interactions subject to cytochrome P450 dependent
+
+metabolism are considered unlikely to occur. Given the difficulties in performing a DDI study in a
+
+MCD population with highly variable baseline IL-6 serum and tissue concentration, highly variable
+
+baseline CYP450 activity, with differential extent and severity of disease (thus resulting in different
+
+CYP450 activity) and with numerous concomitant medications that may induce or inhibit CYP450
+
+activity; it was concluded that current information under section 4.5 of SmPC correctly addresses
+
+the potential of interactions based on theoretical grounds and no further studies are requested for
+
+siltuximab. Moreover, the lack of data in drug-drug interaction (increased metabolism of CYP450
+
+substrate) is important missing information reflected in the RMP.
+
+Estimated CL, central volume of distribution and peripheral volume of distribution increased with
+
+increasing body weight. As siltuximab is administered intravenously having a low volume of
+
+distribution, the body weight-based dosing regimen appears to be appropriate. Given that no
+
+dose-toxicity relationship was established based on early clinical trials no high limit of total dose has
+
+been established.
+
+The population PK of siltuximab were analysed to evaluate the effects of demographic
+
+characteristics. The results showed no significant difference in the PK of siltuximab in patients older
+
+than 65 years.
+
+The effect of anti-siltuximab antibody status was not examined, as there were insufficient numbers
+
+of anti-siltuximab antibody positive patients.
+
+The lack of studies in renal and hepatic function is acceptable from a PK point of view given that this
+
+is a monoclonal antibody for which elimination via renal excretion, biliary excretion or hepatic
+
+metabolism is limited. No dose adjustments are proposed for patients with renal or hepatic
+
+impairment. However, based on clinical findings it cannot be excluded that patients with liver
+
+impairment may experience higher-grade AEs and SAEs compared with the overall population and
+
+monitoring of patients with known liver impairment as well as patients with elevated transaminase
+
+and/or elevated bilirubin is recommended (see discussion on clinical safety).
+#### **2.4.5. Conclusions on clinical pharmacology **
+
+The pharmacokinetics of siltuximab has been investigated sufficiently. Information regarding
+
+potential interactions has been reflected in the SmPC and remaining uncertainties regarding
+
+interactions have been addressed in the RMP. ***2.5. Clinical efficacy ***
+
+The clinical efficacy of siltuximab in multicentric Castleman’s disease patients who are human
+
+immunodeficiency (HIV) negative and human herpes virus 8 (HHV-8) negative is based on the
+
+results of studies CNTO328MCD2001, C0328T03, and CNTO328MCD2002.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 36/92
+
+
+-----
+
+**Table 2. Clinical efficacy studies of siltuximab in MCD**
+#### **2.5.1. Dose response study **
+
+The proposed siltuximab dosing regimen of 11 mg/kg every 3 weeks in patients with MCD has been
+
+selected on the basis of clinical efficacy and safety observed in the phase I dose escalation study
+
+C0328T03.
+
+Study C0328T03 was a Phase 1, open-label, non-randomized, dose-finding study to assess the
+
+safety and pharmacokinetics of multiple dosing regimens of siltuximab administered as an IV
+
+infusion for the treatment of subjects with B-cell non-Hodgkin lymphoma (including chronic
+
+lymphocytic leukemia [CLL]/small lymphocytic leukemia [SLL] and Waldenstrom’s
+
+macroglobulinemia [WM]), multiple myeloma (MM), or CD.
+
+Sixty-seven subjects, including 37 subjects with Castleman’s disease, received treatment in the
+
+study:
+
+Cohort 1 (3 mg/kg every 2 weeks): 6 subjects
+
+Cohort 2 (6 mg/kg every 2 weeks):7 subjects
+
+Cohort 3 (12 mg/kg every 3 weeks): 10 subjects
+
+Cohort 4 (6 mg/kg weekly): 6 subjects
+
+Cohort 5 (12 mg/kg every 2 weeks):6 subjects
+
+Cohort 6 (12 mg/kg every 3 weeks): 12 subjects
+
+Cohort 7a (9 mg/kg every 3 weeks):12 subjects
+
+Cohort 7b (12 mg/kg every 3 weeks): 8 subjects
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 37/92
+
+
+-----
+
+The dose levels of 1, 3, 6, 9, and 12 mg/kg used in C0328T03 have not been adjusted by multiplying
+
+them by a factor of 0.92 (see PK section). So, the doses expressed above should be read as 0.9,
+
+2.8, 5.5, 8.3, and 11 mg/kg.
+
+C-reactive protein (CRP) suppression was observed after treatment with siltuximab across all
+
+cohorts. Subjects with Castleman’s disease treated with 12 mg/kg every 3 weeks showed greater
+
+decrease of CRP compared with those treated with 9 mg/kg every 3 weeks, supporting observations
+
+from clinical benefit assessments. Neutralization of IL-6 also caused a decrease in hepcidin (an
+
+iron-regulating peptide hormone) in a majority of subjects, consistent with a general trend toward
+
+hemoglobin improvement. No apparent treatment-related changes were observed in other serum
+
+markers (inflammation, angiogenesis, or bone resorption) examined.
+
+Of the 37 treated subjects with Castleman’s disease, 32 subjects (86.5%) had improvement in 1 or
+
+more components of clinical benefit assessments, 28 subjects (75.7%) had improvement in 2 or
+
+more components of clinical benefit assessments, and 21 subjects (56.8%) had improvement in 3
+
+or more components of clinical benefit assessments.
+
+Of the 37 treated subjects with Castleman’s disease, 1 subject (2.7%) had a best response of
+
+complete response (CR), 11 subjects (29.7%) had a best response of partial response (PR), 3
+
+subjects (8.1%) had unconfirmed PR, and 20 subjects (54.1%) had SD. The 1 CR and 8 of 11 PRs
+
+were in subjects treated with the highest dose of siltuximab (12 mg/kg).
+
+The multiple dosing regimens of siltuximab tested in all 3 disease types in the study were well
+
+tolerated, with no DLTs observed.
+
+The efficacy results from this phase I trial (study C0328T03) also appeared to be very similar to
+
+those seen in the pivotal phase II trial in that only 1/53 patients showed a CR while 32% showed a
+
+partial response which is similar to the 37.5% noted in the phase I study.
+
+The main criteria for the dose selection was based on suppression of the CRP levels to below 1 mg
+
+by the various doses tested, which appeared to be increased with the proposed dose. However,
+
+there was no clinical data to suggest that a higher dose of 15 mg would have achieved similar
+
+results to the 11mg proposed dose.
+
+Despite the fact that there was suppression of CRP levels in all indications across different dosing
+
+regimens a dose response relationship was difficult to determine based on the multiple dose
+
+intensities examined in this study. Nevertheless, it is remarkable that CRP suppression did not seem
+
+to correlate with clinical response in both the phase I and phase II pivotal studies. This was
+
+particularly evident in the individual patient data.
+
+Accordingly, these observations would appear to suggest that the optimum dose has yet to be
+
+determined, especially in light of the fact that that the maximum tolerated dose has not been
+
+reached however, a degree of efficacy appears to be evident in the doses studied which,
+
+nevertheless, does not appear to be maximal as far as clinical response is concerned.
+
+Of the 37 treated subjects with Castleman’s disease, all 37 had AEs, 20 subjects (54.1%) had AEs
+
+of toxicity grade 3 or higher, 10 subjects (27.0%) had SAEs, 3 subjects (8.1%) permanently
+
+discontinued study agent due to an AE, and none died because of an AE.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 38/92
+
+
+-----
+
+#### **2.5.2. Main study **
+
+**Study CNTO328MCD2001** ***Methods ***
+
+Study CNTO328MCD2001 was a randomized, double-blind, placebo-controlled study designed to
+
+assess the efficacy and safety of siltuximab (Anti IL-6 Monoclonal Antibody) plus best supportive
+
+care compared with best supportive care in subjects with multicentric castleman’s disease. ***Study Participants ***
+
+The study population consisted of subjects with symptomatic MCD who were 18 years or older and
+
+were HIV-negative and HHV-8-negative.
+
+Main inclusion criteria included:
+
+- Measurable and symptomatic MCD proven by biopsy and confirmed by central pathology
+
+review.
+
+- ≥ 18 years of age
+
+- Pre-treatment clinical laboratory values meeting these criteria within 4 weeks before
+
+treatment: Absolute neutrophil count (ANC) ≥ 1.0 x 109/L; Platelets ≥ 75 x 109/L; ALT within
+
+2.5 x ULN; total bilirubin within 2.5 x ULN; unfractionated alkaline phosphatase within 2.5 x
+
+ULN; if unfractionated alkaline phosphatase is above 2.5 x ULN, subjects will be eligible if
+
+alkaline phosphatase liver fraction is within 2.5 x ULN; Serum creatinine ≤ 3.0 mg/dL
+
+- ECOG Performance Status of 0, 1, or 2
+
+- Corticosteroids dose that does not exceed 1 mg/kg/day of prednisone (or equivalent); and has
+
+remained stable or decreased over the 4 weeks before randomization
+
+Main exclusion criteria included:
+
+- HIV or HHV-8 positive
+
+- Skin lesions as sole measurable manifestation of MCD
+
+- Previous lymphoma
+
+- Malignancies, except for adequately treated basal cell or squamous cell carcinoma of the skin,
+
+carcinoma in situ of the cervix, or cancer other than lymphoma, from which the subject has
+
+been disease-free for ≤ 3 years.
+
+- Concurrent medical condition or disease (eg, autoimmune disease, active systemic infection,
+
+uncontrolled diabetes, acute diffuse infiltrative pulmonary disease) that is likely to interfere
+
+with study procedures or results, or that in the opinion of the investigator would constitute a
+
+hazard for participating in this study
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 39/92
+
+
+-----
+
+- Prior exposure to agents targeting IL-6 or the IL-6 receptor
+
+- Use of disallowed therapies: other concomitant anti-tumour therapies for Castleman’s disease
+
+(eg, anti-CD20 antibodies, IL-6- or IL-6 receptor-targeted therapies, chemotherapy), biologic
+
+treatments such as anti-tumour necrosis factor α (TNFα antibodies, immunosuppressive agents
+
+(except stable doses of corticosteroids), and erythropoietin stimulating agents (ESAs)
+
+- Received an investigational drug (including vaccines), ESAs, or any systemic treatment for
+
+Castleman’s disease within 4 weeks (or in the case of rituximab, within 8 weeks) before the
+
+planned start of treatment
+
+- History of uncontrolled heart disease such as unstable angina, congestive heart failure,
+
+myocardial infarction within preceding 12 months, hemodynamic instability or known left
+
+ventricular ejection fraction (LVEF) < 30%, or clinically significant rhythm or conduction
+
+abnormality
+
+- Clinically significant infections, including known hepatitis C infection or known to be hepatitis B
+
+surface antigen (HBsAg) positive
+
+- History of allogeneic transplant (except corneal transplants)
+
+- Known, unmanageable severe infusion related reactions to monoclonal antibodies or to murine,
+
+chimeric, or human proteins or their excipients
+
+Vaccination with live, attenuated vaccines within 4 weeks of first administration of study agent
+#### ***Treatments ***
+
+Patients were randomised (2:1) to receive either siltuximab (11 mg/kg) or placebo by a 1-hour IV
+
+infusion every 3 weeks plus BSC.
+
+Dose modification (increase or decrease) was not permitted. Infusions could have been
+
+administered up to 4 days before or 3 days after the scheduled infusion date. Before each
+
+administration of study agent, clinical laboratory results and general physical status were reviewed
+
+to evaluate for potential toxicity. Subjects were to have fully recovered to treatment criteria before
+
+re-administering study agent. If treatment had been delayed due to toxicity, all required laboratory
+
+assessments for the visit at which the subject was unable to be treated were repeated before
+
+restarting treatment.
+
+Best supportive care included management of effusions (eg, drainage, diuretics), antipyretics,
+
+antipruritics, antihistamines, pain medication, management of infections (antibiotics, oral or topical
+
+antifungals, and antiviral treatment except for ganciclovir), transfusions and standard management
+
+of infusion-related reactions as specified in institutional guidelines. Patients who were receiving
+
+corticosteroid treatment at the time of screening might have been considered for inclusion in the
+
+study provided the dose did not exceed 1 mg/kg/day of prednisone (or equivalent) and had
+
+remained stable or decreased over the 4 weeks before randomization.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 40/92
+
+
+-----
+
+#### ***Objectives ***
+
+The primary objective of the CNTO328MCD2001 study was to show superiority of siltuximab plus
+
+BSC versus placebo plus BSC in terms of durable tumour and symptomatic response among
+
+subjects with MCD.
+
+Secondary objectives included comparisons in terms of efficacy (tumour response; duration of
+
+response; time to treatment failure; change in haemoglobin levels; ability to discontinue
+
+corticosteroids; and improvement in fatigue, physical function, and other disease-related
+
+symptoms), evaluation of safety of prolonged dosing, evaluation of pharmacokinetics of siltuximab
+
+among subjects with MCD and determination of a baseline hepcidin value predictive of a ≥20 g/L
+
+increase in haemoglobin.
+
+Biomarker analyses to identify potential pharmacodynamic biomarkers of response for IL-6-driven
+
+neoplasia and to correlate pharmacodynamic biomarkers with indicators of clinical efficacy were
+
+also included as exploratory. ***Outcomes/endpoints ***
+
+The primary endpoint of the study was durable tumour and symptomatic response defined as either
+
+complete response (CR) or partial response (PR) as follows:
+
+Partial Response (PR) was defined as a >50% decrease in sum of the product of the diameters
+
+(SPD) of index lesion(s), with at least SD in all other evaluable disease in the absence of treatment
+
+failure, sustained for at least 18 weeks.
+
+Complete response (CR) was defined as complete disappearance of all measurable and evaluable
+
+disease (eg, pleural effusion) and resolution of baseline symptoms attributed to MCD, sustained for
+
+at least 18 weeks.
+
+Whenever possible, treatment failure documented by the appearance of new lesions was to be
+
+confirmed by histologic examination of the new lesions.
+
+Secondary endpoints included the following:
+
+Duration of Tumour and Symptomatic Response defined as time from first documentation of tumour
+
+and symptomatic response (CR or PR) to treatment failure. Whenever possible, treatment failure
+
+documented by the appearance of new lesions was to be confirmed by histologic examination of the
+
+new lesions.
+
+Duration of Tumour Response defined as time from first documentation of tumour response (CR or
+
+PR) to tumour progression. Whenever possible, tumour progression documented by the appearance
+
+of new lesions was to be confirmed by histologic examination of the new lesions.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 41/92
+
+
+-----
+
+Tumour response (CR+PR) was assessed according to Cheson criteria, modified to allow
+
+assessment of measurable cutaneous lesions, (PET scan data, if obtained, was not taken into
+
+account). Tumour response was based on the assessment of index lesions (measurable) and
+
+nonindex lesions (nonmeasurable). A measurable lesion had to be measurable bi-dimensionally.
+
+Greatest transverse diameter (GTD) was defined as the longest crosswise measurement. The short
+
+axis was the longest measurement perpendicular to the GTD. All nodal or extranodal measurable
+
+lesions must measure ≥16 mm in GTD regardless of short axis measurement, or ≥11 mm in short
+
+axis regardless of the GTD measurement.
+
+All other lesions that did not meet the criteria for measurable disease as defined, including any
+
+findings that could not be accurately measured (eg, spleen, liver), were considered nonmeasurable.
+
+All other lesions not identified by imaging, including cutaneous skin lesions and lymph nodes that
+
+did not meet the measurable disease criteria, were to be considered as nonmeasurable clinical
+
+lesions.
+
+- Tumor CR: complete disappearance of all measurable and evaluable disease (eg, pleural
+
+effusion)
+
+- Tumor PR: a ≥50% decrease in SPD of index lesion(s), with at least SD in all otherevaluable
+
+disease
+
+- Tumor SD: failure to attain CR or PR, without evidence of PD
+
+- Tumor PD: a ≥50% increase in SPD of index lesion(s) compared to nadir, or at least 1 new
+
+lesion that has been confirmed and measures >1.5 cm in longest dimension. Malignant
+
+transformation in a previously defined mass was also considered PD.
+
+Time to Treatment Failure defined as the time from randomization until the subject fails treatment.
+
+Treatment failure was defined as any of the following: a sustained increase from baseline in disease
+
+related symptoms ≥ Grade 2 persisting for at least 3 weeks despite BSC; onset of any new
+
+disease-related Grade 3 or higher symptom despite BSC; sustained (ie, at least 3 weeks)
+
+deterioration in performance status (increase from baseline in Eastern Cooperative Oncology Group
+
+[ECOG] Performance Status by more than 1 point) despite BSC; radiologic progression, as
+
+measured by modified Cheson criteria; initiation of any other therapy intended to treat MCD ie,
+
+prohibited treatments and onset of any new disease-related Grade 3 or higher symptom despite
+
+BSC.
+
+Change in Haemoglobin
+
+The change in haemoglobin was calculated as maximum change from baseline in the absence of
+
+transfusion and ESAs.
+
+An increase in haemoglobin of 15 g/L or more at Week 13, defined as an increase in haemoglobin of
+
+15 g/L or more at Week 13 over baseline, was calculated.
+
+An increase in haemoglobin of 20 g/L or more at Week 13, defined as an increase in haemoglobin of
+
+20 g/L or more at Week 13 over baseline, was calculated.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 42/92
+
+
+-----
+
+Discontinuations of Corticosteroids
+
+The proportion of subjects who were able to discontinue corticosteroids (if they were
+
+corticosteroid-dependent at study entry), and were corticosteroid-free for at least 9 consecutive
+
+weeks during the blinded Treatment Period, was calculated.
+
+MCD - related Symptom Improvement
+
+Thirty-four (34) MCD-related signs and symptoms were prospectively collected. A total score of all
+
+symptoms (referred to as the MCD-related Overall Symptom Score) is the sum of the severity
+
+grades (NCI-CTCAE grade) of the MCD-related signs and symptoms (general MCD-related,
+
+autoimmune phenomena, fluid retention, neuropathy, and skin disorders) and was calculated. The
+
+per cent change from baseline in MCD-related signs and symptoms (general MCD-related,
+
+autoimmune phenomena, fluid retention, neuropathy, and skin disorders) at each cycle was
+
+calculated.
+
+Symptomatic Response: Based on the MCD-related Overall Symptom Score, symptomatic response
+
+analyses were defined as follows:
+
+-Durable symptomatic response (partial and complete): Defined as a ≥50% reduction in overall
+
+MCD-related Overall Symptom Score sustained for at least 18 weeks prior to treatment failure.
+
+- Durable complete symptomatic response: Defined as a 100% reduction in the baseline
+
+MCD-related Overall Symptom Score sustained for at least 18 weeks prior to treatment failure.
+
+- The time to durable symptomatic response: Defined as the time from randomization to the first
+
+evidence of durable symptomatic response.
+
+-The time to durable complete symptomatic response: Defined as the time from randomization to
+
+the first evidence of durable complete symptomatic response.
+
+- Duration of durable symptomatic response: Defined as the time from first durable symptomatic
+
+response to the first documented evidence of symptom progression prior to treatment failure.
+
+Overall Survival defined as the duration in days from date of randomization to the date of death due
+
+to any cause.
+
+Time to Durable Tumour and Symptomatic Response d efined as the time from r andomization to the
+
+first evidence of a durable tumour and symptomatic response (CR + PR).
+
+Patient - reported outcome (PRO) endpoints
+
+These included change from baseline in fatigue, measured by the Functional Assessment of Chronic
+
+Illness Therapy-Fatigue (FACIT-F); change from baseline in physical function, assessed by the
+
+Medical Outcome Study Short-Form-36 (SF-36) Physical Component Summary (PCS) and Mental
+
+Component Score (MCS); and change from baseline in patient reported symptom severity
+
+measured with the MCD Symptom Scale (MCD-SS).
+
+Other endpoints
+
+Pharmacokinetic (PK) endpoints included C min and C max . Samples were collected for determination
+
+of antibodies to siltuximab. Biomarker (C-reactive protein [CRP], Interleukin- 6 [IL-6], hepcidin,
+
+and immunohistochemistry) and gene expression information was collected.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 43/92
+
+
+-----
+
+#### ***Sample size ***
+
+With a 1:2 randomization, assuming a 5% overall response rate in the placebo + BSC arm and a
+
+30% overall response rate in the siltuximab + BSC arm, a total of 78 subjects (26 placebo + BSC
+
+arm; 52 siltuximab + BSC arm) were estimated to be required to demonstrate a difference between
+
+the two treatment arms with a 2-sided level of significance of 5% and 80% power. ***Randomisation ***
+
+Patients were randomised to receive siltuximab or placebo with a ratio of 2:1. Randomisation was
+
+stratified by corticosteroid use at baseline. ***Blinding (masking) ***
+
+The study was double-blind. ***Statistical methods ***
+
+The primary population for the efficacy analysis was the ITT population, which was defined as all
+
+randomised patients. The population for safety analysis comprised all randomized subjects that
+
+received at least 1 dose of study agent (siltuximab or placebo).
+
+The primary analysis was to occur after the last subject has completed all Week 48 assessments.
+
+Subjects who experienced treatment failure before meeting the criteria for a responder were
+
+counted as non-responders for this analysis. The response rate in the two treatment arms was
+
+compared using an exact Cochran-Mantel-Haenszel test, adjusted for the stratification factor.
+
+Durable tumour and symptomatic response rates were calculated using independently reviewed
+
+assessments.
+
+Durable tumour and symptomatic response rate for subjects in the siltuximab treated population
+
+was also calculated. These analyses included subjects who were randomized to placebo but were
+
+unblinded and subsequently received siltuximab treatment. Independently reviewed durable
+
+tumour and symptomatic responses observed were included. These analyses were repeated for the
+
+durable tumour and symptomatic response according to investigator assessments.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 44/92
+
+
+-----
+
+#### ***Results *** **Participant flow **
+
+|Assessed for Eligibility =140 Randomised n=79)|Assessed for Eligibility =140|Col3|
+|---|---|---|
+|Randomised n=79)|||
+||||
+
+
+Allocated to Siltuximab (n=53) Allocated to placebo (n=26)
+Received allocated intervention Received allocated intervention
+
+Did not receive Allocated= 0 Did not receive Allocated= 0
+
+|Allocated to Siltuximab (n=53) Received allocated intervention (n=53) Did not receive Allocated= 0|Col2|
+|---|---|
+|||
+
+
+|Allocated to placebo (n=26) Received allocated intervention (n=26) Did not receive Allocated= 0|Col2|
+|---|---|
+|||
+
+
+
+Lost to follow-up; (n=0) Lost to follow-up; (n=0)
+Discontinued Siltuximab Discontinued placebo
+prematurely (n=22); prematurely (n=20);
+
+[AE (n=1); DP (n=16); Physician [AE (n=1); DP (n=14); Death
+decision (n=1); Withdrawal of (n=2); Withdrawal of consent to
+consent to study participation (n= study agent treatment (n=3)]
+
+|Lost to follow-up; (n=0) Discontinued Siltuximab prematurely (n=22); [AE (n=1); DP (n=16); Physician decision (n=1); Withdrawal of consent to study participation (n= 1); Withdrawal of consent to study agent treatment (n=3)]|Col2|
+|---|---|
+|||
+
+
+|Lost to follow-up; (n=0) Discontinued placebo prematurely (n=20); [AE (n=1); DP (n=14); Death (n=2); Withdrawal of consent to study agent treatment (n=3)]|Col2|
+|---|---|
+|||
+
+
+
+Analysed (n=53) Analysed (n=26)
+Excluded from analysis Excluded from analysis
+(n=0) (n=0) **Recruitment**
+
+Patients were enrolled between 09 February 2010 (first subject signed informed consent) and 28
+
+February 2013 (last subject’s last visit for the primary analysis). **Conduct of the study **
+
+As of the data cut-off, there were five amendments since the original protocol (dated 17 July 2009).
+
+A summary of major changes resulting from the protocol amendments is presented below.
+
+Amendment 1 and 2 were implemented before any subjects were randomized.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 45/92
+
+
+-----
+
+Amendment 1 (29 October 2009) was implemented to incorporate feedback received from the FDA
+
+on the Special Protocol Assessment. The main changes and rationale for the changes are listed
+
+below:
+
+  - Subjects whose measurable disease was limited to skin lesions were excluded from the
+
+study to reduce variability in the subject population for the target indication.
+
+  - The population for the primary efficacy endpoint analysis was revised from the evaluable
+
+population, defined as randomized subjects with confirmed MCD by central pathology
+
+review, to the intent-to-treat (ITT) population, defined as all randomized subjects, to
+
+improve the statistical rigor of the study.
+
+  - A requirement for central pathology review to be performed before randomization to
+
+confirm MCD was added, because replacement of subjects was no longer permitted.
+
+  - The primary efficacy endpoint was modified from objective response (CR + PR) to durable
+
+tumour and symptomatic response to better reflect treatment goals. CR required resolution
+
+of all symptoms in addition to tumour response. PR required reduction in tumour burden in
+
+the absence of treatment failure.
+
+  - The primary analysis was conducted using a 2-sided Type I error of 5%, to provide a more
+
+robust efficacy analysis. The study had been powered accordingly, and the total number of
+
+subjects was increased to 78.
+
+  - The end of study definition was changed from 1 year after the last subject started study
+
+treatment to 48 weeks after the last subject started study treatment.
+
+  - Tumour response was included as a secondary endpoint, because the primary efficacy
+
+endpoint was now a composite of durable tumour and symptom response.
+
+   - Haemoglobin assessments were revised from “Change in haemoglobin from baseline to the
+
+average of the last 8 weeks of treatment (through Week 18)” to “Maximum change from
+
+baseline in haemoglobin in the absence of transfusion” to provide a readily interpretable
+
+and clinically relevant measure.
+
+   - New or increased use of corticosteroid treatment was not permitted as a component of BSC,
+
+because this may confound the results of the efficacy analyses, and would not allow
+
+isolation of the siltuximab treatment effect.
+
+Amendment 2 (10 November 2009): exclusion criterion was added to prevent enrolment of subjects
+
+with prior exposure to agents targeting IL-6 or the IL-6 receptor).
+
+Amendment 3 (28 January 2011): The frequency of CRP assessment was revised for subjects
+
+without disease progression (PD) by the end of treatment. The original protocol previously did not
+
+include a schedule for CRP assessment at the end of treatment. This was clarified to obtain better
+
+insight to treatment effect for subjects that discontinued study treatment.
+
+Amendment 4 (11 March 2012): Updated title page of protocol with name and identity change, to
+
+comply with regulatory guidelines.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 46/92
+
+
+-----
+
+Amendment 5 (26 June 2012): Continued follow-up for survival status, data on subsequent
+
+systemic treatment for MCD, and occurrence of malignancies was added for subjects who did not
+
+continue treatment in the extension study (CNTO328MCD2002). The language was adapted to
+
+ensure consistent survival follow- up for all subjects that started treatment under the
+
+CNTO328MCD2001 protocol.
+#### **Baseline data **
+
+Baseline demographic characteristics are summarised in the following Table.
+
+**Table 3. Summary of Demographics at Baseline; ITT Population (Study**
+
+**CNTO328MCD2001)**
+
+Summary of Prior Systemic Therapy and Autologous Transplant is presented in the following Table.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 47/92
+
+
+-----
+
+**Table 4. Summary of Prior Systemic Therapy and Autologous Transplant; ITT Population**
+
+**(Study CNTO328MCD2001)**
+
+All 79 randomised patients were included in the intent-to-treat (ITT) population, the primary
+
+efficacy population. The same number of patients (79) received at least one dose of study drug and
+
+was included in the safety population.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 48/92
+
+
+-----
+
+#### **Outcomes and estimation **
+
+**Primary endpoint: Durable tumour and symptomatic response**
+
+The results of the primary endpoint are summarised in the following Tables.
+
+**Table 5. Summary of Durable Tumour and Symptomatic Response during the Blinded**
+
+**Treatment Period by Independent Review; ITT Population**
+
+**Table 6. Sensitivity Analyses of Primary Efficacy Endpoint: Durable Tumour and**
+**Symptomatic Response by Independent Review during the Blinded Treatment Period**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 49/92
+
+
+-----
+
+**Secondary endpoints**
+
+A summary of secondary endpoints is presented in Table 7 below.
+
+**Table 7. Secondary Efficacy Endpoints From Study CNTO328MCD2001**
+
+  - Tumour response rate
+
+Twenty subjects in the siltuximab group and 1 subject in the placebo group had an overall tumour
+
+response. The overall tumour response rate (independent review) was 37.7% in the siltuximab
+
+group and 3.8% in the placebo group. The difference in the overall tumour response rate was
+
+33.9% (95% CI: 11.1-54.8; p=0.0022).
+
+The best tumour response rate based on the investigator assessment was 50.9% in the siltuximab
+
+group and 0% in the placebo group. The difference in the overall tumour response rate was 50.9%
+
+(95% CI: 29.2-70.1; p<0.0001).Twenty-seven (27) subjects in the siltuximab group and no
+
+subject in the placebo group had an overall tumour response.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 50/92
+
+
+-----
+
+  - Time to treatment failure
+
+Across both treatment groups, the median duration of follow-up was 422 days (range 55 to 1051
+
+days).The median time to treatment failure was not reached in the siltuximab group and was 134
+
+days in the placebo group (HR: 0.418; 95% CI: 0.214-0.815; p=0.0084).
+
+  - Duration of tumour and symptomatic response
+
+In the siltuximab group, the median duration of tumour and symptomatic response was 340 days
+
+(range 55 to 676 days) based on the independent review. The median duration of tumour and
+
+symptomatic response for subjects with durable tumour and symptomatic response was 383 days
+
+(range 232 to 676 days) based on the independent review and 466 days (range 183 to 857 days)
+
+based on the investigator assessment.
+
+  - Change from Baseline in Haemoglobin
+
+Nineteen subjects in the siltuximab group and no subject in the placebo group had a ≥15 g/L
+
+haemoglobin response. The ≥15 g/L haemoglobin response rate was 61.3% in the siltuximab group
+
+and 0% in the placebo group (95% CI of the difference: 28.3-85.1; p=0.0002). Thirteen subjects in
+
+the siltuximab group and no subject in the placebo group had a ≥20 g/L haemoglobin response. The
+
+≥20 g/L hemoglobin response rate was 42% in the siltuximab group and 0% in the placebo group
+
+(95% CI of the difference: 7.8-70.7; p=0.0195).
+
+  - Durable Symptomatic Response and Durable Complete Symptomatic Response
+
+Thirty subjects in the siltuximab group and 5 subjects in the placebo group had a durable
+
+symptomatic response. The durable symptomatic response rate was 56.6% in the siltuximab group
+
+and 19.2% in the placebo group. The difference in the durable symptomatic response rate was
+
+37.4% (95% CI: 14.9-58.2; p=0.0018).
+
+Thirteen subjects in the siltuximab group and no subject in the placebo group had a durable
+
+complete symptomatic response. The durable complete symptomatic response rate was 24.5% in
+
+the siltuximab group and 0% in the placebo group. The difference in the durable complete
+
+symptomatic response rate was 24.5% (95% CI: 1.4-46.2; p=0.0037).
+
+  - Duration of Durable Symptomatic Response and Duration of Complete Symptomatic
+
+Response
+
+The median duration of durable symptomatic response was 397 days (range 149 to 865 days) in the
+
+siltuximab group and 324 days (range 126 to 395 days) in the placebo group. For the 13
+
+siltuximab-group subjects with durable complete symptomatic response, the median duration of
+
+durable symptomatic response was 555 days (range 193 to 865 days). The median duration of
+
+durable complete symptomatic response was 472 days (range 149 to 762 days).
+
+  - Discontinuations of Corticosteroids
+
+Corticosteroid use at baseline was reported in 13 subjects (25%) in the siltuximab group and in 9
+
+subjects (35%) in the placebo group. Discontinuation of corticosteroids during the blinded
+
+Treatment Period was reported in 4 subjects (31%) in the siltuximab group and 1 subject (11%) in
+
+the placebo group. The difference in corticosteroid discontinuation rates was 20% (95% CI: -23.6,
+
+56.7).
+
+  - Overall Survival
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 51/92
+
+
+-----
+
+At the time of the analysis, overall survival data were not mature (data not shown).
+
+  - MCD   - Related Symptom Improvement
+
+Baseline MCD-related signs and symptoms were similar between the treatment groups. There was
+
+a decrease in the median MCD-related Overall Symptom Score at every assessment timepoint,
+
+compared with baseline, in both treatment groups; however, at any given assessment timepoint,
+
+the decrease in median score was numerically larger in the siltuximab group compared with the
+
+placebo group (data not shown).
+
+  - Patient Reported outcomes
+
+Questionnaires used to directly collect patients’ responses were the MCD Disease Symptom Scale
+
+(MCD-SS), the Functional Assessment of Chronic Illness Therapy (FACIT-F) and SF-36 MCS.
+
+Numerical differences were found between treatment groups in the MCD-SS. However, statistically
+
+significant differences in favour to siltuximab were observed for FACIT-F and SF-36 MCS (data not
+
+shown).
+#### **Ancillary analyses **
+
+*Subgroup analyses*
+
+Durable tumour and symptomatic response by subgroups during the blinded treatment period is
+
+presented in Figure 2.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 52/92
+
+
+-----
+
+**Figure 2. Forest Plot of Durable Tumour and Symptomatic Response During the Blinded**
+
+**Treatment Period; ITT Population (Study CNTO328MCD2001**
+
+*Hyaline Vascular Subgroup Efficacy Analysis*
+
+For the primary endpoint analysis, no subject in the hyaline vascular histology subgroup had a
+
+durable tumour and symptomatic response in either treatment group. Subgroup analyses of the key
+
+endpoints for subjects with hyaline vascular disease histology were performed.
+
+**Table 8. Summary of Key Efficacy Endpoints in Hyaline Vascular Subjects During the**
+
+**Blinded Treatment Period; ITT population (Study CNTO328MCD2001)**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 53/92
+
+
+-----
+
+#### **Summary of main study **
+
+The following tables summarise the efficacy results from the main studies supporting the present
+
+application. These summaries should be read in conjunction with the discussion on clinical efficacy
+
+as well as the benefit risk assessment (see later sections).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 54/92
+
+|Table 9. Summary of efficacy for trial CNTO328MCD2001|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Title: A Phase 2, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of siltuximab (CNTO 328) plus BSC compared with BSC in subjects with Multicentric Castleman’s Disease|||||
+|Study identifier|CNTO328MCD2001, NCT0102403, 2009-012380-34||||
+|Design|multinational, multicenter, randomized, double-blind, placebo-controlled||||
+||Duration of main phase: Duration of Run-in phase: Duration of Extension phase:||Until treatment failure, discontinuation of treatment, withdrawal from the study, or until 48 weeks after the last subject started study treatment, whichever occurred earlier. not applicable not applicable||
+|Hypothesis|Superiority||||
+|Treatments groups|Siltuximab + BSC|||11 mg/kg IV every 3 weeks (N=53)|
+||Placebo +BSC|||11 mg/kg IV every 3 weeks (N=26)|
+|Endpoints and definitions|Primary endpoint|Durable tumour and symptomatic response||Defined as either complete response (CR) or partial response (PR) as follows: CR: complete disappearance of all measurable and evaluable disease (eg, pleural effusion) and resolution of baseline symptoms attributed to multicentric Castleman’s disease, sustained for at least 18 weeks PR: a ≥50% decrease in SPD (sum of the product of the diameters) of indicator lesion(s), with at least SD (stable disease) in all other evaluable disease in the absence of treatment failure sustained for at least 18 weeks.|
+
+
+-----
+
+|Col1|Secondary endpoint|Col3|Tumour response rate (Independent review)|Col5|Time from first documentation of tumour response (CR or PR) to tumour progression.|Col7|
+|---|---|---|---|---|---|---|
+||Secondary endpoint||Tumour response rate (Investigator assessment)||Time from first documentation of tumour response (CR or PR) to tumour progression.||
+||Secondary endpoint||Time to treatment failure||Time to treatment failure is defined as the time from randomization to treatment failure.||
+|Database lock|7/03/2013||||||
+|Results and Analysis|||||||
+|Analysis description||Primary Analysis|||||
+|Analysis population and time point description||Intent to treat (ITT), 31/01/2013|||||
+|Descriptive statistics and estimate variability||Treatment group||Siltuximab +BSC||Placebo+BSC|
+|||Number of subject||53||26|
+|||Durable tumour and symptomatic response (proportion responders)||34.0 %||0 %|
+|||95% CI||(21.5, 48.3)||(0.0, 13.2)|
+|||Tumour response rate (Independent review)||37.7||3.8|
+|||95% CI||(24.8, 52.1)||(0.1, 19.6)|
+|||Tumour response rate (Investigator assessment)||50.9||0|
+|||95% CI||(36.8, 64.9)||(0.0, 13.2)|
+|||Time to treatment failure (median, in days)||Not reached||134|
+|||95% CI||(378, NE)||(85, NE)|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 55/92
+
+
+-----
+
+|Effect estimate per comparison|Primary endpoint (Durable Tumour and Symptomatic Response)|Comparison groups|Siltuximab +BSC vs placebo + BSC|
+|---|---|---|---|
+|||Difference in proportions|34|
+|||95% CI|(11.1, 54.8)|
+|||Stratified p-value|0.0012|
+||Secondary endpoint (Tumour Response Rate, Independent review)|Comparison groups|Siltuximab +BSC vs placebo + BSC|
+|||Difference in rates|33.9|
+|||95% CI|(11.1, 54.8)|
+|||Stratified p-value|0.0022|
+||Secondary endpoint (Tumour Response Rate, investigator assessment)|Comparison groups|Siltuximab +BSC vs placebo + BSC|
+|||Difference in rates|50.9|
+|||95% CI|(29.2, 70.1)|
+|||Stratified p-value|< 0.0001|
+||Secondary endpoint (Time to treatment failure)|Comparison groups|Siltuximab +BSC vs placebo + BSC|
+|||HR from stratified proportional hazards model|0.418|
+|||95% CI|(0.214, 0.815)|
+|||Stratified log-rank p-value|0.0084|
+|Notes|Stratification factors for the primary analysis: baseline corticosteroid use|||
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 56/92
+
+
+-----
+
+#### **Analysis performed across trials (pooled analyses and meta-analysis) **
+
+**Table 10. Comparison of key efficacy results in CNTO328MCD2001 and C0328T03; ITT**
+
+**(CNTO328MCD2001) or treated (C0328T03) population**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 57/92
+
+
+-----
+
+#### **Clinical studies in special populations **
+
+No studies in special populations have been submitted (see discussion on clinical pharmacology and
+
+discussion on clinical safety). **Supportive study **
+
+**Study CNTO328MCD2002**
+
+This is an on-going, open-label, multicenter, nonrandomized Phase 2 study designed to evaluate
+
+the safety of extended treatment with siltuximab in subjects who were previously enrolled in study
+
+C0328T03 and did not progress on siltuximab in the opinion of the investigator. Duration of disease
+
+control and survival were assessed. All subjects are being treated until they progress, withdraw,
+
+experience unacceptable toxicity, or until commercial availability of siltuximab in their region,
+
+whichever came first.
+
+At the clinical data cut-off date for the interim analysis, 19 MCD subjects with either CR, PR, or
+
+stable disease (SD) previously treated in Study C0328T03 were enrolled in the CNTO328MCD2002
+
+study and all had on-going treatment. Demographics and baseline characteristics of the treated
+
+subjects are based upon data collected in Study C0328T03 prior to the first exposure of siltuximab:
+
+the majority of subjects were white (84.2%); 19 subjects were diagnosed with MCD, of which 7
+
+(36.8%) subjects were newly diagnosed with CD at entry into Study C0328T03.; MCD histology
+
+subtype by local pathology review: 10 (52.6%) hyaline vascular and 9 (47.4%) plasmacytic; 12
+
+subjects (63.2%) had systemic therapy for MCD prior to first dose with siltuximab.
+
+All 19 subjects have been treated for more than 3 years; including 14 (73.7%) subjects who were
+
+treated more than 4 years, with 1 subject treated for 7 years. At the time of data cut-off, the median
+
+duration of siltuximab treatment and median duration of follow up was 61 months (range: 41 to
+
+87). All 19 subjects (100%) are still alive and had a sustained duration of disease control during
+
+Study CNTO328MCD2002, with a median duration of approximately 45 months. **2.5.3. Discussion on clinical efficacy **
+
+**Design and conduct of clinical studies**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 58/92
+
+
+-----
+
+Although the rationale for the selected dose generally appears to be appropriate in Study
+
+CO328TO3, it is notable that the maximum tolerated dose was not reached even with a higher dose
+
+of 15 mg than the selected dose using 11 mg. Despite the fact that there was suppression of CRP
+
+levels in all indications across different dosing regimens a dose response relationship was difficult to
+
+determine based on the multiple dose intensities examined. Nevertheless, it is remarkable that CRP
+
+suppression did not seem to correlate with clinical response in both the phase I and the phase II
+
+pivotal studies. This was particularly evident in the individual patient data. The efficacy results from
+
+the phase I trial appeared to be very similar to those seen in the pivotal phase II trial in that only 1
+
+patient in each trial showed a CR while 32% showed a partial response which is similar to the 37.5%
+
+noted in the phase I study. Accordingly, the efficacy as well as good safety results would suggest
+
+that the data are insufficient to exclude the possibility of a higher dose being more effective while
+
+still being safe. Therefore the target dose of 11mg/Kg does not appear to be fully justified.
+
+However, a Registry will be conducted to further evaluate efficacy with respect to an optimal dose
+
+as well.
+
+There are no established criteria defining response to therapy in MCD which complicates the
+
+interpretation of different treatment modalities. However, the applicant has adopted the approach
+
+reported in the recent literature which has divided the response into 2 separate components and
+
+established criteria for improvement in symptoms and laboratory values based on the Cheson
+
+criteria, which was endorsed by the CHMP in their scientific advice. Accordingly, the study
+
+implemented a clinically relevant primary endpoint of durable tumour and symptomatic response,
+
+which was measurable, sensitive, and relevant to the population studied, and tumour response was
+
+assessed by blinded central review. Patient-reported symptom severity data were also assessed
+
+using a newly developed disease instrument (Multicentric Castleman’s Disease Symptom Scale
+
+[MCD-SS]), which was developed and validated based on results of qualitative research with MCD
+
+patients and clinical experts and subsequently field tested with additional MCD patients before
+
+study start, as no tools are available for this rare indication.
+
+**Efficacy data and additional analyses**
+
+In the pivotal study a statistically significant difference in independently reviewed durable tumour
+
+and symptomatic response rate in the siltuximab arm compared with the placebo arm (34% vs. 0%,
+
+respectively; 95% CI: 11.1, 54.8; p = 0.0012) was observed.
+
+Three sensitivity analyses were performed to support the primary efficacy endpoint (durable
+
+tumour and symptomatic response rate using the investigator assessment, durable tumour and
+
+symptomatic response rate using the independently reviewed assessment without adjusting for the
+
+stratification factor and tumour and symptomatic response rate using the independently reviewed
+
+assessments). Results were consistent with the primary analysis, with statistically significant
+
+improvements in favour to the siltuximab group (45% (95% CI: 23.1, 64.8; p<0.0001), 34% (95%
+
+CI: 11.1, 54.8; p=0.0004), 38% (95% CI: 15.1, 58.2; p=0.0002), respectively.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 59/92
+
+
+-----
+
+Siltuximab has shown to have a beneficial effect on MCD patients both in terms of durable response
+
+and symptomatic response as well as maintenance of the effect (longer duration of tumour and
+
+symptomatic response and time to treatment failure). Although only one of the respondent patients
+
+had a complete response the effect is considered as clinically relevant in the context of this unmet
+
+medical need. Siltuximab seems also to contribute to symptomatic control of patients by reducing
+
+symptoms, and increasing and normalising haemoglobin levels in a substantial percentage of
+
+patients what is usually associated to symptomatic improvement in chronic conditions. Findings for
+
+the three PRO instruments used to assess symptoms and functioning also partially support the
+
+clinical benefit of siltuximab.
+
+Some imbalances have been observed at baseline between the two groups of treatment. Patients on
+
+placebo seem more symptomatic than those on siltuximab. Intuitively, placebo patients seem to
+
+have a poorer prognosis based on symptoms. In fact, the percentage of patients with 6-10
+
+MCD-related Signs and Symptoms at baseline was higher for placebo than siltuximab (73.1% vs
+
+51.9%). In addition to that, a higher percentage of placebo patients were pre-treated with
+
+chemotherapy (antineoplastic agents) than siltuximab subjects (70.6% vs 58.6%) and the median
+
+time since diagnosis was longer for the placebo group (1.1 years) versus the siltuximab group (0.6
+
+years). However, according to the severity of the symptom at baseline, siltuximab continues
+
+showing activity whereas none placebo patients achieved any response. Moreover, an analysis
+
+according to the primary endpoint between pretreated and naïve to chemotherapy patients, and by
+
+years since first diagnosis (<0.66 years vs. ≥ 0.66 years) showed that none patient in the placebo
+
+group met the endpoint in all the analyses carried out. On the contrary, siltuximab patients showed
+
+a significant benefit regardless the pre-treatment with chemotherapy and the time from the
+
+diagnosis.
+
+The different analyses carried out so as to elucidate the impact of these imbalances, suggest that
+
+these uncertainties do not seem to have any relevance and consequently the effect of siltuximab
+
+can be deemed robust enough, especially since placebo patients did not achieved any positive
+
+results according to the definition of the primary endpoint, whereas the effect of siltuximab was
+
+shown regardless the subgroup analysed (severity of the symptoms, time from diagnosis and
+
+pre-treated patients).
+
+In general, this effect is observed in all subgroups studied except in the hyaline histological variant
+
+for which no effect based on primary endpoint has been shown, even though the antitumour activity
+
+of siltuximab has been shown in this subgroup. This is reflected in section 5.1 of the SmPC.
+
+Data on survival are still immature and no conclusion can be drawn yet. Final OS results will be
+
+provided for both studies CNTO328MCD2001 and CNTO328MCD2002 according to agreed
+
+timelines.
+
+A Registry could provide some further insights into the optimal dose, pharmacogenomics data,
+
+subgroups together with efficacy and safety data.
+
+Although only interim results have been provided from the extension study CNTO328MCD2002 for
+
+the 19 patients who were entered from Study CO328TO3, the results appear to support the
+
+persistence of efficacy for a median figure of 45 months.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 60/92
+
+
+-----
+
+#### **2.5.4. Conclusions on the clinical efficacy **
+
+The benefit-risk balance of siltuximab for the treatment of non-HIV MCD patients is considered
+
+favourable in the claimed indication considering the beneficial clinical effect on tumour and
+
+symptom response that have been observed. This positive effect seems to be maintained over time.
+
+A Registry could provide some further insights into the optimal dose, pharmacogenomics data,
+
+subgroups together with efficacy and safety data.
+
+The CHMP considers the following measures necessary to address issues related to efficacy:
+
+  - An updated analysis of overall survival for study CNTO328MCD2001
+
+  - An updated analysis of overall survival for study CNTO328MCD2002
+
+  - A Registry should be conducted to collect information on patients with Castleman’s
+
+disease, who are candidates to receive Sylvant or are currently receiving treatment with
+
+Sylvant. The registry should be continued for the either 100 patients, or 5 years,
+
+whichever is greater. The MAH should provide tabulated data to the CHMP every 6 months
+
+in line with the periodic safety update report (PSUR) cycle including data for only those
+
+patients who are candidates for treatment with siltuximab. ***2.6. Clinical safety ***
+
+**Patient exposure**
+
+The safety evaluation of siltuximab includes 3 siltuximab monotherapy studies in subjects with MCD
+
+(N=103 subjects exposed to siltuximab), 7 siltuximab monotherapy studies in subjects with various
+
+disease types including MCD (N=365 subjects exposed to siltuximab), and 4 siltuximab studies in
+
+combination with other anticancer agents in multiple myeloma (N=285 subjects exposed to
+
+siltuximab). In total, safety data of 650 subjects exposed to siltuximab are included in this safety
+
+evaluation.
+
+For completed studies, the clinical cut-off date for each individual study is applied. For ongoing
+
+studies, a clinical cut-off of 31 January 2013 is used, unless specified otherwise. For ongoing studies
+
+with a clinical cut-off before 31 January 2013, listings of SAEs that occur between the prior cut-off
+
+and 31 January 2013 are provided.
+
+Of the 103 subjects in the integrated MCD studies, 82 subjects were treated with a target dose of 11
+
+mg/kg siltuximab every 3 weeks and 21 subjects were treated with a non-target dose of siltuximab.
+
+Thirteen subjects crossed over from receiving placebo to siltuximab treatment in Study
+
+CNTO328MCD2001; for these subjects, data collected after crossover are included in the target
+
+dose group.
+
+  - MCD Monotherapy Studies
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 61/92
+
+
+-----
+
+Siltuximab-treated subjects had a longer duration of treatment; the median treatment duration was
+
+5 months in the placebo versus 12 months (maximum treatment duration of 6.7 years) and 14
+
+months (maximum treatment duration of 7.2 years) in the target dose and combined siltuximab
+
+monotherapy groups, respectively. At the time of the clinical cut-off, more than half (52%) of the
+
+subjects in the target dose group have received treatment for more than 1 year (>1 to 3 years:
+
+42% and 36% in the target dose and combined siltuximab monotherapy groups, respectively; >3
+
+years: 11% and 19%, respectively), indicating that prolonged treatment of MCD subjects with
+
+siltuximab is tolerable. In siltuximab-treated subjects, the median number of administrations was
+
+19 and 21 administrations in the target dose and combined siltuximab monotherapy groups,
+
+respectively; and median cumulative dose of siltuximab was 210 and 222 mg/kg, respectively.
+
+  - Pivotal study
+
+The median number of completed siltuximab infusions was 19 (range 1 to 50 infusions) and
+
+completed placebo infusions was 8 (range 2 to 32 infusions). Twenty-four subjects (45%) in the
+
+siltuximab group and 2 subjects (8%) in the placebo group completed >20 administrations. The
+
+median duration of treatment was 375 days (range 1 to 1031 days) in the siltuximab group and 152
+
+days (range 23 to 666 days) in the placebo group. The median dose intensity of siltuximab was
+
+11.06 mg/kg/infusion.
+
+  - Monotherapy Studies of Various Disease Types
+
+In the integrated monotherapy studies, a prolonged duration of treatment was also seen in the
+
+target dose group compared with the placebo group, consistent with that seen in the integrated
+
+MCD studies; the median duration of treatment was 2 months in the placebo versus 11 months
+
+(maximum treatment duration of 6.7 years) and 2 months (maximum treatment duration of 7.2
+
+years) in the target dose and combined siltuximab monotherapy groups, respectively. Almost half
+
+of all subjects (44% [45/102]) in the target dose group received treatment for more than 1 year
+
+(>1 to 3 years: 35%; >3 years: 9%). In siltuximab-treated subjects, the median number of
+
+administrations (17 and 4 administrations, respectively) and median cumulative dose of siltuximab
+
+(188 and 45 mg/kg, respectively) was higher in the target dose group compared with the combined
+
+siltuximab monotherapy group
+
+  - Combination Therapy Studies in Multiple Myeloma
+
+In the integrated combination therapy studies in multiple myeloma, subjects in both the control and
+
+siltuximab combination groups had a similar median duration of treatment (8.6 and 6.5 months in
+
+the control [those treated with other anticancer agents] and siltuximab combination [those treated
+
+with siltuximab + other anticancer agents] groups, respectively). Thirty-four percent (66/192
+
+subjects) in the control and 24% (69/285 subjects) in the siltuximab combination groups received
+
+treatment for 1 or more years. Subjects in the siltuximab combination group received a median of
+
+12 administrations, with a median cumulative dose of 77 mg/kg.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 62/92
+
+
+-----
+
+**Adverse events**
+
+Regarding the AEs described in the main study, the most frequently reported AEs in the siltuximab
+
+group were pruritus (22 subjects; 41.5%), upper respiratory tract infection (19 subjects; 35.8%),
+
+rash maculo-papular and fatigue (18 subjects each; 34%), and peripheral edema (17 subjects;
+
+32.1%). The most frequently reported AEs in the placebo group were fatigue (10 subjects; 38.5%);
+
+dyspnea (9 subjects; 34.6%); peripheral edema and cough (6 subjects each; 23%); and peripheral
+
+sensory neuropathy, diarrhea, nausea, and malaise (5 subjects each; 19%) (Table 11).
+
+**Table 11. Number of Subjects with 1 or More Treatment-emergent Adverse Events**
+**(with Frequency of >= 10%) During the Blinded Treatment Period by MedDRA**
+**System-organ Class and Preferred term; Safety Population (Study CNTO328MCD2001)**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 63/92
+
+
+-----
+
+The following AEs have been markedly described in a higher percentage of patients in the siltuximab
+
+group vs placebo:
+
+MCD Monotherapy Studies (total target dose): diarrhea (25.6% vs 19.2%) vomiting (18.3% vs
+
+7.7%) abdominal pain (15.9% vs 3.8%) constipation (12.2% vs 3.8) stomatitis (3.7% vs 0%)
+
+upper respiratory tract infection (37.8% vs 15.4%) nasopharyngitis (13.4% vs 3.8%) urinary tract
+
+infection (8.5% vs 0%) localised oedema (14.6% vs 3.8%) generalised oedema (12.2% vs 7.7%)
+
+pruritus (29.3% vs 11.5%) rash maculo-papular (23.2% vs 11.5%) rash (14.6% vs 3.8%) night
+
+sweats (17.1% vs 11.5%) hypertriglyceridaemia (13.4% vs 0%) hypercholesterolemia (7.3% vs
+
+0%) hyperuricaemia (14.6% vs 0%) hypokalaemia (13.4% vs 7.7%) oropharyngeal pain (9.8% vs
+
+3.8%) arthralgia (12.2% vs 7.7%) pyrexia (11.0% vs 7.7%) pain in extremity (6.1% vs 0%)
+
+headache (13.4% vs 3.8%) thrombocytopenia (13.4% vs 3.8%) neutropenia (11.0% 7.7%) weight
+
+increased (14.6% vs 0%) hypertension (13.4% vs 3.8%) renal impairment (12.2% vs 0%) cardiac
+
+disorders (12.2% vs 3.8%) immune systems disorders (11.0% vs 3.8%) and ear/labyrinth
+
+disorders (9.8% vs 3.8%) injury, poisoning and procedural complications (18.3% vs 7.7%)
+
+peripheral sensory neuropathy (22.0% vs 19.2%)
+
+Pivotal study: abdominal pain (15.1% vs 3.8%) constipation (11.3% vs 3.8%) vomiting (11.3% vs
+
+7.7%) pruritus (41.5% vs 11.5%) upper respiratory tract infection (35.8% vs 15.4%)
+
+nasopharyngitis (15.1% vs 3.8%) rash maculo-papular (34.0% vs 11.5%) rash (13.2% vs 3.8%)
+
+eczema(9.4% vs 0%) skin hyperpigmentation (9.4% vs 0%) (night sweats (17.0% vs 11.5%)
+
+oedema peripheral (32.1% vs 23.1%) malaise (28.3% vs 19.2%) localised oedema (20.8% vs
+
+3.8%) generalised oedema (13.2% vs 7.7%) face oedema (11.3% vs 3.8%) pyrexia (11.3% vs
+
+7.7%) hyperuricaemia (13.2% vs 0%) hypertriglyceridaemia (11.3% vs 0%) hypokalaemia
+
+(11.3% vs 0%) thrombocytopenia (15.1% vs 3.8%) neutropenia (13.2% 7.7%) weight increased
+
+(20.8% vs 0%) peripheral sensory neuropathy (24.5% vs 19.2%) dizziness (11.3% vs 7.7%)
+
+headache (11.3% vs 3.8%) peripheral motor neuropathy (11.3% vs 7.7%) renal and urinary
+
+disorders (17.0% vs 7.7%) vascular disorders (15.1% vs 3.8%) and injury, poisoning and
+
+procedural complications (13.2% vs 7.7%)
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 64/92
+
+
+-----
+
+On the basis of the above databases the following AEs could be considered probably related to
+
+siltuximab: vomiting, abdominal pain, constipation, upper respiratory tract infection,
+
+nasopharyngitis, localised oedema, oedema peripheral, pruritus, rash maculo-papular, rash, night
+
+sweats, pyrexia, thrombocytopenia, neutropenia, weight increased, peripheral sensory neuropathy,
+
+dizziness, headache, injury, hypertension and procedural complications.
+
+Hyperuricaemia, hypertriglyceridaemia, and hypokalaemia, skin hyperpigmentation and eczema
+
+are certainly related to the treatment with siltuximab.
+
+Renal impairment has been reported in 12% of siltuximab patients and 0% in placebo subjects
+
+within the MCD monotherapy studies and in 9.4% in siltuximab patients vs 0% in placebo in the
+
+main study.
+
+With regard to AEs grade 3 or higher into the study CNTO328MCD2001, twenty-five subjects (47%)
+
+in the siltuximab group and 14 subjects (54%) in the placebo group had Grade 3 or higher AEs. AEs
+
+classified in the following SOCs were the most frequently reported (≥10% of subjects) in the
+
+siltuximab group: Metabolism and Nutrition Disorders (9 subjects; 17%), General Disorders and
+
+Administration Site Conditions (8 subjects; 15%), and Skin and Subcutaneous Tissue Disorders (6
+
+subjects; 11%). AEs classified in the following SOCs were the most frequently reported (≥10% of
+
+subjects) in the placebo group: Blood and Lymphatic System Disorders (5 subjects; 19%),
+
+Infections and Infestations (4 subjects; 15%), and Gastrointestinal disorders (3 subjects; 12%). In
+
+the placebo group, anemia (reported in 12% of subjects) was the only Grade 3 or higher AE that
+
+was reported in more than 1 subject.
+
+**Adverse Drug Reactions (ADRs)**
+
+Infections (including upper respiratory tract infections), pruritus, and maculopapular rash were the
+
+most common adverse drug reactions (ADRs) reported in Castleman’s disease (CD) clinical studies
+
+occurring in > 20% of siltuximab-treated patients. The most serious ADR associated with the use of
+
+siltuximab was anaphlyactic reaction.
+
+Table 12 reflects the frequencies of identified ADRs in the 82 MCD patients (studies C0328T03 and
+
+CNTO328MCD2002) treated at the recommended dose of 11 mg/kg every 3 weeks.
+
+**Table 12 :Undesirable effects in siltuximab treated patients in MCD clinical studies** **[a]**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 65/92
+
+|System organ class Frequency|Adverse reaction|
+|---|---|
+|Infections and infestations||
+|very common|Upper respiratory tract infection, nasopharyngitis|
+|Blood and lymphatic system disorders||
+|very common|Neutropenia, thrombocytopenia|
+|Immune system disorders||
+|common|Anaphylactic reaction|
+|Metabolism and nutrition disorders||
+|very common|Hypertriglyceridaemia|
+|Vascular disorders||
+|very common|Hypertension|
+|Gastointestinal disorders||
+|very common|Abdominal pain|
+|Skin and subcutaneous tissue disorders||
+
+
+-----
+
+a All patients with CD treated with SYLVANT at recommended dose of 11 mg/kg every 3 weeks [including
+crossover patients (N = 82)]
+
+**Adverse Events of special interest (AESI)**
+
+  - Infections
+
+The incidence of infections and infestations of any grade was higher in siltuximab-treated subjects
+
+compared with placebo-treated subjects in the MCD population (35% in the placebo vs 68% and
+
+71% in the target dose and combined siltuximab monotherapy groups, respectively). However, the
+
+rate of infections and infestations of any grade were similar when adjusted for treatment duration
+
+(1.24 vs 1.34 and 1.57 events per patient years). The incidence of infections and infestations SAEs,
+
+Grade 3 or higher AEs, and AEs of leading to dose delay or dose interruption in siltuximab-treated
+
+subjects was similar to placebo-treated subjects (SAEs: 12% vs 7% and 8%, respectively; Grade 3
+
+or higher infections: 15% vs 10% and 12%, respectively; dose delay or dose interruption: 4% vs
+
+9% and 11%, respectively). In the MCD studies, there were no treatment discontinuations and no
+
+deaths due to infections in siltuximab-treated subjects.
+
+In the pivotal study, AEs of all grades classified in the Infections and Infestations SOC were reported
+
+in 35 subjects (66%) in the siltuximab group and 9 subjects (35%) in the placebo group. Across
+
+both treatment groups, upper respiratory tract infection was the most frequently reported infection
+
+AE (19 subjects [36%] in the siltuximab group and 4 subjects [15%] in the placebo group). After
+
+adjusting for exposure, the incidence of AEs were similar, with Grade 3 or higher AEs (0.11 vs 0.26)
+
+and SAEs (0.08 vs 0.20) being numerically lower among subjects in the siltuximab group than in the
+
+placebo group, respectively. More infection AEs with an outcome of treatment interruption were
+
+reported in the siltuximab group compared with the placebo group.
+
+Grade 3 and higher AEs classified in the Infections and Infestations SOC were reported in 5 subjects
+
+(9%) in the siltuximab group and 4 subjects (15%) in the placebo group. SAEs classified in the
+
+Infections and Infestations SOC were reported in 4 subjects (8%) in the siltuximab group and 3
+
+subjects (12%) in the placebo group. AEs classified in the Infections and Infestations SOC leading
+
+to dose delays of siltuximab or placebo were reported in 4 subjects (8%) in the siltuximab group
+
+and 1 subject (4%) in the placebo group, respectively. No subject in either group had an infection
+
+AE that led to discontinuation of study agent.
+
+  - Neutropenia
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 66/92
+
+|very common|Maculopapular rash, pruritus|
+|---|---|
+|Renal and urinary disorders||
+|very common|Renal impairment|
+|General disorders and administration site conditions||
+|very common|Localised oedema|
+|Investigations||
+|very common|Weight increased|
+
+
+-----
+
+In the pool of safety population treated with siltuximab, a similar incidence of all-grade neutropenia
+
+was reported as an AE in siltuximab-treated subjects compared with placebo-treated subjects (8%
+
+in the placebo vs 11% and 12% in the target dose and combined siltuximab monotherapy groups,
+
+respectively). Grade 3 or higher neutropenia was low and similar to placebo (4% vs 4% each). No
+
+increase in dose delay or dose interruption due to neutropenia was observed (4% vs 4% and 3%,
+
+respectively). No SAEs, treatment discontinuations, or deaths due to neutropenia were seen.
+
+Febrile neutropenia was not reported and colony-stimulating factor use was low (≤5%) and similar
+
+in siltuximab-treated subjects (4% vs 1% and 2%, respectively).
+
+In the main study, Grade 3 neutrophil abnormalities were observed in 2 subjects (4%) in the
+
+siltuximab group and 1 subject (4%) in the placebo group; no Grade 4 neutrophil abnormalities
+
+were observed in either treatment group during the study. AEs of the preferred term neutropenia
+
+and of all grades were reported in 7 subjects (13%) in the siltuximab group and 2 subjects (8%) in
+
+the placebo group. Colony stimulating factor use (filgrastim) was reported in 1 subject (4%) in the
+
+placebo group. Grade 3 neutropenia was reported as an adverse event in 2 subjects (4%) in the
+
+siltuximab group and 1 subject (4%) in the placebo group; these events resulted in interruption of
+
+study agent. No SAEs of neutropenia were reported in either treatment group; no subject in either
+
+treatment group discontinued treatment due to neutropenia.
+
+  - Thrombocytopenia
+
+A higher incidence of all-grade thrombocytopenia was seen in siltuximab-treated subjects
+
+compared with placebo-treated subjects (4% in the placebo vs 13% and 15% in the target dose and
+
+combined siltuximab monotherapy groups, respectively). However, Grade 3 or higher
+
+thrombocytopenia was low and similar among the groups (4% vs 2% and 2%, respectively). Dose
+
+delays or dose interruptions due to thrombocytopenia were infrequent (0% vs 1% each in the target
+
+dose and combined siltuximab monotherapy groups) and there were no SAEs, treatment
+
+discontinuations, or deaths due to thrombocytopenia. One siltuximab-treated subject with MCD
+
+from Study C0328T03 received a platelet transfusion for a SAE of autoimmune thrombocytopenia
+
+during extended dosing Week 2 and 1 placebo-treated subject from Study CNTO328MCD2001 had
+
+thrombocyte transfusions at the time of discontinuation of blinded study treatment; the subject was
+
+diagnosed with MDS. No severe bleeding events were observed.
+
+In the pivotal study no Grade 4 platelet abnormality was observed in the siltuximab group, 1 subject
+
+(4%) in the placebo group had Grade 4 platelet abnormalities; 2 subjects (4%) and no subject,
+
+respectively had Grade 3 platelet abnormalities during the study. AEs of the preferred term
+
+thrombocytopenia were reported in 8 subjects (15%) in the siltuximab group and 1 subject (4%) in
+
+the placebo group. One subject (2%) in the siltuximab group and no subject in the placebo group
+
+had an AE of thrombocytopenia that resulted in interruption of study agent.
+
+No SAEs of thrombocytopenia were reported in either treatment group; no subject in either
+
+treatment group discontinued treatment due to thrombocytopenia. Thrombocyte transfusions were
+
+provided to 1 subject in the placebo group. No AEs of severe bleedings were reported in any subject
+
+in the study.
+
+  - Elevations in Triglycerides and Cholesterol
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 67/92
+
+
+-----
+
+A higher incidence of all-grade hypertriglyceridemia was reported as an AE in siltuximab-treated
+
+subjects compared with placebo-treated subjects (0% in the placebo vs 13% and 18% in the target
+
+dose and combined siltuximab monotherapy groups, respectively). However, the incidence of
+
+Grade 3 or higher triglyceride increase was low in siltuximab-treated groups and similar to placebo
+
+(0% vs 2% and 3%, respectively). One subject in the combined siltuximab monotherapy group (at
+
+the non target dose; ie, 15 mg/kg every 4 weeks) had a dose delay due to hypertriglyceridemia. No
+
+SAEs, treatment discontinuations, or deaths due to hypertriglyceridemia were reported.
+
+Within the pivotal trial, in the siltuximab group, AEs of the preferred term hypertriglyceridemia of
+
+any grade were reported in 6 subjects (11%), and AEs of the preferred term hypercholesterolemia
+
+of any grade were reported in 3 subjects (6%). No subject in the placebo group had an event of
+
+hypertriglyceridemia or hypercholesterolemia during the study. One subject (2%) in the siltuximab
+
+group had Grade 3 hypertriglyceridemia. No SAEs of hypertriglyceridemia or hypercholesterolemia
+
+were reported; no subject had a hypertriglyceridemia or hypercholesterolemia AE that led to
+
+treatment interruption or treatment discontinuation
+
+A higher incidence of all-grade hypercholesterolemia was seen among siltuximab-treated subjects
+
+(0% vs 9% and 13%, respectively); there were no Grade 3 or higher AEs, SAEs, treatment
+
+discontinuations, dose delays/dose interruptions, or deaths due to hypercholesterolemia.
+
+In the main study, there were no shifts in increases in cholesterol values from Grade 0 or 1 at
+
+baseline to Grades 3 or 4 during the study in either treatment group.
+
+  - Vascular disorders
+
+There was a higher incidence of vascular disorders (4% vs 23% and 29%, respectively) observed in
+
+the MCD studies; however, Grade 3 or higher AEs, SAEs, treatment discontinuations, dose
+
+delays/dose interruptions were low and similar across the groups. In the main study vascular
+
+disorders were more frequently reported for siltuximab treated patients (15.1% vs 3.8%).
+
+  - Renal impairment
+
+A numerically higher incidence of all-grade renal impairment was reported as an AE in
+
+siltuximab-treated subjects compared with placebo-treated subjects in the MCD studies (0% vs
+
+12% and 14%, respectively). However, the incidence of Grade 3 or higher renal impairment was
+
+low and similar among the groups (0% vs 2% each; 0% vs 1% each in the pivotal trial). Dose delays
+
+due to renal impairment were low in siltuximab-treated subjects (0% vs 1% each). There were no
+
+SAEs, treatment discontinuations, or deaths due to renal impairment. Within the main study, renal
+
+impairment was reported in 9.4% in siltuximab patients vs 0% in placebo. There was a SAE related
+
+to renal disease in the siltuximab arm vs 0 in the placebo group.
+
+  - Gastrointestinal Perforations
+
+There were no GI perforations reported in siltuximab-treated subjects in the MCD population. In the
+
+siltuximab monotherapy studies, GI perforations occurred in 3 subjects (<1%) with other cancer
+
+types and confounding factors (eg, GI cancer, medical history of diverticulitis, and prior treatment
+
+with bevacizumab use), and those that were reported were considered not related or doubtfully
+
+related to study drug.
+
+  - Primary Malignancy or Second Primary Malignancy
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 68/92
+
+
+-----
+
+In the integrated monotherapy studies, no increase in the incidence of malignancy was observed in
+
+siltuximab-treated subjects compared with placebo-treated subjects (4% [2/52] in the placebo
+
+group and <1% [2/365] in the combined siltuximab monotherapy group). Grade 4 malignancies
+
+(T-cell lymphoma and MDS) were observed in 2 subjects with MCD in the placebo group; of which,
+
+1 malignancy (T cell lymphoma) was considered serious. One subject with MCD (originally assigned
+
+to siltuximab 11 mg/kg every 3 weeks) reported a Grade 2 squamous cell carcinoma of the skin on
+
+Study Day 380, 20 days since the last infusion of study drug.
+
+  - Infusion Related Reactions
+
+Infusion related reactions, among those subjects with infusion related reactions collected (from
+
+Studies CNTO328MCD2001, CNTO328MCD2002, CNTO328STM2001, CNTO328SMM1001, and
+
+CNTO328MDS2001), were 1.9% [1/52] in the placebo group vs 4.9% [4/81] and 4.8% [12/249] in
+
+the target dose and combined siltuximab monotherapy groups, respectively. The most common
+
+infusion related reactions reported in siltuximab-treated subjects (≥2 subjects) were pruritus,
+
+erythema, chest pain, and nausea.
+
+In the pivotal trial, four subjects (8%) in the siltuximab group and no subject in the placebo group
+
+had at least 1 infusion-related reaction AE of any grade reported. One patient had a serious Grade
+
+3 anaphylactic reaction. All other infusion-related reaction AEs, which included erythema, pruritus,
+
+chest discomfort, headache, and flushing, were Grade 1 or 2. Four infusion-related reaction
+
+samples were collected from 3 subjects and assessed for immunogenicity. None of the samples had
+
+detectable antibodies to siltuximab.
+
+  - Hepatotoxicity
+
+No subject in either treatment group had an AE classified as hepatotoxicity during the main study.
+
+There were no shifts from Grade 0 or 1 at baseline to Grades 3 or 4 during the study in AST, ALT,
+
+or bilirubin values in either treatment group. Two subjects (4%) in the siltuximab group had a shift
+
+in bilirubin values from Grade 0 at baseline to Grade 2 during the study; 1 subject (2%) had a shift
+
+in AST values from Grade 0 at baseline to Grade 2 during the study.
+
+In the integrated monotherapy studies, no subjects met Hy’s law criteria Grade 3 or higher
+
+elevations in bilirubin, AST, and ALT were infrequent (Grade 3 bilirubin increase: 0% in the placebo
+
+group vs 0% and 2% in the target dose and combined siltuximab monotherapy groups,
+
+respectively; Grade 4 bilirubin increase: 0% vs 0% and <1%, respectively; Grade 3 AST increase:
+
+2% vs 1% and 3%, respectively; Grade 4 AST increase: 0% all groups; Grade 3 ALT increase: 2%
+
+vs 0% and 3%, respectively; Grade 4 ALT increase: 0% all groups). There were no deaths due to
+
+hepatic events and no treatment discontinuations in the placebo or siltuximab target dose groups.
+
+In the integrated MCD studies, no siltuximab-treated subjects had Grade 3 or higher bilirubin
+
+increases and Grade 3 elevations in transaminases were infrequent (Grade 3 AST increase: 0% vs
+
+1% each; Grade 3 ALT increase: 0% vs 0% and 1%, respectively; Grade 4 AST or ALT increase: 0%
+
+all groups;). There were no deaths or treatment discontinuations due to hepatic events. Dose
+
+delays or dose interruptions due to hepatobiliary disorders were low and similar across the groups
+
+(hepatic function abnormal: 0% vs 2% each; hyperbilirubinemia: 0% vs 1% each).
+
+  - Electrocardiograms in the CNTO328MCD2001
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 69/92
+
+
+-----
+
+Mean baseline QTcF values were 414 ms (range 364 to 460 ms) in the siltuximab group and 416 ms
+
+(range 368 to 489 ms) in the placebo group. Mean changes from baseline at any assessment
+
+timepoint were similar between the 2 treatment groups and ranged from -0.7 to 8.8 in the
+
+siltuximab group and 0 to 8.5 in the placebo group. No subject in either treatment group had a QTcF
+
+>500 msec postbaseline. Five of 46 subjects (11%) in the siltuximab group and 2 of 23 subjects
+
+(9%) in the placebo group had a change from baseline in QTcF >30 ms and <60 ms. One subject
+
+(2%) in the siltuximab group had a change from baseline of 80 ms, which was reported at the end
+
+of treatment (33 days after the last dose). No other relevant increases in QTcF from baseline were
+
+reported for this subject.
+
+Mean baseline QTcB values were 432 ms (range 386 to 478 ms) in the siltuximab group and 432 ms
+
+(range 397 to 520 ms) in the placebo group. Mean changes from baseline at any assessment
+
+timepoint during the study were similar and ranged from -9.2 to 4.6 in the siltuximab group and 0
+
+to 17.2 in the placebo group. Four of 46 subjects (9%) in the siltuximab group and 2 of 23 subjects
+
+(9%) in the placebo group had a change from baseline in QTcB >30 ms and <60 ms . One subject
+
+(2%) in the siltuximab group had a change from baseline of 81 ms, which was reported at the end
+
+of treatment (33 days after the last dose). No other relevant increases in QTcB from baseline were
+
+reported for this subject.
+
+**Serious adverse event/deaths/other significant events**
+
+**Serious Adverse Events (SAEs)**
+
+In the integrated MCD studies, more (≥5%) treatment-emergent SAEs were reported in
+
+siltuximab-treated subjects compared with those treated with placebo (19% in the placebo vs 26%
+
+and 25% in the target dose and combined siltuximab monotherapy groups, respectively). However,
+
+the higher SAE rate in siltuximab-treated subjects wasn’t driven by any particular SOC. In the
+
+placebo group, 2 subjects reported an SAE of dyspnea in the integrated MCD studies; otherwise, all
+
+other SAEs in the placebo group were reported in 1 subject each (pneumonia, bronchopneumonia,
+
+lung infection, pleural effusion, dysphagia, peripheral edema, congestive cardiac failure, and T-cell
+
+lymphoma). In the target dose group, all individual SAEs were observed in 1 subject each (1% of
+
+subjects).
+
+In the integrated monotherapy studies, treatment-emergent SAEs were also higher (≥5%) in
+
+siltuximab-treated subjects compared with placebo (23% in the placebo vs 28% and 28% in the
+
+target dose and combined siltuximab monotherapy groups, respectively); the highest incidence of
+
+treatment-emergent SAEs was within the infections and infestations SOC (8% vs 11% and 8%,
+
+respectively).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 70/92
+
+
+-----
+
+In the pivotal trial, SAEs were reported in 12 subjects (23%) in the siltuximab group and 5 subjects
+
+(19%) in the placebo group. Across both treatment groups, SAEs classified in the infections and
+
+infestations SOC were the most frequently reported (4 subjects [8%] in the siltuximab group and 3
+
+subjects [12%] in the placebo group). These SAEs were all Grade 3 or higher. SAEs classified in the
+
+Respiratory, Thoracic and Mediastinal disorders were reported in no subject in the siltuximab group
+
+and 3 subjects (12%) in the placebo group; with the exception of dyspnea, which was reported in
+
+no subject and 2 subjects (8%), respectively, no preferred term was reported in more than 1
+
+subject in either treatment group. One subject (2%) in the siltuximab group had an SAE of
+
+anaphylactic reaction. SAEs considered reasonably related to study agent were reported in 3
+
+subjects (6%) in the siltuximab group and 1 subject (4%) in the placebo group; these events were
+
+all Grade 3 or higher.
+
+A similar trend was seen with the integrated combination therapy studies; a higher (≥5%)
+
+incidence of treatment-emergent SAEs was observed in the siltuximab combination group
+
+compared with the control group (37% and 42% in the control and siltuximab combination groups);
+
+the highest incidence of SAEs was in the infections and infestations SOC (15% and 17%,
+
+respectively).
+
+**Deaths**
+
+In the integrated MCD studies, the incidence of deaths within 30 days of the last dose of study
+
+treatment was low (4% in the placebo group vs 0% and 1% in the target dose and combined
+
+siltuximab monotherapy groups, respectively); 1 subject in the placebo group and 1 subject in the
+
+non-target siltuximab dose group died within 30 days of last dose. No other siltuximab-treated
+
+subjects died within 30 days of last dose and there were no TEAEs leading to death considered
+
+reasonably related to siltuximab.
+
+In the pivotal study, two subjects (4%) in the siltuximab group and 4 subjects (15%) in the placebo
+
+group died. The primary cause of death for all subjects except one in the placebo group was disease
+
+progression.
+
+According to the data from Monotherapy studies in various disease type 6.0% of patients treated
+
+with a higher dose of 11 mg/kg of siltuximab died vs 3.8% in placebo.
+
+**Laboratory findings**
+
+A summary of the haematology and chemistry toxicity grades during the blinded treatment period
+
+is presented in Table 13.
+
+**Table 13: Summary of Haematology and Chemistry Worst NCI-CTCAE Grade During the**
+
+**Blinded Treatment; Safety Population (Study CNTO328MCD2001)**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 71/92
+
+
+-----
+
+Grade 3 hematologic laboratory abnormalities occurred at a low incidence in both treatment
+
+groups; no Grade 4 hematologic laboratory abnormality was observed in the siltuximab group. The
+
+most frequently observed Grade 3 hematologic abnormalities across both treatment groups were
+
+lymphocyte decreases: 3 subjects (6%) in the siltuximab group and 2 subjects (8%) in the placebo
+
+group. Grade 3 hemoglobin decreases were observed in 1 subject (2%) in the siltuximab group and
+
+3 subjects (12%) in the placebo group; Grade 3 neutrophil decreases were observed in 2 subjects
+
+(4%) and 1 subject (4%), respectively. Grade 3 platelet decreases were observed in 2 subjects
+
+(4%) in the siltuximab group, and Grade 4 platelet decreases were observed in 1 subject (4%) in
+
+the placebo group.
+
+Grade 3 chemistry laboratory abnormalities occurred at a low incidence in both treatment groups;
+
+no Grade 4 chemistry laboratory abnormality was observed in the siltuximab or placebo group. The
+
+most frequently observed Grade 3 chemistry abnormalities in the siltuximab group were
+
+hyperkalemia (3 subjects; 6%) and triglyceride increases (2 subjects; 4%). The most frequently
+
+observed Grade 3 chemistry abnormalities in the placebo group were hypokalemia and triglyceride
+
+increases (each observed in 1 subject [4%]). Of note, no Grades 3 or 4 increases in any liver
+
+function test (AST, ALT, bilirubin, alkaline phosphatase) were observed in the siltuximab or placebo
+
+group. Grade 2 creatinine increases were observed in 8 subjects (15%) in the siltuximab group and
+
+2 subjects (8%) in the placebo group.
+
+**Safety in special populations**
+
+A population PK analysis in order to evaluate the influence of intrinsic factors (age, gender, body
+
+weight, ethnicity, renal and hepatic functions) on PK was submitted.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 72/92
+
+
+-----
+
+The analysis carried out in special populations did not reveal any concerns in relation to gender and
+
+age, even though the low number of patients above 65 years (the majority of subjects in the
+
+integrated MCD studies were <65 years) clearly hampers to reach any conclusions in older people.
+
+Important safety information regarding the elderly population is in presented in the following Table
+
+14.
+
+|Table 14. Summary of Adverse Drug Reactions and Treatment-emergent Adverse Events by Age Group; Safety Population (Integrated MCD Studies)|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||Siltuximab (Target Dose)||||
+||n (%)||||
+||Age <65|Age 65-74|Age 75-84|Age 85+|
+|Subjects in safety population|76|5|1|0|
+|Total number of subjects with any ADRs|65 (85.5%)|4 (80.0%)|1 (100.0%)|0|
+|Total number of subjects with any serious ADRs|2 (2.6%)|0|0|0|
+|Fatal|0|0|0|0|
+|Hospitalization/prolong existing hospitalization|2 (2.6%)|0|0|0|
+|Life-threatening|0|0|0|0|
+|Disability/incapacity|0|0|0|0|
+|Other (medically significant)|0|0|0|0|
+|Total number of subjects with AE leading to treatment discontinuation|15 (19.7%)|0|0|0|
+|Total number of subjects with psychiatric disorders (SOC)|10 (13.2%)|2 (40.0%)|0|0|
+|Total number of subjects with nervous system disorders (SOC)|30 (39.5%)|2 (40.0%)|0|0|
+|Total number of subjects with cardiac disorders (SOC)|8 (10.5%)|1 (20.0%)|1 (100.0%)|0|
+|Total number of subjects with vascular disorders (SOC)|18 (23.7%)|0|1 (100.0%)|0|
+|Total number of subjects with infections and infestations (SOC)|52 (68.4%)|3 (60.0%)|1 (100.0%)|0|
+|Total number of subjects with accidents and injuries (SMQs)|11 (14.5%)|1 (20.0%)|0|0|
+|Total number of subjects with cerebrovascular disorders (SMQs)|2 (2.6%)|0|0|0|
+|Total number of subjects with quality of life decreased (PT)|0|0|0|0|
+|Total number of subjects with any of postural hypotension, falls, black outs, syncope, dizziness, ataxia, fractures adverse events|14 (18.4%)|0|0|0|
+
+
+
+Adverse events were coded using MedDRA version 15.1.
+SOC = System Organ Class (MedDRA).
+SMQs = Standardized MedDRA Queries (MedDRA).
+PT = Preferred term (MedDRA).
+
+Asian subset of patients seems to be less susceptible to grade 3 AEs, SAEs and AEs leading to dose
+
+delay or dose interruption.
+
+Regarding the renal impairment, again the low number of patients with abnormal baseline renal
+
+function appears to complicate the assessment in this subset. Renal impairment is one of AEs
+
+associated to siltuximab.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 73/92
+
+
+-----
+
+In the subgroup of mild hepatic impairment population, there seem to be more Grade 3 or higher
+
+AEs (75% mild vs 56% overall) and SAEs (38% mild vs 28% overall) compared with the overall
+
+population. According to the laboratory findings, siltuximab increases the levels of hepatic enzymes
+
+(bilirubin, ALT & AST), so mild-severe hepatic population could be more susceptible of having AEs.
+
+No safety data of siltuximab in paediatric patients are available, as there is no relevant use of
+
+Sylvant in paediatric patients in the Castleman’s disease indication.
+
+**Safety related to drug-drug interactions and other interactions**
+
+No drug-drug interaction studies were submitted (see discussion on clinical pharmacology).
+
+**Discontinuation due to adverse events**
+
+Twenty-two subjects (42%) in the siltuximab group and 20 subjects (77%) in the placebo group
+
+discontinued treatment prematurely within the main study. The most common reason for treatment
+
+discontinuation was disease progression, which was reported in 16 of 53 subjects (30%) in the
+
+siltuximab group and 14 of 26 subjects (54%) in the placebo group; 1 subject in each treatment
+
+group (2% and 4%, respectively), discontinued due to an AE. Two subjects (8%) in the placebo
+
+group discontinued due to death.
+
+It was allowable to delay treatment for up to 3 weeks. No more than 2 nonconsecutive dose delays
+
+caused by study agent-related toxicity were allowed for each subject during the first 48 weeks of
+
+treatment. No dose modification (increase or decrease) was to be permitted. In the pivotal trial, AEs
+
+leading to treatment interruption were reported in 15 subjects (28%) in the siltuximab group and 5
+
+subjects (19%) in the placebo group.
+
+The most frequently reported AEs leading to dose delays were AEs classified in the Blood and
+
+Lymphatic System Disorders SOC (3 subjects [6%] in the siltuximab group and 2 subjects [8%] in
+
+the placebo group), followed by AEs classified in the Infections and Infestations SOC (4 subjects
+
+[8%] vs 1 subject [4%]), AEs classified in the Skin and Subcutaneous Tissue Disorders SOC (4
+
+subjects [8%] vs no subject), and AEs classified in the General Disorders and Administration Site
+
+Conditions SOC (3 subjects [6%] vs no subject), respectively. Infections and neutropenia are
+
+almost 50% of the AEs leading to dose delays for siltuximab arm.
+
+The same pattern is observed in the monotherapy studies, a higher percentage of patients with
+
+dose delays in the siltuximab's groups.
+
+**Post marketing experience**
+
+Not applicable
+
+**Discussion on clinical safety**
+
+The applicant has submitted an integrated summary of safety as supportive evidence by including
+
+data from other studies either as monotherapy or combined with chemotherapy in myeloma, MDS,
+
+MCD as well as solid tumours.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 74/92
+
+
+-----
+
+The safety database is limited and consists of a number of small studies in various disease groups.
+
+However, despite the fact that 650 patients have been exposed to siltuximab, there is a
+
+comparatively small number of patients who have been exposed in the target population (103
+
+patients) and an even smaller number at the target dose (82 patients).
+
+Focusing on MCD studies, Siltuximab has been administered with a median duration of 12 months
+
+(maximum treatment duration of 6.7 years) in the target dose. At the time of the clinical cut-off,
+
+more than half (52%) of the subjects in the target dose group have received treatment for more
+
+than 1 year.
+
+Regarding the AEs described in the main study, the most frequently reported AEs in the siltuximab
+
+group were pruritus, upper respiratory tract infection, rash maculo-papular and fatigue, and
+
+peripheral edema.
+
+Pruritus, upper respiratory tract infection, rash maculo-papular, localized edema, weight increased,
+
+abdominal pain, infusion related reactions, nasopharyngitis, thrombocytopenia, renal impairment,
+
+hypertriglyceridemia, hypertension, neutropenia, and anaphylactic reaction, have been identified
+
+as ADRs for siltuximab (section 4.8 of the SmPC).
+
+With regard to AEs grade 3 or higher into the study CNTO328MCD2001, twenty-five subjects (47%)
+
+in the siltuximab group and 14 subjects (54%) in the placebo group had Grade 3 or higher AEs.
+
+SAEs were reported in 12 subjects (23%) in the siltuximab group and 5 subjects (19%) in the
+
+placebo group. No deaths related to treatment were identified in the pivotal trial.
+
+There were more discontinuations in the placebo group than in the siltuximab arm (77% vs 42%).
+
+The main reason was disease progression. Only 1 patient treated with siltuximab discontinued due
+
+to AE.
+
+No dose modification was to be permitted. Nevertheless, the percentage of treatment interruptions
+
+due to AEs was higher for siltuximab group (28% vs 19%) than placebo, with Infections and
+
+infestations (7.5% vs 3.8%; siltuximab and placebo respectively) and Skin and subcutaneous
+
+tissue disorders (7.5 % vs 0%) as main reasons for that.
+
+Immunomodulatory medicinal products may increase the risk of malignancy. On the basis of limited
+
+experience with siltuximab the present data do not suggest any increased risk of malignancy
+
+(section 4.4 of the SmPC).
+
+Gastrointestinal (GI) perforation has been reported in siltuximab clinical trials although not in MCD
+
+trials. Use with caution in patients who may be at increased risk for GI perforation. Promptly
+
+evaluate patients presenting with symptoms that may be associated with or suggestive of GI
+
+perforation (section 4.4 of the SmPC).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 75/92
+
+
+-----
+
+Laboratory findings are reflecting part of the mechanism of action of siltuximab and its safety
+
+profile. Decreases were observed during the treatment with siltuximab in platelet values,
+
+neutrophils and slightly in alkaline phosphatase. On the contrary, increases were reported in
+
+haemoglobin, bilirubin, ALT & AST, lymphocytes and albumin. These findings are a clear reflect of
+
+special AEs described for siltuximab, such as a higher incidence of all-grade thrombocytopenia,
+
+neutropenia, hypertriglyceridemia and renal impairment. Of note, worst CTC grade during
+
+treatment for hematology was not significantly higher for siltuximab, with similar proportion of
+
+grade 3-4 of laboratory findings. Nevertheless, regarding the chemistry laboratory findings, apart
+
+from grade 3 in triglyceride increases (4% vs 4%) grade 3 abnormalities were described for
+
+siltuximab patients in hyperkalemia (6%) and grade 2 in creatinine increases (15% vs 8%
+
+siltuximab and placebo respectively).
+
+Hemoglobin increases above the ULN were observed in the MCD studies (15% [12/82] at the target
+
+dose, 14% [3/21] at the non-target dose, and 4% [1/26] with placebo) and 4 subjects had
+
+hemoglobin-related AEs, which did not result in treatment discontinuation. There were no
+
+thrombovascular or ischemic events associated with these hemoglobin elevations.
+
+With regard to the increases of hepatic enzymes, no siltuximab-treated subject had Grade 3 or
+
+higher bilirubin increases. Few Grade 3 elevations in transaminases were observed in
+
+siltuximab-treated subjects (Grade 3 AST: 0% in the placebo vs 1 in the target dose respectively;
+
+Grade 3 ALT: 0% vs 0% respectively). There were no discontinuations or deaths due to hepatic
+
+events. Dose delays or dose interruptions due to hepatobiliary disorders were as follows: hepatic
+
+function abnormal: 0% in the placebo vs 2% the target dose respectively and hyperbilirubinemia:
+
+0% vs 1% respectively).
+
+There is not conclusive data about the possible association between treatment with siltuximab and
+
+incidence of AEs and SAEs. However it cannot be excluded that patients with liver impairment may
+
+experience higher-grade AEs and SAEs compared with the overall population. Patients treated with
+
+siltuximab with known liver impairment as well as patients with elevated transaminase or elevated
+
+bilirubin should be monitored.
+
+Although siltuximab corrected hyperimmunoglobulinaemia in 23-53% of patients, the incidence of
+
+hypoglobulinaemia occurred in 4-11.3% of patients. Hypoglobulinaemia was observed in 4 to
+
+11.3% of patients in the clinical study. Decreases in total IgG, IgA, or IgM levels below normal were
+
+observed in the range of 4 to 11% patients in the pivotal trial (section 4.4 of the SmPC).
+
+All clinical studies with siltuximab excluded patients with clinically significant infections, including
+
+those known to be hepatitis B surface antigen positive. Two cases of reactivated hepatitis B have
+
+been reported when sylvant was administered concomitantly with high dose dexamethasone, and
+
+bortezomib, melphalan and prednisone in multiple myeloma patients (section 4.4 of the SmPC).
+
+Sylvant may mask signs and symptoms of acute inflammation including suppression of fever and of
+
+acute-phase reactants, such as C-reactive protein (CRP). Therefore, prescribers should diligently
+
+monitor patients receiving treatment in order to detect serious infections (section 4.4 of the SmPC).
+
+Live, attentuated vaccines should not be given concurrently or within 4 weeks before initiating
+
+siltuximab as clinical safety has not been established (section 4.4 of the SmPC).
+
+No case of overdose has been reported. Repeated dosing of 15 mg/kg every 3 weeks has been
+
+administered without additional adverse drug reactions (section 4.9 of the SmPC).
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 76/92
+
+
+-----
+
+From the safety database all the adverse reactions reported in clinical trials have been included in
+
+the Summary of Product Characteristics.
+#### **2.6.1. Conclusions on the clinical safety **
+
+Although the safety profile appears to be acceptable in the short term, there is a lack of data with
+
+respect to long term safety since only 19 patients have been entered into the phase II extension
+
+study CNTO328MCD2002. A Registry will be conducted to address this issue and collect additional
+
+safety data.
+
+In conclusion, even considering the limited sample of the safety database and the uncertainties
+
+related to the long-term safety and tolerability, overall, the safety profile is considered acceptable
+
+and tolerable.
+
+The CHMP considers the following measures necessary to address issues related to safety:
+
+  - A Registry should be conducted to collect information on patients with Castleman’s disease,
+
+who are candidates to receive Sylvant or are currently receiving treatment with Sylvant.
+
+The registry should be continued for the either 100 patients, or 5 years, whichever is
+
+greater. The MAH should provide tabulated data to the CHMP every 6 months in line with
+
+the periodic safety update report (PSUR) cycle including data for only those patients who
+
+are candidates for treatment with siltuximab. ***2.7. Pharmacovigilance ***
+
+**Detailed description of the pharmacovigilance system**
+
+The CHMP considered that the Pharmacovigilance system as described by the applicant fulfils the
+
+legislative requirements. ***2.8. Risk Management Plan ***
+
+The CHMP received the following PRAC Advice on the submitted Risk Management Plan:
+
+**PRAC Advice**
+
+Based on the PRAC review of the Risk Management Plan version 1.1, the PRAC considers by
+
+consensus that the risk management system for siltuximab (Sylvant) in the treatment of adult
+
+patients with multicentric Castleman’s disease (MCD) who are human immunodeficiency virus
+
+(HIV)-negative, and human herpesvirus-8 (HHV-8)-negative could be acceptable provided an
+
+updated risk management plan to address the outstanding issues summarised in the PRAC RMP
+
+Advice and assessment overview which was adopted on 6/3/2014 was submitted.
+
+Following the PRAC meeting, the Applicant submitted an updated Risk Management Plan version 1.2
+
+to address these issues.
+### • Safety concerns
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 77/92
+
+
+-----
+
+**Table 15: Summary of the Safety Concerns**
+
+The PRAC agreed.
+### • Pharmacovigilance plans
+
+**Table 16: Required additional pharmacovigilance activities**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 78/92
+
+|Summary of safety concerns|Col2|
+|---|---|
+|Important identified risks|Thrombocytopenia Neutropenia Infusion related reactions and serious hypersensitivity reactions Hyperlipidaemia (Hypertriglyceridaemia/Hypercholesterolaemia) Hypertension Renal impairment|
+|Important potential risks|Elevated hepatic transaminases and bilirubin Serious infections Elevated haemoglobin levels including polycythaemia Malignancy Cardiovascular events Gastrointestinal Perforation Immunogenicity|
+|Missing information|Use during pregnancy and lactation Use in elderly patients (≥ 65 years) Use in paediatric patients Use in patients who are HIV-positive Use in patients who are HHV-8-positive Use with vaccinations Drug-drug interaction (increased metabolism of CYP450 substrates) Use in patients with hepatic impairment|
+
+|Description of activity|Milestones|Due Date(s)|
+|---|---|---|
+|To provide the immunogenicity data that will be generated using the drug-tolerant ECLIA method from the ongoing trials (CNTO328MCD2002, n=60, and CNTO328SMM2001, n= 50). If the emerging data show a large increase in the proportion of patients testing positive for antibodies to siltuximab, the MAH will consider initiating post-marketing surveillance and test patients with ADRs that are suggestive of immunogenicity (eg, hypersensitivity reactions) or who experience loss of efficacy/disease progression after initial response.|Final clinical study report: Trial CNTO328MCD2002 Final clinical study report: Trial CNTO328SMM2001|After 6-year data cut-off 2017 2016|
+|Trial CNTO328MCD2002 An Open-label, Multicenter Study to|Interim CSR Final CSR|17 April 2013 After 6-year data cut-off|
+
+
+-----
+
+|Evaluate the Safety of Long-term Treatment with SYLVANT in Subjects with Multicentric Castleman’s Disease|Col2|Col3|
+|---|---|---|
+
+
+The PRAC, having considered the data submitted, was of the opinion that the proposed
+
+post-authorisation PhV development plan is sufficient to identify and characterise the risks of the
+
+product. The PRAC also recommended that following the completion of study CNTO328MCD2002
+
+the patients which are included in that study should be enrolled in a registry to further evaluate the
+
+long term safety of Sylvant.
+
+The PRAC finally considered that routine PhV is sufficient to monitor the effectiveness of the risk
+
+minimisation measures.
+### • Risk minimisation measures
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 79/92
+
+|Table 17: Summary table|of Risk Minimisation Measures|Col3|
+|---|---|---|
+|Safety concern|Routine risk minimisation measures|Additional risk minimisation measures|
+|Important identified risks|||
+|Thrombocytopenia|SmPC Section 4.2 provides guidance on performing laboratory tests before administering SYLVANT, including treatment criteria (platelet counts). Guidance for delaying treatment and criteria for permanent discontinuation are also provided. Dose reduction is not recommended. Thrombocytopenia is an ADR (SmPC Section 4.8.)|None|
+|Neutropenia|SmPC Section 4.2 provides guidance on performing laboratory tests before administering SYLVANT, including treatment criteria (ANC). Guidance for delaying treatment and criteria for permanent discontinuation are also provided. Dose reduction is not recommended. Neutropenia is an ADR (SmPC Section 4.8.)|None|
+|Infusion Related Reactions and serious hypersensitivity reactions|SmPC Section 4.2 provides guidance on discontinuing treatment if a patient develops a severe infusion related reaction and SmPC Section 4.4 provides additional details on managing patients with infusion reactions, including administration of drugs such as antihistamines, and lowering the infusion rate. Information on managing serious hypersensitivity reactions (eg, anaphylaxis) is also provided. Anaphylactic reaction, maculopapular rash, and pruritis are ADRs (SmPC Section 4.8). SmPC Section 4.8 also provides the incidence of infusion related reaction or hypersensitivity reaction in clinical trials. SYLVANT is contraindicated when there is a history of severe|None|
+
+
+-----
+
+|Safety concern|Routine risk minimisation measures|Additional risk minimisation measures|
+|---|---|---|
+||hypersensitivity to the active substance or excipients (SmPC Section 4.3). Immunogenicity (anti-drug antibodies) is discussed in SmPC Section 5.2.||
+|Hyperlipidaemia (Hypertriglyceridaemia/ Hypercholesterolaemia)|SmPC Section 4.4 states that elevations in triglycerides and cholesterol have been observed in patients treated with SYLVANT and that patients should be managed according to current clinical guidelines. SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and provides guidance for permanent dis-continuation of SYLVANT due to toxicities related to treatment. Hypertriglyceridaemia is an ADR (SmPC Section 4.8).|None|
+|Hypertension|SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and provides guidance for permanent discontinuation of SYLVANT due to toxicities related to treatment. Hypertension is an ADR (SmPC Section 4.8). Managing hypertension is part of routine clinical practice.|None|
+|Renal impairment|SmPC Section 5.2 states no formal studies have been conducted to investigate the PK of SYLVANT in patients with renal impairment. For patients with baseline calculated creatinine clearance of 12 mL/min or greater, there was no meaningful effect on SYLVANT pharmacokinetics. SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and provides guidance for permanent discontinuation of SYLVANT due to toxicities related to treatment. Renal impairment is an ADR (SmPC Section 4.8).|None|
+|Important potential risks|||
+|Elevated hepatic transaminases and bilirubin|SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and provides guidance for permanent discontinuation of SYLVANT due to toxicities related to treatment.|None|
+|Serious infections|SmPC Section 4.2 provides treatment guidance for severe infections. SmPC Section 4.4 specifies that serious infections have been observed during clinical trials and provides information on managing infections, including that treatment with SYLVANT may mask signs and symptoms of acute inflammation such as fever.|None|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 80/92
+
+
+-----
+
+|Safety concern|Routine risk minimisation measures|Additional risk minimisation measures|
+|---|---|---|
+|Elevated haemoglobin levels including Polycythaemia|SmPC Section 4.2 provides guidance on performing laboratory tests before administering SYLVANT, including treatment criteria for haemoglobin Guidance for delaying treatment and criteria for permanent discontinuation are also provided.Dose reduction is not recommended.|None|
+|Malignancy|SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and criteria for permanent discontinuation are also provided. SmPC Section 4.4 specifies that immunomodulatory medicinal products may increase the risk of malignancy. On the basis of limited experience with SYLVANT the present data do not suggest any increased risk of malignancy.|None|
+|Gastrointestinal Perforation|SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and criteria for permanent discontinuation are also provided. SmPC Section 4.4 specifies that gastrointestinal (GI) perforation has been reported in SYLVANT clinical trials although not in MCD trials. The SmPC also advises to use with caution in patients who may be at increased risk for GI perforation and to promptly evaluate patients presenting with symptoms that may be associated with or suggestive of GI perforation|None|
+|Immunogenicity|SmPC Section 5.2 specifies that as with all therapeutic proteins, there is potential for the generation of anti-medicine antibodies (immunogenicity). Further immunogenicity analyses of the single positive sample revealed a low titer of anti-SYLVANT antibodies (1:20) with non-neutralizing capabilities. No evidence of altered toxicity profile was identified in the 1patient who developed antibodies to SYLVANT.|None|
+|Missing information|||
+|Use during pregnancy and lactation|There are no data on the use of SYLVANT in pregnant women and it is unknown whether SYLVANT is excreted in human milk (SmPC Section 4.6); women of childbearing potential must use contraception during and up to 3 months after treatment (SmPC Section 4.6). Guidance is provided on weighing the benefits and risks of giving SYLVANT to a woman who is breast-feeding. Nonclinical studies did not show effects on reproduction or fertility (SmPC Sections 4.6 and 5.3).|None|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 81/92
+
+
+-----
+
+|Safety concern|Routine risk minimisation measures|Additional risk minimisation measures|
+|---|---|---|
+|Use in elderly patients (≥ 65 years)|No major age-related differences in pharmacokinetics or in the safety profile were observed in clinical trials, and dose adjustment is not required for older patients (SmPC Sections 4.2 and 5.2). Few subjects >65 years of age were studied in MCD clinical trials (SmPC Section 5.1).|None|
+|Use in paediatric patients|The safety and efficacy in children aged 17 years and younger have not been established (SmPC Section 4.2 and 5.2).|None|
+|Use in patients who are HIVpositive|SYLVANT is not indicated for this population (SmPC Section 4.1).|None|
+|Use in patients who are HHV- 8-positive|SYLVANT is not indicated for this population (SmPC Section 4.1).|None|
+|Use with vaccinations|Live, attenuated vaccines should not be given concurrently or within 4 weeks before initiating SYLVANT, as the safety has not been established (SmPC Section 4.4). Caution is also advised in the administration of live vaccines to infants born to women treated with SYLVANT (SmPC Section 4.6).|None|
+|Drug-drug interaction (increased metabolism of CYP450 substrates)|In nonclinical studies, IL-6 is known to decrease the activity of CYP450; therefore, binding IL-6 with SYLVANT may result in increased metabolism of CYP450 substrates (enzyme activity will normalise) (SmPC Section 4.5). Caution is advised when co-administered with medicinal products that are CYP450 substrates and have a narrow therapeutic index. In addition, caution is also advised where a decrease in effectiveness would be undesirable (eg, oral contraceptives).|None|
+|Use in patients with hepatic impairment|No formal trial of the effect of hepatic impairment on the pharmacokinetics of SYLVANT has been conducted (SmPC Sections 4.2 and 5.2). Patients with abnormal baseline alanine transaminase, baseline albumin, baseline bilirubin levels showed no meaningful effect on SYLVANT pharmaco-kinetics (SmPC Section 5.2). SmPC Section 4.2 provides treatment guidance for any severe non-haematological toxicity and criteria for permanent discontinuation are also provided.|None|
+
+
+The PRAC, having considered the data submitted, was of the opinion that the proposed risk
+
+minimisation measures are sufficient to minimise the risks of the product in the proposed indication.
+
+The CHMP endorsed this advice with changes.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 82/92
+
+
+-----
+
+These changes concerned the following elements of the Risk Management Plan:
+
+The Pharmacovigilance Plan for which the CHMP considered that the proposed registry to collect
+
+additional long term safety data should commence now rather than after the completion of the
+
+ongoing study CNTO328MCD2002.
+
+The CHMP justified these changes as follows: Despite the rarity of the proposed indication the CHMP
+
+considered that it was feasible to conduct simultaneously two studies which would enable a more
+
+robust collection of long term safety data for Sylvant. In addition, only 19 patients have been
+
+entered into the phase II extension study CNTO328MCD2002 whereas the registry will include 100
+
+patients.
+
+To address this issue the Applicant submitted an updated RMP with the following Pharmacovigilance
+
+Plan:
+
+**Table 18: Table of Ongoing and Planned Additional Pharmacovigilance Studies/Activities**
+
+**in the Pharmacovigilance Plan**
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 83/92
+
+|Study/activity type, title and category (1-3|Objectives|Safety concerns addressed|Status (planned, started)|Date for submission of interim or final reports (planned or actual)|
+|---|---|---|---|---|
+|Registry: A multicentre registry for patients with Castleman’s disease Category 1|The registry will use a disease-based approach to collect information on patients with Castleman’s disease (CD). The secondary objectives of the registry will be to: - Evaluate patients with CD in a real-world setting - Evaluate selection factors for use of various regimens for treatment of CD - Evaluate the tolerability of such regimens in different patient segments|Overall safety profile|Planned|To be determined|
+
+
+-----
+
+|Col1|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Evaluate immunogenicity data that will be generated using the drug-tolerant ECLIA method from the ongoing trials: - CNTO328MCD2002, n=60 - CNTO328SMM2001, n= 50) Category 3|To investigate immunogenicity in MCD patients receiving SYLVANT|Immunogenicity If the emerging data show a large increase in the proportion of patients testing positive for antibodies to SYLVANT, the MAH will consider initiating post-marketing surveillance and test patients with ADRs that are suggestive of immunogenicity (eg, hypersensitivity reactions) or who experience loss of efficacy/disease progression after initial response.|Ongoing|CNTO328MCD2002 : 4Q2017 CNTO328SMM2001 : 4Q2016|
+|Trial CNTO328MCD2002* An Open-label, Multicenter Study to Evaluate the Safety of Long-term Treatment with SYLVANT in Subjects with Multicentric Castleman’s Disease Category 3|The primary objective is to evaluate the long-term safety of siltuximab in subjects with multicentric Castleman’s disease (MCD). Secondary Objectives · To determine the proportion of previously responding subjects who maintain disease control · To determine the proportion of siltuximab-naive subjects who experience disease control|Overall safety profile|Ongoing|Final CSR: After 6-year data cutoff.|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 84/92
+
+
+-----
+
+|Col1|· To describe the duration of disease control and survival · To assess reliability of a multicentric Castleman’s disease symptom scale (MCDSS) · To evaluate IL-6 levels · To assess formation of antibodies to siltuximab (immunogenicity) after long-term treatment in the MCD population|Col3|Col4|Col5|
+|---|---|---|---|---|
+
+#### ***2.9. User consultation ***
+
+The results of the user consultation with target patient groups on the package leaflet submitted by
+
+the applicant show that the package leaflet meets the criteria for readability as set out in the
+
+*Guideline on the readability of the label and package leaflet of medicinal products for human use.*
+## **3. Benefit-Risk Balance **
+
+***Benefits***
+
+**Beneficial effects**
+
+The results of the pivotal study, showed a statistically significant improvement in the primary
+
+endpoint of durable tumour and symptomatic response rate for siltuximab plus BSC compared with
+
+placebo plus BSC (34% vs. 0%, respectively; 95% CI: 11.1-54.8; p = 0.0012).
+
+The results from the secondary endpoints are consistent with the primary endpoint: Siltuximab has
+
+shown to have a beneficial effect on MCD patients in terms of maintenance of the effect (longer
+
+duration of tumour and symptomatic response and time to treatment failure). In the siltuximab
+
+group, the median duration of tumour and symptomatic response was 340 days (range 55 to 676
+
+days) based on the independent review. The median time to treatment failure was not reached in
+
+the siltuximab group and was 134 days in the placebo group (HR: 0.418; 95% CI: 0.214-0.815;
+
+p=0.0084).
+
+The overall tumour response rate was 37.7% in the siltuximab group and 3.8% in the placebo
+
+group. The difference in the overall tumour response rate was 33.9% (95% CI: 11.1, 54.8;
+
+p=0.0022). Overall, the clinical data provided can be considered comprehensive.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 85/92
+
+
+-----
+
+Siltuximab also contributes to symptomatic control of patients by reducing symptoms, and by
+
+increasing and normalising haemoglobin levels in a substantial percentage of patients what is
+
+usually associated to symptomatic improvement in chronic conditions. The ≥ 15 g/L haemoglobin
+
+response rate was 61.3% in the siltuximab group and 0% in the placebo group (95% CI: 28.3-85.1;
+
+p=0.0002). Thirteen subjects in the siltuximab group and no subject in the placebo group had a ≥
+
+20 g/L haemoglobin response. The ≥ 20 g/L haemoglobin response rate was 41.9 % in the
+
+siltuximab group and 0% in the placebo group (95% CI: 7.8-70.7; p=0.0195).
+
+**Uncertainty in the knowledge about the beneficial effects**
+
+The rationale for selection of the proposed dosage regimen focuses purely on the ability to suppress
+
+CRP levels to <1mg, nevertheless, the dose finding study clearly showed that there was no clinical
+
+correlation with CRP suppression. Similar to the lack of clinical correlation of CRP in study
+
+CO328TO3, no clear cut clinical correlation was observed in the pivotal study CNTO328MCD2001.
+
+These similar findings from both clinical studies do not fully support the justification of dose
+
+selection on the basis of CRP suppression. The individual patient data clearly indicate that baseline
+
+CRP levels or suppression of CRP levels post-treatment were not strongly associated with tumour
+
+responses, likely due to factors other than CRP (and IL-6) that possibly control MCD disease
+
+pathogenesis. In this respect the use of CRP suppression to determine the optimum dose may not
+
+be appropriate. However, a Registry will be conducted to further evaluate efficacy with respect to an
+
+optimal dose.
+
+For the primary endpoint analysis in the main study, no subject in the hyaline vascular histology
+
+subgroup had a durable tumour and symptomatic response according to the definition of the main
+
+variable in either treatment group. This constitutes an uncertainty for the knowledge of the
+
+beneficial effect of siltuximab in MCD patients, probably reflecting a lower efficacy rate in this
+
+histological subtype. However, a positive treatment effect across all major secondary endpoints was
+
+consistently shown among siltuximab-treated subjects in the hyaline vascular subgroup, that were
+
+less pronounced than in the overall population (eg, investigator-assessed tumour response,
+
+haemoglobin response, median time to treatment failure, and median time to next treatment). This
+
+information is reflected in section 5.1 of the SmPC.
+
+Data on survival are still immature. Final OS results will be provided according to agreed timelines
+
+(see discussion on Clinical Efficacy).
+
+A Registry could provide some further insights into the optimal dose, pharmacogenomics data,
+
+subgroups together with efficacy data.
+
+***Risks***
+
+**Unfavourable effects**
+
+The most frequently reported AEs in the siltuximab group were pruritus (22 subjects; 42%), upper
+
+respiratory tract infection (19 subjects; 36%), rash maculo-papular and fatigue (18 subjects each;
+
+34%), and peripheral oedema (17 subjects; 32%).
+
+Pruritus, upper respiratory tract infection, rash maculo-papular, localized edema, weight increased,
+
+abdominal pain, nasopharyngitis, thrombocytopenia, renal impairment, hypertriglyceridemia,
+
+hypertension, neutropenia, and anaphylactic reaction, have been identified as ADRs for siltuximab.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 86/92
+
+
+-----
+
+With regard to AEs grade 3 or higher into the study CNTO328MCD2001, twenty-five subjects (47%)
+
+in the siltuximab group and 14 subjects (54%) in the placebo group had Grade 3 or higher AEs. AEs
+
+classified in the following SOCs were the most frequently reported ( ≥ 10% of subjects) in the
+
+siltuximab group: Metabolism and Nutrition Disorders (9 subjects; 17%), General Disorders and
+
+Administration Site Conditions (8 subjects; 15%), and Skin and Subcutaneous Tissue Disorders (6
+
+subjects; 11%). Hyperkalaemia (3.8 % vs 0%) hyperuricaemia (3.8 % vs 0%) fatigue (9.4% vs
+
+3.8%) localised oedema (3.8% vs 0%) night sweats (7.5% vs 3.8%) hyperhidrosis (3.8% vs 0%)
+
+hypertension (3.8% vs 0%) and weight increased (3.8% vs 0%) are the most marked AEs
+
+associated to siltuximab in the pivotal trial. With regard to the MCD monotherapy studies, the
+
+pattern is quite similar with the exception of nervous system disorders (7.3% vs 3.8%) and
+
+respiratory disorders (6.1% vs 3.8%)
+
+SAEs were reported in 12 subjects (23%) in the siltuximab group and 5 subjects (19%) in the
+
+placebo group.
+
+The percentage of treatment interruptions due to AEs was higher for siltuximab group (28% vs
+
+19%) than placebo, with infections and infestations (7.5% vs 3.8%; siltuximab and placebo
+
+respectively) and skin and subcutaneous tissue disorders (7.5 % vs 0%) as main reasons for that.
+
+**Uncertainty in the knowledge about the unfavourable effects**
+
+The safety database is limited and consists of a number of small studies in various disease groups.
+
+Despite the fact that 650 patients have been exposed to siltuximab, there is a comparatively small
+
+number of patients who have been exposed in the target population (103 patients) and an even
+
+smaller number at the target dose (82 patients). Although the safety profile appears to be
+
+acceptable in the short term, there is a lack of data with respect to long term safety since only 19
+
+patients have been entered into the phase II extension study CNTO328MCD2002. A Registry will be
+
+conducted to address this issue and collect additional safety data.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 87/92
+
+
+-----
+
+|Col1|Effect Durable tumor and|Short Description Response is defined|Unit proportion of|Siltuximab|Placebo|Uncertainties/ Strength of evidence Both assessments by independent|References B/R No MO|
+|---|---|---|---|---|---|---|---|
+|Favourable|Durable tumor and symptomatic response (by independent review) is the primary endpoint|Response is defined as both tumour response (CR/PR) and symptomatic response (either absence of symptoms or at least stabilised), both should last > 18 weeks|proportion of responders|34% (2%CR + 32%PR)|0% (0% CR + 0% PR)|Both assessments by independent reviewer and investigator gave similar results: highly consistent and robust evidence. Lower efficacy rate in the hyaline vascular histology subgroup for siltuximab (0%), though a consistent treatment effect favouring siltuximab across major secondary endpoints was observed. Uncertainty about optimal dose Duration of treatment response is supported by available long-term data The median time to treatment failure was not achieved by the siltuximab group|B/R No MO identified Subgroup analysis in SmPC section 5.1|
+||Duration of tumor and symptomatic response (by independent review) (2ry endpoint)|Duration of response (both tumour and symptomatic)|Median (days)|340.0|- -|||
+||Time to treatment failure (tumoral response only) (2ry endpoint)|Time to treatment failure is defined as the time from randomization to treatment failure.|Median (days)|Not achieved|134|||
+||Tumour response rate(Independent review) (2ry endpoint)|By Cheson criteria|%|37.7|3.8||Clinical AR|
+||Haemotological parameters: anemia|Change from baseline in haemoglobin levels defined as the proportion of patients who increase: ≥15 g/L ≥20 g/L|%|61.3 % (≥15 g/L) 41.9% (≥20 g/L )|0% 0%|Key 2ry endpoint from the clinician perspective with outstanding results: 13 patients (42% of evaluable subjects) normalised their Hb values. Supported by MCD-related symptoms improvement|Clinical AR|
+||OS|HR|-|100%|92%|Data still immature and of little relevance|Clinical AR|
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 88/92
+
+
+-----
+
+|Unfavourable|Tolerability|Treatment discontinuation|%|42%|77%|Good tolerability of the medicinal product, generally accepted AE profile. Discontinuations in placebo due to disease progression. The main uncertainty is the limited sample size of the safety database, which is too limited to properly characterise AEs grade 3 and SAEs Uncertainties regarding long term safety|No MO identified.|
+|---|---|---|---|---|---|---|---|
+|||Interrumptions due to AE (no dose modification allowed)|%|28|19|||
+||Skin reactions|≥G3|%|11.3|3.8||Clinical AR|
+||Metabolism and nutrition|≥G3|%|17|3.8|||
+||General disorders (oedema/fatigue)|≥G3|%|15|3.8|||
+||Renal impairment|AEs|%|9.4%|0%|||
+
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 89/92
+
+
+-----
+
+***Benefit-risk balance***
+
+**Importance of favourable and unfavourable effects**
+
+There is no accepted standard of care for non-viral MCD and no treatment consistently results in a
+
+reduction in tumor burden in MCD patients; therefore prognosis remains poor with fatal outcomes
+
+reported. Therefore an unmet medical need for such population is readily acknowledged.
+
+In this context the results of the pivotal study are considered of clinical relevance. A statistically
+
+significant improvement in the durable and symptomatic response associated with treatment with
+
+siltuximab compared with placebo, and a statistically significant maintenance of the effect (longer
+
+duration of tumour and symptomatic response and time to treatment failure) was observed.
+
+Regarding the safety profile, even considering the limited sample of the safety database and the
+
+uncertainties related to the long-term safety and tolerability, overall, the safety profile is considered
+
+acceptable and generally manageable.
+
+**Benefit-risk balance**
+
+The efficacy of siltuximab in subjects with MCD has been demonstrated both in terms of tumour and
+
+symptoms burden as well as in maintenance of the effect. This, associated to the tolerable safety
+
+profile in this population, provides compelling evidence that the benefits of siltuximab are clinically
+
+meaningful and favourable relative to the safety profile for the treatment of subjects with MCD.
+
+***Discussion on the benefit-risk balance***
+
+The benefit-risk balance of siltuximab for the treatment of non-HIV MCD patients is considered
+
+favourable in the claimed indication considering the beneficial clinical effect on tumour and
+
+symptom response that have been observed. This positive effect seems to be maintained over time.
+
+Finally, based on the convincing results obtained in the phase II trial, the clinical data can be
+
+considered to be comprehensive. However, a Registry will provide further efficacy and safety data
+
+with respect to optimal dose and pharmacogenomics data.
+## **4. Recommendations **
+
+***Outcome***
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus
+
+that the risk-benefit balance of Siltuximab in the treatment of adult patients with multicentric
+
+Castleman’s disease (MCD) who are human immunodeficiency virus (HIV) negative and human
+
+herpesvirus-8 (HHV-8) negative is favourable and therefore recommends the granting of the
+
+marketing authorisation subject to the following conditions:
+
+***Conditions or restrictions regarding supply and use***
+
+Medicinal products subject to restricted medical prescription (See Annex I: Summary of Product
+
+Characteristics, section 4.2).
+
+***Conditions and requirements of the Marketing Authorisation***
+### • Periodic Safety Update Reports
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 90/92
+
+
+-----
+
+The marketing authorisation holder shall submit the first periodic safety update report for this
+
+product within 6 months following authorisation. Subsequently, the marketing authorisation holder
+
+shall submit periodic safety update reports for this product in accordance with the requirements set
+
+out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive
+
+2001/83/EC and published on the European medicines web-portal.
+
+***Conditions or restrictions with regard to the safe and effective use of the medicinal***
+
+***product***
+### • Risk Management Plan (RMP)
+
+The MAH shall perform the required pharmacovigilance activities and interventions detailed in
+
+the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed
+
+subsequent updates of the RMP.
+
+An updated RMP should be submitted: • At the request of the European Medicines Agency; • Whenever the risk management system is modified, especially as the result of new
+
+information being received that may lead to a significant change to the benefit/risk profile
+
+or as the result of an important (pharmacovigilance or risk minimisation) milestone being
+
+reached.
+
+If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at
+
+the same time. • Obligation to complete post-authorisation measures
+
+***New Active Substance Status***
+
+Based on the CHMP review of data on the quality properties of the active substance, the CHMP
+
+considers that siltuximab is qualified as a new active substance.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 91/92
+
+|The MAH shall complete, within the stated timeframe, the below measures: Description|Due date|
+|---|---|
+|Description|Due date|
+|To submit an updated analysis of overall survival for study CNTO328MCD2001|31/08/2017|
+|To submit an updated analysis of overall survival for study CNTO328MCD2002|31/08/2017|
+|A Registry should be conducted to collect information on patients with Castleman’s disease, who are candidates to receive Sylvant or are currently receiving treatment with Sylvant. The registry should be continued for the either 100 patients, or 5 years, whichever is greater. The MAH should provide tabulated data to the CHMP every 6 months in line with the periodic safety update report (PSUR) cycle including data for only those patients who are candidates for treatment with siltuximab.|Protocol: 31/12/2014 First tabulated update: 30/11/2015 (aligned with expected PSUR cycle)|
+
+
+-----
+
+#### **REFERENCES **
+
+Bowne WB, Lewis JJ, Filippa DA, et al. The management of unicentric and multicentric Castleman's
+
+disease: a report of 16 cases and a review of the literature. Cancer. 1999;85(3):706-717.
+
+Casper C. The aetiology and management of Castleman disease at 50 years: translating
+
+pathophysiology to patient care. Br J Haematol. 2005;129(1):3-17.
+
+Castleman B, Towne VW. Case records of the Massachusetts General Hospital; weekly
+
+clinicopathological exercises; founded by Richard C. Cabot. New Engl J Med.
+
+1954;251(10):396-400.
+
+Cronin DM, Warnke RA. Castleman disease: an update on classification and the spectrum of
+
+associated lesions. Adv Anat Pathol 2009;16(4):236–246.
+
+Dispenzieri A. Castleman disease. Cancer Treat Res. 2008;142:293-330.
+
+Dispenzieri A, Armitage JO, Loe MJ and et.al. The clinical spectrum of Castleman's disease. Am J
+
+Hematol. 2012;87(11):997-1002.
+
+Gaba AR, Stein RS, Sweet DL, Variakojis D. Multicentric giant lymph node hyperplasia. Am J Clin
+
+Pathol 1978;69:86-90.
+
+Greiner T, Armitage JO, Gross TG. Atypical lymphoproliferative diseases. Amer Soc Hemat
+
+2000;133-146.
+
+Katsume A, Miyai T, Suzuki H, et al. Interleukin-6 overexpression cannot generate serious disorders
+
+in severe combined immunodeficiency mice. Clin Immunol Immunopathol. 1997;82(2):117-124.
+
+Katsume A, Saito H, Yamada Y, et al. Anti-interleukin 6 (IL-6) receptor antibody suppresses
+
+Castleman's disease like symptoms emerged in IL-6 transgenic mice. Cytokine. 2002;
+
+20(6):304-311.
+
+Mauray S, Fuzzati-Armentero MT, Trouillet P, et al. Epstein-Barr virus-dependent
+
+lymphoproliferative disease: critical role of IL-6. Eur J Immunol. 2000; 30(7):2065-73.
+
+Moore PS, Boshoff C, Weiss RA, Chang Y. Molecular mimicry of human cytokine and cytokine
+
+response pathway genes by KSHV. Science. 1996;274(5293):1739-1744.
+
+Smith P, Keller E. Anti-Interleukin-6 monoclonal antibody induces regression of human prostate
+
+cancer xenografts in nude mice. The Prostate. 2001; 48:47-53.
+
+Talat N, Belgaumkar AP, Schulte KM. Surgery in Castleman's disease: a systematic review of 404
+
+published cases. Ann Surg 2012;255:677–684.
+
+van Rhee F, Stone K, Szmania S, Barlogie B, Singh Z. Castleman disease in the 21st century: an
+
+update on diagnosis, assessment, and therapy. Clin Adv Hematol Oncol. 2010;8(7):486-498.
+
+Weissglas M, Schamhart D, Lowik C, Papapoulos S, Theuns H, Kurth K. The role of interleukin-6 in
+
+the induction of hypercalcaemia in renal cell carcinoma transplanted into nude mice. Endocrinology.
+
+1997; 138(5):1879-1885.
+
+CHMP assessment report
+EMA/CHMP/258608/2014 Page 92/92
+
+
+-----
+

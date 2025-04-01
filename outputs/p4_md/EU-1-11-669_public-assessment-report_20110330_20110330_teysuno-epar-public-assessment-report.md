@@ -1,0 +1,4393 @@
+16 December 2010
+EMA/CHMP/831565/2010
+Committee for Medicinal Products for Human Use (CHMP)
+# Assessment Report For Teysuno (tegafur/gimeracil/oteracil) Procedure No.: EMEA/H/C/0001242
+
+**Assessment Report as adopted by the CHMP with**
+**all information of a commerciall** **y** **confidential nature deleted**
+
+7 Westferry Circus **●** Canary Wharf **●** London E14 4HB **●** United Kingdom
+
+**Telephone** +44 (0)20 7418 8400 **Facsimile** +44 (0)20 7418 8613
+
+**E-mail** info@ema.europa.eu **Website** www.ema.europa.eu An agency of the European Union
+
+© European Medicines Agency, 2011. Reproduction is authorised provided the source is acknowledged.
+
+
+-----
+
+## **Table of contents **
+### **1. Background information on the procedure .............................................. 5**
+#### 1.1. Submission of the dossier.................................................................................... 5 1.2. Steps taken for the assessment of the product ....................................................... 6
+### **2. Scientific discussion ................................................................................ 7**
+#### 2.1. Introduction ...................................................................................................... 7 2.2. Quality aspects .................................................................................................. 8 2.2.1. Introduction ................................................................................................... 8 2.2.2. Active Substance............................................................................................. 8 2.2.3. Finished Medicinal Product .............................................................................. 12 2.2.4. Discussion and conclusions on chemical, pharmaceutical and biological aspects ...... 13 2.3. Non-clinical aspects.......................................................................................... 14 2.3.1. Pharmacology ............................................................................................... 14 2.3.2. Pharmacokinetics .......................................................................................... 16 2.3.3. Toxicology.................................................................................................... 18 2.3.4. Ecotoxicity/environmental risk assessment........................................................ 25 2.3.5. Discussion and conclusions on non-clinical aspects ............................................. 25 2.4. Clinical aspects ................................................................................................ 28 2.4.1. Introduction ................................................................................................. 28 2.4.2. Pharmacokinetics .......................................................................................... 31 2.4.3. Pharmacodynamics........................................................................................ 34 2.4.4. Discussion and Conclusions on clinical pharmacology.......................................... 35 2.5. Clinical efficacy ................................................................................................ 35 2.5.1. Dose response studies.................................................................................... 35 2.5.2. Main study ................................................................................................... 36 2.5.3. Discussion and conclusions on clinical efficacy ................................................... 51 2.6. Clinical safety .................................................................................................. 52 2.6.1. Discussion and conclusions on clinical safety ..................................................... 61 2.7. Pharmacovigilance............................................................................................ 62 2.8. Benefit-Risk Balance......................................................................................... 65 2.8.1. Discussion on the benefit-risk balance .............................................................. 67 2.9. Recommendation ............................................................................................. 67
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 2/67
+
+
+-----
+
+## **List of abbreviations **
+
+5-FU 5-fluorouracil
+ADME absorption, distribution, metabolism, excretion
+ADR Adverse drug reaction (ie, treatment-related adverse
+event)
+AE Adverse event
+ALT Alanine aminotransferase (SGPT)
+AST Aspartate aminotransferase (SGOT)
+AUC Area under the plasma concentration-time curve
+AUC 0-inf Area under the plasma concentration-time curve from
+time zero to infinity
+AUC0-last Area under the concentration-time curve from time 0
+to last sampling time
+5-AZU 5-azauracil
+b.i.d. twice a day
+CA cyanuric acid
+CDDP Cisplatin
+CDHP Gimeracil
+CF 5-FU + Cisplatin
+CFT CDHP + FT
+
+CI Confidence interval
+
+Cl Clearance
+
+cm Centimetre
+Cmax Maximum plasma concentration
+CNS Central nervous system
+CPT Irinotecan
+
+CrCl Creatinine clearance
+CRF Case Report Form
+CS S-1 + cisplatin
+CSR Clinical Study Report
+CTC Common Toxicity Criteria
+CYP Cytochrome P-450 enzyme system
+CV Coefficient of variation
+
+DLT Dose Limiting Toxicity
+DNA Deoxyribonucleic acid
+DPD Dihydropyrimidine Dehydrogenase
+dTMP deoxythymidine monophosphate
+dUMP deoxyuridine monophosphate
+ECG Electrocardiogram
+ED 50 half-maximally effective dose
+ERA Environmental Risk Assessment
+
+F female
+FCD combination of tegafur with CDHP
+FBAL α-fluoro-β-alanine
+FdUMP fluorodeoxyuridine monophosphate
+FLAGS First-Line Advanced Gastric Cancer Study (S-1301)
+FT Tegafur
+FUMP fluorouridine triphosphate
+FUPA 5,6 dihydro-5-FU, α fluoro β ureidopropionate
+GE Gastroesophageal
+GI tract gastrointestinal tract
+Gimeracil CDHP
+hERG human ether-a-go-go-related gene
+HEK293 cells human embryonic kidney cells
+HFS Hand-Foot Syndrome
+HR Heart rate
+
+HTN Hypertension
+IC 50 value half-maximally inhibitory concentration
+i.v. intravenous
+kg Kilograms
+KPS Karnofsky Performance Status
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 3/67
+
+
+-----
+
+LDH Lactate Dehydrogenase
+M male
+m2 Meters squared
+MedDRA Medical Dictionary for Regulatory Activities
+mg Milligram
+mg Milligrams
+MI Myocardial Infarction
+mL Millilitre
+
+mM Millimolar
+
+MTD Maximum Tolerated Dose
+N,N-DMF N,N-Dimethylformamide
+NCI National Cancer Institute
+
+NOAEL no observed adverse effect level
+
+NOEL no observed effect level
+ns Not Significant
+OPRT orotate phosphoribosyl transferase
+OS Overall survival
+Oxo Oxonic acid; Oteracil potassium.
+PD Progressive Disease; Disease Progression
+PFS Progression-free survival
+P-gp P-glycoprotein
+PK Pharmacokinetic(s)
+p.o. per os (oral)
+PPI Proton pump inhibitor
+PR interval The beginning of the P wave to the QRS complex
+PT Preferred Term
+QD Once daily
+QTc interval The length of time it takes the heart’s electrical
+system to repolarise, adjusted for heart rate (HR:
+normal is 350-440 milliseconds)
+QTc Corrected QT interval
+QTcB QT interval using Bazett’s correction
+QTcF QT interval using Fridericia’s correction
+QTcN QT interval using population-specific correction
+RBC Red Blood Cell
+
+RNA Ribonucleic acid
+ROS reactive oxygen species
+RR RR interval (time from one heartbeat to the next)
+S-1 An oral pyrimidine fluoride-derived anticancer agent.
+Consists of tegafur combined with gimeracil and
+oteracil potassium
+SAE Serious Adverse Event
+
+SD Standard Deviation
+SGOT Serum glutamic oxaloacetic transaminase
+SGPT Serum glutamic pyruvic transaminase
+SOC System Organ Class
+t1/2 Half-life
+t max Time to maximum plasma concentration
+TAB-1001 CDHP
+TAB-1501 potassium oxonate
+Tegafur FT
+TPJ Taiho Pharmaceutical Japan, LTD.
+TPUI Taiho Pharma USA, Inc.
+TS thymidylate synthase
+TTC Threshold of toxicological concern
+TTP Time to tumour progression
+UFT tegafur/uracil combination product in a molar ratio of
+1:4
+UK United Kingdom
+ULN Upper Limit of Normal
+US; USA United States; United States of America
+WBC White blood cell
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 4/67
+
+
+-----
+
+## **1. Background information on the procedure **
+### ***1.1. Submission of the dossier ***
+
+The applicant Taiho Pharma Europe Ltd submitted on 28 October 2009 an application for Marketing
+
+Authorisation to the European Medicines Agency (EMA) for Teysuno, through the centralised procedure
+
+falling within the Article 3(1) and point 4 of Annex of Regulation (EC) No 726/2004. The eligibility to
+
+the centralised procedure was agreed upon by the EMA/CHMP on 23 April 2009.
+
+Teysuno was designated as an orphan medicinal product EU/3/07/515 on 20 December 2007. Teysuno
+
+was designated as an orphan medicinal product in the following indication: for treatment of gastric
+
+cancer. The calculated prevalence of this condition was 3 per 10,000 EU populations.
+
+At the time of the review of the orphan designation criteria by the Committee on Orphan Medical
+
+Products (COMP), the Applicant requested the Commission to remove the product from the Community
+
+Register of Orphan Medicinal Products on 12 January 2011.
+
+The applicant applied with the Marketing Authorisation Application for the indication of treatment of
+
+advanced gastric cancer in combination with cisplatin.
+
+**The legal basis for this application refers to:**
+
+Article 8.3 of Directive 2001/83/EC.
+
+The application submitted is composed of administrative information, complete quality data, non
+clinical and clinical data based on applicants’ own tests and studies. ***Information on Paediatric requirements ***
+
+Pursuant to Article 7 of Regulation (EC) No 1901/2006, the application included an EMA Decision
+
+P/17/2008 for the following condition:
+
+- Treatment of gastric adenocarcinoma
+
+on the granting of a class waiver. ***Information relating to Orphan Market Exclusivity ***
+
+**Similarity**
+
+Not applicable.
+
+**Market Exclusivity**
+
+Not applicable. ***Scientific Advice: ***
+
+The applicant did not seek Scientific Advice at the CHMP.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 5/67
+
+
+-----
+
+### ***Licensing status ***
+
+Teysuno has been given a Marketing Authorisation in Japan on 25 January 1999, South Korea on
+
+29 July 2003, China on 9 January 2009 and Singapore on 13 July 2009. ***1.2. Steps taken for the assessment of the product ***
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP and the evaluation teams were:
+
+Rapporteur: **Barbara van Zwieten-Boot** Co-Rapporteur: **Gonzalo Calvo Rojas**
+
+- The application was received by the EMA on 28 October 2009.
+
+- The procedure started on 18 November 2009.
+
+- The Rapporteur's first Assessment Report was circulated to all CHMP members on 5 February 2010.
+
+The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 8 February
+
+2010.
+
+- During the meeting on 18 March 2010, the CHMP agreed on the consolidated List of Questions to
+
+be sent to the applicant. The final consolidated List of Questions was sent to the applicant on
+
+19 March 2010).
+
+- The applicant submitted the responses to the CHMP consolidated List of Questions on
+
+14 June 2010.
+
+- The Rapporteurs circulated the Joint Assessment Report on the applicant’s responses to the List of
+
+Questions to all CHMP members on 3 September 2010.
+
+- During the CHMP meeting on 23 September 2010, the CHMP agreed on a list of outstanding issues
+
+to be addressed in writing by the applicant.
+
+- The applicant submitted the responses to the CHMP consolidated List of Outstanding Issues on
+
+15 October 2010.
+
+- The Rapporteurs circulated the Joint Assessment Report on the applicant’s responses to the List of
+
+Outstanding Issues to all CHMP members on 2 November 2010.
+
+- The Rapporteurs circulated the updated Day 180 Joint Assessment Report to all CHMP members on
+
+12 November 2010.
+
+- During the meeting on 13-16 December 2010 the CHMP, in the light of the overall data submitted
+
+and the scientific discussion within the Committee, issued a positive opinion for granting a
+
+Marketing Authorisation to Teysuno on 16 December 2010. The applicant provided the letter of
+
+undertaking on the follow-up measures to be fulfilled post-authorisation on 19 November 2010.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 6/67
+
+
+-----
+
+## **2. Scientific discussion **
+### ***2.1. Introduction *** **Problem statement **
+
+In the current application for marketing authorisation the applicant applied for an indication for
+
+Teysuno for the treatment of advanced gastric cancer together with the use of cisplatin.
+
+Advanced gastric cancer includes locally advanced unresectable gastric cancer (accounting for 30% of
+
+all gastric cancers) and metastatic gastric cancer at the time of diagnosis (accounting for 30% of all
+
+gastric cancers), as well as recurrent gastric cancer after resection.
+
+Metastatic gastric cancer remains an incurable disease, with a 5-year survival proportion of 7%-27%.
+
+Chemotherapy is the main treatment option. Cisplatin- 5-FU (CF) based chemotherapy has been used
+
+as a reference regimen for clinical use and for protocols until recently. In 2006 a meta-analysis from
+
+randomized studies showed that the best survival results may be obtained with three-drug regimens
+
+containing a fluoropyrimidine, an anthracycline, and cisplatin (e.g. ECF, A. Wagner *et al* . 2006).
+
+A number of new combinations incorporating docetaxel, oxaliplatin and capecitabine are being
+
+developed. Published results of some combinations, such as epirubicin-oxaliplatin-capecitabine, or
+
+docetaxel-cisplatin-5-FU have claimed similar or higher activity than ECF (epirubicine/cisplatin/5-FU). **About the product **
+
+Teysuno is an oral, fixed dose combination drug of tegafur (a fluoropyrimidine prodrug of
+
+5-fluorouracil) and 2 modulators of 5-FU-metabolism; gimeracil and oteracil. Teysuno has been
+
+developed with the initial aim to provide an orally bioavailable 5-FU formulation with sustained plasma
+
+concentrations which mimic the pharmacokinetics of continuous infusion, aiming to reduce
+
+gastrointestinal toxicity, and aiming to provide added convenience through oral administration.
+
+Tegafur is an orally bioavailable fluoropyrimidine that is gradually converted into 5-FU by
+
+C-5’ oxidation (by microsomal enzymes, principally CYP2A6) and C-2’ hydrolysis (by cytosolic
+
+enzymes, principally thymidine phosphorylase). The mechanism of action of 5-FU has been extensively
+
+studied over time, causing death of proliferating cells inhibiting DNA synthesis through two major
+
+pathways. One is through 5-FU metabolic activation into FdUMP that inhibits DNA synthesis by
+
+inhibition of TS. The second metabolic pathway affects RNA function. 5-FU is metabolized into
+
+5-fluorouridine triophosphate that can be incorporated into RNA affecting RNA normal function and
+
+resulting in protein errors that may cause cell death.
+
+According to the applicant, gimeracil has been added as modulator to enhance the efficacy of tegafur
+
+by inhibiting catabolism and subsequent inactivation of 5-FU by inhibiting the enzyme DPD
+
+(dihydropyrimidine dehydrogenase), so that it was expected that efficacious blood and tumour
+
+concentrations of 5-FU are maintained for a longer period of time. The applicant also postulated that
+
+oteracil has been added as modulator to reduce unwanted 5-FU-induced gastrointestinal toxicity, as
+
+gastrointestinal toxicity is related to phosphorylation of 5-FU.
+
+Oteracil, by inhibiting the enzyme orotate phosphoribosyl transferase (OPRT), inhibits the anabolism of
+
+5-FU to 5-fluorouridine-5’-monophosphate (FUMP). FUMP is metabolised to a series of products
+
+including FdUMP. According to the applicant, oteracil distributes into normal gastrointestinal tract
+
+tissues but not, or only to a limited extent, into tumour cells, and so it was expected to reduce the
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 7/67
+
+
+-----
+
+unwanted 5-FU toxicity to gastrointestinal tissues without compromising the desired anti-tumour
+
+effects.
+
+The recommended dose of Teysuno as combination therapy with cisplatin is 25 mg per body surface
+
+area (m [2] ) administered orally, twice daily (BID) for 21 days with a single dose of cisplatin 75 mg/m [2]
+
+administered as a 1 to 3 hour intravenous infusion following the morning dose of Teysuno on day 1 of
+
+each treatment cycle. Each 28-day treatment cycle will include a 7-day recovery period on days 22 to
+
+28. The comprehensive posology and method of administration for Teysuno is presented in section 4.2
+
+of the Summary of Product Characteristics (SmPC).
+### ***2.2. Quality aspects *** **2.2.1. Introduction **
+
+Teysuno contains three active substances, tegafur, gimeracil and oteracil; oteracil in the form of
+
+potassium salt). The drug product formulation is a hard capsule for oral administration. There are two
+
+strengths of capsules, 15 mg and 20 mg (based on tegafur content). The capsule content is
+
+proportionally identical for both strengths.
+
+Teysuno capsules are packaged in opaque white PCTFE/PVC blister film with aluminum foil lidding.
+
+The different capsule strengths are distinguishable from each other by different capsule colour
+
+combination and different imprints. Teysuno 15 mg capsules are in opaque white body and opaque
+
+brown cap imprinted “TC448” in grey. Teysuno 20 mg capsules are in an opaque white body and
+
+opaque white cap imprinted “TC442” in grey. **2.2.2. Active Substance **
+
+**Tegafur**
+
+Tegafur is the INN name of the active substance with the chemical name 5-Fluoro-1-(2
+tetrahydrofuryl)-2, 4(1H,3H)-pyrimidinedione, corresponding to the molecular formula C 8 H 9 FN 2 O 3 and
+
+relative molecular mass 200.17. Its structural formula is shown below.
+
+It appears as a white to off-white non hygroscopic crystalline powder, soluble in water. The molecule
+
+has one asymmetric centre and it is manufactured as a racemate. The pH of a saturated aqueous
+
+solution is 4.6. The pKa value is 7.98 and the partition coefficients (1-octanol/water) at pH 2-6 is 0.46
+
+but decreases at pH>7. The molecule shows polymorphism; three crystalline forms are possible
+
+however from the synthesis process only the desired form is obtained. ***Manufacture ***
+
+An ASMF has been submitted for tegafur. The manufacturing process consists of a number of steps
+
+including purification and crystallisation and it is well described. Reaction conditions, amounts of
+
+starting material, solvents, reagents employed and yields have been reported. A well described
+
+reprocessing, in case tegafur does not comply with the specification, is presented.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 8/67
+
+
+-----
+
+The critical process parameters and controls have been correctly discussed. Tegafur has been
+
+commercialised in the EU for several years and no alerting structure for potential genotoxic impurities
+
+has been found in the manufacturing process.
+### ***Specification ***
+
+The drug substance specification includes tests for description (visual), identification (IR, HPLC), assay
+
+(HPLC), related substances (HPLC), residual solvents (GC), loss on drying (Ph.Eur), heavy metals
+
+(Ph.Eur), and residue on ignition (Ph.Eur).
+
+Batch analysis results of a large number of full-scale batches have been provided. The last 40 of those
+
+batches were tested according to the current specification and all of them complied showing the
+
+process’ consistency and drug substance uniformity. In addition results for three recently
+
+manufactured commercial batches were included in the dossier. All of them meet the current
+
+specification. ***Stability ***
+
+A total of nine batches have been put into stability and results were presented. All batches were full
+scale and manufactured at the proposed manufacturing site. All of them have been studied under long
+
+term conditions (25 ± 2 °C /60 ± 5% RH) and intermediate (30 ± 2 °C /65 ± 5% RH) for up to five
+
+years. Three batches have been studied under accelerated (40 ± 2 °C /75 ± 5% RH) for six months.
+
+All data have been provided according to ICH Guidelines. After storage for five years at 25°C/60% RH
+
+and 30°C/65, no changes were observed in all of the tested items. After six months storage at
+
+40°C/75% RH appearance was unchanged. No trends were observed with respect to tested
+
+parameters. No trends toward a decrease in purity could be seen. Although individual impurities are
+
+not reported, no additional information will be required since no change in total impurities is observed.
+
+The packaging material is equivalent to that proposed for commercial storage container.
+
+The stress testing revealed no trends towards a decrease in purity. Tegafur was not found to be
+
+photosensitive when exposed to visible and ultraviolet light. On the basis of the provided stability data,
+
+the proposed re-test period and storage conditions are acceptable.
+
+In accordance with EU GMP guidelines [1], any confirmed out of specification result, or significant
+
+negative trend, should be reported to the Rapporteur and the EMA.
+
+**Gimeracil**
+
+Gimeracil is the INN name of the active substance with the chemical name 5-chloro-2,4
+dihydroxypyridine, corresponding to the molecular formula C 5 H 4 ClNO 2 and relative molecular mass
+
+145.54. Its structural formula is shown below.
+
+It appears as a white to off-white, odourless, non hygroscopic crystalline powder, slightly soluble in
+
+water. Gimeracil drug substance shows no optical rotation. The pH of a 0.1% solution is 3.5. The
+
+1 6.32 of Vol. 4 Part I of the Rules Governing Medicinal Products in the European Union
+
+Teysuno
+
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 9/67
+
+
+-----
+
+molecule shows polymorphism; three crystalline forms are possible however from the synthesis
+
+process only the desired form is obtained.
+### ***Manufacture ***
+
+An ASMF has been submitted for gimeracil. The manufacturing process consists of a single synthetic
+
+step followed by a purification step. Reprocessing is foreseen and described in case gimeracil does not
+
+comply with the specification. Sufficient details have been provided on the synthesis of gimeracil,
+
+including yields, drying temperatures, reaction times and IPCs. The critical process parameters and
+
+controls have been satisfactorily discussed. ***Specification ***
+
+The drug substance specification includes tests for description (visual), melting point (Ph. Eur.),
+
+identification (IR, UV), absorption (spectrophotometry), chloride (Ph. Eur.), sulfate (Ph. Eur.), heavy
+
+metals (Ph. Eur.), assay (HPLC), related substances (HPLC), residual solvents (GC), water content
+
+(Ph.Eur) and residue on ignition (Ph.Eur).
+
+A risk analysis to assess the potential presence of genotoxic impurities has been provided. Considering
+
+the proposed limit for an impurity that can be categorized as genotoxic in the drug substance, the
+
+maximum daily intake for this impurity and taking into account the use of the drug product and
+
+duration of exposure, no additional information will be required.
+
+Absence of a routine test for microbial quality is sufficiently justified as this is not critical for Gimeracil.
+
+Batch analysis results of a large number of batches have been provided. Almost all batches were full
+scale. All batches manufactured according the current process comply within the proposed
+
+specification and show good process consistency and product uniformity. ***Stability ***
+
+Long-term and accelerated stability studies were performed using three batches of gimeracil
+
+manufactured at full production scale. In addition, temperature stress tests and photostability test
+
+were performed using at pilot scale gimeracil batch. Both pilot scale and full scale manufacture are
+
+considered equivalent.
+
+After storage for 36 months at 25 ± 2 °C /60 ± 5% RH and 30 ± 2 °C /65 ± 5% RH, no changes were
+
+observed in any of the tested items. After six months storage at 40 ± 2 °C /75 ± 5% RH, appearance
+
+was unchanged. No trends were observed with respect tested parameters.
+
+Photostability studies shows gimeracil is be considered stable after exposure to light in solid state.
+
+In general, the stability studies are in agreement with ICH Q1A and Q1B Guidelines. All results of
+
+long-term and accelerated studies meet the proposed specification.
+
+On the basis of the provided stability data, the claimed re-test period and storage conditions are
+
+acceptable.
+
+In accordance with EU GMP guidelines [2], any confirmed out of specification result, or significant
+
+negative trend, should be reported to the Rapporteur and the EMA.
+
+**Oteracil**
+
+Oteracil is the INN name of the active substance with the chemical name monopotassium 1,2,3,4
+tetrahydro-2,4-dioxo-1,3,5-triazine-6-carboxylate, corresponding to the molecular formula C 4 H 2 KN 3 O 4
+
+and relative molecular mass 195.17. Its structural formula is shown below.
+
+2 6.32 of Vol. 4 Part I of the Rules Governing Medicinal Products in the European Union
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 10/67
+
+
+-----
+
+Oteracil is a white crystalline non-hygroscopic powder. It is sparingly soluble in buffer solution (pH 10
+
+and 12), slightly soluble in water and buffer solution (pH 2, 4, 6, 7 and 8), pH= 4.5. pKa was
+
+determined to be 6.6 and 11.8, which are considered to be derived from two imino groups. pKa
+
+derived from the carboxyl group was determined to be 1.1. Oteracil was not distributed to the 1
+octanol phase and partitioned in the water phase at all pH conditions. The molecule has not
+
+asymmetric carbons. Pseudo-polymorphic form of hemi-hydrate exists. The drug substance is the
+
+anhydride form which shows no polymorph.
+### ***Manufacture ***
+
+An ASMF has been submitted for oteracil. The reaction scheme has been provided. The manufacturing
+
+process consists of a synthetic step followed by a purification step. Reprocessing is foreseen and
+
+described in case oteracil does not meet the specification.
+
+The manufacturing process is well described and sufficient details have been provided regarding
+
+reaction conditions, amounts of starting material, solvents, reagents employed, yields and IPCs. ***Specification ***
+
+The drug substance specification includes tests for description (visual), identification (oteracil: IR, UV
+potassium: Ph.Eur), absorption (spectrophotometry), assay (HPLC), related substances (HPLC),
+
+residual solvents (GC), water content (Ph.Eur), heavy metals (Ph.Eur), and residue on ignition
+
+(Ph.Eur).
+
+A risk analysis to assess the potential presence of genotoxic impurities has been provided. Taking into
+
+account the information presented, the presence of genotoxic impurities is not considered likely.
+
+Microbial limit test is not included in the proposed specification because the manufacturing process of
+
+oteracil ensures there is no need for such a test. In addition, microbial quality tests during storage for
+
+the accelerated and long term tests confirmed that the test can be omitted from the specification.
+
+Batch analysis results of six batches tested against the current specification have been provided. In
+
+addition results of a large number of batches have been provided from the development phase to
+
+more recent years. These earlier batches were tested by the previous specifications (according to the
+
+Japanese Pharmacopoeia (JP)). Data generated by the analytical procedures between the previous
+
+procedure and the current procedure has been compared, and they were concluded to be equivalent.
+
+All batches complied with the tested specification. ***Stability ***
+
+Long-term (25 ± 2 °C /60 ± 5% RH) stability studies were performed using three batches of oteracil.
+
+Another three batches were studied under accelerated (40 ± 2 °C /75 ± 5% RH) for six months and
+
+intermediate conditions (30±2°C 65±5%RH). All batches were full-scale and manufactured at the
+
+proposed manufacturing site following the proposed process. The packaging material used is
+
+equivalent to the commercial storage container.
+
+In addition forced degradation study was done on a smaller scale batch. Oteracil was found to be
+
+stable under elevated temperatures, humid and light in solid-form. The photostability study was
+
+performed according to ICH Guideline “Q1B.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 11/67
+
+
+-----
+
+No remarkable changes were observed in the photostability test and the elevated temperature stress
+
+tests. After storage for 36 months at long term or intermediate conditions, no changes were observed
+
+in any of the tested parameters. After six months storage at accelerated conditions no trends toward a
+
+decrease in purity were observed either. All data have been provided according to ICH Guidelines.
+
+On the basis of the provided stability data, the claimed re-test period and storage conditions are
+
+acceptable.
+### **2.2.3. Finished Medicinal Product ** ***Pharmaceutical Development ***
+
+Teysuno was developed as an immediate release hard capsule formulation and they were originally
+
+approved in Japan in 1999 (20 and 25 mg). The strength of Teysuno is based on the potency of
+
+Tegafur, because that is the active substance for oncology indications. The capsules also contain
+
+gimeracil and oteracil potassium at specified molecular ratio. Compared to Asian patients, metabolic
+
+differences discovered in Western patients during initial clinical studies using Japanese commercial
+
+capsules showed that lower doses were required. After evaluating the pharmacokinetic data from
+
+these studies, the appropriate dosing and consequently strengths were decided. Reference is made to
+
+Module 5 for details of these studies. Therefore, a 15 mg capsule was developed. The 15 mg, 20 mg
+
+and 25 mg (tegafur content) capsules use a common blend; the different strengths are achieved by
+
+adjusting the fill weight. The 15 mg and 20 mg strength was used in the pivotal phase III study
+
+S1301/FLAGS.
+
+The manufacturing process is a standard wet granulation. The quantitative formulations and
+
+manufacturing processes of the clinical and proposed commercial capsules are the same.
+
+The dissolution test results show that there is no significant difference among different strengths.
+
+The drug substance properties that could affect the drug product performance were evaluated during
+
+pharmaceutical development. Based on studies performed on the three active ingredients, tegafur has
+
+been shown to be BCS Class I and gimeracil and oteracil have been shown to be Class III.
+
+The particle size of drug substances can potentially affect the dissolution profile of drug products.
+
+Appropriate acceptance criteria for particle size distribution during drug product manufacture were
+
+established and particle size testing has been included as in-process control in the manufacture.
+
+In order to establish appropriate conditions of granulation and scale-up factors, the operational factors
+
+that affect the physical properties of granules were investigated.
+
+The compatibility of the three active ingredients as well as of the active ingredients with excipients
+
+was evaluated. The selected excipients and the quantities used are common in oral dosage forms.
+
+The drug product is packaged in opaque white PCTFE/PVC blister film with aluminium foil lidding. ***Adventitious agents ***
+
+Valid Certificates of Suitability (CEPs) for sources of gelatin were provided.
+
+Lactose monohydrate is certified by the manufacturer to be appropriately sourced and safe with
+
+respect to the relevant requirements, and the manufacturer’s certification was provided.
+
+Magnesium stearate used in Teysuno is of vegetable origin. ***Manufacture of the product ***
+
+The drug product is manufactured using a standard wet granulation and capsule filling process. Critical
+
+steps and controls of intermediates have been identified and holding times have been established.
+
+Validation will be completed prior to launching in accordance with an agreed protocol.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 12/67
+
+
+-----
+
+### ***Product Specification ***
+
+The release and shelf-life specifications of the finished product include tests and limits for description
+
+(visual), identification (TLC, HPLC- at release only), assay (HPLC), related substances (HPLC), content
+
+uniformity (Ph Eur, at release only), dissolution (Ph.Eur) and microbial limit test (Ph.Eur).
+
+The applicant provided batch analysis results of numerous commercial size batches for both strengths
+
+and in addition for the 25 mg strength. The specification was modified over time, which is sufficiently
+
+explained. The results show that all batches met all specifications in place at the time of release. ***Stability of the product ***
+
+Stability studies have been performed on three batches of each strength stored in the proposed
+
+commercial packaging at ICH recommended long-term (30 ± 2 °C /65 ± 5 % RH), accelerated
+
+conditions (40 ± 2 °C/75 ± 5 % RH). Capsules have been studied for up to 24 months in long term
+
+and for six months in accelerated conditions.
+
+In addition one batch of each strength has been studied for 18 months under long-term conditions
+
+packaged in the intended container for bulk capsules. All batches tested were full scale and
+
+manufactured at the proposed site.
+
+At long-term conditions no changes were observed. At accelerated conditions an increase was
+
+observed for a degradation product. No other changes were observed. Also no significant changes
+
+were observed in the bulk capsules stability. Results of all batches comply with the specifications.
+
+No significant changes were observed in the photostability study performed on one batch per strength.
+
+On the basis of the available results, the proposed shelf life and storage conditions can be granted.
+
+In accordance with EU GMP guidelines [3], any confirmed out of specification result, or significant
+
+negative trend, should be reported to the Rapporteur and the EMA. **2.2.4. Discussion and conclusions on chemical, pharmaceutical and ** **biological aspects **
+
+The quality of Teysuno hard gelatin capsules is adequately established. Information on development,
+
+manufacture and control of the drug substances has been presented in a satisfactory manner. The
+
+quality of the active substances is considered sufficiently described and adequately supported by data.
+
+Sufficient chemical and pharmaceutical documentation relating to development, manufacture and
+
+control of the drug product has been presented. The results of tests carried out indicate satisfactory
+
+consistency and uniformity of important product quality characteristics, and these in turn lead to the
+
+conclusion that the product should have a satisfactory and uniform performance in the clinic.
+
+Stability tests indicate that the product under ICH guidelines conditions is chemically stable for the
+
+proposed shelf life.
+
+3 6.32 of Vol. 4 Part I of the Rules Governing Medicinal Products in the European Union
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 13/67
+
+
+-----
+
+### ***2.3. Non-clinical aspects *** **2.3.1. Pharmacology ** ***Primary pharmacodynamic studies ***
+
+In *in vitro* studies, gimeracil selectively inhibited the target enzyme DPD at IC 50 = 95 nM and oteracil
+
+selectively inhibited the target enzyme OPRT with an IC 50 value of 4.2 M, whereas the metabolites of
+
+oteracil did not significantly inhibit activity of enzymes involved in 5-FU metabolism.
+
+With regard to *in vivo* (animal) studies, antitumor activity of Teysuno was evaluated in rats bearing
+
+tumour cells as well as in mice bearing solid tumour fragments. In addition, efficacy of Teysuno was
+
+evaluated in animals where treatment was started one day after tumour implantation as well as in
+
+animals where tumours were implanted more than 7 days before start of treatment.
+
+In mice and rats bearing different tumour types, the optimum ratio of tegafur:gimeracil:oteracil
+
+producing significant antitumor activity with reduced toxicity was determined to be 1:0.4:1 (1 mg FT :
+
+0.29 mg CDHP: 0.977 mg Oxo). The effect of tegafur and gimeracil was most effective when both
+
+substances were simultaneously administered. The optimum ratio for tegafur:gimeracil:oteracil has
+
+not been studied in species other than mice and rats.
+
+In mice bearing various murine tumour types, Teysuno was observed to be consistently more potent
+
+in inhibiting tumour growth or increasing life span than tegafur alone or the 5-fluorouracil analogs
+
+5-FU or UFT.
+
+In rats, oral treatment with Teysuno showed significant antitumor activity against several kinds of
+
+tumours including, various gastric tumours, head/neck tumours and breast cancer xenografts. In
+
+these models, antitumor activity of Teysuno was significantly more effective than UFT (tegafur/uracil
+
+combination product in a molar ratio of 1:4).
+
+The usefulness of Teysuno compared to tegafur was studied in a rat tumour model. At doses
+
+producing the same level of adverse effects, Teysuno maintained higher concentrations of 5-FU in
+
+plasma, tissues and tumours and more inhibition of intratumoural thymidylate synthase than UFT. In
+
+addition, rats treated with Teysuno showed higher levels of F-nucleotide in tumour tissue than in
+
+gastrointestinal tract tissue. In contrast, levels of F-nucleotide were similar in tumour tissue and
+
+gastrointestinal tract in rats treated with UFT.
+
+When investigating the anti-tumour activity and toxicity of gimeracil and oteracil alone, for oteracil an
+
+antitumor activity was only observed at the highest dose of 2000 mg/kg/day. Since the therapeutic
+
+dose level of both gimeracil and oteracil were less than 20 mg/kg (tegafur:gimeracil:oteracil was
+
+1:0.29:0.977 in mg ratio), it was concluded by the applicant that the induced antitumor activity and
+
+toxicity observed at therapeutic dose levels has been mostly attributable to tegafur and not to
+
+gimeracil and oteracil.
+
+In non tumour-bearing rats and cynomolgus monkeys, addition of oteracil to FCD (combination of
+
+tegafur and gimeracil) decreased the incidence of FCD-induced diarrhoea. However, in the non-tumour
+
+bearing rats, gastrointestinal toxicity was only significantly recovered when 2 M instead of 1 M oteracil
+
+was added, suggesting that Teysuno in its present molar range might not reduce FCD-induced
+
+gastrointestinal toxicity. On the other hand, in a rat model of primary colorectal cancer, addition of
+
+oteracil significantly reduced FCD-induced gastrointestinal toxicity without affecting FCD-induced
+
+antitumor activity. According to the applicant, the reduced gastrointestinal toxicity was considered to
+
+be most likely related to oteracil-induced suppression of 5-FU phosphorylation.
+
+Antitumor activity of Teysuno against tumour cell lines resistant to various anti-cancer agents was
+
+investigated in mice (data not shown).
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 14/67
+
+
+-----
+
+In two different rat tumour models, rats treated with Teysuno per oral administration or 5-FU per
+
+continuous intravenous infusion at doses producing similar antitumor activity, the adverse effects
+
+observed were greater in animals treated by continuous venous infusion with 5-FU than in animals
+
+treated with Teysuno.
+
+Antitumor activity of Teysuno given as a single daily or twice daily divided dose was evaluated in a rat
+
+tumour model. Antitumor activity of Teysuno given as a twice daily divided dose was similar to once
+
+daily administration. However, following treatment with a twice daily divided dose, a smaller decrease
+
+in haematological parameters and faster recovery of WBC was observed, thus supporting a clinical
+
+dosing regimen in which an effective dose is divided and administered twice daily.
+
+The applicant has also carried out a number of studies *in vivo* in non tumour animal models showing a
+
+reduced GI toxicity of Teysuno when compared with a combination lacking oteracil. It is suggested
+
+that the mechanism resulting in lower GI toxicity is due to the suppression of the phosphorylation of
+
+5-FU in normal GI tissues due to oteracil activity.
+### ***Secondary pharmacodynamic studies ***
+
+*In vivo*, during repeat-dose toxicology studies in the dog, Teysuno and FCD induced melanosis in the
+
+sclera, conjunctiva, skin and lymph nodes. Dogs treated with 5 mg/kg Teysuno for 12 consecutive
+
+days, displayed eye discharge, conjunctival hyperaemia, a decrease in goblet cells in the palpebral
+
+conjunctiva, atrophy of the sebaceous glands in the eyelid and decreased thickness of the corneal
+
+epithelium compared to controls. In dogs orally treated with 2.5 mg/kg/day Teysuno for 5 weeks,
+
+progression of conjunctival pigmentation expanded in a circular manner from the cornea-conjunctiva
+
+transition area to the marginal area, but was only localized in the conjunctival epithelium. In the
+
+secondary pharmacology studies, corneal nebula, and corneal and conjunctival pigmentation, following
+
+treatment with Teysuno, were only observed in dogs and not in rats and monkeys. Hence, conjunctival
+
+melanosis induced by Teysuno in dogs appeared to be species specific. It progressively expanded in
+
+the conjunctival epithelium following continuation of treatment. To evaluate whether deposition of
+
+melanin in the dog’s eye is dependent on tyrosinase activity, the primary enzyme involved in the
+
+synthesis of melanin from tyrosine, the applicant performed one *in vitro* study in cultured B16
+
+melanoma cells from mice. In that study no effect of 5-FU on tyrosinase activity was observed. The
+
+applicant performed no further studies to evaluate the mechanism underlying 5-FU induced melanosis
+
+in dogs. The reversibility of the findings in dogs is limited. ***Safety pharmacology programme ***
+
+A general nonclinical pharmacology screen was conducted using high dose levels of Teysuno, gimeracil
+
+and oteracil. This study was not conducted under GLP conditions. It covered a range of *in vivo*
+
+assessments using the mouse, rat and dog and also an *in vitro* test on the guinea pig ileum. No effects
+
+on all animal species tested or on the cholinergic, histaminergic or serotonergic systems were reported.
+
+*In vitro*, in HEK293 cells expressing hERG, Teysuno did not significantly block the hERG potassium
+
+channel at concentrations up to 100 g/ml.
+
+In *in vivo* safety pharmacology studies in rats and dogs, oral administration of Teysuno at
+
+supratherapeutic doses (30 mg/kg) did not adversely affect the central nervous, cardiovascular and
+
+respiratory system or gastrointestinal tract. It was observed that addition of gimeracil significantly
+
+reduced tegafur-induced CNS toxicity studied in mice and dogs.
+
+At doses highly exceeding (90 mg/kg) the clinically relevant dose, Teysuno induced emesis, decrease
+
+in blood pressure, transient changes in R and T wave morphology, increase in urine volume and
+
+excretion of electrolytes in rats and/or dogs. Hence, on central nervous, cardiovascular and respiratory
+
+system, no significant Teysuno-related effects are expected to be seen at clinically relevant dosages.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 15/67
+
+
+-----
+
+### ***Pharmacodynamic drug interactions ***
+
+Pharmacodynamic drug interactions of Teysuno in combination with possible concomitant medications
+
+(cisplatin, mitomycin-C, irinotecan and adriamycin) were evaluated in the Colon 26 mouse model of
+
+wide-spread gastrointestinal carcinoma metastasis in the peritoneal cavity in CDF1 mice. The mice
+
+were treated with 67% or 80% of the maximum tolerated dose of Teysuno (6.7 or 8.0 mg/kg/day, PO,
+
+1 dd for 21 days) and/or cisplatin (10.7 or 12.8 mg/kg, IV, 1dd at day 1), mitomycin-C (2.7 or 3.2
+
+mg/kg/day, IV, 1 dd at day 1, 8 and 15), irinotecan (33.3 or 40.0 mg/kg/day, IV, 1 dd at day 1, 8 and
+
+15) or adriamycine (6.0 or 7.2 mg//kg/day, IV, 1 dd from day 1 till 3).Results did not indicate possible
+
+interactions between Teysuno and the combinations tested. However, it was observed that survival
+
+time significantly prolonged when animals were simultaneously treated with Teysuno and cisplatin,
+
+mitomycin-C, irinotecan or adriamycin instead of with one of the medicinal products alone. Of these
+
+combinations, the clinically used combination Teysuno and cisplatin was the most potent with respect
+
+to the maximum increase in life span. **2.3.2. Pharmacokinetics **
+
+The pharmacokinetics of Teysuno have been investigated in single and repeat-dose studies in mice,
+
+rats, rabbits, dogs and monkeys. Non-labelled or radiolabelled preparations of the Teysuno
+
+components, were administered and the absorption, distribution, metabolism and excretion of each
+
+component determined. The test articles were generally formulated in 0.5% hydroxypropylmethyl
+
+cellulose. In this section, all doses of Teysuno have been expressed as the dose of tegafur
+
+administered. In general, in these studies the dose of Teysuno was set at 5 mg/kg as tegafur and the
+
+animals were fed. In addition, gimeracil was generally administered at 1.45 mg/kg and oteracil at
+
+4.9 mg/kg. The plasma concentrations were determined using sufficiently validated methods
+
+employing HPLC or GC-MS or LC-MS/MS.
+
+Bioavailability
+
+Oral bioavailability of tegafur and 5-FU was high in fasted rat (107% and 126% respectively) and dog
+
+(114% and 85% respectively). Low to moderate bioavailability is seen for gimeracil and oteracil in
+
+fasted rat (58% and 25% respectively) and dog (55% and 31% respectively).
+
+Plasma concentrations of tegafur were much higher than plasma concentrations of 5-FU; 3.4-fold in
+
+mice, 25-fold in fasted rats, 66-fold in fed rats, 45-fold in fasted dogs, 48-fold in fed dogs and 15-fold
+
+in monkey. This effect was also observed in blood, tumour and other tissues. In addition, the
+
+conversion from tegafur to 5-FU seemed to be influenced by the feeding condition in rats, while this
+
+has not been observed in dogs. Based on single dose studies in rat and monkey, no conclusion could
+
+be drawn on the dose-linearity of tegafur, gimeracil, oteracil and 5-FU, since only one or two different
+
+doses were administered. Yet, single dose studies in dog showed that the exposure increased
+
+proportional to dose for tegafur, gimeracil and oteracil, while 5-FU increased more than dose
+
+proportional. This effect may be due to the effect of gimeracil on 5-FU kinetics. In the toxicokinetic
+
+studies, exposure increased dose proportionally for tegafur and gimeracil in rats and for tegafur,
+
+oteracil and 5-FU in monkeys. A more than proportional increase in systemic exposure was observed
+
+in rat for 5-FU and oteracil. A less than proportional increase was observed for gimeracil in monkeys.
+
+Plasma AUC of tegafur showed an increase following repeated dose at the lower doses administered in
+
+rat suggesting some accumulation.
+
+Binding of tegafur to plasma proteins was low in rat, dog and human plasma (41-56%). Binding of
+
+5-FU, gimeracil and oteracil was lower compared to tegafur for all species examined.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 16/67
+
+
+-----
+
+Distribution
+
+According to the distribution profile the drug-derived radioactivity in blood was low or not detected at
+
+the later time points, giving no cause to expect extensive binding to erythrocytes. Accumulation in
+
+many tissues was observed following administration of labelled tegafur and oteracil, while no
+
+accumulation was found after administration with labelled gimeracil. Radioactivity was measured in
+
+the brain following [14C]-FT-S1 administration, which indicated passing of the blood-brain barrier.
+
+After [14C]-CDHP-S1 and [14C]-Oxo-S1 administration, radioactivity was also measured in the brain,
+
+though at relatively low levels and not at all time-points. Low levels of radioactivity were observed in
+
+the testis, which indicated passing of Teysuno-related material over the blood-testes barrier. Following
+
+single administration of [14C]-S1 on day 12 and 18 to pregnant rats, radioactivity was transferred to
+
+the foetus, which suggested placental transfer of all compounds of Teysuno.
+
+The distribution pattern of radioactivity in all tissues following [14C]-FT administration did not differ
+
+from the distribution after [14C]-FT-S-1 administration up to 6 h after administration. However, 24
+
+and 72 h after administration, the radioactivity concentration in the thymus, pancreas, spleen,
+
+mesenteric lymph node, mandibular gland, bone marrow, and large intestine and in males testis and
+
+prostate gland were lower in the [14C]-FT treated animals compared to the [14C]-FT-S-1 treated
+
+animals.
+
+Metabolism
+
+Tegafur is metabolized to 5-FU mainly through P450 isoenzyme CYP2A6. 5-FU is metabolized in liver
+
+and to a lower degree in other tissues via DPD. FUPA and FBAL are the main metabolites of 5-FU via
+
+this pathway. Oteracil was non-enzymatically degraded to 5-azauracil (5-AZU) by rat gastric fluid,
+
+whereas it was also converted to CA by microflora in the intestine, and oteracil in the liver can also be
+
+metabolized to several metabolites including CA. After oral administration of Teysuno, the sulfate
+
+conjugate of gimeracil accounted for 5%, gimeracil for 60%, and other metabolites for 28% of the
+
+excreted dose of gimeracil.
+
+The effect of oteracil and CA on the phosphorylation of 5-FU to fluorouridine triphosphate (FUMP), and
+
+the consequence of the presence of oteracil and CA for the internal exposure to FUMP was evaluated.
+
+Oteracil is a selective inhibitor of OPRT. 5-AZU and CA inhibited OPRT only at the highest concentration
+
+tested (1 × 10-3 M).
+
+In order to assess interspecies differences and understand the effect of gastric pH and cecal contents
+
+on the interaction between oteracil and 5-FU, the possible effects of changing gastric pH values and
+
+cecal content due to any relevant circumstance (including the use of antibiotics) on the internal
+
+exposure to 5-FU and FUMP were evaluated. Increasing pH in the stomach resulted in increased
+
+plasma concentrations of oteracil, indicating inter-individual variability in oteracil degradation.
+
+Excretion
+
+Excretion of tegafur, gimeracil and oteracil was only assessed in rat. Following oral administration of
+
+labelled tegafur and gimeracil to rat, the majority of the radioactivity was excreted in urine. Following
+
+oral administration of labelled oteracil, most radioactivity was excreted via urine in fasted rats.
+
+However, in fed rats highest excretion was found in faeces. Excretion of all 3 components of Teysuno
+
+(tegafur, gimeracil and oteracil) and their associated degradation products was complete by 72 hrs
+
+(>90% excretion); nearly all radioactivity was excreted within the first 24 h postdose. Excretion was
+
+not affected by repeated administration *.* This has been in agreement with the relatively rapid
+
+elimination from plasma. Excretion in the bile was low (1.0-4.3%). Radioactivity was also measured in
+
+milk following administration of the labelled components, which suggested that all components of
+
+Teysuno are transferred into milk.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 17/67
+
+
+-----
+
+Interactions
+
+The pharmacokinetic drug interaction potential of all of the components of Teysuno with co
+administered compounds was assessed in a variety of in vitro and in vivo studies in rats.
+
+*In vitro* studies evaluated the ability of tegafur, gimeracil and oteracil FT to inhibit human cytochrome
+
+P450 isoforms, in particular for CYP1A1/2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E1 and
+
+CYP3A4. Tegafur was found to inhibit CYP2A6 to some extent (IC50 was 3.11 mM (Ki 1.64 mM)).
+
+Gimeracil and oteracil did not show inhibitory effects on these CYP isoenzymes.
+
+Induction of tegafur, gimeracil and oteracil for CYP2B6, CYP2C8 and CYP3A4/5 was found to be small.
+
+No information is available for other important isoenzymes.
+
+In vivo, co-administration of flucytosine (FC) with fluoropyrimidine agents increased the plasma
+
+concentration of 5-FU compared to that after single treatment with each compound alone. Co
+administration of Teysuno to other 5-FU producing agents resulted in increased 5-FU concentrations,
+
+In investigations in rabbits with induced liver injury an increase of AUC and half-life of FT, CDHP and
+
+Oxo was observed. The AUC of 5-FU decreased in one liver injury model, while it increased in the
+
+other. T½ of 5-FU was increased in both models. In rats with induced liver injury following
+
+administration of Teysuno, AUC and T½ of FT were increased. The AUC of 5-FU was decreased and T½
+
+was increased. The kinetic parameters of gimeracil and oteracil were unaffected *.* Studies in rabbits
+
+with renal failure showed higher plasma concentrations of 5-FU, gimeracil and oteracil.
+### **2.3.3. Toxicology **
+
+The toxicity of Teysuno, gimeracil and oteracil was studied in a comprehensive series of studies
+
+designed to investigate single-dose and repeat-dose toxicity, genotoxicity, carcinogenicity and
+
+reproductive toxicity. In addition, a number of studies were conducted to explore the antigenic
+
+potential of all 3 compounds, and the immunotoxic potential of Teysuno. Mechanistic studies to further
+
+investigate findings from the general toxicity studies (e.g., bone marrow toxicity and skin lesions)
+
+were also conducted, as well as studies to characterize the toxicity of various metabolites/degradants
+
+and impurities. ***Single dose toxicity ***
+
+The single-dose (acute) oral toxicity of TEYSUNO was investigated in the mouse, rat and dog. The
+
+single-dose oral toxicity of gimeracil and oteracil was investigated separately in the rat and dog. An
+
+additional single-dose study, examining the combined effect of tegafur and gimeracil, was conducted
+
+in the rat. The results of the single-dose studies are summarised in the table below.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 18/67
+
+
+-----
+
+**Table 1: Single-Dose Toxicity Studies.**
+
+The acute toxicity of oral TEYSUNO is considered to be due to the FT component, which is a prodrug of
+
+the cytotoxic agent 5-FU. The maximum tolerated dose was 220 mg/kg in mice and rats and
+
+35 mg/kg in dogs. Mortalities generally occurred at least 7 days after dosing. The oral LD50 value was
+
+estimated to be about 550 mg/kg in mice and rats and 55 mg/kg in dogs. The deaths were considered
+
+to be a consequence of changes to the immune system resulting in disorders of the respiratory,
+
+lymphatic and hematopoietic system and bacterial infection. A finding specific for the dog was the
+
+occurrence of corneal opacities (associated with a thickening of the corneal epithelium) at the lethal
+
+dose levels.
+
+The inherent acute oral toxicity of gimeracil and oteracil is low. In the tested dose-range in rats and
+
+dogs (up to 2000 mg), there were no deaths, and overt symptoms were limited to diarrhoea/loose
+
+faeces and white crystals in the urine on the day of administration.
+### ***Repeat dose toxicity ***
+
+Repeat-dose oral toxicity studies were performed in rats (gavage), dogs (capsules) and Cynomolgus
+
+monkeys (gavage). The toxic effects were essentially the same as those observed in the single-dose
+
+toxicity studies and were associated with the cytotoxic effect of 5-FU on cell proliferation. This effect
+
+led to atrophy of the male sex organs and the lymphatic tissues, decreased cellularity of bone marrow
+
+and general disruption of the immune system. These effects recovered or tended to recover during the
+
+5-weeks recovery period. Such cytotoxic-type changes were not apparent in the gimeracil and oteracil
+
+repeat-dose toxicity studies in the rat and dog with the possible exception of mild haematological
+
+changes consisting of decreases in red blood cell parameters seen in the oteracil dog studies.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 19/67
+
+
+-----
+
+Effects on the skin were observed in rats and dogs, but not in monkeys. In the rat, these effects
+
+consisted of keratosis of the foot pad and tail, which progressed with longer term dosing to areas of
+
+haemorrhage, ulceration and necrosis. Co-administration of vitamin B6 with Teysuno was able to
+
+ameliorate but not prevent the appearance of skin lesions in these species. In the dog, a marked
+
+aggravation of crusts all over the body was seen in the premature decedents; other changes, seen at
+
+the highest dose in the first 52-week study, comprised dermal erosions, purulence and hair loss.
+
+These effects on the skin recovered or tended to recover during the 5-weeks recovery period. A
+
+change specific to the rat was a degeneration and disruption of the incisor ameloblasts leading to
+
+irreversible teeth abnormalities. This effect was considered not relevant for human.
+
+In dogs, toxic effects were primarily related to the deposition of melanin, grossly in the sclera,
+
+conjunctiva, lymph nodes and skin, without safety margin for human. Toxic effects were observed on
+
+the eye (atrophy and vascularisation of the cornea, hyperaemia of the bulbar conjunctiva, ocular
+
+discharge, exposure of the nictate membrane), skin (crusts/scabs) and lymph nodes (enlargement).
+
+These effects diminished upon cessation of treatment. The changes to the eye were generally confined
+
+to the dog, although a dose-independent increase in cataract incidence was present among male rats
+
+in the carcinogenicity study. *In-vitro*, 5-FU did not have any effect upon the melanin synthetic
+
+pathway, nor on melanin incorporation into keratinocytes and so the mechanism remains unclear.
+
+No noteworthy abnormal findings were observed on cardiovascular parameters in dogs and monkeys,
+
+including changes in heart weight, heart rate or ECG parameters (e.g. prolongation of PR-, QRS- and
+
+QT-interval).
+
+Slightly increased liver weights were observed in rats, dogs and monkeys with a small safety margin
+
+for human. These effects were accompanied by pigmentation in dogs and single cell necrosis in
+
+monkeys.
+
+Teysuno produced kidney toxicity in rats, dogs and monkeys, leading to increased excretion of protein
+
+sodium, potassium and chloride without safety margin. Histopathological changes were only observed
+
+in rats and monkeys. In rats, these changes consisted of glomerulosclerosis, tubular damage and
+
+interstitial changes. These effects were reversible. In the monkey, these were described as
+
+glomerulonephritis and a degeneration of renal tubules in a single study, but reversibility was not
+
+assessed. These effects were considered most likely a consequence of the excretion of large quantities
+
+of parent compound and/or metabolite(s) leading to aciduria and stone formation in the kidney and/or
+
+the urinary bladder. White turbid urine, attributed to excretion of parent compound and/or metabolites,
+
+was seen in the rat (Teysuno, gimeracil and oteracil) and dog (gimeracil and oteracil), but not the
+
+monkey. The effects of slight crystalluria and crystal deposition on normal kidneys are considered to
+
+be reversible upon cessation of treatment.
+
+Dose-dependent decreases in the gastrointestinal toxicity were observed up to an oteracil molar ratio
+
+of 1, (1 tegafur:0.4 gimeracil:1 oteracil) with ratios of oteracil above 1 reducing the anti-tumour
+
+activity of the combination of tegafur and gimeracil (see section on pharmacodynamics). In the
+
+repeated-dose toxicity studies, gastrointestinal toxicity has been found in monkeys, but not in rats and
+
+dogs. Based on slight irritation of the gastrointestinal mucosa in the 13-week monkey study, the
+
+NOAEL was identified as 2 mg/kg/day (24 mg/m [2] /day).
+### ***Genotoxicity ***
+
+Teysuno, gimeracil and oteracil were investigated for genotoxic potential in both *in vitro* and *in vivo*
+
+systems. For *in vitro* studies, as well as the parent molecules, the possible genotoxic potential of
+
+metabolites of the compounds was investigated by incubation with the rat liver microsome fraction
+
+(S9). The *in vitro* assays were a bacterial reverse mutation (Ames) test and a chromosomal aberration
+
+test in Chinese hamster lung cells; the in vivo assay was a mouse micronucleus test.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 20/67
+
+
+-----
+
+*In vitro*, Teysuno was not mutagenic in bacteria but clastogenic in Chinese hamster lung cells. The *in-*
+
+*vivo* clastogenic potential of Teysuno was investigated in mice. Because of the toxic effect of Teysuno
+
+on the bone marrow function, no data could be obtained in on the incidence of micronucleated cells in
+
+the animals given more that 13.8 mg/kg Teysuno. In the micronucleus test using the peripheral blood,
+
+clastogenic effects were observed at 13.8 mg/kg and 62.5 mg/kg, but these were not dose dependent.
+
+Gimeracil was negative in both the bacterial reverse mutation test and the chromosome aberration
+
+test both in the presence and absence of metabolic activation indicating that gimeracil is neither
+
+mutagenic nor clastogenic *in vitro* and *in vivo* .
+
+Oteracil was negative in the reverse mutation test and positive in the chromosome aberration test
+
+both in the absence of metabolic activation following 48-hour continuous exposure indicating that
+
+oteracil is not mutagenic but is clastogenic *in vitro*, but not *in vivo* .
+
+A metabolite of oteracil, 5-AZU, was also found to be clastogenic in vitro. It is not known if the
+
+clastogenicity of Teysuno was caused by the tegafur or oteracil component or both, but only Teysuno
+
+was found to be mildly clastogenic in vivo.
+### ***Carcinogenicity ***
+
+The 2-year studies in both mice and rats were both preceded by dose range finding studies of 4 week
+
+duration in the mouse and 13-week duration in both the mouse and rat. In all studies, Teysuno was
+
+administered as a dietary admixture. Separate carcinogenicity studies with oteracil and gimeracil were
+
+not performed.
+
+The purpose of the 4-week study in mice was to evaluate the toxicity of Teysuno in mice when
+
+administered in the diet to provide dose level selection information for a 13-week mouse toxicity study.
+
+Due to the marked effect on weight gain at 88 ppm, a top dose of 79 ppm was recommended for the
+
+13-week mouse dietary toxicity study. The purpose of 13-week study was to evaluate the toxicity of
+
+TEYSUNO in mice when administered in the diet over 13 weeks and to provide dose level selection
+
+information for the mouse carcinogenicity study. In the 13-week mouse study, doses of 9, 26 and
+
+79 ppm were administered. The same dose levels (9, 26 and 79 ppm) were administered in the 2-year
+
+mouse study investigating 50 animals/sex/dose.
+
+The purpose of the 13-week study was to provide dose level selection information for the rat
+
+carcinogenicity when TEYSUNO was administered in the diet over 13 weeks, doses of 0, 13, 53, 106
+
+and 211 ppm were administered. Due to the observed effects on body and thymic weights in the
+
+13-week study, a top dose of 145 ppm as well as doses of 13 ppm and 44 ppm was administered in
+
+the 2-year rat study investigating 10 animals /sex/dose.
+
+Both 2-year carcinogenicity studies did not reveal any evidence for a carcinogenic effect of Teysuno in
+
+these species. In rats, an increased incidence of cataracts was observed in the males at 8 mg/kg/day.
+
+In the shorter, 26- and 52-week repeated dose toxicity studies, effects on the eye have, thus far, only
+
+been observed in dogs. ***Reproduction Toxicity ***
+
+Fertility studies and embryonic development embryo-foetal studies in rats and perinatal and embryo
+foetal development studies in rabbits were carried out. The studies did not include a toxicokinetic
+
+assessment and the number of animals (litters) used for embryo-foetal assessment in rabbits was
+
+lower than the recommended. Dose administration period was also 1 day less than the recommended
+
+by ICH S 5 (R2) guidelines. The applicant has performed reproductive and developmental toxicity
+
+studies assessment separately for Teysuno, gimeracil and oteracil.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 21/67
+
+
+-----
+
+To investigate the fertility and early embryonic development,
+
+  Teysuno was administered orally by gavage to groups of 24 male and 24 female Crj:CD(SD)
+
+rats at doses of 0, 1, 4 and 7 mg/kg/day (0, 6, 24 and 42 mg/m [2] /day).
+
+  Gimeracil was administered orally by gavage to groups of 24 male and 24 female Crj:CD(SD)
+
+rats at doses of 0, 80, 400 and 2000 mg/kg/day. Males were dosed for 63 days before mating,
+
+during mating and until the day before necropsy (98 days of treatment). Females were dosed
+
+for 14 days before mating, during mating and continuing to GD 7, then subject to necropsy on
+
+GD 20.
+
+  Oteracil was administered orally by gavage to groups of up to 10 male or 10 female
+
+Crj:CD(SD) rats at doses of 0, 400 and 2000 mg/kg/day in a series of 3 experiments. In
+
+Experiment 1, mated females were dosed from GD 0 to 7 and then examined on GD 20. In
+
+Experiment 2, females were dosed for 14 days pre-mating until the day before copulation with
+
+untreated males and then examined on GD 20. In Experiment 3, males were dosed for 28 days
+
+pre-mating and during mating with untreated females; the untreated females were examined
+
+on GD 20.
+
+  Teysuno was administered orally to groups of 15 pregnant Kbl:NZW rabbits from GD 6 to 18 at
+
+doses of 0, 0.5, 1 and 1.5 mg/kg/day (0, 6, 12 and 18 mg/m [2] /day).
+
+The NOEL for Teysuno regarding general toxicity to parental male and female rats was 1 mg/kg/day,
+
+which is identical to that found in the repeated dose toxicity. Teysuno showed no effect on male and
+
+female fertility, since time to copulation, incidence of matings and number of pregnancies were
+
+unaffected in the tested dose range (up to 7 mg/kg/day). However, administration at any time after
+
+conception resulted in a range of external, visceral, and skeletal foetal abnormalities at doses of
+
+7 mg/kg/day. Based on these findings, the NOEL of oral administration of Teysuno in rats for male and
+
+female fertility was 7 mg/kg/day and that for embryo-foetal development was 3 mg/kg/day. There is
+
+therefore a high risk for developmental toxicity at clinical doses, primarily due to tegafur (5-FU).
+
+For gimeracil the NOEL was 400 mg/kg/day for general toxicity to parental male and female rats. With
+
+respect to CDHP there was no concern regarding the fertility of human at therapeutic doses of
+
+Teysuno.
+
+For oteracil the NOEL was 80 mg/kg/day for general toxicity to parental male and female rats and
+
+2000 mg/kg/day for fertility. Therefore, there was no concern for oteracil regarding human fertility at
+
+therapeutic doses of Teysuno. However, pre-implantation and early embryonic stages of rat pregnancy
+
+are susceptible periods for embryotoxicity of oral oteracil administration.
+
+In order to evaluate the embryo-foetal development,
+
+  Teysuno was administered orally to groups of 32 to 36 pregnant Crj:CD(SD) rats from GD 7 to
+
+17 at doses of 0, 1, 3, 5 and 7 mg/kg/day (0, 6, 18, 30 and 42 mg/m [2] /day).
+
+  Gimeracil was administered orally to groups of 37 to 38 pregnant Crj:CD(SD) rats from GD 7 to
+
+17 at doses of 0, 80, 400 and 2000 mg/kg/day.
+
+  Oteracil was administered orally to groups of 37 to 38 pregnant Crj:CD(SD) rats from GD 7 to
+
+17 (caesarean evaluation on GD 20) at doses of 0, 20, 100 and 500 mg/kg/day.
+
+  In a teratology study, Teysuno was administered orally by gavage to groups of 5 to 7 pregnant
+
+Kbl:NZW rabbits at doses of 0, 3 and 6 mg/kg/day in four experiments. Experiment 1,
+
+pregnant females were dosed from GD 8 to 9; Experiment 2 from GD 10 to 11; Experiment 3,
+
+GD 12 to 13,; Experiment 4 from GD 14 to 15. CDHP was administered orally to groups of 14 
+15 pregnant Kbl:NZW rabbits from GD 6 to 18 at doses of 0, 200, 400 and 800 mg/kg/day and
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 22/67
+
+
+-----
+
+Oxo was administered orally to groups of 13 to 14 pregnant Kbl:NZW rabbits from GD 6 to 18
+
+at doses of 0, 100, 200 and 400 mg/kg/day.
+
+In line with the results mentioned above the NOEL regarding embryo-foetal development was
+
+3 mg/kg/day and there is high risk for developmental toxicity at clinical dose. In rabbits, the NOEL
+
+value for maternal toxicity and early embryonic development was 1 mg/kg/day corresponding to the
+
+one in the rat. Following oral administration of Teysuno during divided periods during organogenesis, a
+
+dose of 2 mg/kg/day appeared maternally tolerated in early pregnancy (GD 6 to 10), but not at later
+
+stages.
+
+The NOEL for early embryo-foetal development was 2 mg/kg/day (GD 6 to 10), and less than
+
+2 mg/kg/day during later stages. In early stages embryo-lethality predominated and, in later stages,
+
+teratogenicity.
+
+There was no effect of CDHP on embryo-foetal development. The placenta’s were unaffected. The
+
+NOEL was 400 mg/kg/day regarding maternal toxicity.
+
+For oteracil, the NOEL in the rat was 100 mg/kg/day during organogenesis, 20 mg/kg/day regarding
+
+embryo-foetal development and 500 mg/kg/day regarding the F2 offspring.
+
+Regarding prenatal and postnatal development, including maternal function studies administering
+
+  Teysuno orally by gavage to groups of 21 to 24 female Crj:CD(SD) rats (GD 17 until PND 21)
+
+at doses of 0, 1, 4 and 7 mg/kg/day (0, 6, 24 and 42 mg/m2/day),
+
+  Gimeracil orally by gavage to groups of 23 to 24 female Crj:CD(SD) rats (GD 17 - PND 21) at
+
+doses of 0, 80, 400 and 2000 mg/kg/day.
+
+  Oteracil orally by gavage to groups of 23 to 24 female Crj:CD(SD) rats (GD 17 - PND 2) at
+
+doses of 0, 20, 100 and 500 mg/kg/day
+
+  Oteracil orally by gavage to groups of 23 to 24 female Crj:CD(SD) rats (GD 17 - PND 21) at
+
+doses of 0 and 2000 mg/kg/day in order to detect toxic levels that the previous study doses
+
+failed to identify
+
+were performed.
+
+The three components of Teysuno, tegafur, gimeracil, and oteracil, are excreted in the milk of
+
+lactating rats (see pharmacokinetics). For Teysuno, in the peri-and post-natal study in rats, body
+
+weight was slightly reduced in the late stages of pregnancy and early lactation and food consumption
+
+was reduced in late pregnancy. No effects were seen on gestation length, delivery or nursing
+
+conditions. In the F1 offspring, suppression in body weight and lower organs weights (kidneys, brain,
+
+heart, lungs, ovaries) were observed at 4 mg/kg/day and higher. Based on these findings, the NOEL
+
+values in the rat were 4 mg/kg/day for maternal toxicity during late pregnancy and throughout
+
+lactation and 1 mg/kg/day for late foetal and postnatal development. There were no effects on the F2
+
+offspring.
+
+For gimeracil, the NOEL was 400 mg/kg/day regarding maternal toxicity and 2000 mg/kg/day for late
+
+foetal and postnatal development. The studies in rats and rabbits showed that gimeracil did not
+
+contribute to the toxic effects of Teysuno on reproduction.
+
+Based on these findings, it can be concluded that there is a risk for reproduction toxicity when
+
+administering Teysuno in pregnant women. The effect of Teysuno on reproduction are considered to
+
+be primarily due to the tegafur component of Teysuno, which in is a prodrug of 5-FU. Gimeracil did not
+
+cause any reproductive toxic effects although it elicited maternal toxicity at high doses in rats and
+
+rabbits (400 mg/kg/day). These doses are not relevant for human.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 23/67
+
+
+-----
+
+Oteracil did not affect male and female fertility, but caused external, visceral and skeletal foetal
+
+abnormalities in rats and rabbits similar to that observed with Teysuno. Based on the ratio of AUC0
+24h value for oteracil in rats at the NOEL 20 mg/kg/day for embryo-foetal and postnatal development,
+
+and AUCinf in human at the therapeutic dose of Teysuno of 30 mg/m [2] twice daily, a safety margin of
+
+about 25 can be calculated. This means that, based on the rat studies. Oteracil does not significantly
+
+contribute to the toxic effects of Teysuno on embryo-foetal and postnatal development.
+
+In lactating rats, considerable amounts of Teysuno and its metabolites were found in milk. Based on
+
+these findings, Teysuno is contraindicated in pregnancy and lactation.
+
+Studies in juvenile animals have not been provided. This has been considered acceptable, since
+
+Teysuno is not recommended for children under 18 years.
+### ***Local Tolerance ***
+
+Specific studies on local tolerance have not been submitted since Teysuno is intended for oral
+
+administration. ***Other toxicity studies ***
+
+The applicant has submitted a series of studies in order to examine the antigenic potential and
+
+immunotoxicological effects of Teysuno and some of its individual constituents. Studies were also
+
+carried out to evaluate potential mechanisms of action. Genetic toxicity and repeat-dose toxicology
+
+studies were undertaken on some of the major metabolites and impurities of Teysuno.
+
+Immunotoxicity
+
+Due to its suppression of the bone marrow, Teysuno can be expected to suppress immune function.
+
+This is a direct consequence of its pharmacodynamic mode of action.
+
+Antigenicity
+
+No evidence of sensitisation was found in antigenicity studies. Studies were done to investigate
+
+whether dermal side effects of Teysuno observed in clinical trials, i.e. eruption and reddening, could be
+
+due to delayed type allergic reactions, but these did not provide an explanation for this clinical
+
+observation.
+
+Metabolites
+
+It is plausible that part of the toxicity of oteracil is due to its metabolite Cyanuric acid. This metabolite
+
+was not genotoxic in a bacterial genotoxicity test and an in vitro chromosomal aberration test. Its
+
+major toxicity at single or repeated intraperitoneal administration in rats was renal toxicity due to
+
+kidney injury due to crystalluria, accompanied by the secondary consequences of this renal toxicity.
+
+Furthermore, the intraperitoneal route of administration caused local inflammations of several organs
+
+(capsules of spleen and liver, intestine). The NOAEL of the renal toxicity in a 4 week repeated dose
+
+intraperitoneal study in male rats was 100 mg/kg/day. However, it is noted that at this dose
+
+crystalluria did occur, therefore more prolonged administration of this dose might also cause renal
+
+toxicity.
+
+Effect of otera c il on the toxicity of Teysuno
+
+The difference in toxicity of the combination of tegafur with CDHP (FCD) and of the full combination
+
+(Teysuno) was compared in a number of oral dog studies and an oral Cynomolgus monkey study.
+
+Qualitatively, Teysuno and FCD showed the same – FT-related – toxicity, However, quantitatively FCD
+
+was more toxic than Teysuno. Dependent on dosing schedule and treatment duration, toxicity of
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 24/67
+
+
+-----
+
+Teysuno tended to appear later, at higher doses, was less extensive, and recovered earlier (in some
+
+cases already during treatment). It can be concluded that addition of oteracil attenuated the FT-related
+
+toxicity in both dogs and monkeys.
+
+Impurities
+
+Genotoxity studies, single dose toxicity studies and repeated dose toxicity studies were submitted for
+
+three impurities (data not shown).
+
+Toxicity of Teysuno combined with other medicines
+
+The combination of Teysuno (daily oral dose for 2 weeks) with Taxotere (one IV dose) showed mainly
+
+evidence for addition of effects of the two single formulations. The combination of Teysuno (daily oral
+
+dose for 2 weeks) with cisplatin (one IV dose) showed mainly evidence of addition of effects, although
+
+the effect on blood cells may show some potentiation. The combination of Teysuno (daily oral dose for
+
+2 weeks) with oxaliplatin (one IV dose) showed mainly additivity of effect, but an enhancement of the
+
+hepatotoxicity of oxaliplatin in rats could not be excluded. However, an additional experiment (without
+
+reported individual data) suggested that this potential enhancement may be reduced by intermittent
+
+administration (treatment cycli of 2 weeks in rats were separated by 1 week recovery periods).
+### **2.3.4. Ecotoxicity/environmental risk assessment **
+
+The applicant has submitted an ERA based on the EMEA/CHMP/SWP/4447/00 guideline (EMEA, 2006).
+
+The yearly amount consumed was estimated using a total patient dose of 9349 mg. The gastric cancer
+
+incidence rate in the EU (at the median age of diagnosis) has been calculated with 12 in 100,000. The
+
+fraction of advanced stages of gastric cancer (in all gastric cancer counts) would be 0.7. Based on
+
+these refinements, the Fpen amounted to 0.000017723. The PEC SURFACEWATER values for tegafur,
+
+gimeracil and oteracil monopotassium salt have been calculated to be 0.00106 μg/L, 0.00030 μg/L
+
+and 0.00104 μg/L, respectively, for the years of projected maximum exposure (2017-2020). These
+
+values are below the action limit of 0.01 μg/L. Therefore a Phase II risk assessment was not required.
+
+The log Kow values of tegafur, gimeracil and oteracil monopotassium salt were all <4.5, such that
+
+they do not present a hazard with respect to bioaccumulation. Therefore, all three drug substances are
+
+not classifiable as Persistent, Bioaccumulative and Toxic (PBT) nor as very Persistent and very
+
+Bioaccumulative (vPvB) substances. In conclusion, tegafur, gimeracil and oteracil monopotassium salt
+
+are considered to be of negligible risk to the environment from the use of Teysuno 15 and 20 mg
+
+capsules for the treatment of advanced gastric cancer given in combination with cisplatin, when used
+
+in accordance with the SmPC and the Package Leaflet. **2.3.5. Discussion and conclusions on non-clinical aspects **
+
+A series of studies was submitted to evaluate the optimal ratio of gimeracil and oteracil with tegafur
+
+using mice and rats bearing different tumour types and by testing the efficacy and toxicity. The final
+
+optimal combination of tegafur:gimeracil:oteracil was identified as 1:0.4:1. Results of these studies
+
+reveal that this combination contains an optimal concentration of gimeracil that enhance the anti
+tumour effects of tegafur. Lower concentrations of gimeracil did not show increased tumour activity.
+
+The oteracil ratio selected has reported a decrease of GI toxicity, without compromising anti-tumour
+
+effects. Teysuno showed in *in vivo* models a higher potency, when compared to treatment with UFT, FT
+
+or 5-FU, against all tumour cell lines in mouse xenograft models. There is no data regarding if FT on its
+
+own displays any antitumor activity.
+
+A number of *in vivo* studies in non tumour animal models were submitted showing a reduced GI
+
+toxicity of Teysuno when compared with a combination lacking oteracil. It is suggested that the
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 25/67
+
+
+-----
+
+mechanism resulting in lower GI toxicity is due to the suppression of the phosphorylation of 5-FU in
+
+normal GI tissues due to oteracil activity. Results of these studies reveal that Teysuno is a product that
+
+combines an enhanced antitumor activity and concomitantly reduces the adverse effects of tegafur in
+
+the GI tissues.
+
+Results of studies that evaluate secondary pharmacology reveal that melanosis was present after
+
+administration of Teysuno and CFT. Further studies failed to show a connection between melanosis and
+
+a possible induction via tyrosinase. The reversibility of the findings in dogs is limited; nevertheless, this
+
+concern has been included in the RMP.
+
+The applicant has performed several assessments of safety pharmacology without GLP compliant
+
+assays. The results of these studies did not raise any concern.
+
+The applicant has submitted studies to evaluate Teysuno administration with possible concomitant
+
+medications (cisplatin, mitomycin-C, irinotecan and adriamycin). Results from the studies did not
+
+indicate possible interactions between Teysuno and the combinations tested but revealed that the
+
+cisplatin combination resulted in an enhanced anti-tumour activity compared to mitomycin C,
+
+irinotecan and adriamycin.
+
+The pharmacokinetics of Teysuno were investigated in single and repeat-dose studies in mice, rats,
+
+rabbits, dogs and monkeys using non-labelled or radiolabelled preparations of the Teysuno
+
+components and the absorption, distribution, metabolism and excretion of each component was
+
+determined.
+
+Plasma concentrations of tegafur were much higher than plasma concentrations of 5-FU which
+
+suggested that only a small part of tegafur was metabolised into 5-FU.
+
+Binding of tegafur to plasma proteins was low which suggested that some variation in the binding
+
+capacity of plasma proteins did not have a major impact on the concentration of free drug in the
+
+plasma.
+
+Oteracil is a selective inhibitor of OPRT. Inhibition of OPRT by CA, a major metabolite of oteracil, was
+
+only detected at very high concentrations of no clinical relevance. CA is expected to have little effect
+
+on 5-FU metabolic enzymes in humans and would not have affected the internal exposure to FUMP or
+
+the anti-tumour activity. However, oteracil has been added to decrease the unwanted gastrointestinal
+
+toxicity. Therefore, the site of action of oteracil, 5-AZU and CA is the gastrointestinal tract and thus the
+
+concentration in the gastrointestinal tract would be of more importance than the systemic
+
+concentration. The bioavailability of oteracil has been low (25%). The intestinal concentration of
+
+oteracil and its metabolites are expected to be high enough to inhibit OPRT. The unidentified oteracil
+
+metabolite(s) are pharmacologically and toxicologically inactive compounds at clinical dosages based
+
+on two rat preclinical studies.
+
+It is expected that oteracil is degraded to a higher percentage under fasted conditions compared to fed
+
+conditions due to a lower gastric pH. However, under fasted conditions the urinary excreted dose is
+
+higher than under fed conditions. The lower urinary excretion is caused by a decrease in bioavailability
+
+due to delayed gastric emptying and the effect of food on absorption. However, the urinary clearance
+
+is equal between fed and fasted conditions, indicating that only the bioavailability is affected.
+
+Increasing pH in the stomach resulted in increased plasma concentrations of oteracil, indicating inter
+individual variability in oteracil degradation (e.g. higher plasma oteracil levels in elderly due to
+
+increased gastric pH). However, in humans no gastric pH effect could be observed. The mechanism is
+
+unknown. Furthermore, after oral administration oteracil did not have any effect on the tumour
+
+distribution of FUMP, indicating that oteracil only affect the conversion of 5-FU to FUMP in the gastro
+
+intestinal tract (also the desired site of action to reduce gastro-intestinal tract toxicity of 5-FU. The
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 26/67
+
+
+-----
+
+applicant did not investigate the effect of altered gut flora on the kinetics of 5-FU. Increased
+
+concentration of oteracil could in theory lead to an increase in OPRT inhibition and thus to higher 5-FU
+
+levels, because to conversion of 5-FU to FUMP is inhibited. However, based on the distribution data this
+
+is only expected for the intestine and not systemic. Thus higher plasma levels of 5-FU could be
+
+expected, but no effect on the anti-tumour affectivity is expected. No further studies are warranted.
+
+The applicant showed that gimeracil inhibits the metabolism of 5-FU by inhibiting DPD. The most
+
+important factor that influences plasma CDHP levels is renal function, with increasing gimeracil plasma
+
+levels with decreasing creatinine clearance. Thus, plasma concentrations of 5-FU were dramatically
+
+increased when creatinine clearance was decreased (in line with human data). AUC ratio data indicate
+
+that gimeracil inhibits DPD for 100%, because the suicide substrate soruvidine (SRV) of DPD does not
+
+affect the AUC of 5-FU. The underlying mechanism of SRV on the formation of 5-FU from FT is
+
+unknown. In addition, Teysuno and Teysuno + SRV showed almost the same plasma 5-FU
+
+concentration profiles after single administration, but repeated co-administration of TEYSUNO and SRV
+
+increased the plasma concentration of 5-FU about 2.4 times on Day 7. This can be explained by the
+
+reversible binding of gimeracil, while the binding of SRV is irreversible. Teysuno is administered twice
+
+daily and plasma levels of gimeracil drop below 100% inhibition. SRV will then bind to DPD and will
+
+thus lead to altered 5-FU kinetics (increased plasma levels). Inter-individual differences are known for
+
+DPD activity (e.g. the pharmacogenetic syndrome DPD deficiency) and lead to severe, unanticipated
+
+toxicity after 5-FU administration. However, after Teysuno administration DPD is already inhibited and
+
+the dose of FT (pro-drug of 5-FU) is already adapted to overcome possible 5-FU toxicity due to a
+
+decreased clearance of 5-FU. Overall, the conclusions on the inhibition of DPD and no further studies
+
+are warranted. The SmPC already states possible drug-drug interactions with the antiviral drug SRV
+
+and its chemically related analogues. However, section 4.4 of the SmPC should mention possible
+
+alteration in kinetics if a DPD inducer is concomitantly administered with Teysuno, but that currently
+
+no DPD inducers are known.
+
+Tegafur was found to inhibit CYP2A6 to some extent. As tegafur is converted by CYP2A6 to the active
+
+compound 5-FU, drugs inhibiting or inducing CYP2A6 will interact with formation of 5-FU.
+
+Investigations in rabbits with induced liver injury suggested that the conversion of the prodrug tegafur
+
+to 5-FU may be affected in patients with liver impairment.
+
+Repeat-dose toxicity studies in rats, dogs and monkeys produced changes typically associated with
+
+administration of an anti-cancer medicinal product eliciting cytotoxic effects on populations of rapidly
+
+dividing cells, such as anaemia, decrease in the immune and digestive system function, disruption of
+
+spermatogenesis, and atrophy in male and female reproductive organs.
+
+Treatment with Teysuno produced various skin effects in rat (keratosis of footpad and tail) and dog
+
+(skin crusts and erosions). In addition, hyperpigmentation in the skin and eyes and corneal opacity in
+
+dogs and cataracts in rats were observed following repeat dosing. These changes were reversible. The
+
+tegafur component of Teysuno seemed to be responsible for the melanin deposition, since the effects
+
+on the skin (hyperpigmentation) and eye (lacrimation, conjunctivitis) was clinically observed with 5-FU
+
+(see SmPC of capecitabine). For Teysuno, the effects on the skin (hyperpigmentation, lesions) as well
+
+as effects on the eye (lacrimation, conjunctivitis) are identified risks in the Risk Management Plan.
+
+Teysuno does not appear to affect male or female fertility in the rat; however, administration at any
+
+time after conception resulted in a range of external, visceral, and skeletal foetal abnormalities in rat
+
+and rabbit. There is therefore a high risk for developmental toxicity at clinical doses, primarily due to
+
+tegafur (5-FU) and to oteracil to a lesser extent.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 27/67
+
+
+-----
+
+Teysuno was not carcinogenic in either the rat or the mouse. Teysuno was not found to be mutagenic
+
+when tested in the *in vitro* Ames assay. Teysuno was clastogenic *in vitro* using Chinese hamster lung
+
+cells and was weakly clastogenic *in vivo* in mouse bone marrow.
+
+Hepatic toxicity and renal damage are listed as identified risk in the Risk Management Plan. Moreover,
+
+gastrointestinal toxicity has been included in the Risk Management Plan, since there is no safety
+
+margin for this effect in human,
+
+Results from studies with impurities provided reassurance that the proposed limits are acceptable and
+
+no further non-clinical studies on impurities are necessary.
+### ***2.4. Clinical aspects *** **2.4.1. Introduction **
+
+In support of this application, 11 Phase 1/2 clinical pharmacology studies in patients with solid
+
+tumours or gastric tumours, as well as a population PK study have been provided. Furthermore, the
+
+clinical documentation submitted comprised four phase 3 studies. The design of the studies and the
+
+dose regimens are presented in the tables below (Tables 2-4). The pivotal Phase III study for this
+
+application was study S-13-1/FLAGS.
+
+**Table 2 Phase 1 clinical study details**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 28/67
+
+|Study nr|Phase|Aim|Number of patients|Dose|
+|---|---|---|---|---|
+|S-1101|Phase 1|To determine the recommended dose of Teysuno + cisplatin in Caucasian patients|6, 3, 6|25 mg/m2 Teysuno + 75 mg/m2 cisplatin, 30 mg/m2 Teysuno + 75 mg/m2 cisplatin, 30 mg/m2 Teysuno + 60 mg/m2 cisplatin.|
+|S-1118|Phase 1|Relative bioavailability of Teysuno administered as a capsule formulation compared to an oral solution|14|50 mg Teysuno|
+|S-1102|Phase 1|determination of MTD of Teysuno|13, 3|30 mg/m2 Teysuno, 35 mg/m2 Teysuno|
+|S-1106|Phase 1|Effect of oteracil on tolerability of 5-FU from Teysuno|7 5|25 mg/m2 Teysuno BID 21 days 25 mg/m2 tegafur + gimeracil BID 21 days|
+|S-1110|Phase 1|Effect of oteracil on pharmacokinetics of 5-FU from Teysuno|28|50 mg Teysuno SD, 50 mg tegafur SD Extension: 30 mg/m2 Teysuno BID 14 days|
+|S-1108|Phase 1|Effect of gimeracil on pharmacokinetics of 5-FU from Teysuno|12|50 mg Teysuno SD, 50 mg tegafur +oteracil Extension: 30 mg/m2 BID 14 days|
+|S-1107|Phase 1|CYP 2A6 activity and Teysuno pharmacokinetics in Asian (Chinese/Malay) patients|37|30 mg/m2 Teysuno BID 14 days|
+|S-1111|Phase 1|Effect of renal function on the on pharmacokinetics of Teysuno|Normal 7, Mild 6, Moderate 6, Severe 0|Normal: 30 mg/m2 Teysuno BID 14 days Mild: 30 mg/m2 Teysuno BID 14 days Moderate: 20 mg/m2 Teysuno BID 14 days|
+
+
+-----
+
+|Col1|Col2|Col3|Col4|Severe: 20 mg/m2 Teysuno OD 14 days|
+|---|---|---|---|---|
+|S-1112|Phase 1|Effect of hepatic function on the on pharmacokinetics of Teysuno|Normal, mild, moderate, severe, 6, 8, 7, 6.|All groups: 30 mg/m2 Teysuno BID 14 days|
+|S-1105|Phase 1|Effect of food and gastric pH on the pharmacokinetics of Teysuno components and metabolites|Primary Pk 27 Safety 55|30 mg/m2 Teysuno 7 days|
+|S-1117|Phase 1|The potential for Teysuno to cause QTc prolongation|22|30 mg/m2 Teysuno 14 days|
+|Population PK Study 09DA03|Pop PK|Pop PK on pooled data of 7 selected Phase 1 studies (S-1105, S-1106, S-1107, S-1108, S-1110, S-1111, and S-1112) and 1 Phase 3 study (S-1301).|||
+
+
+**Table 3 Phase 2 and 3 clinical study details**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 29/67
+
+|Study nr|Phase|Type of study|Patients|Aim|Primary endpoint|
+|---|---|---|---|---|---|
+|S-1101 phase 2|Phase 2|US, Germany Supportive efficacy data|Advanced gastric cancer N=72|Establish safety of the recommended phase 2 dose in Western patients and Determine overall response rate associated with this dose||
+|S-1301/ FLAGS Main study|Phase 3|Open-label, randomised, 2-arm Eastern/Western Europe, North America, Latin America, Australia and South Africa. 147 sites, 24 countries|Patients with histologically confirmed advanced gastric cancer previously untreated with Chemotherapy for advanced disease N=1053 patients 25 mg/m2 S-1 + 75 mg/m2 cisplatin|Efficacy and safety of S-1 +cisplatin compared to 5-FU + cisplatin 25 mg/m2 S-1 + 75 mg/m2 cisplatin versus 1000 mg/m2/24 h continuous iv 5-FU + 100 mg/m2 cisplatin|Overall survival Secondary endpoint PFS|
+|91023038/ ACTS-GC|Phase 3|Open-label, multicentre randomised, 2-arm, parallel group study In 109 sites in Japan|S-1 adjuvant therapy after curative resection N=1059 patients Stage II (not T1) or stage IIIA/B gastric cancer + curative resection with extended lymph node dissection|S-1 compared to observation only as postoperative adjuvant treatment of patients with stage II, IIIA or IIIB gastric cancer|Overall survival|
+|JCOG 9912|Phase 3|Open-label, multicentre,|N=704 patients Histologically|S-1 compared to 5-FU alone|Overall survival|
+
+
+-----
+
+|Col1|Col2|randomised, 3-arm 34 sites Japan|confirmed unresectable or recurrent gastric adenocarcinoma with no history of chemotherapy or radiation therapy for gastric cancer|and irinotecan + cisplatin (CPT) S-1 40 mg/m2 5-FU 800 mg/m2/24h CPT 70 mg/m2 CDDP 80mg/m2|Col6|
+|---|---|---|---|---|---|
+|91023039/ SPIRITS|Phase 3|Open-label, multicentre, randomised, 2-arm 38 sites in Japan|Advanced gastric cancer N=305 patients Histologically confirmed unresectable or recurrent gastric adenocarcinoma with no history of chemotherapy|S-1 compared to S-1 + cisplatin|Overall survival|
+
+
+CT=chemotherapy, PFS=progression free survival
+
+**Table 4 Dose regimens used in the Phase 2 and Phase 3 clinical studies**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 30/67
+
+
+-----
+
+### ***GCP ***
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the
+
+community were carried out in accordance with the ethical standards of Directive 2001/20/EC. **2.4.2. Pharmacokinetics ** ***Absorption ***
+
+Teysuno components were readily absorbed after oral administration of Teysuno capsules in humans.
+
+Following single Teysuno doses of 50 mg or 25-30 mg/m [2] administered at least 1 hour before or
+
+1 hour after a meal, detectable plasma concentrations of Teysuno components and metabolites
+
+occurred within 0.5 hours with median time to maximum plasma concentration (tmax) values ranging
+
+from 0.5 to 1 hr for tegafur, 1 to 2 hr for gimeracil, 1.5 to 4 hr for oteracil, and 2 to 3 hr for 5-FU.
+
+Following a single oral administration of 50 mg Teysuno (approximately 30 mg/m [2 ] based on surface
+
+area, N=14), mean ± SD for AUCinf and Cmax was 14595 ± 4340 ng.h/ml and 1762 ± 279 ng/ml for
+
+tegafur, 1884 ± 640 ng.h/ml and 452 ± 102 ng/ml for gimeracil, 556 ± 281 ng.h/ml and
+
+112 ± 52 ng/ml for oteracil, and 842 ± 252 ng.h/ml and 174 ± 58 ng/ml for 5-FU.
+
+After administration of 30mg/m [2] dose, steady state conditions were reached for tegafur, gimeracil and
+
+oteracil at the latest by Day 8.
+
+Tegafur plasma levels were much higher following administration of 800 mg tegafur alone, as
+
+compared to 50 mg Teysuno. In contrast, mean 5-FU Cmax and AUC values were approximately 3-fold
+
+higher after Teysuno administration than after administration of tegafur alone, despite a 16-fold lower
+
+Teysuno dose (equals 50 mg of tegafur) compared to tegafur alone (800 mg). The 3-fold higher 5-FU
+
+systemic exposure after Teysuno administration was considered attributable to inhibition of DPD by
+
+gimeracil.
+
+Based on urinary excretion data, the absolute bioavailability of tegafur in human appeared high, i.e., at
+
+least 83%. Also based on urinary data, the absolute bioavailability of gimeracil in humans was more
+
+than 44%, and for oteracil more than 13%. Bioavailability of 5-FU, tegafur and gimeracil after
+
+administration of Teysuno capsules was comparable to the Teysuno oral solution, indicating that the
+
+formulation was no determinant of the absorption pharmacokinetics of Teysuno components.
+
+Food affected the pharmacokinetics of several Teysuno components. The major impact was observed
+
+on AUC and Cmax of oteracil, which were decreased by approximately 70% with food. A relatively
+
+small effect of food on AUC and Cmax of 5-FU was observed, which decreased by approximately 15%
+
+with food. Although oteracil was sensitive to low pH, addition of a proton pump inhibitor did not affect
+
+the observed food-effect to a significant extent. Therefore, it was recommended that Teysuno be
+
+administered at least 1 hour before or 1 hour after a meal, i.e., without food, for optimized exposure to
+
+all Teysuno components. ***Distribution ***
+
+Protein binding of all Teysuno components was moderate to low, i.e., 49% to 56% for tegafur, from
+
+32% to 33% for gimeracil, from 7.2% to 9.6% for oteracil, and from 17% to 20% for 5-FU. Therefore,
+
+no interactions with respect to protein-protein interactions are expected. No clinical data on the
+
+distribution of radiolabelled components of Teysuno are available. Although no IV data are available for
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 31/67
+
+
+-----
+
+Teysuno in humans, the volume of distribution could be estimated from the apparent volume of
+
+distribution and urinary excretion data as 16 l/m [2], 17 l/m [2], and 23 l/m [2] for tegafur, gimeracil and
+
+oteracil, respectively.
+### ***Metabolism ***
+
+The main metabolic pathway for tegafur is through conversion via CYP2A6 to 5-FU in the liver.
+
+Gimeracil was not found to be metabolised *in vitro* in human liver fractions, which is in line with the
+
+large proportion of gimeracil excreted unchanged in urine. Oteracil is metabolised mainly by
+
+phosphoribosyl pyrophosphate (PRPP) to cyanuric acid (CA).
+
+Tegafur contains a chiral centre and has two stereoisomers, i.e., (R)-tegafur and (S)-tegafur. The
+
+mean values of AUC0-inf and t1/2 for (R)-tegafur were 5.3-fold lower and 4.3-fold shorter,
+
+respectively, compared with (S)-tegafur. The observed difference in PK of (R)-tegafur and (S)-tegafur
+
+was in line with current knowledge described for UFT. The clinical significance is limited, since tegafur
+
+itself is inactive and the amount of (R)-tegafur and (S)-tegafur in the drug product has been constant.
+
+Tegafur is metabolised mainly by CYP2A6. Polymorphisms in this CYP isoenzyme have been described,
+
+and are expected to result in faster or slower conversion of tegafur to 5-FU. CYP2A6 variants may be a
+
+cause for PK variability of tegafur. In an Asian (Chinese/Malay) patient population having lower
+
+CYP2A6 activity, exposure to tegafur was higher compared to the Caucasian group. However, exposure
+
+to 5-FU was not different between the Caucasian and the Asian population and therefore no dose
+adjustment or genotyping prior to treatment appeared to be necessary. However, in this study no
+
+polymorphisms affecting CYP2A6 activity to a really major extent were present in the included
+
+Caucasian and Asian population. In contrast, a CYP2A6 gene named as CYP2A6*4, which results in the
+
+absence of CYP2A6 protein, is known to be present in the Japanese population with a frequency of
+
+15% (Nunoya et al., 1998;Miyamoto et al., 1999). Based on literature and data obtained from the
+
+TPU-S1301 Phase III study, a significant effect of the presence of the CYP2A6*4C allele on the AUC of
+
+tegafur was indicated, with significantly increased tegafur AUCs observed in patients possessing the
+
+CYP2A6*4C allele. In most cases the effect of gimeracil exposure on 5-FU exposure was larger than
+
+the effect of CYP2A6 polymorphism, however, the situation for the *4/*4 homozygous population was
+
+less clear. Sparse data reported indicate that 5-FU levels in that *4/*4 population may be decreased,
+
+possibly to a clinically relevant degree, and possibly on top of the effect of gimeracil exposure. The
+
+frequency of this deleted allele in Caucasians is not well known; in one study, it was 1% among
+
+Spaniards and Finns (Oscarson et al., 1999). The apparent lower frequency of the CYP2A6*4 allele in
+
+the Caucasian population indicated that based on the results obtained in Study S-1107, no major
+
+consequences are expected due to CYP2A6 polymorphisms. ***Elimination ***
+
+The t1/2 for Teysuno components and the apparent t1/2 for 5-FU following a single 50-mg or 25- to
+
+30-mg/m [2] dose ranged from 1.6 to 1.9 hr for 5-FU, from 6.7 hr to 11.3 hr for tegafur, from 3.1 hr to
+
+4.1 hr for gimeracil, and from 1.8 to 9.5 hr for oteracil. The apparent elimination half-life for 5-FU
+
+obtained from Teysuno administration (1.6 to 1.9 hours) was longer than the t1/2 observed for iv
+
+administered 5-FU, i.e., 10-20 minutes, which may be due to inhibition of DPD by gimeracil.
+
+Following a single dose of Teysuno, approximately 3.8% to 4.2% of administered tegafur, 64% to 72%
+
+of administered gimeracil, and 3.5% to 3.9% of administered oteracil were excreted unchanged in the
+
+urine. Approximately 10% of the administered tegafur dose was recovered in urine as 5-FU and 70%
+
+to 77% as α-fluoro-β-alanine (FBAL). Approximately 10% of the administered oteracil was excreted in
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 32/67
+
+
+-----
+
+urine as the CA metabolite, and therefore in total approximately 13% of oteracil was excreted via the
+
+urine.
+### ***Dose proportionality and time dependencies ***
+
+Literature data indicate that the PK of tegafur, gimeracil and oteracil is linear, whereas the PK of 5-FU
+
+is non-linear, due to the combined effect of increased dose of tegafur (leading to increased formation
+
+of 5-FU) and the concomitant increase in gimeracil dose (leading to an increased inhibition of DPD and
+
+thus to an additional increase in 5-FU exposure).
+
+After multiple dose administration of 30 mg/m [2] BID for 14 days, mean ± SD for AUC0-48h and Cmax
+
+was 40691 ± 28198 ng.h/ml and 2316 ± 735 ng/ml for tegafur. Mean ± SD for AUC0-8h and Cmax
+
+was 1011 ± 206 ng.h/ml and 245 ± 62 ng/ml for gimeracil, 382 ± 197 ng.h/ml and 83 ± 41 ng/ml for
+
+oteracil, and 537 ± 180 ng.h/ml and 142 ± 53 ng/ml for 5-FU. No unexpected accumulation was
+
+observed following multiple dose administration for all Teysuno components. There appeared to be
+
+little accumulation of 5-FU and gimeracil in patients after multiple doses, with mean Cmax and AUC
+
+accumulation ratio values generally in the 1.12 to 1.23 range for 5-FU and 0.94 to 1.4 range for
+
+gimeracil. The accumulation ratio for tegafur AUC and Cmax was approximately 3 and 2, respectively.
+
+Since tegafur has an apparent half-life in the 11 to 12 hour range and Teysuno is administered every
+
+12 hours, this accumulation ratio was consistent with the half-life and dosing frequency. ***Special populations ***
+
+Renal impairm e nt
+
+In the renal impairment study, the exposure to 5-FU was affected by renal impairment, despite the
+
+fact that 5-FU was only excreted in urine to a limited extent. The effect of renal impairment on 5-FU
+
+exposure most likely is explained by increased plasma levels of gimeracil, which is for a large part
+
+excreted renally, and therefore increased inhibition of DPD in case of renal impairment. This increased
+
+inhibition of DPD will subsequently lead to increased 5-FU exposure in case of renal impairment.
+
+Based on the renal impairment study and population PK modelling, a dose reduction to approximately
+
+21 mg/m [2] Teysuno in mild renal impaired patients (CrCL 51 to 80 ml/min) would yield comparable
+
+exposure as by 25 mg/m [2] given in patients with normal renal function with cisplatin. However, based
+
+on safety data obtained in the pivotal clinical trial S1301, no dose reduction is considered necessary in
+
+the mild renal impaired patient population. The applicant proposed a dose reduction to 20 mg/m [2] in
+
+moderate renal impaired patients (CrCl 30 to 50 ml/min). This advice is based on data obtained from
+
+the renal impairment study, and was shown to yield comparable exposure compared to 30 mg/m [2] in
+
+renal control patients, and on the safety data obtained with the 25 mg/m [2] dose in mild renal impaired
+
+patients. Considering the tolerability of this 25 mg/m [2] dose in mild renal impaired patients in the Study
+
+S1301, the 20 mg/m [2] dose in moderate renal impaired patients, combined with the same dose of
+
+cisplatin, is likely to be tolerated. Therefore, the proposed 20 mg/m [2] dose in moderate renal impaired
+
+patients was agreed.
+
+No data are yet available for the severe renal impaired patient population (CrCl <30 ml/min). Until
+
+these data are available and a dose advice can be provided, severe renal impairment is
+
+contraindicated. The applicant has committed to provide the final study report of the renal impairment
+
+(see Risk Management Plan).
+
+Hepatic impair m ent
+
+There were no significant differences observed in AUCs of 5-FU, tegafur, gimeracil, or oteracil after
+
+either single or multiple dose administration of Teysuno 30 mg/m [2 ] BID in patients with mild, moderate,
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 33/67
+
+
+-----
+
+or severe hepatic impairment compared to those with normal hepatic function. Based on overall PK
+
+results, there appeared no need for Teysuno dosage modifications in cancer patients with mild,
+
+moderate or severe hepatic impairment.
+
+Gender
+
+No different dosing of Teysuno was considered necessary in male and females.
+
+Race
+
+Exposure to 5-FU following administration of Teysuno appeared to be comparable in Caucasians and
+
+Asians from Chinese/Malay ancestry. Based on these comparable 5-FU levels, no dose adjustment from
+
+the standard Teysuno dose of 25 mg/m [2] BID in combination with cisplatin is considered required for
+
+patients of this Asian ethnicity.
+
+Weight
+
+Results of a Population PK simulation suggest that BSA-based dosing indeed reduces variability in
+
+exposure to 5-FU following administration of Teysuno, as compared to fixed dosing.
+
+Age
+
+Based on pharmacokinetics of the Teysuno components, no dose adjustment based on age appeared to
+
+be necessary in elderly. Teysuno was not investigated in, and is not recommended for children under
+
+18 years.
+
+Patients with gastrectomy
+
+Based on the Population PK investigation, no major differences in the PK of Teysuno components
+
+appeared to be present in patients with or without a history of gastrectomy.
+### ***Pharmacokinetic interaction studies ***
+
+Based on *in vitro* data, no relevant inhibition of CYP isoenzymes is expected *in vivo,* e.g., the Ki for
+
+inhibition of CYP2A6 by tegafur is 80-fold higher than the Cmax obtained *in vivo* . Moreover, no signs of
+
+an inductive effect of tegafur were noted *in vitro* . No *in vivo* drug-drug interaction studies related to
+
+CYP isoenzymes are implicated.
+
+Interactions between tegafur and gimeracil and oteracil were used in order to optimize 5-FU exposure
+
+following administration of tegafur. Inhibition of DPD by gimeracil increased the 5-FU plasma levels.
+
+Oteracil did not affect 5-FU plasma levels, and thus is not expected to negatively affect antitumor
+
+activity of 5-FU obtained from Teysuno administration. Instead, oteracil is added aiming for affecting
+
+phosphorylation of 5-FU only in the gastrointestinal tract. In a clinical study, oteracil was shown to
+
+increase tolerability and reduce or delay the occurrence of gastrointestinal toxicities.
+
+No relevant PK interaction appeared to be present between Teysuno components and cisplatin. **2.4.3. Pharmacodynamics ** ***Mechanism of action ***
+
+The mechanism of action of Teysuno proceeds via the well known active substance 5-FU, which is
+
+formed via CYP2A6 mediated metabolism from the Teysuno component tegafur. Inclusion of gimeracil
+
+and oteracil into the Teysuno formulation, as inhibitors of the 5-FU catabolism and anabolism
+
+pathways, respectively, constitutes an approach to increase relative exposure to 5-FU while at the
+
+same time trying to decrease gastrointestinal adverse events. Using the endogenous DPD substrate
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 34/67
+
+
+-----
+
+uracil as a tool, it was demonstrated that addition of gimeracil to tegafur in the Teysuno formulation
+
+effectively resulted in a transient inhibition of DPD. Maximum inhibition of DPD by gimeracil was
+
+observed at 4 hours, with a return of plasma uracil concentrations to baseline levels within
+
+approximately 48 hours after dosing indicating the reversibility of the DPD inhibition by gimeracil.
+### ***Primary and Secondary pharmacology ***
+
+In a Phase 1 clinical study, oteracil appeared to improve tolerability of the treatment with tegafur,
+
+whereas 5-FU plasma levels were not affected. However, no benefit with respect to the safety of
+
+tegafur as compared to 5-FU was observed in the pivotal trial.
+
+An open-label, nonrandomized Phase 1 study was conducted designed to assess the effect of Teysuno
+
+on cardiac repolarisation and cardiac safety after a single dose and multiple doses of Teysuno at steady
+
+state in patients with advanced gastric cancer. A sufficient number of patients with advanced solid
+
+tumours were to be enrolled to obtain at least 45 patients for cardiac safety assessment. The results
+
+indicated that Teysuno did not prolong QTc to a clinically significant extent. This finding is in
+
+agreement with preclinical findings. **2.4.4. Discussion and Conclusions on clinical pharmacology **
+
+Overall, pharmacokinetics and pharmacodynamics of Teysuno components have been investigated to
+
+an acceptable extent. ***2.5. Clinical efficacy *** **2.5.1. Dose response studies **
+
+S 1101 phase 1 study
+
+This was a dose-finding tolerability study performed in the USA in patients with advanced gastric
+
+cancer to determine the recommended dose of Teysuno+cisplatin.
+
+Due to differences in CYP2A6 polymorphism more toxicity was seen in European studies compared to
+
+Japanese studies and therefore the Teysuno dose had to be reduced in Caucasian patients. Diarrhoea
+
+was the dose-limiting toxicity in Caucasians and haematological toxicity was the dose limiting toxicity
+
+in Japanese patients.
+
+The purpose of this study was to determine the MTD of Teysuno in combination with cisplatin in
+
+patients with advanced gastric cancer. The dose regimen was twice daily Teysuno treatment (starting
+
+at 25 mg/m [2] ) for 21 days followed by a 7-day recovery period, with cisplatin 75 mg/m [2] administered
+
+on Day 1. The regimen was given every 28 days. The cisplatin dose was fixed, while the Teysuno dose
+
+was escalated in 3 cohorts of patients. The starting dose of Teysuno was 25 mg/m [2] twice daily every
+
+12 hours, to be followed by sequential dose escalation to 30 mg/m2 and 35 mg/m [2] twice daily every
+
+12 hours.
+
+S 1101 phase 2 study
+
+In this study 72 patients who had not received prior chemotherapy for advanced gastric cancer were
+
+treated with Teysuno 25 mg/m [2] BID for 21 consecutive days + 75 mg/m [2] cisplatin iv on day 1,
+
+repeated every 28 days thereafter. In this study 30 mg/m [2] Teysuno + 75 or 60 mg/m [2] cisplatin was
+
+not tolerated in Western patients. The primary endpoint was overall response rate and secondary
+
+endpoint was overall survival. The best overall response rate was 53.1% (34 patients partial
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 35/67
+
+
+-----
+
+response), 68.1% (49/72) were followed until death (up to 26.4 months). The median overall survival
+
+was 10.4 months. The survival rate was 73.3% at 6 months, 41.7% at 1 year and 22.6% at 2 years.
+### **2.5.2. Main study **
+
+The S-1301/FLAGS study is the main Phase III trial (open-label, multicenter, randomized, parallel
+
+group, active controlled) in which the effectiveness of Teysuno in combination with cisplatin compared
+
+to 5-FU in combination with cisplatin in patients with advanced gastric cancer previously untreated with
+
+chemotherapy for advanced disease was studied in a Caucasian patient population. ***Methods *** ***Study Participants ***
+
+The study enrolled male and female patients above 18 years of age with histological confirmed,
+
+unresectable, locally advanced (Stage IV) or metastatic gastric cancer, including adenocarcinoma of
+
+the gastroesophageal (GE) junction, and who had no prior cytotoxic chemotherapy for advanced
+
+gastric cancer. Patients must have been at least 4 weeks post radiotherapy, and at least 3 weeks post
+
+major surgery. Patients had Eastern Cooperative Oncology Group Scale (ECOG) performance status of
+
+0 or 1, and met minimum laboratory test requirements.
+
+The study was conducted in 147 sites in 24 countries in Eastern/Western Europe, North America, Latin
+
+America, Australia and South Africa. ***Treatments ***
+
+25 mg/m [2] Teysuno was administered twice daily (BID) for 21 consecutive days followed by a 7-day
+
+recovery period combined with 75 mg/m [2] cisplatin i.v. administered on day 1 and repeated every
+
+28 days. Teysuno was administered 1 hour before or 1 hour after a meal with a glass of water
+
+(approximately 100 ml). Cisplatin was administered as a 1- to 3-hour infusion on Day 1 following the
+
+morning dose of Teysuno.
+
+Patients in the control arm received 1000 mg/m [2] /24 hours of 5-FU administered by continuous i.v.
+
+infusion over 120 hours (day 1-5) in combination with 100 mg/m2 cisplatin i.v. on day 1, both
+
+repeated every 28 days thereafter.
+
+Cisplatin treatment in both study arms was limited to 6 cycles.
+
+Supportive treatment (loperamide, rehydration), could be administered if diarrhoea was observed. If
+
+grade ≥ 3 was observed Teysuno treatment was held until diarrhoea has subsided to baseline or grade
+
+≤ 1. Teysuno treatment was resumed at one reduced dose level. Supportive care such as
+
+antidiarrheals (e.g. loperamide, rehydration) antiemetics, analgesics, etc was permitted at any time
+
+and was administered according to the institutional standard of care. Hematologic support as medically
+
+indicated was permitted (blood transfusions, granulocyte-colony stimulating factor G-CSF) according to
+
+the institutional site standards or following the ASCO guidelines for the use of hematopoietic colony
+
+stimulating factors. A mouth rinse was permitted as a curative or prophylactic treatment for stomatitis.
+
+Patients were not permitted to receive any other investigational or any other anticancer therapy or
+
+concomitant medication that could interact with Teysuno.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 36/67
+
+
+-----
+
+### ***Objectives ***
+
+The primary objective was to compare the overall survival of Teysuno treatment in combination with
+
+cisplatin compared to 5-FU treatment in combination with cisplatin in patients with advanced gastric
+
+cancer.
+
+Secondary objectives were a comparison of the overall response rate and other parameters of
+
+antitumor activity as well as the assessment of the quantitative and qualitative toxicity and reversibility
+
+of toxicity of each treatment regimen. Patient reported outcomes, clinical benefit, time to treatment
+
+failure and the relationship between Teysuno and 5-FU plasma levels and safety and efficacy
+
+parameters (optional) were also investigated.
+
+Exploratory objectives were to investigate the relationship of tumour gene expression to efficacy
+
+parameters, to correlate the presence or absence of genetic mutations, including nucleotide
+
+polymorphisms (SNPs), deletions, transport, transduction, or insertions with safety and efficacy
+
+parameters and to investigate the pharmacogenomics of both treatment regimens by screening a panel
+
+of candidate genes, including but not limited to those related to drug metabolism, nucleotide
+
+metabolism, transport, transduction and deoxyribonucleic acid (DNA) repair. ***Outcomes/endpoints ***
+
+The primary endpoint was overall survival (OS). Survival was defined as the time from date of
+
+randomisation to date of death. In the absence of death confirmation or for patients alive at the time
+
+of analysis, survival time was censored at the date of last follow-up. Survival information was obtained
+
+every 2 months after the end of treatment even if a patient had progressive disease or if new
+
+anticancer therapy was initiated during the follow-up period. Patients randomised but never dosed
+
+were also followed for survival.
+
+Secondary endpoints were overall response rate (ORR) and progression free survival (PFS). PFS was
+
+defined as the time from randomisation to date of first documented progression of disease or date of
+
+death and was analysed for the full analysis set population.
+
+Patients were evaluated for efficacy, including OS, PFS, tumour response rate (TRR; based on RECIST),
+
+and time to treatment failure (TTF), patients reported outcomes (PROs), clinical benefit and
+
+outpatients interval; for safety, toxicity was assessed by adverse events (AEs) and laboratory
+
+evaluations.
+
+Safety assessments were performed by NCI Common Terminology Criteria for Adverse Events,
+
+including assessment of type, incidence, severity, timing, seriousness and relatedness of AEs and
+
+laboratory assessments were used to assess whether Teysuno had a lower toxicity than 5-FU when
+
+combined with cisplatin. ***Sample size ***
+
+A total of 1050 patients, 525 in each treatment arm, were to be randomized and treated in this study
+
+in order to obtain a total of 761 events (deaths) within the scheduled follow-up time (minimum of
+
+12 months). In order to ensure comparability of the treatment arms at baseline, patients were
+
+stratified by type of disease (locally advanced, metastatic disease in only one metastatic site, or
+
+metastatic disease in 2 or more metastatic sites), prior adjuvant therapy (yes or no), measurable
+
+versus non-measurable disease, and center.
+
+Sample size considerations were based on the survival endpoint. Based on data available from
+
+multinational, randomized studies and data reported from a multinational study in a similar population,
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 37/67
+
+
+-----
+
+the median survival in the control arm was estimated to be 8.5 months. Based on data from a Phase 2
+
+study using the same Teysuno and cisplatin regimen, the median survival was estimated at
+
+10.5 months. A 23.5% improvement in median survival from 8.5 months in the control arm to
+
+10.5 months in the treatment arm, yielding a reduced hazard ratio of 0.81, was considered clinically
+
+relevant in this population. A total of 761 events (deaths) were required for a two-tailed unstratified
+
+log-rank test at the 5% significance and at least 80% power (approximately 83%). Based on a patient
+
+accrual of 65 patients per month, a minimum follow-up of 12 months, and a loss to follow-up rate of
+
+5%, a total of 1050 patients were to be enrolled in the study to achieve the specified number of events
+
+in the scheduled follow-up time. Assuming that the study was not stopped at the planned interim
+
+analysis, the final survival analysis was to take place 12 months after the last patient was randomized
+
+or the time that a total of 761 events (deaths) were observed, whichever was later.
+### ***Randomisation ***
+
+Patients were randomly assigned (1:1) to Teysuno in combination with cisplatin (experimental arm) or
+
+5-FU in combination with cisplatin (control arm) via an Interactive Voice Response System (IVRS)
+
+based on a stochastic minimization technique. Patients were stratified by type of disease (locally
+
+advanced, metastatic disease in only one metastatic site, or metastatic disease in 2 or more metastatic
+
+sites), prior adjuvant therapy (yes or no), measurable versus non-measurable disease, and center. ***Blinding (masking) ***
+
+The study was an open-label study. ***Statistical methods ***
+
+In the Full Analysis Set (FAS) the population consisted of all patients who were dosed, with study drug
+
+assignment designated according to initial randomization, regardless of whether patients received a
+
+different drug from that to which they were randomised. This was the primary population for
+
+evaluating patient characteristics, OS, PFS, TTP, TTF, clinical benefit parameters, and any supportive
+
+analyses for those endpoints.
+
+Per Protocol Set was defined post-hoc as the Full Analysis Set excluding patients with violations of
+
+study entry criteria (No histological confirmation of gastric cancer, Haemoglobin <6.5 g/dL, Platelets
+
+not recorded at baseline, Creatinine clearance <50 mL/min, Creatinine clearance not recorded at
+
+baseline, Total bilirubin >3.6 mg/dL (3 x ULN), Total bilirubin not recorded at baseline, AST not
+
+recorded at baseline, ALT >200 U/L (5 x ULN), ALT not recorded at baseline, AST >75 U/L (1.5 x
+
+ULN) and/or ALT >60 U/L (1.5 x ULN) plus bilirubin >1.8 mg/dL (1.5 x ULN), prior chemotherapy
+
+within 12 months, other malignancies within the past 5 years).
+
+As Treated Population (ATP) comprised all patients who initiated treatment with either of the 2
+
+regimens with treatment assignment designated according to actual treatment received. This was the
+
+primary population for evaluation of treatment administration, compliance, and safety endpoints.
+
+Evaluable Populations consisted of all ATP patients with a baseline and at least one on-treatment
+
+assessment performed sufficient to assess the endpoint of interest. This was the primary population for
+
+evaluation of antitumor activity parameters, clinical benefit parameters, patient-reported outcomes,
+
+and PK and PGx assessments. The ORR-Evaluable Population was further restricted to evaluable
+
+patients with measurable disease (at least one target lesion) at baseline based on either Investigator
+
+assessment or Independent assessment.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 38/67
+
+
+-----
+
+The OS endpoint had one interim test of potential inferior survival rate for the Teysuno arm at 50% of
+
+the target events (381 deaths) using a one-sided significance level consistent with a Lan-DeMets
+
+spending function, consistent with a two-sided 0.05 O’Brien-Fleming design. The significance level for
+
+the final comparison of survival between the 2 arms was set at 0.05 (two-sided). All other treatment
+
+comparisons for other endpoints were performed at the two-sided 0.05 level and were not adjusted for
+
+multiple testing resulting from more than 1 endpoint.
+
+OS was tested in the Full Analysis Set Population using the unstratified log-rank test, the
+
+corresponding hazard ratio was obtained from Cox’s proportional hazard model with only treatment as
+
+a factor. For a justification of the non-inferiority margin, see conduct of the study in the Results
+
+section.
+
+Kaplan Meier curves and median Kaplan Meier estimates of survival and survival probabilities at 6, 12,
+
+18, and 24 months, were provided with the corresponding 2-sided 95% confidence intervals (CI) for
+
+the estimates (based on the methods of Brookmeyer and Crowley). Treatment estimates and
+
+differences with their 95% CIs were constructed using the Clopper-Pearson approximation to the exact
+
+binomial proportion for individual estimates within group, and the normal approximation for the
+
+difference between groups. Confidence intervals for median survival were based on the methods of
+
+Brookmeyer and Crowley. The influence of stratification factors, other baseline characteristics, and
+
+non-study treatments was assessed using the stratified log-rank test and Cox’s regression approach.
+
+Logistic regression modelling was used to investigate the effect of prognostic factors.
+
+All secondary time to event endpoints were analyzed using the methods for the OS (TTP, TTF and PFS
+
+in the full analysis set; duration of response [DR], TTR, and duration of post-treatment response in the
+
+ORR evaluable population). The treatment comparison for ORR was based on the Fisher’s Exact test at
+
+the 2-sided alpha=0.05 level. Treatment estimates and differences are presented along with the
+
+associated 95% CIs constructed using Clopper-Pearson approximation to the exact binomial proportion
+
+for individual estimates within group, and the normal approximation for the difference between groups.
+
+Interim Analyses and Data Monitoring
+
+There were no interim analyses to test for early demonstration of a potential superior survival
+
+advantage for the CS arm. As such, no alpha spending was taken into consideration for sample size
+
+calculation and the final analysis was performed at the 5% significance level. One interim analysis to
+
+test for early demonstration of potential inferior survival rate of the CS arm (one-sided test for
+
+inferiority, “futility” analysis) was planned. This analysis took place when 50% of the events
+
+(381 deaths) had been observed. A Lan-DeMets spending function with an inferiority boundary that
+
+allowed for early stopping consistent with a one-sided 0.025 O’Brien-Fleming design was used.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 39/67
+
+
+-----
+
+Data Monitoring Committee
+
+An Independent Data Monitoring Committee (IDMC) was formed with responsibility of periodically
+
+evaluating the cumulative safety data from the study and other study data, including results of the
+
+futility analysis) described above, and recommending study continuation, discontinuation, or
+
+modification.
+### ***Results *** **Participant flow **
+
+**Figure 1: Patient Disposition**
+
+A total of 1305 patients were screened (signed informed consent) for participation in the study. Of
+
+these, 252 (19.3%) patients were not randomized: 220 failed eligibility criteria, 19 withdrew consent,
+
+and 13 had other reasons for discontinuation prior to randomization. **Recruitment **
+
+A total of 1053 patients were randomized from 18 May 2005 and 7 March 2007. Of them, 1029
+
+(521 Teysuno and cisplatin [CS]; 508 5-FU and cisplatin [CF]) received at least one dose of study
+
+drug. All patients received the assigned study drugs according to initial randomization (i.e., no
+
+randomization or treatment errors). At the time of clinical cut-off for reporting of non-survival data on
+
+31 December 2007, 26 patients (16, CS; 10, CF) were continuing on study treatment and
+
+1003 patients (505, CS; 498, CF) had discontinued treatment.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 40/67
+
+
+-----
+
+### **Conduct of the study **
+
+The S1301/FLAGS study was designed and conducted as a superiority study. However, the applicant
+
+considered it appropriate to switch post-hoc, after completion of the study, the primary objective from
+
+superiority to non-inferiority discussing the criteria in accordance with the CHMP Points to Consider on
+
+Switching between Superiority and Non-inferiority (CPMP/EWP/482/99) as the final results of the trial
+
+did not show statistical and clinical evidence for the primary objective: superiority of Teysuno+cisplatin
+
+over 5-FU+cisplatin. From a meta-analysis of combination chemotherapy versus monotherapy, a
+
+hazard ratio of 0.83 was calculated (Wagner et al, J Clin Oncol 24: 2903, 2006). Preservation of 50%
+
+of the 0.83 effect resulted in a non-inferiority margin of 1.10. The non-inferiority margin of 1.10 in the
+
+hazard ratio scale was also justified by the applicant based, among others, on literature comparing
+#### combination chemotherapy (e.g., 5-FU + cisplatin) to either BSC or monotherapy alone ( Boku et al ; Dank et al ; Kang et al ) with non-inferiority margins ranging from 1.08 to 1.25. 
+
+A total of 55 patients (5.3%), 23 (4.4%) in the Teysuno+cisplatin arm and 32 (6.3%) in the
+
+5-FU+cisplatin arm, had major protocol violations of study entry criteria as defined in the statistical
+
+analysis plan.
+
+There were no marked differences between the 2 groups with respect to the occurrence of specific
+
+protocol violations, which were noted in approximately 5% of patients (26, 5.0% in the CS arm; 26,
+
+5.1% in the CF arm). Two patients in the Teysuno+cisplatin group and 2 patients in the 5-FU+cisplatin
+
+group received non-study systemic anti-tumour treatments during the treatment period.
+### **Baseline data **
+
+Baseline characteristics were similar in both treatment arms and reflected the population of patients
+
+with advanced gastric cancer. The majority of patients were male (70.8%) and white (86.0%).The
+
+mean age was 59 years: range 18-85 years and 14.2% ≥ 70 years of age. The Eastern Cooperative
+
+Oncology Group (ECOG) performance status was 0 for 41.4% of patients and 1 for 58.6% of patients.
+
+All these patients had histological confirmed adenocarcinoma: 83.1% of the stomach and 16.9% of
+
+gastro-oesophageal junction. The most frequent pathology was poorly differentiated adenocarcinoma
+
+in 38.8% of patients. The overall incidence of diffuse type histology (poorly differentiated
+
+adenocarcinoma, signet-ring cell carcinoma and/or mucinous adenocarcinoma) was 57.3% and
+
+metastatic disease was present in 95.7% and 4.2% had locally advanced disease. Most frequently were
+
+lesions in lymph nodes, stomach and liver.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 41/67
+
+
+-----
+
+**Table 5 Demographics and Baseline characteristics (as treated population, FLAGS study)**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 42/67
+
+
+-----
+
+**Table 6 Tumour characteristics at baseline – on-site assessments (as treated population,**
+
+**FLAGS study)**
+### **Numbers analysed **
+
+Of the 1053 randomized patients, 1029 (97.7%) were included in the Full Analysis Set (FAS), 521
+
+(98.9%) in the CS arm and 508 (96.6%) in the CF arm.
+
+The cut-off date for survival analysis was 07 March 2008 (12 months after last patient randomised). **Outcomes and estimation **
+
+The results for the primary endpoint overall survival are shown in the table below. The
+
+Teysuno+cisplatin arm was considered to be non-inferior to the 5-FU+cisplatin arm with respect to
+
+overall survival. The median follow-up was 18.3 months (range 12.1-31.8).
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 43/67
+
+
+-----
+
+**Table 7** **Endpoints S** **-** **1301/FLAGS study**
+
+*Full analysis set excluding patients with violations of study entry criteria.
+
+**Figure 2. Survival (FAS population) – study S1301/FLAGS**
+
+The overall response rate in the Teysuno+cisplatin group was 29.1% and 31.9% in the 5-FU+cisplatin.
+
+Statistically superiority of Teysuno+cisplatin did not reach more than 15% difference and thereby it
+
+was considered to be non-inferior.
+
+The PFS was 4.8 months in the Teysuno+cisplatin and 5.5 months in the 5-FU+cisplatin, however this
+
+difference in PFS was not statistically significant (see table 8).
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 44/67
+
+|Primary endpoint|Arm 1 Teysuno+cisplatin|Arm 2 5-FU+cisplatin|Statistics|
+|---|---|---|---|
+|Median overall survival All randomised|8.5 months (n=527) 95% CI 7.9,9.3|7.9 months (n=526) 95% CI 7.2,8.5|HR 0.94 95% CI 0.82,1.07|
+|Median overall survival Full analysis set|8.6 months (n=521) 95% CI 7.9,9.5|7.9 months (n=508) 95% CI 7.2,8.5|HR 0.92 95% CI 0.80,1.05|
+|Median overall survival Per protocol*|8.6 months (n=498) 95% CI 7.9,9.5|7.9 months (n=476) 95% CI 7.2,8.5|HR 0.91 95% CI 0.80,1.05 p=0.1983|
+|Secondary endpoint||||
+|Progression free survival|4.8 months|5.5 months|HR 0.99 95% CI 0.86, 1.14; p=0.9158|
+|Overall response|29.1% (117/402 evaluable patients)|31.9% (123/385 evaluable patients)|95% CI -9.3,3.6 p=0.3952|
+
+
+-----
+
+**T able 8 Progression free survival – Independent Reader Assessment (FAS, FLAGS study)**
+
+A sensitivity analysis for PFS based on all response assessments (without exclusion for missed visits)
+
+through 07 March 2008 and counting initiation of antitumor therapy or death through 07 March 2008
+
+as progression events, showed similar results.
+
+The relative risk of Teysuno+cisplatin versus 5-FU+cisplatin across the multiple efficacy, clinical
+
+benefit, patient-reported outcomes and clinical management such as need for concomitant medications
+
+showed similar effects as observed for overall survival. As a result of oral administration of Teysuno,
+
+this group had a lower number of hospitalisations (1187 versus 1983). The Teysuno+cisplatin regimen
+
+demonstrated an advantage relative to 5-FU + cisplatin with respect to performance status, weight
+
+loss, time to worsening in patients reported outcomes of physical and emotional well-being.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 45/67
+
+
+-----
+
+**Figure 3.Forest Plot of Relative Risk of Treatment Effect on Efficacy, Clinical Benefit, and**
+**Patient-reported Outcomes Parameters**
+**(Full Analysis Set) – S-1301/FLAGS**
+
+**Patients with Events,**
+
+**Favors** **Favors** **Total Patients,**
+
+**S-1** **5-FU** **Relative Risk [95% CI]**
+
+**Efficacy Parameters**
+
+**Clinical Benefit Parameters**
+
+**FACT-Ga: Time to Worsening Parameters**
+
+**Concomitant M edication Parameters**
+
+|Favors|Favors|
+|---|---|
+|S-1|5-FU|
+|||
+
+
+
+**0.38** **0.5** **0.75** **1/1.1** **1** **1.1** **1.16**
+
+**Relative Risk (S1:5-FU) [95% CI]**
+
+### **Ancillary analyses **
+
+In order to address the concern that the increased toxicity-related mortality and discontinuations in the
+
+5-FU+cisplatin arm due to a higher cisplatin dose may have contributed to an overestimation of
+
+efficacy and safety in the Teysuno+cisplatin arm the applicant performed a comparison between
+
+Teysuno+cisplatin and 5-FU+cisplatin in time to either death due to myelosuppression or
+
+discontinuation due to myelosuppression-related symptoms and a sensitivity analysis was additionally
+
+performed by the applicant. Based on these data submitted the following Kaplan-Maier curve for time
+
+to discontinuation/death was generated:
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 46/67
+
+
+-----
+
+The time to discontinuation (Teysuno+cisplatin vs. 5-FU+cispaltin) has been observed with 22 vs. 13
+
+(difference 9 days) at the first quartile, 42 vs. 29 (difference 13 days) at the median and 77 vs. 55
+
+days (difference 22 days) at the last quantile. Although the time to discontinuation is generally larger
+
+in the Teysubo+cisplatin arm, the difference is so small that it is unlikely that a shorter time to
+
+myelosuppression deaths/discontinuations drive the (non-inferiority) effect of Teysuno compared to the
+
+comparator.
+
+**Table 9:** **Summary Statistics for Time to Myelosuppression-related**
+**Treatment Discontinuation and/or Death**
+#### * N reflects only patients with myelosuppression related events
+
+**Table 10:** **Survival Probabilities (%) without a Myelosuppression** **-** **related event**
+
+Furthermore, a sensitivity analysis of the potential effect of myelosuppression-related events on
+
+Overall Survival has been performed. The Teysuno+cisplatin arm maintained all its toxic deaths and
+
+discontinuations as they occurred, but the 5-FU+cisplatin arm had the patients with toxic deaths
+
+censored at the time they occurred and the patients with discontinuations had an overall survival
+
+censoring time imputed for them based on the survival distribution from the remaining 5-FU+cisplatin
+
+patients who did not experience a myelosuppression-related toxic death or discontinuation (Table 11:
+
+Analysis 2). It was discussed by the applicant that this scenario would disproportionately favour the
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 47/67
+
+|Treatment Arm|N*|Median (mos)|Minimum (mos)|Maximum (mos)|
+|---|---|---|---|---|
+|CF100|21|0.95|0.43|6.97|
+|CS|14|1.38|0.26|8.29|
+
+|End of Month|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|---|
+|CS|98.8|98.4|97.6|97.3|97.3|96.9|96.9|96.9|95.9|
+|CF100|97.6|96.4|95.9|95.6|95.6|95.6|94.6|94.6|94.6|
+|Difference|1.2|2.0|1.7|1.7|1.7|1.3|2.3|2.3|1.3|
+
+
+-----
+
+5-FU+cisplatin arm. In this analysis the Teysuno+cisplatin median OS remained at 8.6 months versus
+
+a median OS of 8.2 months for the 5-FU+cisplatin arm with a hazard ratio of 0.96 with a 95% CI of
+
+0.84 to 1.09. These outcomes are similar to those of the original analysis observed, where no actual
+
+values were imputed or censored (Table 10: Analysis 1).
+
+The applicant suggested that a more balanced analysis to assess the potential effect of
+
+myelosuppression-related events on OS would be to apply the same censoring and imputation rules for
+
+myelosuppression-related events in both arms (Table 9 – Analysis 3). In this sensitivity analysis the
+
+median OS for the Teysuno+cisplatin arm was 8.8 months and for the 5-FU+cisplatin arm 8.2 months
+
+with a HR of 0.91 and a 95% CI of 0.80 to 1.04.
+
+**Table 11:** **Sensitivity Analysis of the Potential Effect of Myelosuppression-Related Events**
+
+*Censoring times were derived from sampling the survival distribution of the CF100 or CS arm, as
+applicable, derived after excluding these patients with myelosuppression related event (see
+Appendix A for details)
+### **Summary of main study **
+
+The following tables summarise the efficacy results from the main studies supporting the present
+
+application. These summaries should be read in conjunction with the discussion on clinical efficacy as
+
+well as the benefit risk assessment (see later sections).
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 48/67
+
+|Tab on|ble 11: Sensitivity Analysis of the Potent Overall Survival|tial Effect of|f Myelosup|ppression-|-Related Events|
+|---|---|---|---|---|---|
+||Imputations|Imputed n|CS median|CF100 median|HR [95% CI]|
+|1|No imputations – Original primary analysis for OS|0|8.6|7.9|0.92 [0.80, 1.05]|
+|2|CF100 DCs censoring imputed* CF100 deaths censored at actual Death Date No imputations for CS arm|6 15|8.6|8.2|0.96 [0.84, 1.09]|
+|3|CF100 DCs censoring imputed* CF100 deaths censored at actual death date CS DCs censoring imputed* CS deaths censored at actual death date|6 15 10 4|8.8|8.2|0.91 [0.80, 1.04]|
+
+|Table 12: Summary of Efficacy for trial TPU-S1301|Col2|Col3|
+|---|---|---|
+|Title: An Open-Label, Multicenter, Randomized, Phase 3 Study of S-1 in Combination with Cisplatin Compared Against 5-FU in Combination with Cisplatin in Patients with Advanced Gastric Cancer Previously Untreated with Chemotherapy for Advanced Disease (First-Line Advanced Gastric Cancer Study [FLAGS])|||
+|Study identifier|TPU-S1301||
+|Design|This was an open-label, international, multicenter, two-arm, parallel, randomized, Phase 3 study evaluating the efficacy and safety of CS versus CF in patients with advanced gastric cancer previously untreated with chemotherapy for advanced disease. The study was designed to compare the overall survival (OS) of patients with advanced gastric cancer receiving CS therapy to those receiving 5-FU + cisplatin (CF) and to test for statistical superiority in OS of the CS regimen compared to the CF regimen.||
+||Duration of main phase:|Patients received study treatment until progression of disease (PD), unacceptable toxicity, withdrawal of consent, or other reason for discontinuation. Cisplatin treatment in both study arms was limited to 6 cycles.|
+
+
+-----
+
+|Col1|Duration of Run-in phase: Duration of Extension phase: Date of first enrolment:|Col3|Col4|Col5|Not applicable Not applicable 18 May 2005|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|Hypothesis|Non-inferiority (switch from superiority to non-inferiority)|||||||
+|Treatments groups|Arm A||||Teysuno 25 mg/m2 orally twice daily (BID) from Day 1 through Day 21 every 4 weeks. Cisplatin 75 mg/m2 intravenously (IV) as a 1- to 3-hour infusion on Day 1 every 4 weeks|||
+||Arm B||||5-FU 1000 mg/m2/24 hours was administered IV by continuous infusion over 120 hours (on Days 1 through 5) every 4 weeks. Cisplatin 100 mg/m2 IV as a 1- to 3-hour infusion on Day 1|||
+|Endpoints and definitions|Primary endpoint||||Overall Survival|||
+||Secondary endpoint||||Overall response rate and progression free survival|||
+||other endpoint||||See explanation in the text.|||
+|Database lock|Survival data cut-off: 07 March 2008|||||||
+|Results and Analysis||||||||
+|Analysis description||Primary Analysis||||||
+|Analysis population and time point description||other: Full Analysis Set||||||
+|Descriptive statistics and estimate variability||Treatment group||||Arm A|Arm B|
+|||Number of subject||||521|508|
+|||Overall Survival (months) (Median)||||8.6||
+||||||||7.9|
+|||Primary endpoint||Comparison groups||Arm A v. Arm B||
+|||||HR||.94||
+|||||95% CI||.80; 1.05||
+|Effect estimate per comparison||||P-value (logrank)||0.1983||
+
+### **Clinical studies in special populations **
+
+Treatment effects on overall survival were consistent between patient’s subgroups. Subgroup analysis
+
+of renal function and AEs in the S-1301/FLAGS study showed no differences in patients with normal
+
+renal function compared to patients with mild renal impairment. There were no differences of ≥ 5% in
+
+incidence of individual grade ≥ 3 (S)AEs between the subgroups. Within the Teysuno+cisplatin group
+
+there were no differences of ≥ 5% in incidence between patients with normal and mild renal
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 49/67
+
+
+-----
+
+impairment. In the 5-FU + cisplatin group differences of ≥ 5% in incidence of ≥ 3 grade AEs was only
+
+seen for asthenia (4.3% in the normal versus 10.7%) in the mild renal impairment group.
+### **Supportive studies **
+
+There were 3 supportive studies (91023038/ACTS-GS study, JCOG 9912 study and 91023939/SPIRITS
+
+study) submitted with the application.
+
+The 91023038/ACTS-GS study was an open-label, randomised, 2-arm parallel-group phase 3 study
+
+with 1059 patients conducted at 109 sites in Japan. It compared Teysuno to observation only as
+
+postoperative adjuvant treatment of patients with stage II, IIIA or IIIB gastric cancer. The Teysuno
+
+dose of 40 mg/m2 was administered two times a day for 28 days followed by 14 days of no
+
+chemotherapy and repeated every 6 weeks during the first year after surgery. The results for the
+
+primary endpoint survival and the secondary endpoint relapse free survival are presented in the table
+
+below (table 13). Teysuno adjuvant therapy was considered to be superior to surgery alone in
+
+prolonging survival in gastric cancer patients who underwent curative resection.
+
+**Table 13 Endpoints study 91023038/ACTS-GS study**
+
+In the JCOG 9912 Phase III study 704 patients were enrolled at 34 sites in Japan with histologically
+
+confirmed unresectable or recurrent gastric adenocarcinoma with no history of chemotherapy or
+
+radiation therapy for gastric cancer with the exception of adjuvant chemotherapy with one regimen of
+
+oral fluoropyrimidine (other than Teysuno) completed at least 6 months prior to the study. The three
+
+arms in this study were Teysuno monotherapy (40 mg/m2 BID), 5-FU continuous infusion or CPT-11
+
+(irinotecan) + cisplatin. For the patients in the Teysuno arm, the dose was 40 mg/m2 administered
+
+BID for 28 days followed by 14 days of no chemotherapy and repeated every 6 weeks. The study was
+
+designed to demonstrated superiority of irinotecan + cisplatin compared to 5-FU and the non-inferiority
+
+of Teysuno compared to 5-FU for the primary endpoint of survival (follow-up 2 years).
+
+Teysuno was observed to be non inferior to 5-FU with respect to overall survival and Teysuno was
+
+observed to be superior to 5-FU regarding the secondary endpoint (progression free survival), data are
+
+presented in the tables below.
+#### **Table 14 En d points JCOG 9912 study **
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 50/67
+
+|Primary endpoint|Arm 1 Teysuno- group|Arm 2 No chemotherapy group|HR|95% CI|
+|---|---|---|---|---|
+|3-year survival rate (primary endpoint)|80.5%|70.1%|HR 0.68|0.52, 0.87; p=0.002|
+|3-year relapse free survival (Secondary endpoint)|72.2%|60.1%|HR 0.62|0.50, 0.77; P<0.0001|
+
+|Primary endpoint|Arm 1 S-1|Arm 2 5-FU continuous infusion|Arm 3 Irinotecan + cisplatin|HR|95% CI|
+|---|---|---|---|---|---|
+|Overall survival|11.4 months|10.8 months|12.3 months|0.83|0.68, 1,01; p=0.001|
+|1-year survival rate|47.9%|44.0%|52.5%|0.68||
+|2-year survival rate|21%|14%|18%|||
+
+
+-----
+
+#### **Table 15 Progression-Free Survival and Overall Response Results JCOG9912 study **
+
+The 91023939/SPIRITS study was a phase 3 open-label, multicentre, randomised, 2-arm study.
+
+Patients in the Teysuno-arm received 40 mg/m2 Teysuno two times daily for 28 days, followed by
+
+14 days of no chemotherapy and repeated every 6 weeks. Patients in the Teysuno+cisplatin arm
+
+received 40 mg/m2 Teysuno administered two times daily for 21 days, followed by 14 days of no
+
+chemotherapy in combination with cisplatin 60 mg/m2 infused iv on day 8 and repeated every 5 weeks
+
+thereafter. The study was designed to demonstrate superior efficacy of Teysuno + cisplatin regimen
+
+compared to Teysuno monotherapy for the primary endpoint overall survival (table 15). Patients were
+
+followed for 24 months. **Table 16 E n dpoints 91023939/SPIRITS study **
+
+In these supportive studies a similar efficacy for Teysuno in overall survival compared to 5-FU was
+
+observed when both products were used as monotherapy. Teysuno was more effective compared to
+
+placebo however Teysuno alone was less effective then Teysuno + cisplatin. Teysuno+cisplatin in
+
+comparison to 5-FU+cisplatin was only tested in the pivotal study S-1301/FLAGS.
+### **2.5.3. Discussion and conclusions on clinical efficacy **
+
+Non-inferiority was observed in the pivotal phase III study for Teysuno+cisplatin compared to
+
+5-FU+cisplatin with respect to overall survival, response rate and progression free survival, taking into
+
+account a control regimen in which cisplatin 100mg/m [2] q4w was applied.
+
+In the pivotal S1301/FLAGS study-full analysis set the median OS in the Teysuno+cisplatin arm
+
+(n=527) was 8.5 months (95% CI 7.9 - 9.3), and 7.9 months (95% CI 7.2 - 8.5) in the control
+
+5-FU+cisplatin arm (n=526). The HR was 0.92 with 95% CI 0.80 -1.05. When considering the switch
+
+in the pivotal S-1301/FLAGS study design from ‘superiority’ to ‘non-inferiority’ as acceptable, the
+
+resulting confidence interval in the HR suggested that deviations were reasonably limited. Therefore,
+
+the primary endpoint was considered met.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 51/67
+
+|Primary endpoint|Arm 1 S-1|Arm 2 S-1 + cisplatin|statistics|
+|---|---|---|---|
+|Median survival time|11.0 months|13.0 months|HR 0.77 95% CI 0.61, 0.98; p=0.04|
+|1-year survival rate|46.7%|54.1%||
+|2-year survival rate|15.3%|23.6%||
+|Secondary endpoint||||
+|Progression free survival|4.0 months|6.0 months|HR 0.57 95% CI 0.44, 0.73; p<0.0001|
+|Overall response|31.1%|54.0%|95% CI 22.5, 40.9 (arm 1) 43.0, 64.8 (arm 2); p=0.002|
+
+
+-----
+
+In this study the median PFS showed 4.8 and 5.5 months for Teysuno+cisplatin and 5-FU+cisplatin
+
+respectively, (HR 0.99, 95% CI 0.86 - 1.14, p=0.9158), and ORR was 29.1% and 31.9% respectively
+
+(95% CI -9.3 - 3.6, p=0.3952). Results for the secondary endpoints of the pivotal study were in line
+
+with the primary endpoint.
+
+Furthermore, Teysuno+cisplatin versus 5-FU+cisplatin showed some advantage in exploratory
+
+analyses in favour of the Teysuno regimen in terms of clinical parameters.
+
+However, the efficacy of Teysuno+cisplatin arm compared to the 5-FU+cisplatin arm could have been
+
+overestimated, because more deaths/discontinuations due to toxicity (cisplatin dose of 100mg/m [2] ) in
+
+the 5-FU arm were noted. Therefore, additional sensitivity analyses were provided to investigate to
+
+what extend the relative efficacy of the Teysuno compared to the 5-FU arm is driven by these excess
+
+deaths/discontinuations. Based on the sensitivity analyses performed it has been considered unlikely
+
+that the myelosuppression excess deaths/discontinuations in the 5-FU+cisplatin arm impacted on the
+
+(non-inferiority) effect of Teysuno compared to the comparator, since the 95%-confidence interval for
+
+the HR remains under the 1.10 non-inferiority margin.
+
+The value of the submitted supportive Japanese studies for a Western population was considered
+
+limited due to differences in genetics with different dose regimens (differences in genetic
+
+polymorphism of CYP2A). The efficacy of Teysuno in Japanese patients as seen in the SPIRITS study
+
+could not be reached in the FLAGS study, in which the majority of patients is Caucasian. It is known
+
+that the 5-year overall survival after curative gastrectomy for gastric cancer is markedly different in
+
+the Western countries from that in the Far East countries.
+
+It is noted that other 5-FU prodrugs, in particular capecitabine, are now widely used fluoropyrimidine
+
+analogue as part of triplet regimen for advanced gastric cancer on the basis of efficacy and
+
+convenience in clinical practice. On the basis of the submitted data in the MAA Teysuno cannot be
+
+considered as an alternative for capecitabine since direct comparison is lacking.
+
+The applicant committed to conduct clinical studies to increase the knowledge about the clinical safety
+
+and efficacy of Teysuno in clinical practice in Advanced Gastric Cancer, i.e. to establish an acceptable
+
+Teysuno-containing triplet regimen (see Risk Management Plan).
+
+In conclusion, the clinical efficacy of Teysuno was considered established in combination with cisplatin
+
+(75 mg/m [2] ) for the treatment of advanced gastric cancer where otherwise FC doublet therapy is
+
+indicated.
+### ***2.6. Clinical safety *** **Patient exposure **
+
+The main analysis of the safety of Teysuno in combination with cisplatin for the treatment of advanced
+
+gastric cancer in Western patients derived from the Phase 2 study S1101 and the Phase 3 study
+
+S1301/FLAGS. This primary safety evaluation has been supported by safety data from the following
+
+sources; in the submitted studies more than 3500 patients have been treated with Teysuno:
+
+
+The integrated safety analysis of Teysuno monotherapy based on safety data from 6 Phase 1
+
+open-label studies (N=157) in patients with advanced upper gastrointestinal cancer or solid
+
+tumours.
+
+
+The integrated safety analysis of data from 399 patients from Phase 2 and Phase 3 advanced
+
+gastric cancer studies conducted in Japan. Also included have been safety data from
+
+529 patients in the phase 3 study of Teysuno as adjuvant therapy for gastric cancer
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 52/67
+
+
+-----
+
+
+Summaries of safety data from other studies in special populations, the Teysuno plus cisplatin
+
+combination regimen in non-small--cell lung cancer (NSCLC), cardiac safety (QT), relative
+
+bioavailability and other dose regimens.
+
+
+Safety data from a Post Marketing Surveillance Study publication in 4117 advanced gastric
+
+cancer patients in Japan.
+
+
+Post marketing safety data reported over 10 years in more than 746,000 patients treated with
+
+Teysuno alone or in combination for various indications in Japan and South Korea.
+
+
+The main analysis of safety in this document are based on the safety profile elaborated in
+
+2 clinical trials (S1301/FLAGS and S1101 Phase 2) in Western patients with
+
+chemotherapynaïve advanced gastric cancer who were administered the proposed Teysuno and
+
+cisplatin dosing regimen.
+### **Adverse events **
+
+The safety of Teysuno monotherapy has been mainly based on phase 1 studies. There were 6 phase 1
+
+open-label studies (n=157) conducted in US/Europe in patients with upper advanced gastric cancer
+
+(S1102) or solid tumours (S1105, S1106, S1107, S1108, and S1110) who received Teysuno at doses
+
+of 25 mg/m [2] (n=11), 30 mg/m [2] (n=143), or 35 mg/m [2] (n=3) twice daily. Most common (>10%)
+
+treatment-related Adverse Events (AEs) (all grades) reported in these studies were nausea (35%),
+
+fatigue (32%), diarrhoea (30%), vomiting (17%), anorexia (18%), rash (17%), increased lacrimation
+
+(12% and 1.9% of this was grade ≥ 3) and abdominal pain (10%). Grade ≥ 3 AEs occurred mainly in
+
+the system class order of gastrointestinal tract; diarrhoea (9.6%), nausea, vomiting and abdominal
+
+pain (2.5%), stomatitis (1.9%) and dehydration 5.1%.
+
+In a study comparing Teysuno versus 5-FU (JCOG 9912 study Japan), 700 patients received at least
+
+one dose of the study drug. Discontinuation of the study due to AEs occurred in 9 patients with 5-FU,
+
+14 patients with Teysuno and 14 patients with cisplatin + irinotecan. The most frequent grade 3-4 AEs
+
+reported (regardless of relationship with treatment) were: anorexia, hyponatraemia, nausea,
+
+diarrhoea.
+
+**Table 17 Grade 3-4 Adverse events 5-FU versus Teysuno monotherapy**
+
+Teysuno concomitant with cisplatin
+
+The safety analysis of Teysuno and concomitant administration of cisplatin has been based on the
+
+S-1101 phase 2 study and the pivotal study S-1301/FLAGS in which Teysuno 25 mg/m [2] was given
+
+twice daily (BID) for 21 consecutive days followed by a 7-day recovery period combined with
+
+75 mg/m [2] cisplatin iv administered on day 1 and repeated every 28 days.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 53/67
+
+|Grade 3-4 AEs|5-FU|Teysuno|Cisplatin + irinotecan|
+|---|---|---|---|
+|Anorexia|12.5%|12.4%|32.9%|
+|Hyponatraemia|6.5%|5.2%|22.6%|
+|Nausea|6.9%|5.6%|20.5%|
+|diarrhoea|0.4%|7.7%|9.0%|
+|Neutrophil decrease|1.3%|5.6%|65.0%|
+|Anaemia|15.5%|12.8%|39.3%|
+|leucopenia|0%|0.9%|41.5%|
+|Febrile neutropenia|0%|0%|9.4%|
+|Infection with neutropenia|0%|0.4%|7.7%|
+
+
+-----
+
+In the S-1301/FLAGS study 521 patients received Teysuno+cisplatin for a total of 2788 cycles and
+
+508 patients received 5-FU+cisplatin for a total of 2469 cycles. For both groups the median number of
+
+cycles was 4.0.
+
+The most frequently reported AEs in these two studies in patients receiving Teysuno+cisplatin were all
+
+of gastro-intestinal nature. Commonly reported AEs were: anaemia, neutropenia, vomiting, diarrhoea,
+
+abdominal pain, weight decrease, anorexia and fatigue, all AEs already known to be associated with
+
+fluoropyrimidines and/or cisplatin. Overall the incidence of AEs was 5% lower in the Teysuno+cisplatin
+
+group.
+
+**Table 18 Number (%) of patients with treatment-emergent AEs by MedDRA SOC in order of**
+
+**descending frequency (all cycles): S1301/FLAGS + S1101 Phase 2**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 54/67
+
+
+-----
+
+The overall incidence of AEs grade ≥ 3 was lower in the Teysuno+cisplatin group (53.2%) versus
+
+75.0% in the 5-FU+cisplatin group. For neutropenia, leucopenia, febrile neutropenia, stomatitis and
+
+mucosal inflammation the differences between the Teysuno group and the 5-FU group were ≥ 5% in
+
+favour of Teysuno+cisplatin use. In both groups, the majority of AEs grade ≥ 3 resolved during the
+
+treatment period or after discontinuation of the treatment.
+
+**Table 19 Incidences of important adverse events in FLAGS study**
+
+Cisplatin toxicity
+
+The Teysuno+cisplatin arm had lower incidences of abnormalities in creatinine, impairment of renal
+
+clearance and AEs associated with renal impairment. This is consistent with the lower dose of cisplatin
+
+which was used in this regimen. This was also the case for ototoxicity, peripheral neuropathy and
+
+alopecia, for the same reason.
+
+Teysuno toxicity
+
+Hyperbilirubinaemia, palmar-plantar erythrodysaesthesia and increased lacrimation were frequently
+
+associated with the Teysuno+cisplatin arm. Hyperbilirubinaemia could not be associated with hepatic
+
+toxicity since ALT and AST were similar in both treatment regimens in the pivotal study (table 19).
+### **Serious adverse event/deaths/other significant events **
+
+Deaths
+
+In the Phase 3 study the incidence of deaths was similar in both treatment arms. In the
+
+Teysuno+cisplatin arm 443 patients died (85%) and 445 (87.6%) patients died in the 5-FU+cisplatin
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 55/67
+
+|Col1|Teysuno + cisplatin|5-FU + cisplatin|
+|---|---|---|
+|Overall grade ≥ 3 AEs|53.2%|75.0%|
+|Neutropenia|18.4%|39.2%|
+|Leucopenia|7.1%|13.4%|
+|Febrile neutropenia|1.7%|6,9%|
+|stomatitis|1.3%|13.2%|
+|Mucosal inflammation|0.8%|7.7%|
+|grade ≥ 3 stomatitis/mucositis|2.1%|21.5%|
+|grade ≥ 3 diarrhoea|4.8%|4.5%|
+|All grades diarrhoea|29.2%|38.4%|
+|Use of anti-diarrhoeal medication|29.6%|49.2%|
+|Use of G-CSF|12.1%|23.8%|
+|grade ≥ 3 Anorexia/weight loss|10.6%|12.6%|
+|Median time to loose body weight*|3.9 months|2.5 months|
+|grade ≥ 3 fatigue|18.6%|21.3%|
+
+|Table 20 Teysuno toxicity|Col2|Col3|Col4|
+|---|---|---|---|
+||Teysuno+cisplatin|5- FU+cisplatin||
+|grade ≥ 3 hyperbilirubinaemia|6.5%|3.6%|RR 1.79 95% CI 1.02, 3.13, p<0.05|
+|All grades Palmar-plantar erythrodysaesthesia*|5.4%|2.6%|RR 2.1 95% CI 1.10,4.01, p<0.05|
+|Lacrimation increased|6.1%|1.2%|RR 5.20 95% CI 2.19, 12.33, p<0.01|
+
+
+-----
+
+arm. Deaths were related to disease progression and myelosuppression due to chemotherapeutic
+
+agents. Deaths related to disease progression of malignancy were 72.4% in the Teysuno-arm and
+
+73.0% in the 5-FU-arm. Deaths related to myelosuppression were observed in 0.8% of
+
+Teysuno+cisplatin versus 2.8% in the 5-FU+cisplatin arm (RR 0.28, 95% CI 0.09, 0.84, p<0.05).
+
+Death due to toxicity from study medication was 13/521 (2.5%) in Teysuno group versus 25/508
+
+(4.9%) in the 5-FU group. All deaths due to toxicity are depicted in table 20. Slightly more deaths due
+
+to myelosuppression were seen in the 5-FU treatment arm.
+
+*Toxic death due to myelosuppression
+
+In the S1101 Phase 2 study, 4 patients died within 30 days after their last administration of study
+
+medication: 1 due to malignant disease, 1 due to drug toxicity (Grade 5 diarrhoea), and 2 due to
+
+unrelated SAEs (aortic aneurysm rupture [n=1] and respiratory failure [n=1]). Two deaths (unrelated
+
+to study treatment) were reported more than 30 days after the last administration of study medication
+
+(acute renal failure [n=1] and respiratory failure [n=1]).
+
+Serious adverse events
+
+Serious AEs occurred in a significant proportion of patients (CS arm: 49.3%; CF arm 48.8%). Of them,
+
+20.5% and 29.7% were reported as treatment-related in the CS and CF groups, respectively. The type
+
+and incidence of serious adverse events have been in line with what would be expected for the class of
+
+agents and treatment schedules tested, and favour the CS arm. Most commonly reported treatment
+related SAEs were myelosuppression (anaemia, neutropenia, thrombocytopenia, febrile neutropenia),
+
+stomatitis, nausea, vomiting and dehydration. Significant differences in treatment-related SAEs
+
+between the 2 treatment groups were observed in neutropenia (CS, 1.5%; CF, 6.1%), febrile
+
+neutropenia (CS, 1.5%; CF, 6.1%), and stomatitis (CS, 0.6%; CF, 4.5%). Of note, toxic deaths were
+
+significantly lower in the CS arm (2.5% of patients) than in the CF arm (4.9% of patients). A relevant
+
+proportion of them were related to myelosuppression and its consequences, i.e. septic shock,
+
+neutropenic sepsis or febrile neutropenia (CS: 0.8%; CF 2.8%).
+### **Laboratory findings **
+
+In the pivotal Phase 3 study, most reported abnormalities in laboratory findings were seen in the
+
+5-FU+cisplatin group. Grade ≥ 3 changes (decrease or increase) from baseline were similar in both
+
+groups regarding serum albumin, calcium, magnesium and sodium. The most commonly encountered
+
+haematological abnormalities were neutropenia and leucopenia. They occurred more frequently in the
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 56/67
+
+|Table 21 All deaths due to toxicity|Col2|Col3|
+|---|---|---|
+|All deaths due to toxicity|Teysuno + cisplatin|5-FU + cisplatin|
+|Total deaths|13 (2.5%)|25 (4.9%)|
+|Death related to myelosuppression|4 (0.8%)|14 (2.8%)|
+|Death other than myelosuppression|9 (1.7%)|11 (2.2%)|
+|Septic shock*|1|9|
+|Neutropenic sepsis*|2|3|
+|Urosepsis*|0|1|
+|Neutropenia/febrile neutropenia*|1|1|
+|Thrombocytopenia|0|1|
+|(acute) renal failure|1|5|
+|Gastric perforation/haemorrhage|4|2|
+|Diarrhoea|1|0|
+|Cerebral vascular accident|2|0|
+|Cardiac failure|1|0|
+|Tumour lysis syndrome|0|1|
+|Pulmonary embolism|0|1|
+|Death (unknown) drug toxicity|0|1|
+
+
+-----
+
+CF arm (63.6% grade 3-4 neutropenia and 33.2% grade 3-4 leucopenia) than in the CS arm (32.3%
+
+grade 3-4 neutropenia and 13.7% grade 3-4 leucopenia). Thrombocytopenia was also higher among
+
+CF treated patients (13.5% vs. 8.3% grade 3-4) and there were no significant differences in the
+
+incidence of anaemia. Data on laboratory data are depicted in table 21.
+
+**Table 22 Clinical laboratory data in the pivotal study S-1301/FLAGS**
+
+*that worsened from baseline by at least 1 grade.
+### **Safety in special populations **
+
+Subgroup analyses of AEs in the S1301/FLAGS study (including ECOG performance status, gender,
+
+race, and renal function) did not indicate any overall trends within the Teysuno + cisplatin group. In
+
+general, the difference in incidence of Grade > 3 adverse events observed for the Teysuno + cisplatin
+
+group compared to the 5-FU + cisplatin group was consistent across patient subgroups. However, the
+
+overall incidence of Grade > 3 adverse events was somewhat higher in patients > 70 years of age
+
+compared to those <70 years old in both treatment groups.
+
+Leucopenia, neutropenia, thrombocytopenia, diarrhoea, asthenia, hypokalaemia and hyponatraemia,
+
+asthenia, disease progression, dehydration and hypokalaemia were more seen in older patients in the
+
+Teysuno group (≥ 5% difference in incidence). Similar differences were observed in the 5-FU older
+
+population.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 57/67
+
+|Col1|Teysuno + cisplatin|5-FU + cisplatin|
+|---|---|---|
+|grade ≥ 3 haemoglobin* abnormalities|20.7%|20.9%|
+|grade ≥ 3 neutropenia*|32.3%|63.6%|
+|grade ≥ 3 granulocytopenia, leucopenia, neutropenia, decreased neutrophil count, decreased WBC|24.6%|49.6%|
+|Median time to onset of leucopenia|52 days|22 days|
+|grade ≥ 3 leukocytes abnormalities|13.7%|33.2%|
+|grade ≥ 3 platelets abnormalities|8.3%|13.5%|
+|Grade 4 platelets abnormalities|2.5%|5.8%|
+|grade ≥ 3 thrombocytopenia|5.8%|10.4%|
+|Time to onset of thrombocytopenia|95 days|18 days|
+|grade ≥ 3 ALT/AST abnormalities|2.1%|2.4%|
+|grade ≥ 3 bilirubin abnormalities|6.5%|3.6%|
+|grade ≥ 3 creatinine abnormalities|0.8%|2.2%|
+|grade ≥ 3 phosphorous abnormalities|5.8%|13.9%|
+|grade ≥ 3 hypokalaemia|4.6%|15.0%|
+|grade ≥ 3 hyperkalaemia|1.0%|6.7%|
+
+
+-----
+
+**Table 23 Treatment-emergent, treatment-related AEs (all grades) and number (%) of**
+### **Safety related to drug-drug interactions and other interactions **
+
+Coumarin - derivative anticoagulant
+
+The activity of a coumarin-derivative anticoagulant may be enhanced by Teysuno. In 3 patients (study
+
+S1301; study S1112; study S1203) a clinically significant increase of INR was observed associated
+
+with gastrointestinal bleeding. Therefore, patients receiving oral coumarin-derivative anticoagulant
+
+therapy must have their anticoagulant response (INR or prothrombin time) monitored closely and the
+
+anticoagulant dose adjusted accordingly.
+
+Sorivudine, brivudine, and uracil
+
+Sorivudine or its chemically-related analogues such as brivudine irreversibly inhibit dihydropyrimidine
+
+dehydrogenase (DPD), resulting in a significant increase in 5-FU exposure. This may lead to increased
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 58/67
+
+
+-----
+
+clinically significant fluoropyrimidine-related toxicities with potentially fatal outcomes. Teysuno must
+
+not be used with sorivudine or brivudine or within 4 weeks of the last dose of sorivudine or brivudine.
+
+Other fluoropyrimidine derivatives
+
+Co-administration of other fluoropyrimidine derivatives can lead to additive toxicities as observed in
+
+one patient, and is therefore contraindicated.
+
+CYP2A6 inhibitors
+
+As CYP2A6 is the major enzyme responsible for the conversion of tegafur to 5-FU, co-administration of
+
+a known CYP2A6 inhibitor and Teysuno should be avoided as effectiveness of S-1 could be decreased.
+
+Folinate/folinic acid
+
+No data are available on the concomitant use of folinic acid with Teysuno in combination with cisplatin.
+
+Caution is advised as folinic acid is known to enhance the activity of 5-FU.
+
+Nitroimidazole s, including metronidazole and misonidazole
+
+No data are available on the concomitant use of nitromidazoles with Teysuno in combination with
+
+cisplatin. However, nitromidazoles may reduce clearance of 5-FU and thus increase plasma levels of
+
+5-FU. Caution is advised as co-administration may increase the toxicity of Teysuno.
+
+Methotrexate
+
+No data are available on the concomitant use of methotrexate with Teysuno in combination with
+
+cisplatin. However, polyglutamated methotrexate inhibits thymidylate synthase and dihydrofolate
+
+reductase, potentially increasing cytotoxicity of 5-FU. Caution is advised as co-administration may
+
+increase the toxicity of Teysuno.
+
+Clozapine
+
+No data are available on the concomitant use of clozapine with Teysuno in combination with cisplatin.
+
+However, due to possible additive pharmacodynamic effects (myelotoxicity), caution is advised as co
+administration may increase the risk and severity of haematologic toxicity of Teysuno.
+
+Cimetidine
+
+No data are available on the concomitant use of cimetidine with Teysuno in combination with cisplatin.
+
+However, co-administration may decrease clearance and, thus increase plasma levels of 5-FU. Caution
+
+is advised as co-administration may increase the toxicity of Teysuno.
+
+Other
+
+Based on preclinical data, allopurinol may decrease antitumor activity due to suppression of
+
+phosphorylation of 5-FU and flucytosine may increase toxicity due to increase in plasma 5-FU
+
+concentration. Therefore, administration of these medicinal products concurrently with S-1 should be
+
+avoided.
+
+Phenytoin
+
+Fluoropyrimidines may increase phenytoin plasma concentration when administered concomitantly with
+
+phenytoin causing phenytoin toxicity. A spontaneous report of a 73-year-old female patient with
+
+gastric cancer and metastases to the liver, abdominal cavity, lymph nodes and a history of vomiting
+
+caused by phenytoin sodium who experienced severe anorexia and nausea/vomiting after
+
+administration of S-1 plus cisplatin and concomitant use of phenytoin sodium have been received.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 59/67
+
+
+-----
+
+Above the therapeutic range, increased plasma Phenytoin concentrations have been associated with
+
+CNS side effects such as nystagmus, ataxia, and decreased mentation.
+### **Discontinuation due to adverse events **
+
+Discontinuations of the study medication were similar in both treatment groups and were related to
+
+commonly known AEs of 5-FU compounds and cisplatin.
+
+**Table 24 Discontinuation due to adverse events** **Post marketing experience **
+
+The majority of post marketing experience to date derived from spontaneous reports from over
+
+746,000 patients treated since 1999 with Teysuno in Asia (mainly Japan). There have been very rare
+
+spontaneous reports of the following additional medically relevant Adverse Drug Reactions (ADRs):
+
+disseminated intravascular coagulation (DIC), leukoencephalopathy, anosmia, parosmia, corneal
+
+disorder including corneal erosion, interstitial lung disease, nail disorder, photosensitivity reaction,
+
+Stevens-Johnson syndrome, rhabdomyolysis, and acute hepatic failure.
+
+From March 1999 to March 2000, a Post-Marketing Surveillance Study (Study 1011) was conducted in
+
+Japan in 4177 patients treated with S-1 for gastric cancer. The safety profile was generally similar to
+
+that seen with Teysuno and Teysuno+cisplatin dosing regimens in the Japanese registration studies.
+
+The incidence of all AEs was 74.3% and the incidence of Grade ≥3 AEs was 25.0%; the majority of AEs
+
+(77.0%) occurred during the first cycle of treatment. The major toxicities were leucopenia (26.0%),
+
+anorexia (26.4%), and nausea/vomiting (19.3%), which were generally mild. There were <10% Grade
+
+3 or 4 treatment-related AEs and the occurrence of Grade 3-4 diarrhoea was infrequent (2.0%). In
+
+patients with lower creatinine clearance (<30 ml/min), the incidence of hematologic toxicities
+
+(leucopenia, neutropenia, anaemia, and thrombocytopenia) was higher (14/20, 70.0%) for all grades
+
+and for Grades ≥3 (45.0%) compared with patients with normal creatinine clearance (>80 mL/min) for
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 60/67
+
+|Col1|Teysuno + cisplatin|5-FU + cisplatin|
+|---|---|---|
+|Discontinuation of study medication due to AEs (regardless of relationship with treatment)|56/521 10.7%|73/508 14.4%|
+|Discontinuation due to treatment related AEs|31/521 6.1%|51/508 10.0%|
+|Most frequently AEs leading to discontinuation (≥ 3 patients)|Neutropenia 4/521 Renal failure 4/521 Thrombocytopenia 3/521|Acute renal failure 6/508 Septic shock 5/508 Fatigue 4/508 Febrile neutropenia 3/508 Stomatitis 3/508 Peripheral sensory neuropathy 3/508|
+|Serious AEs|257/521 49.3%|248/508 48.8%|
+|Treatment related serious AEs|107/521 20.5%|151/8 29.7%|
+|Most frequently treatment related serious AEs|Anaemia 3.5% Vomiting 2.9% Dehydration 2.9% Nausea 2.7%|Febrile neutropenia 6.1% neutropenia 6.1% Dehydration 4.9% Anaemia 4.7% Stomatitis 4.5% Thrombocytopenia 3.3% vomiting 3.%|
+
+
+-----
+
+which incidence was 47.6% (429/1054) and 13.8% (87/1054), respectively. Regardless of a patients’
+
+classification by creatinine clearance, in patients who received lower initial doses of Teysuno the overall
+
+incidence of AEs was at least 17.7% to 28.0% lower.
+### **2.6.1. Discussion and conclusions on clinical safety **
+
+The safety data for Teysuno monotherapy derived primarily from the integrated analysis of 6 Phase 1
+
+open-label studies (n=157) conducted in US/Europe in patients with upper advanced gastric cancer
+
+(S1102) or solid tumours (S1105, S1106, S1107, S1108, and S1110) who received Teysuno at doses
+
+of 25 mg/m [2] (n=11), 30 mg/m [2] (n=143), or 35 mg/m [2] (n=3) twice daily. The safety profile of Teysuno
+
+for the treatment of advanced gastric cancer when given in combination with cisplatin using the dose
+
+regimen established in US and European patients (i.e. 25 mg/m [2] Teysuno twice daily for
+
+21 consecutive days with 75 mg/m [2] cisplatin administered in Day 1, and repeated every 28 days)
+
+derived from the S1101 Phase 2 and S1301/FLAGS studies. This safety database was considered
+
+acceptable for an adequate characterisation of the drug safety profile in the claimed indication in its
+
+general aspects.
+
+Overall the reported AEs are commonly known for fluoropyrimidine, they included stomatitis, mucositis
+
+and other gastro-intestinal toxicity (i.e. diarrhoea and dehydration). Treatment-related bone marrow
+
+suppression, including neutropenia, leucopoenia, thrombocytopenia, anaemia, and pancytopenia, has
+
+been reported among patients treated with Teysuno in combination with cisplatin. The most common
+
+treatment-related ocular disorders among patients in studies in Europe/United States of America
+
+(EU/USA) treated with Teysuno in combination with cisplatin were lacrimal disorders (8.8%), including
+
+increased lacrimation, dry eye, and acquired dacryostenosis (see section 4.8).
+
+Although the overall AE-profile of Teysuno+cisplatin versus 5-FU+cisplatin was claimed by the
+
+applicant to favour the Teysuno-combination, some aspects required further explanation. In the
+
+Teysuno+cisplatin treatment the dose of cisplatin was 75 mg/m [2] but in the 5-FU+cisplatin treatment
+
+the cisplatin dose was 100 mg/m [2] . Some AEs in the latter group could be related to cisplatin and
+
+therefore the Teysuno combination seemed more favourable. In addition, incidences of AEs concerning
+
+myelosuppression and GI-toxicity were diverse. One study showed benefit of Teysuno in
+
+myelosuppressive parameters while the other did not. In addition, the benefit of GI-toxicity of Teysuno
+
+above 5-FU was also not clear. The incidence of all grades of diarrhoea seemed to favour
+
+Teysuno+cisplatin compared to 5-FU+cisplatin. However, the grade ≥ 3 diarrhoea was similar in
+
+Teysuno versus 5-FU in the FLAGS study. Moreover, regarding monotherapy Teysuno alone versus
+
+5-FU alone (JOCG study) Teysuno showed even higher incidence rates of severe diarrhoea than 5-FU.
+
+The applicant acknowledged that based on the pre-clinical data, a significant decrease in the rate of
+
+Grade 3/4 diarrhoea would have been expected. However, a decrease in the rate of overall diarrhoea
+
+(23% for Teysuno+cisplatin vs. 31% for 5-FU+cisplatin) and in the use of anti-diarrheal medications
+
+(30% for Teysuno+cisplatin vs. 49% for 5-FU+cisplatin) was observed. As the magnitude of the
+
+contributory effect of oteracil was observed less than postulated, the potential beneficial effect of
+
+oteracil concerning diarrhoea has not been claimed in the Product Information.
+
+Furthermore, a sensitivity analysis was performed, as discussed in the efficacy section, regarding the
+
+time to either death due to myelosuppression or discontinuation due to myelosuppression-related
+
+symptoms. The applicant discussed the time to myelosuppression-related events in the 5-FU+cisplatin
+
+arm which might have been significantly shorter than the Teysuno+cisplatin arm, thereby affecting the
+
+efficacy outcomes in the FLAGS trial. The comparison of the time to either death or discontinuation due
+
+to a myelosuppression-related side effect did not show significant differences between the two arms
+
+although the numbers were small. Time to myelosuppression-related treatment discontinuation and/or
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 61/67
+
+
+-----
+
+death was similar between the groups and survival properties without a myelosuppression-related
+
+event were also similar.
+
+Discontinuation and death were similar in both groups. Death due to toxicity was slightly higher in the
+
+5-FU group and related to myelosuppression, which might be mostly related to higher dose of cisplatin
+
+in this group.
+
+Teysuno has not been studied in gastric cancer patients with microsatellite instability (MSI). The
+
+association between 5-FU sensitivity and MSI in patients with gastric cancer is unclear and the
+
+association between Teysuno and MSI in gastric cancer is unknown. The applicant committed to
+
+investigate the effect of tumour MSI on the efficacy and safety of Teysuno in the approximately 70
+
+tissue samples remaining from the S1301/FLAGS PGx substudy provided the study is technically
+
+feasible.
+
+In conclusion, the safety profile of Teysuno in combination with cisplatin was accepted as a safe
+
+alternative chemotherapy regimen for the treatment of patients with advanced gastric cancer. Overall,
+
+the adverse events reported for Teysuno in combination with cisplatin in the target population was
+
+considered in accordance with the class and mechanism of action as well as with baseline
+
+characteristics of the study population (patients with advanced gastric cancer).
+### ***2.7. Pharmacovigilance *** **Detailed description of the Pharmacovigilance system **
+
+The CHMP considered that the Pharmacovigilance system as described by the applicant fulfils the
+
+legislative requirements. **Risk Management Plan **
+
+The MAA submitted a risk management plan.
+
+**Table 25 Summary of the risk management plan**
+
+Teysuno
+CHMP ASSESSMENT REPORT
+
+|Safety concern|Proposed pharmacovigilance activities|Proposed risk minimisation activities|
+|---|---|---|
+|Important identified risks|||
+|Bone marrow suppression Anaemia, neutropenia, leucopoenia, and thrombocytopenia Febrile neutropenia and neutropenic infection Anaemia (≥ Grade 3) associated with bone marrow suppression of any CTC grade Thrombocytopenia (≥ Grade 3) associated with bleeding of any CTC grade|Routine pharmacovigilance Monitor ongoing clinical studies|Dose recommendations and modification for haematologic toxicity are discussed in the proposed SPC Section 4.2, Posology and method of administration; Section 4.3, Contraindications, Section 4.4, Special warnings and precautions for use, Section 4.8 Undesirable effects, and Section 5.1 Pharmacodynamic properties.|
+|Anaemia (≥ Grade 3) associated with bleeding (≥ Grade 2)||Dose recommendations and modification for haematologic toxicity are discussed in the proposed SPC Section 4.2, Posology and method of|
+
+EMA/CHMP/831565/2010 Page 62/67
+
+
+-----
+
+|Safety concern|Proposed pharmacovigilance activities|Proposed risk minimisation activities|
+|---|---|---|
+|||administration; Section 4.4, Special warnings and precautions for use, Section 4.8 Undesirable effects.|
+|Gastrointestinal symptoms||The treatment of diarrhoea and dehydration are discussed in Section 4.4, Special warnings and precautions for use; and incidence for all gastrointestinal symptoms is described in Section 4.8 Undesirable effects and Section 5.1 Pharmacodynamic properties.|
+|Gastrointestinal perforation/Gastrointestinal haemorrhage||The incidence of these events are presented in Section 4.8 Undesirable effects.|
+|Palmar-plantar erythrodysaesthesia||Incidence for this event is described in SPC Section 4.8 Undesirable effects and Section 5.1 Pharmacodynamic properties.|
+|Lacrimal disorder||Lacrimal disorders are discussed in SPC Sections 4.4 Special warnings and precautions for use, 4.8 Undesirable effects and Section 5.1 Pharmacodynamic properties. The SPC recommends an early ophthalmologic consultation in the event of any persistent or vision-reducing ocular symptoms such as lacrimation or corneal symptoms.|
+|Renal toxicity||Dose recommendations and modification for renal toxicity are discussed in SPC Section 4.2, Posology and method of administration; Section 4.3 Contraindications, Section 4.4 Special warnings and precautions for use, including recommendations that renal parameters (serum creatinine and creatinine clearance) be closely monitored; and the incidence of these events is presented in Section 4.8 Undesirable effects and Section 5.1 Pharmacodynamic properties. In the SPC, cisplatin treatment in combination with Teysuno is limited to 6 cycles.|
+|Hearing impairment||The incidence of hearing impairment and deafness is presented in the SPC Section 4.8 Undesirable effect and Section 5.1 Pharmacodynamic properties. In the SPC, cisplatin treatment in combination with Teysuno is limited to 6 cycles.|
+|Peripheral neuropathy||The incidence of peripheral neuropathy is presented in Section 4.8 Undesirable effect and Section 5.1 Pharmacodynamic properties. In the|
+
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 63/67
+
+
+-----
+
+|Safety concern|Proposed pharmacovigilance activities|Proposed risk minimisation activities|
+|---|---|---|
+|||SPC, cisplatin treatment in combination with Teysuno is limited to 6 cycles.|
+|Cardiovascular events||Incidence of cardiovascular events is presented in Section 4.8 Undesirable effects.|
+|Hepatic toxicity||Dose recommendations and modification for patients with hepatic impairment are discussed in the proposed SPC Section 4.2, Posology and method of administration; Section 4.8 Undesirable effects, Section 5.1 Pharmacodynamic properties, and Section 5.2 Pharmacokinetic properties.|
+|Disseminated intravascular coagulation||Incidence is presented in Section 4.8 Undesirable effects.|
+|Interstitial lung disease||Incidence is presented in Section 4.8 Undesirable effects.|
+|Leukoencephalopathy||Incidence is presented in Section 4.8 Undesirable effects.|
+|Stevens-Johnson syndrome/Toxic epidermal necrolysis||Incidence is presented in Section 4.8 Undesirable effects.|
+|Acute pancreatitis||Incidence is presented in Section 4.8 Undesirable effects.|
+|Important potential risks|||
+|Potential for Off-Label Use|Routine pharmacovigilance Monitor ongoing clinical studies|To limit the potential for off label use the Company will implement the following prevention strategy: Clearly describe indications, dosing regimen including dose, route, and treatment schedule in the SPC and PIL.|
+|Malignancies (secondary to therapy)||These events will be monitored in the postmarketing environment.|
+|Dosing errors related to the BSA-based dosing schedule||The indication and regimen are clearly described in the SPC and PIL. It includes the standard and reduced dose calculation by BSA (SPC Table 2); it also clearly defines that a 10% weight change will trigger BSA recalculation and dose justification (SPC section 4.2).|
+
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 64/67
+
+
+-----
+
+|Safety concern|Proposed pharmacovigilance activities|Proposed risk minimisation activities|
+|---|---|---|
+|Important missing information|||
+|Patients with severe renal impairment (CrCl <30 mL/min): PK data.|Routine pharmacovigilance. Monitor ongoing clinical study.|All missing information will be monitored and updated in the PSUR. Information provided In the SPC: Section 4.2, Dose recommendation and modification Section 4.3, Contraindications Section 4.4, Special Warnings Section 4.8, Undesirable effects Section 5.1, Pharmacodynamic properties|
+|Patients with cardiac disorders.||All missing information will be monitored and updated in the PSUR. Information provided In the SPC Section 4.8, Undesirable effects|
+|Clinical safety and efficacy of Teysuno-containing triplet regimen|Conduct clinical studies and analyses|Not applicable|
+|Effect of tumour MSI on the efficacy and safety of Teysuno||Not applicable|
+
+
+The CHMP, having considered the data submitted in the application, is of the opinion that no additional
+
+risk minimisation activities are required beyond those included in the product information.
+### **User consultation **
+
+The results of the user consultation with target patient groups on the package leaflet submitted by the
+
+applicant show that the package leaflet meets the criteria for readability as set out in the *Guideline on*
+
+*the readability of the label and package leaflet of medicinal products for human use.* ***2.8. Benefit-Risk Balance *** **Benefits **
+
+- Beneficial effects
+
+The benefit of an oral (5-FU) product as Teysuno, is its daily oral dosing without requiring a central
+
+venous catheter and hospital admission (as necessary for 5-FU continuous i.v. infusion).
+
+In the pivotal study S-1301/FLAGS, Teysuno+cisplatin (75 mg/m [2] ) was demonstrated to be non
+inferior to 5-FU+cisplatin (100 mg/m [2], q4w) with respect to overall survival, response rate and
+
+progression free survival. In the all randomised set the median OS (primary endpoint) in the
+
+Teysuno+cisplatin arm (n=527) was 8.5 months (95% CI 7.9 - 9.3), and 7.9 months (95% CI 7.2 
+8.5) in the 5-FU+cisplatin control arm (n=526), with a HR of 0.94 (95% CI 0.82 – 1.07). Secondary
+
+endpoints progression free survival and overall response rate were in line with the primary endpoint.
+
+Teysuno+cisplatin versus 5-FU+cisplatin showed some advantage in exploratory analyses in favour of
+
+the Teysuno regimen in terms of clinical parameters.
+
+- Uncertainty in the knowledge about the beneficial effects.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 65/67
+
+
+-----
+
+Discontinuation and death due to toxicity was higher in the 5-FU group and mostly related to
+
+myelosuppression, which might be related to higher dose of cisplatin in this treatment group. This may
+
+have led to an underestimation of the efficacy of control arm. However, additional analysis did not
+
+show any differences between Teysuno+cisplatin and 5-FU+cisplatin.
+
+It is noted that other 5-FU prodrugs, in particular capecitabine, are now widely used fluoropyrimidine
+
+analogue as part of triplet regimen for advanced gastric cancer on the basis of efficacy and
+
+convenience in clinical practice. On the basis of the submitted data in the MAA Teysuno cannot be
+
+considered as an alternative for capecitabine since direct comparison is lacking. Therefore, the CHMP
+
+recommended further investigation to be carried out. The applicant committed to conduct further
+
+clinical trials to increase the knowledge about the clinical safety and efficacy of Teysuno in clinical
+
+practice in Advanced Gastric Cancer, i.e. to establish an acceptable Teysuno-containing triplet regimen.
+
+To limit the potential for off label use the Company will implement the following prevention strategy:
+
+Clearly describe indications, dosing regimen including dose, route, and treatment schedule in the
+
+SmPC and PL.
+### **Risks **
+
+- Unfavourable effects
+
+The main analysis of the safety of Teysuno in combination with cisplatin for the treatment of advanced
+
+gastric cancer in Western patients derived from the Phase 2 study S1101 and the Phase 3 study
+
+S1301/FLAGS. The most frequently reported AEs in these two studies in patients receiving
+
+Teysuno+cisplatin were all of gastro-intestinal nature. Commonly reported AEs were: anaemia,
+
+neutropenia, vomiting, diarrhoea, abdominal pain, weight decrease, anorexia and fatigue, all AEs
+
+already known to be associated with fluoropyrimidines and/or cisplatin. The most commonly
+
+encountered haematological abnormalities were neutropenia and leucopenia. Hyperbilirubinaemia,
+
+palmar-plantar erythrodysaesthesia and increased lacrimation were more frequently associated with
+
+the Teysuno+cisplatin arm.
+
+Subgroup analyses of AEs in the S1301/FLAGS study (including ECOG performance status, gender,
+
+race, and renal function) did not indicate any overall trends within the Teysuno + cisplatin group.
+
+Leucopenia, neutropenia, thrombocytopenia, diarrhoea, asthenia, hypokalaemia and hyponatraemia,
+
+asthenia, disease progression, dehydration and hypokalaemia were more seen in older patients in the
+
+Teysuno group (≥ 5% difference in incidence). Similar differences were observed in the 5-FU older
+
+population.
+
+- Uncertainty in the knowledge about the unfavourable effects.
+
+The incidence of all grades of diarrhoea seemed to favour Teysuno+cisplatin compared to
+
+5-FU+cisplatin. However, the grade ≥ 3 diarrhoea was similar in Teysuno versus 5-FU in the FLAGS
+
+study, therefore a beneficial effect in terms of this toxicity cannot be claimed and this has been
+
+reflected in the SmPC.
+
+Teysuno has not been studied in gastric cancer patients with microsatellite instability (MSI). The
+
+association between 5-FU sensitivity and MSI in patients with gastric cancer is unclear and the
+
+association between Teysuno and MSI in gastric cancer is unknown. The applicant committed to
+
+investigate the effect of tumour MSI on the efficacy and safety of Teysuno in the approximately 70
+
+tissue samples remaining from the S1301/FLAGS PGx substudy provided the study is technically
+
+feasible.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 66/67
+
+
+-----
+
+Pharmacokinetic data are not available in patients with severe renal impairment (CrCl <30 mL/min).
+
+All missing information will be monitored and updated in the PSUR and adequate dose
+
+recommendations are provided in the SmPC.
+### **Benefit-Risk Balance **
+
+- Importance of favourable and unfavourable effects
+
+Teysuno+cisplatin has demonstrated non-inferior efficacy concerning the primary endpoint overall
+
+survival compared to that of parenteral 5-FU+cisplatin in the patient population and dosing regimens
+
+as applied in the pivotal study (CF100, 100 mg/m [2] ). The safety profile of Teysuno+cisplatin was
+
+accepted as a safe alternative chemotherapy regimen for the treatment of patients with advanced
+
+gastric cancer when compared in the dosing regimens as applied in the pivotal study. Overall, the
+
+benefits and risks of Teysuno+cisplatin are similar to those of parenteral 5-FU+cisplatin in the patient
+
+population and dosing regimens as applied in the pivotal study, and the benefit-risk balance is
+
+considered to be positive. **2.8.1. Discussion on the benefit-risk balance **
+
+Oral fluoropyrimidines have nowadays largely replaced continuous infusion 5-FU in the treatment of
+
+advanced gastric cancer due to improved tolerability and convenience, and even some data suggesting
+
+possible improved efficacy.
+
+The cisplatin-5FU schedule selected as control treatment for the present study may not be considered
+
+anymore as an optimal treatment. Still, the efficacy and safety of the control arm as well as the non
+inferiority margin of 1.10 in the hazard ratio for overall survival have been adequately justified. The
+
+non-inferior efficacy and safety of Teysuno+cisplatin have only been established compared to cisplatin
+5FU schedule selected as control treatment for the present study and only in the advanced gastric
+
+cancer indication that was included in the pivotal study. The efficacy and safety of Teysuno have not
+
+been established in other dosing regimens or combinations including triplet regimen in advanced
+
+gastric cancer or in other indications. Therefore, Teysuno can only be approved for use in double
+regimen with cisplatin but cannot be considered as a general alternative to parenteral 5-FU or 5-FU
+
+prodrugs in other indications, monotherapy or combination regimens. **Risk management plan **
+
+A risk management plan was submitted. The CHMP, having considered the data submitted, was of the
+
+opinion that routine pharmacovigilance was adequate to monitor the safety of the product and no
+
+additional risk minimisation activities were required beyond those included in the product information. ***2.9. Recommendation ***
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considered by consensus
+
+that the risk-benefit balance of Teysuno in the treatment of advanced gastric cancer when given in
+
+combination with cisplatin was favourable and therefore recommended the granting of the marketing
+
+authorisation.
+
+Teysuno
+CHMP ASSESSMENT REPORT
+EMA/CHMP/831565/2010 Page 67/67
+
+
+-----
+

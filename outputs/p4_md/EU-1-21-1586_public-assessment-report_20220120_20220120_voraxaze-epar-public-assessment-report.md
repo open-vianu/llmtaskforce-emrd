@@ -1,0 +1,9719 @@
+11 November 2021
+EMA/CHMP/751047/2021
+Committee for Medicinal Products for Human Use (CHMP)
+# Assessment report
+## **Voraxaze **
+### International non-proprietary name: glucarpidase Procedure No. EMEA/H/C/005467/0000
+## **Note **
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential
+nature deleted.
+
+**Official address** Domenico Scarlattilaan 6 **●** 1083 HS Amsterdam **●** The Netherlands
+
+**Address for visits and deliveries** Refer to www.ema.europa.eu/how-to-find-us
+
+**Send us a question** Go to www.ema.europa.eu/contact **Telephone** +31 (0)88 781 6000 An agency of the European Union
+
+© European Medicines Agency, 2022. Reproduction is authorised provided the source is acknowledged.
+
+
+-----
+
+## **Table of contents **
+#### **1. Background information on the procedure .............................................. 7**
+##### 1.1. Submission of the dossier ...................................................................................... 7 1.2. Legal basis, dossier content ................................................................................... 7 1.3. Information on Paediatric requirements ................................................................... 7 1.4. Information relating to orphan market exclusivity ..................................................... 7 1.4.1. Similarity .......................................................................................................... 7 1.5. Applicant’s request for consideration ....................................................................... 8 1.5.1. New active Substance status ............................................................................... 8 1.6. Protocol assistance ............................................................................................... 8 1.7. Steps taken for the assessment of the product ......................................................... 9
+#### **2. Scientific discussion .............................................................................. 11**
+##### 2.1. Problem statement ............................................................................................. 11 2.1.1. Disease or condition ......................................................................................... 11 2.1.2. Epidemiology and risk factors, screening tools/prevention .................................... 11 2.1.3. Clinical presentation, diagnosis and stage/prognosis ............................................ 11 2.1.4. Management ................................................................................................... 12 2.2. About the product .............................................................................................. 13 2.3. Type of application and aspects on development .................................................... 14 2.4. Quality aspects .................................................................................................. 15 2.4.1. Introduction .................................................................................................... 15 2.4.2. Active Substance ............................................................................................. 16 2.4.3. Finished Medicinal Product ................................................................................ 21 2.4.4. Discussion on chemical, pharmaceutical and biological aspects .............................. 24 2.4.5. Conclusions on the chemical, pharmaceutical and biological aspects ...................... 24 2.4.6. Recommendation(s) for future quality development ............................................. 25 2.5. Non-clinical aspects ............................................................................................ 25 2.5.1. Introduction .................................................................................................... 25 2.5.2. Pharmacology ................................................................................................. 25 2.5.3. Pharmacokinetics............................................................................................. 28 2.5.4. Toxicology ...................................................................................................... 29 2.5.5. Ecotoxicity/environmental risk assessment ......................................................... 32 2.5.6. Discussion on non-clinical aspects...................................................................... 32 2.5.7. Conclusion on the non-clinical aspects ................................................................ 34 2.6. Clinical aspects .................................................................................................. 34 2.6.1. Introduction .................................................................................................... 34 2.6.2. Clinical pharmacology ...................................................................................... 36 2.6.3. Discussion on clinical pharmacology ................................................................... 47 2.6.4. Conclusions on clinical pharmacology ................................................................. 48 2.6.5. Clinical efficacy ............................................................................................... 48 2.6.6. Discussion on clinical efficacy .......................................................................... 131 2.6.7. Conclusions on the clinical efficacy ................................................................... 136 2.6.8. Clinical safety ................................................................................................ 137 2.6.9. Discussion on clinical safety ............................................................................ 151
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+##### 2.6.10. Conclusions on the clinical safety ................................................................... 154 2.7. Risk Management Plan ...................................................................................... 154 2.7.1. Safety concerns ............................................................................................. 154 2.7.2. Pharmacovigilance plan .................................................................................. 154 2.7.3. Risk minimisation measures ............................................................................ 154 2.7.4. Conclusion .................................................................................................... 154 2.8. Pharmacovigilance ............................................................................................ 155 2.8.1. Pharmacovigilance system .............................................................................. 155 2.8.2. Periodic Safety Update Reports submission requirements ................................... 155 2.9. Product information .......................................................................................... 155 2.9.1. User consultation ........................................................................................... 155 2.9.2. Labelling exemptions ..................................................................................... 155 2.9.3. Additional monitoring ..................................................................................... 155
+#### **3. Benefit-Risk Balance............................................................................ 156**
+##### 3.1. Therapeutic Context ......................................................................................... 156 3.1.1. Disease or condition ....................................................................................... 156 3.1.2. Available therapies and unmet medical need ..................................................... 156 3.1.3. Main clinical studies ....................................................................................... 156 3.2. Favourable effects ............................................................................................ 156 3.3. Uncertainties and limitations about favourable effects ........................................... 157 3.4. Unfavourable effects ......................................................................................... 158 3.5. Uncertainties and limitations about unfavourable effects ....................................... 158 3.6. Effects Table .................................................................................................... 158 3.7. Benefit-risk assessment and discussion ............................................................... 159 3.7.1. Importance of favourable and unfavourable effects ............................................ 159 3.7.2. Balance of benefits and risks ........................................................................... 160 3.7.3. Additional considerations on the benefit-risk balance ......................................... 160 3.8. Conclusions ..................................................................................................... 161
+#### **4. Recommendations ............................................................................... 161**
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+## **List of abbreviations **
+
+5-MeTHF 5-methyltetrahydrofolate
+
+(6R)-LV D stereoisomer of leucovorin
+
+(6S)-LV L stereoisomer of leucovorin
+
+(6S)-5-MeTHF L stereoisomer of 5-methyltetrahydrofolate
+
+7-OH DAMPA 7-hydroxy DAMPA
+
+7-OH MTX 7-hydroxymethotrexate
+
+AE Adverse event
+
+AGA Anti-glucarpidase antibodies
+
+AIDS Acquired immunodeficiency syndrome
+
+ALL Acute lymphoblastic leukaemia
+
+AUC Area under the curve
+
+AUC0- ∞ Area under the concentration-time curve from 0 hours to infinity
+
+AUC0-τ Area under the concentration-time curve from 0 hours to tau
+
+AUC0-2 Area under the concentration-time curve from 0 to 2 hours
+
+BB-IND Biologic Investigational New Drug
+
+BLA Biologics License Application
+
+C Celsius
+
+C0 Concentration at pre-glucarpidase time 0
+
+Cfirst Concentration at the time of the first post-glucarpidase assessment
+
+CI Confidence interval
+
+CIR Clinically important reduction
+
+CL Clearance
+
+Cmax Maximum concentration
+
+CrCl Creatinine clearance
+
+CRF Case report form
+
+CSR Clinical study report
+
+CTCAE Common Terminology Criteria for Adverse Events
+
+DAMPA 4-amino-4-deoxy-N10-methylpteroic acid; 2,4-diamino-N10-methylpteroic acid
+
+DHFR Dihydrofolate reductase
+
+DNA Deoxyribonucleic acid
+
+E. coli Escherichia coli
+
+ELISA Enzyme-linked immunosorbent assay
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+FTHPA 5-formyl 5,6,7,8-tetrahydropteroic acid
+
+FDA Food and Drug Administration
+
+HDMTX High-dose methotrexate
+
+HPLC High-performance liquid chromatography
+
+HPLC-F High-performance liquid chromatography with fluorescence detection
+
+IND Investigational New Drug
+
+IV Intravenous
+
+kg Kilograms
+
+L Liters
+
+LC-MS/MS Liquid chromatography tandem mass spectrometry
+
+MedDRA Medical Dictionary for Regulatory Activities
+
+mg/dL Milligrams per deciliter
+
+MTX Methotrexate
+
+NCI National Cancer Institute
+
+NHL Non-Hodgkin’s lymphoma
+
+NOAEL No observed adverse effect level
+
+OR Odds ratio
+
+PCNSL Primary central nervous system lymphoma
+
+PD Pharmacodynamics
+
+PK Pharmacokinetic
+
+SAE Serious adverse event
+
+SAP Statistical Analysis Plan
+
+sCr Serum creatinine
+
+SOC System Organ Class
+
+t1/2 Half-life
+
+TEAE Treatment-emergent adverse event
+
+U Units
+
+μg/mL Micrograms per millilitre
+
+UK United Kingdom
+
+U/kg Units per kilogram
+
+U/L Units per litre
+
+ULN Upper limit of normal
+
+μmol/L Micromoles per litre
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+US, USA United States, United States of America
+
+Vss Volume of distribution at steady state
+
+WHO World Health Organization
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+## **1. Background information on the procedure **
+#### ***1.1. Submission of the dossier ***
+
+The applicant Protherics Medicines Development Europe B.V. submitted on 12 June 2020 an application
+
+for marketing authorisation to the European Medicines Agency (EMA) for Voraxaze, through the
+
+centralised procedure falling within the Article 3(1) and point 4 of Annex of Regulation (EC) No
+
+726/2004. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 17
+
+October 2019.
+
+The applicant changed to SERB SAS during the procedure at Day 181.
+
+Voraxaze, was designated as an orphan medicinal product EU/3/02/128 on 03 February 2003 in the
+
+following condition: for use as an “adjunctive treatment in patients at risk of methotrexate toxicity”.
+
+Following the CHMP positive opinion on this marketing authorisation, the Committee for Orphan
+
+Medicinal Products (COMP) reviewed the designation of Voraxaze as an orphan medicinal product in the
+
+approved indication. More information on the COMP’s review can be found in the orphan maintenance
+
+assessment report published under the ‘Assessment history’ tab on the Agency’s website:
+
+https://www.ema.europa.eu/e [n/med](https://www.ema.europa.eu/en/medicines/human/EPAR/Voraxaze) i c in e s/human/EPAR/Voraxaze.
+
+The applicant applied for the following indication:
+
+Voraxaze is indicated in adults and children (from 28 days of age) for the treatment of patients at risk
+
+of methotrexate toxicity due to delayed methotrexate elimination. ***1.2. Legal basis, dossier content ***
+
+**The legal basis for this application refers to:**
+
+Article 8.3 of Directive 2001/83/EC - complete and independent application
+
+The application submitted is composed of administrative information, complete quality data, non
+clinical and clinical data based on applicants’ own tests and studies and/or bibliographic literature
+
+substituting/supporting certain test(s) or study(ies). ***1.3. Information on Paediatric requirements ***
+
+Pursuant to Article 7 of Regulation (EC) No 1901/2006, the application included an EMA Decision
+
+P/0176/2013 on the agreement of a paediatric investigation plan (PIP).
+
+At the time of submission of the application, the PIP was completed.
+
+The PDCO issued an opinion on compliance for the PIP P/0176/2013. ***1.4. Information relating to orphan market exclusivity *** **1.4.1. Similarity **
+
+Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC) No
+
+847/2000, the applicant did not submit a critical report addressing the possible similarity with
+
+authorised orphan medicinal products because there is no authorised orphan medicinal product for a
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+condition related to the proposed indication.
+#### ***1.5. Applicant’s request for consideration *** **1.5.1. New active Substance status **
+
+The applicant requested the active substance glucarpidase contained in the above medicinal product to
+
+be considered as a new active substance, as the applicant claims that it is not a constituent of a
+
+medicinal product previously authorised within the European Union.
+
+***1.6.*** ***Protocol assistance***
+
+The applicant received the following Protocol assistance on the development relevant for the indication
+
+subject to the present application:
+
+|Date|Reference|SAWP co-ordinators|
+|---|---|---|
+|24 January 2008|EMEA/H/SA/1013/1/2007/PA/II|Dr Bertil Jonsson, Dr Jens Ersbøll|
+|21 March 2013|EMEA/H/SA/1013/1/FU/1/2012/PA/II|Dr David Brown, Dr Joao Manuel Lopes de Oliveira|
+
+
+
+The Protocol assistance pertained to the following *non-clinical, and clinical* aspects:
+
+**Summary of questions raised/ issues discussed in the Protocol Assistance ***
+
+The applicant received Protocol Assistance on the development of glucarpidase for the indication
+
+of treatment of patients experiencing or at risk of methotrexate toxicity from the CHMP on
+
+24/01/2008 [(EMEA/H/SA/1013/1/2007/PA/II))](http://scad.emea.eu.int/scientificadvice/searchResultsBrowse.do?ctrl=searchResultList&action=Drilldown&param=3800) . The Protocol Assistance pertained to the following
+
+Clinical, Preclinical aspects:
+
+*Clinical*
+
+  - Rationale for pharmacokinetics to be used for the phase III clinical development.
+
+  - Acceptability of plans to seek further clarification on evidence required to address the CHMP's
+
+issues on the potential of glucarpidase to metabolise the methotrexate rescue agent leucovorin
+
+in the clinical setting, and its implications for interpretation of the efficacy data.
+
+  - Adequacy of the clinical studies, including plans for the support preclinical, efficacy and safety
+
+a marketing authorisation application and acceptability of the rationale for the significant
+
+benefit.
+
+The applicant received Protocol Assistance on the development of glucarpidase for the indication of
+
+treatment of patients experiencing or at risk of methotrexate toxicity from the CHMP on 21/03/2013
+
+(EMEA/H/SA/1013/1/FU/1/2012/PA/II). The Protocol Assistance pertained to the following Clinical
+
+aspects:
+
+  - To seek further clarification on evidence required to address the CHMP's issue cited in the
+
+previous CHMP discussions on the potential of glucarpidase to metabolise the methotrexate
+
+rescue agent leucovorin in the clinical setting, and its implications for interpretation of the
+
+efficacy data.
+
+- This summary forms the basis for possible future inclusion of information on Scientific Advice in a
+European public assessment report (EPAR) for the product.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+#### ***1.7. Steps taken for the assessment of the product ***
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur: Ondřej Slanař Co-Rapporteur: Ewa Balkowiec Iskra
+
+The Rapporteur appointed by the PRAC was:
+
+|PRAC Rapporteur: Martin Huber|Col2|
+|---|---|
+|The application was received by the EMA on|12 June 2020|
+|The procedure started on|13 August 2020|
+|The CHMP Rapporteur's first Assessment Report was circulated to all CHMP and PRAC members on|5 November 2020|
+|The CHMP Co-Rapporteur's first Assessment Report was circulated to all CHMP and PRAC members on|3 November 2020|
+|The PRAC Rapporteur's first Assessment Report was circulated to all PRAC and CHMP members on|10 November 2020|
+|The CHMP agreed on the consolidated List of Questions to be sent to the applicant during the meeting on|10 December 2020|
+|The applicant submitted the responses to the CHMP consolidated List of Questions on|21 April 2021|
+|The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint Assessment Report on the responses to the List of Questions to all CHMP and PRAC members on|2 June 2021|
+|The PRAC agreed on the PRAC Assessment Overview and Advice to CHMP during the meeting on|10 June 2021|
+|The CHMP agreed on a list of outstanding issues in writing and/or in an oral explanation to be sent to the applicant on|24 June 2021|
+|The applicant submitted the responses to the CHMP List of Outstanding Issues on|12 August 2021|
+|The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint Assessment Report on the responses to the List of Outstanding Issues to all CHMP and PRAC members on|1 September 2021|
+|The CHMP agreed on a second list of outstanding issues in writing and/or in an oral explanation to be sent to the applicant on|16 September 2021|
+|The applicant submitted the responses to the CHMP List of Outstanding Issues on|8 October 2021|
+|The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint Assessment Report on the responses to the List of Outstanding Issues to all CHMP and PRAC members on|27 October 2021|
+|The CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting|11 November 2021|
+
+
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+|a marketing authorisation to Voraxaze on|Col2|
+|---|---|
+|Furthermore, the CHMP adopted a report on New Active Substance (NAS) status of the active substance contained in the medicinal product.|11 November 2021|
+
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+## **2. Scientific discussion **
+#### ***2.1. Problem statement *** **2.1.1. Disease or condition **
+
+Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged
+
+28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity. **2.1.2. Epidemiology and risk factors, screening tools/prevention **
+
+Methotrexate is a cytotoxic agent that has been used for the treatment of malignancies in paediatric
+
+and adult patients since the 1950s (Bleyer, 1978). Methotrexate exerts its effect by competitively
+
+inhibiting dihydrofolate reductase (DHFR), the intracellular enzyme responsible for converting folic acid
+
+to reduced folate cofactors, which are necessary for deoxyribonucleic acid (DNA) synthesis (Hagner
+
+and Joerger, 2010).
+
+Methotrexate is used alone or as part of a combined chemotherapy regimen, either in standard or high
+
+doses. High-dose MTX (HDMTX) (defined as both >1 g/m2 (Hagner and Joerger, 2010), or ≥ 500
+
+mg/m2 (Kitchlu et al., 2019)) is included in the recommended treatment regimens for a number of
+
+malignancies, including acute lymphoblastic leukaemia, diffuse large B-cell lymphoma, extranodal
+
+diffuse large B-cell lymphoma, mantle cell lymphoma and osteosarcoma (ESMO Clinical Guidelines;
+
+Vitolo et al., 2015, Tilly et al., 2016, Hoelzer et al., 2016 and Casali et al., 2018).
+
+HDMTX administration is always accompanied by vigorous intravenous (IV) hydration and alkalinisation
+
+of the urine (Howard et al., 2016). If this proves inadequate, as the urinary concentration of MTX rises
+
+and the urinary pH decreases, the solubility of MTX is exceeded (Abelson et al., 1983). At a urinary pH
+
+of <7, MTX begins to precipitate in the renal tubules and renal dysfunction ensues; this has been
+
+termed MTX-induced crystal nephropathy (Condit et al., 1969; Perazella, 1999; Perazella and Moeckel,
+
+2010). Methotrexate elimination may also be delayed by co-administration of anti-inflammatory drugs,
+
+proton pump inhibitors, and certain antibiotics (Santucci et al., 2010). The renal damage induced by
+
+MTX reduces its clearance, thereby increasing the duration and magnitude of exposure to circulating
+
+MTX (Sand and Jacobsen, 1981). The clinical manifestations of MTX toxicity may include
+
+myelosuppression, gastrointestinal distress, hepatic injury, mucocutaneous toxicity, neurotoxicity,
+
+pulmonary toxicity and acute kidney injury (Pannu, 2019). **2.1.3. Clinical presentation, diagnosis and stage/prognosis **
+
+Measures that are routinely employed to reduce MTX toxicity also include the administration of leucovorin
+
+(Ramsey 2018), which may require dose escalation (Ahmed et al., 2013). Leucovorin, provided as an
+
+exogenous source of tetrahydrofolate to replace the intracellular pool inhibited by MTX, does not reduce
+
+the amount of circulating MTX and when MTX concentrations remain high, toxicity may still occur because
+
+leucovorin cannot compete effectively with MTX for transport into cells (Pinedo et al., 1976).
+
+The expected plasma MTX concentrations at various time points after HDMTX infusion have been
+
+published (Ramsey, 2018). When MTX elimination is delayed, the continued circulation of high
+
+concentrations of the drug exposes multiple organ systems to its toxic effects (Chabner and Young,
+
+1973). The risk factors for developing MTX-associated toxicity include a history of renal dysfunction,
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+volume depletion, acidic urine and drug interactions (Howard et al., 2016) and potentially
+
+pharmacogenetics (Campbell et al., 2016). Fatal MTX toxicity is usually due to severe
+
+myelosuppression with sepsis or haemorrhage, or renal failure (Von Hoff et al., 1977).
+
+Prolonged exposure to MTX and high systemic MTX concentrations appear to be the primary factors
+
+that determine the extent of tissue damage produced by MTX, and are associated with serious
+
+toxicities, poorer clinical outcomes, and higher incidence of death (Nirenberg et al., 1977). The
+
+threshold systemic MTX concentrations above which serious toxicities are likely to develop are reported
+
+to be 5 to 10 µmol/L at 24 hours, ≥ 1 µmol/L at 48 hours, and ≥ 0.1 µmol/L at 72 hours following MTX
+
+administration (Widemann and Adamson, 2006).
+
+Methotrexate-induced renal impairment is a medical emergency that continues to occur even with the
+
+best medical management. In a literature review of patients with osteogenic sarcoma who received
+
+HDMTX, the reported incidence of renal toxicity in the reported studies ranged from 0-12.4%. When
+
+combined with additional data from the authors’ patient series, 68 of 3887 patients (1.8%) developed
+
+Grade ≥ 2 nephrotoxicity and three deaths were attributable to MTX toxicity (Widemann et al., 2004a).
+
+This series included only patients treated after 1980, when management routinely included IV
+
+hydration, urinary alkalinisation and leucovorin rescue. In a retrospective study of 649 cycles of
+
+HDMTX in 194 patients, renal toxicity occurred in 9.1% of cycles in patients with lymphoma compared
+
+to 1.5% in patients with sarcoma (May et al., 2014). Another retrospective study analysed 432 cycles
+
+of HDMTX in 140 patients with leukaemia or lymphoma of which 38.6% experienced nephrotoxicity of
+
+any grade, the majority being grade 1 serum creatinine increases (Wiczer et al., 2016).
+
+In children with ALL, it was reported that 0.5% were at risk of developing delayed methotrexate
+
+elimination, and in a population of 1,286 patients, 3.6% received glucarpidase (Svahn et al., 2017).
+
+Renal impairment occurs much more frequently in older patients; in a series of 23 patients (19 to 94
+
+years of age) receiving HDMTX for PCNSL, 48% experienced a doubling of serum creatinine (sCr)
+
+during treatment, and nine patients met the criteria for administration of glucarpidase under the
+
+National Cancer Institute (NCI) protocol with respect to presence of toxic MTX concentrations and renal
+
+impairment (Green et al., 2006; Green and Chamberlain, 2009).
+#### **2.1.4. Management **
+
+Extracorporeal methods such as haemodialysis, haemodiafiltration, high-flux haemodialysis, charcoal
+
+haemoperfusion or haemofiltration, peritoneal dialysis, exchange transfusion or plasma exchange are
+
+treatment options for patients with toxic MTX concentrations due to renal impairment. The results of
+
+these methods are mixed (reviewed by Widemann et al., 2004a; Vilay et al., 2010; King et al., 2019).
+
+High-flux haemodialysis is the most effective method of extracorporeal MTX removal, but requires five
+
+to six days of daily treatments (4-6 hours per session) (Wall et al., 1996). The risks associated with
+
+repeated haemodialysis, especially in a thrombocytopenic patient, are significant (Kitchlu et al., 2019).
+
+There is a clear, medical need for rapid, safe means of reducing toxic MTX concentrations in patients
+
+with renal impairment that is met by glucarpidase, approved in the US since January 2012 (Rattu et al
+
+2013). When administered via IV route to patients with toxic MTX concentrations, glucarpidase rapidly
+
+hydrolyses extracellular MTX and its active metabolite 7-OH MTX into the inactive metabolites
+
+glutamate, DAMPA and 7-OH DAMPA, which are metabolised hepatically. The administration of
+
+glucarpidase results in >95% reduction in plasma MTX concentration within 15 minutes of
+
+administration, thereby profoundly decreasing both the magnitude and duration of exposure to
+
+circulating MTX (Widemann et al 2010; Green 2012; Cada et al 2012; Widemann et al 2014; Cavone et
+
+al 2014; Svahn et al 2017; Ramsey et al 2018). Such a rapid efficacy with a single non-invasive dose
+
+offers advantages over other therapies such as haemodialysis and high-flux haemodialysis (King et al
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+2019; Kumar and Shirali 2014; Kitchlu and Shirali 2019). Glucarpidase is a large molecule that does
+
+not gain intracellular access or cross the blood brain barrier; therefore, although it markedly decreases
+
+the circulating MTX concentration, it cannot counteract the intracellular, anti-neoplastic effects of MTX
+
+(Patterson and Lee, 2010; Ramsey et al., 2018).
+
+An international consensus guideline for the use of glucarpidase in HDMTX-induced nephrotoxicity and
+
+delayed methotrexate excretion assists in the identification of those patients who would benefit from
+
+glucarpidase rescue. For a HDMTX infusion lasting less than 24 hours, a plasma methotrexate
+
+concentration of >30 µm at 36 hours, >10 µm at 42 hours or >5 µm at 48 hours, in addition to a
+
+significantly elevated serum creatinine relative to the baseline measurement, may be an indication to
+
+utilise glucarpidase. Following a 36-42-hour HDMTX infusion, a plasma methotrexate concentration
+
+above 5µm may be an indication to utilise glucarpidase (Ramsey et al 2018).
+
+The administration of glucarpidase should optimally occur within 48-60 hours from the start of the
+
+HDMTX infusion because life-threatening toxicities may not be preventable beyond this point (Ramsey
+
+et al 2018). The early administration of glucarpidase reduces toxicity (Widemann, 2010; Ramsey et al
+
+2018), mortality and length of stay in hospital (Demiralp et al 2019). Within the US, expert consensus
+
+guidelines recommend hospitals that provide emergency care should stock glucarpidase as timing of
+
+dosing is an important factor (Dart et al., 2018).
+
+NHS England have issued a Clinical Commissioning Policy for the use of Voraxaze for the urgent
+
+treatment of methotrexate-induced renal dysfunction. The criteria for commissioning the use of
+
+Voraxaze is if, after following all other supportive measures, the patient has significant deterioration in
+
+renal function including dangerously high blood methotrexate levels, serum creatinine 1.5 times the
+
+upper limit of normal and rising or the presence of oliguria (NHS Commissioning Guidelines, Jan 2015).
+
+Local policies are also in place in some hospitals, such as UCL, London (Whelan, 2018).
+
+In the US, the National Comprehensive Cancer Network (NCCN) guidelines for Pediatric Acute
+
+Lymphoblastic Leukemia (Version 2.2020, 2019), include the use of glucarpidase which should be
+
+considered in patients with significant renal dysfunction and toxic plasma methotrexate concentrations
+
+with delayed methotrexate clearance (plasma methotrexate concentrations >2 standard deviations of
+
+the mean methotrexate excretion curve specific for the dose of methotrexate administered). In the
+
+case of Non-Hodgkins B-cell (Version 1.2020, 2020) and T-cell lymphomas (Version 1.2020, 2020),
+
+glucarpidase should be considered when MTX levels are >10µm beyond the 42-48 hours post
+
+treatment. The NCCN guidelines for Central Nervous System Cancers (Version 1.2020, 2020) states in
+
+the case of methotrexate-induced renal dysfunction, glucarpidase should be considered to aid
+
+clearance and the Consensus guidelines are referenced.
+#### ***2.2. About the product ***
+
+Glucarpidase is an enzyme originally isolated from Pseudomonas sp. RS-16, cloned and now produced
+
+in Escherichia coli K12 strain RV308 using recombinant DNA methods. It hydrolyses the terminal
+
+glutamate residue from naturally-occurring folates and folate analogues such as MTX (Albrecht et al.,
+
+1978). The hydrolysis of MTX and its active metabolite, 7-hydroxymethotrexate (7-OH MTX), by
+
+glucarpidase forms the inactive metabolites glutamate, 2,4-diamino-N10-methylpteroic acid (DAMPA)
+
+(Donehower et al., 1979), and 7-hydroxy DAMPA (7-OH DAMPA), which are metabolised hepatically
+
+(Goldman and Levy, 1968; Patterson and Lee, 2010). In patients with impaired renal function who are
+
+unable to clear MTX efficiently, treatment with glucarpidase therefore provides an alternate route of
+
+MTX clearance.
+
+The initially applied indication was:
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Voraxaze is indicated in adults and children (from 28 days of age) for the treatment of patients at risk
+
+of methotrexate toxicity due to delayed methotrexate elimination.
+
+The finally agreed indication is:
+
+Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged
+
+28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity.
+
+Glucarpidase is intended for use under medical supervision.
+
+The recommended dose is a single dose of 50 Units per kilogram (kg) by bolus intravenous (IV)
+
+injection over 5 minutes.
+#### ***2.3. Type of application and aspects on development ***
+
+Glucarpidase was initially supplied from 1993 on a compassionate-use basis by the United States
+
+National Cancer Institute (NCI; Bethesda, Maryland). The manufacturer for the initial clinical supply of
+
+glucarpidase was the xxxxxxxxxxxxxxxxxxxxx. In 2002, glucarpidase was acquired by Enact Pharma
+
+(Salisbury, UK), which continued to supply the product, via the NCI, on a compassionate-use basis.
+
+Enact Pharma was acquired by Protherics in 2003, and Protherics consequently took over the
+
+development of glucarpidase. Protherics subsequently transferred manufacture of glucarpidase, using a
+
+re-derived Master Cell Bank, to two contract manufacturing organisations, Eurogentec SA (Belgium) for
+
+the formulated bulk product and xxxxxxxxxxxxxx for the finished product. Protherics was acquired by
+
+BTG International (BTG; London, UK and Philadelphia, Pennsylvania) in 2008, and Protherics/BTG has
+
+continued the development of glucarpidase since that time. Manufacture of the finished product was
+
+moved to xxxxxxxxxxxxxxxxxxxxxxx in 2009. Voraxaze (glucarpidase) was approved by the US FDA in
+
+2012 and glucarpidase continues to be supplied on a ‘named patient’ basis in Europe.
+
+In July 2005, Protherics submitted an MAA for Voraxaze in the EU via the Centralised Procedure
+
+(EMEA/H/C/681). In December 2005, the CHMP Rapporteurs (MPA and MHRA) issued their Day 120
+
+List of Questions followed by the Day 150 Assessment Report and then the Day 180 List of Outstanding
+
+Issues in January 2007. In May 2007, Protherics withdrew the application to allow for adequate time to
+
+address the CHMP’s outstanding issues.
+
+Following withdrawal of the MAA, Protherics requested protocol assistance (PA) from the SAWP/CHMP
+
+in 2007 (EMEA/H/SA/1013/1/2007/PA/II) and in 2012 (EMEA/H/SA/1013/1/FU/1/2012/PA/II). The
+
+objective of the PA procedures was to discuss two of the major concerns in the Day 180 List of
+
+Outstanding Issues:
+
+1. The potential for glucarpidase to interact with Leucovorin (LV) and reduce the effectiveness of LV as
+
+a rescue agent in patients receiving high doses of MTX, and
+
+2. The demonstration of a positive benefit/risk balance because although treatment with glucarpidase
+
+was associated with lowering of MTX in plasma, the clinical benefit of this effect was unclear.
+
+To address the concern regarding an interaction with LV, in the PA procedure of 2007 Protherics
+
+proposed an additional PK interaction study in patients with impaired renal function treated with high
+
+dose MTX to determine whether glucarpidase reduces the exposure to LV and therefore potentially its
+
+efficacy. The CHMP agreed that the proposed study design was appropriate to investigate the potential
+
+interaction of glucarpidase with LV. In the follow-up PA procedure of 2012, the outcome of the LV
+
+interaction study (Study PR00l-CLN-017) was presented and although it showed that there was a
+
+pharmacokinetic interaction between glucarpidase and LV, the CHMP agreed that the clinical
+
+significance of this was limited and adequate exposure to LV and the active metabolite was maintained
+
+in the presence of glucarpidase when used in the proposed prescribed manner. The CHMP concluded
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+that there was no need to conduct further studies in this regard.
+
+To address the concern regarding benefit/risk balance, in the PA procedure of 2007 Protherics provided
+
+justifications to support a clinical benefit claim that glucarpidase offers a more effective and safer
+
+alternative to extracorporeal methods and its early use may reduce the risk and severity of the toxicity
+
+experienced. The CHMP was of the opinion that with no support from non-clinical or comparative
+
+clinical data, reduced MTX concentrations in plasma was not accepted for a clinical benefit conclusion.
+
+The CHMP acknowledged that it would not be feasible to generate data demonstrating clinical benefit in
+
+patients and, therefore, recommended that such data be generated in animals.
+
+In the follow-up PA procedure of 2012, Protherics presented additional animal model data. In
+
+response, the CHMP acknowledged the limitations and difficulties of animal proof-of-concept studies
+
+associated with MTX toxicity. It was agreed that in order for glucarpidase to show a benefit, the
+
+toxicity has to be severe enough that total recovery by LV alone would not be possible. Severe toxicity
+
+of this type would be expected to result in increased mortality irrespective of the interventions applied.
+
+Overall, the CHMP recommended that no further non-clinical proof-of-concept studies should be
+
+conducted.
+
+From a clinical perspective, an updated literature review provided by Protherics in the 2012 PA
+
+demonstrated an absence of toxicity at low levels of MTX and, as such, provided evidence for a
+
+relationship between MTX levels and MTX toxicity. Glucarpidase rapidly reduced MTX levels and in that
+
+respect displayed similar but more rapid results compared with the alternative options of
+
+haemodialysis/haemofiltration. The CHMP agreed that a comparative clinical trial of standard of care
+
+versus glucarpidase was not feasible. These factors, together with the outcome of the LV
+
+pharmacokinetic interaction study, supported the positive benefit/risk balance and the CHMP concluded
+
+that no further clinical studies were necessary.
+
+In the US, glucarpidase was granted Orphan Drug designation in 2003 and Fast Track designation in
+
+2007. The BLA was submitted on a rolling basis from 2008 and the review commenced in 2011 with
+
+approval in 2012. As was the case for the CHMP during the assessment of the previous MAA, one of
+
+the primary concerns of the FDA during the development of glucarpidase was the demonstration of
+
+clinical benefit in a patient population in whom a randomised trial was not feasible. It was agreed with
+
+the FDA that an analysis of the proportion of patients with durable, clinically meaningful reduction in
+
+systemic MTX concentrations below a specified threshold could be the basis for demonstration of
+
+efficacy of glucarpidase. Protherics proposed a threshold of 1 µmol/L, below which the risk of severe
+
+MTX toxicity is reduced such that patients can be managed with standard supportive care. The FDA
+
+concurred that achieving and maintaining all post-glucarpidase MTX concentrations below this
+
+threshold would likely represent clinical benefit for the patient population eligible for glucarpidase
+
+treatment. Therefore, the primary efficacy endpoint for the clinical studies was based on this threshold
+
+and was the primary efficacy basis for approval.
+#### ***2.4. Quality aspects *** **2.4.1. Introduction **
+
+Voraxaze finished product is presented as a powder for solution for injection, containing 1000 units of
+
+glucarpidase as active substance, to be reconstituted with 1 mL of sterile 0.9% sodium chloride
+
+solution.
+
+Other ingredients are lactose, trometamol and zinc acetate dihydrate.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The product is available in 3 mL Type 1 glass vials with a bromobutyl stopper and standard blue flip off
+
+seal in a 1 vial pack size.
+#### **2.4.2. Active Substance **
+
+***2.4.2.1.*** ***General information***
+
+Glucarpidase (INN) is a zinc-dependent exopeptidase recombinant enzyme with co-catalytic zinc ion
+
+centres and a conserved aminopeptidase fold. It has a subunit molecular mass of 41,440 daltons and a
+
+dimeric molecular weight of 83 kDa. The molecular formula for glucarpidase monomer is
+
+C 1950 H 3157 N 543 O 599 S 7 .
+
+The theoretical amino acid sequence (390 residues) shown in Table 1 for glucarpidase is derived using
+
+the cDNA sequence. This sequence excludes the 25 amino acid N-terminal signal peptide which is
+
+cleaved upon the enzyme’s localisation to the periplasm.
+
+**Table 1.** Theoretical amino acid sequence for glucarpidase
+
+Glucarpidase hydrolyses the carboxy terminal glutamate residue from folic acid and its analogues
+
+including methotrexate (MTX). It cleaves the MTX molecule into inactive metabolites, 4-deoxy-4
+amino-N10-methylpteroic acid (DAMPA) and glutamate.
+
+***2.4.2.2.*** ***Manufacture, characterisation and process controls***
+
+*Manufacturers*
+
+Glucarpidase active substance is manufactured at Kaneka Eurogentec S.A. in Seraing, Belgium. This
+
+site is also responsible for in-process testing of active substance at release and stability, release of
+
+active substance and master cell bank/working cell bank (MCB/WCB) storage.
+
+GMP compliance has been confirmed.
+
+*Description of manufacturing* *process* *and* *p* *rocess controls*
+
+The applicant has developed a standard active substance manufacturing process, consisting of an
+
+upstream fermentation process (pre-culture, fermentation, cell concentration and cell disruption) and a
+
+downstream purification process that includes three chromatographic steps, three ultrafiltration steps,
+
+dilution and a final filtration.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Validation of product holds has been performed. There are no reprocessing steps. Information on the
+
+batch size or scale has been adequately provided.
+
+*Control of critical steps*
+
+The applicant has followed a traditional approach to develop the control strategy of active substance
+
+manufacture. Process parameters of each unit operation have been evaluated to identify those critical
+
+for process control.
+
+The evaluation of the parameters has been accomplished using historical manufacturing data and
+
+results from scaled down studies on key unit operations. Based on criticality, the applicant has defined
+
+Critical Process Parameters (CPPs), in-process controls (IPCs) and in-process acceptance criteria
+
+(IPAC), that have been established for each process step. Operating ranges and action limits for CPPs,
+
+IPCs and IPACs have been provided. Set points and operating ranges for these parameters have been
+
+set based on results from historical manufacturing data and scale-down studies. Several controls
+
+contributing to product safety are included, such as sterility testing and bioburden and endotoxin
+
+testing. Bioburden analysis is performed prior to the final filtration and the result is reported as part of
+
+the release specification. In general, the strategy followed to control the manufacture of the active
+
+substance is considered adequate.
+
+*Control of materials*
+
+The information provided on the raw materials used during active substance production is sufficient.
+
+Cell bank production was performed by transformation of *E. coli* with a plasmid containing the
+
+glucarpidase gene, previously isolated from *Pseudomonas sp.*
+
+Characterisation of cell banks is adequate and includes testing of identity, purity, viability, phenotype
+
+confirmation, plasmid integrity and plasmid sequence. Information on the genetic and phenotypic
+
+stability of the cell line during production has been provided. The applicant has demonstrated
+
+comparability of the original and re-derived MCB/WCBs and comparability of glucarpidase purified bulk
+
+material produced from these different cell banks. The timing proposed for future WCBs manufacture
+
+and the testing to be performed on the new batches is considered adequate.
+
+*Process validation*
+
+The applicant has performed the validation of glucarpidase active substance manufacture based on
+
+three key elements: 1) process design, 2) process qualification and 3) ongoing process verification.
+
+The process design is based on a comprehensive review of the historical manufacturing process data
+
+and supportive scaled down studies, which are used to define process ranges and acceptance criteria
+
+for the validation exercise. Process qualification involved the monitoring of three consecutive full-scale
+
+batches. The applicant proposes a continued process verification based on data derived from future
+
+commercial batches together with the data used for process design.
+
+During process qualification, the CPPs, IPCs and IPAC identified for each unit operation were assessed
+
+in the three chosen batches. Results showed that the majority of the unit operations met all of the
+
+validation acceptance criteria, whereas some deviations were found for the fermentation stage, the cell
+
+concentration stage and the chromatography. The applicant investigated these deviations, concluding
+
+that none of them were relevant to impact the integrity of the validation study.
+
+Process validation data also demonstrated the consistent clearance of cell substrate related impurities
+
+such as host cell proteins (HCPs), residual DNA and endotoxin during the purification process. In
+
+addition, data obtained during process performance qualification (PPQ) demonstrated a sufficient
+
+clearance of other process-related impurities.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Shipping validation has also been performed due to the need of active substance shipment to external
+
+laboratories for testing and for manufacture of lyophilised finished product. Shipping validation studies
+
+are considered adequate and demonstrate that active substance integrity is preserved for the duration
+
+of the shipping period.
+
+From the data generated during process qualification and the critical unit operations identified, CQAs
+
+have been designated. The information provided is acceptable.
+
+*Manufacturing process develo* *pm* *en* *t*
+
+The history of the process development, from initial research to produce glucarpidase from the
+
+Pseudomonas strain to PPQ at commercial scale, including comparability of batches produced at
+
+different stages of development, has been provided.
+
+The initial Research Lot bioproduction allowed the characterisation and evaluation of the enzyme
+
+properties, but no clinical material was produced using this expression system. Clinical scale active
+
+substance manufacture was initiated from an *E. coli* cell bank, which was easier to handle and
+
+produced more biomass in a shorter period of time. Several changes were needed due to the change in
+
+the microorganism, such as different metabolic requirements, a reduction in the incubation step and
+
+fermentation time. Additional changes were introduced to the downstream processing.
+
+All these changes were implemented to improve product purification and were adequately justified.
+
+Pilot-scale active substance manufacturing transfer to Eurogentec involved a change in the cell bank to
+
+comply to standards regarding the risk of TSE transmission and other adjustments in the fermentation
+
+conditions, such as, pH adjustments, additional filtration and changes introduced to improve
+
+purification. During commercial scale, the existing fermenter was replaced by a different one, but no
+
+change was made to the fermentation size or conditions. Moreover, elements of production
+
+methodology were also changed to improve process control, prior to the initiation of process
+
+qualification.
+
+The changes introduced to the manufacturing process after the manufacturing site transfer at pilot and
+
+commercial scales have been described. Reasons for the changes have been adequately justified and
+
+the impact of these changes on product quality has been evaluated by comparability studies on active
+
+substance lots produced at Eurogentec from pivotal clinical to commercial lots. For the comparability
+
+assessment, product lots were tested in parallel when possible or run side by side or concurrently in
+
+the designated analytical methods. Orthogonal technologies were employed to evaluate the same QA
+
+to increase the detection of changes. Forced-degradation studies were also performed for the
+
+comparability study. Based on the results of the comparability study, the applicant concludes that all
+
+batches are comparable for all methods and show equivalent degradation patterns. Moreover, the
+
+introduction of the new fermenter did not result in any change in product expression or impurity when
+
+compared to the previous active substance material.
+
+In summary, the changes introduced to the commercial manufacturing process are adequately justified
+
+and the applicant has confirmed that the implemented changes do not affect product quality or
+
+stability. Comparability of lots has been adequately presented. Comparability between active substance
+
+materials has been demonstrated.
+
+*Characterisation*
+
+*Elucidation of Structure and other Characteristics*
+
+The glucarpidase active substance has been extensively characterised during two discrete events by
+
+both standard release tests and as part of a dedicated characterisation efforts. The first
+
+characterisation effort reviewed a subset of materials manufactured until June 2003 and tested in
+
+toxicology studies, earlier clinical trials and those prepared for the pivotal clinical trials.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The second, definitive, characterisation effort (presented in this dossier) was performed at the end of
+
+2009 with five batches of active substance used for the pivotal clinical trial material, and the
+
+commercial process lots manufactured at Eurogentec. Two of these five active substance lots were 73
+
+and 28 months old, respectively, at the time of testing. These lots were compared with the other three,
+
+that were used as conformance lots and were <13 months old at the point of testing. It was therefore
+
+expected that some differences between the older lots and the conformance lots would be observed
+
+that were attributable to the age of the material. All the attributes reviewed were comparable in the
+
+two characterisation efforts.
+
+Glucarpidase was characterised using a wide range of biochemical and biophysical analytical methods
+
+aimed to assess the structural and physicochemical properties, heterogeneity analysis, bioactivity and
+
+degradation products and pathways. The tests proposed have been identified by taking into
+
+consideration ICH guideline Q6B and include the attributes listed within this guideline. In addition to
+
+product release testing, complementary high-resolution characterisation techniques were performed to
+
+further define the desired product and product-related substances.
+
+Glucarpidase structural characterisation included tests to determine the primary structure and the
+
+secondary structure.
+
+Glucarpidase has a molecular weight of 83 kDa. The peptide map evaluation identified eight signatory
+
+peptides which have been used to confirm the identity of glucarpidase. The secondary structure
+
+evaluation indicated that the protein structure is consistent with it being a largely helical protein.
+
+Several tests were used for the evaluation of glucarpidase purity. High molecular weight (HMW)
+
+species were also observed. The percentage of these species increases with the age of the lot. The
+
+isoform pattern of glucarpidase was investigated using several methods. Additional characterisation of
+
+the isoforms was conducted.
+
+Stability studies of glucarpidase active substance showed that the relative abundance of isoforms
+
+changes over time. Several methods were used for the characterisation of glucarpidase aggregates.
+
+The results obtained show that the samples are composed primarily of the active dimeric form.
+
+The potency of glucarpidase was assessed by measuring the enzyme activity and enzyme kinetics. The
+
+measurement of the specific activity of glucarpidase was very consistent.
+
+Finally, a forced degradation study was performed. Glucarpidase was found to be reasonably resistant
+
+to agitation and repeated freeze-thaw exposure.
+
+The information provided was sufficient and adequate.
+
+*Impurities*
+
+The purity of glucarpidase active substance is determined by a combination of methods that have been
+
+developed and validated for the specific detection of the relevant impurities and contaminants that can
+
+be found in the manufacturing process and/or storage of the active substance.
+
+*Product-related impurities* : The combination of the analytical procedures used to assess these
+
+impurities provides orthogonal approaches that are capable of detecting and quantifying a broad range
+
+of product-related impurities.
+
+*Process-related impurities* : Potential process related impurities were identified in the manufacturing
+
+process of glucarpidase.
+
+Contaminants: endotoxins and bioburden were evaluated by Ph. Eur. compendial methods. Finally, an
+
+evaluation of the elemental impurities was performed and documented. According to the applicant, no
+
+elemental impurities were identified above the established permitted daily exposure values.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+In conclusion, the proposed overall product characterisation strategy is appropriate.
+
+***2.4.2.3.*** ***Specification***
+
+The specification for release and stability of glucarpidase active substance have been set in accordance
+
+with ICH Q6B and covers most of the relevant characteristics of enzymes: appearance, pH, identity,
+
+potency, protein concentration, purity and impurities, microbiological content.
+
+The active substance specification has been prepared following a review of data from release and
+
+stability testing of full-scale glucarpidase development lots, conformance lots and commercial lots, to
+
+reflect the commercial manufacturing experience.
+
+Glucarpidase charge profile analysis showed batch to batch variation reflecting changes in the ratio of
+
+native glucarpidase and pyroglutamate, with a shift to the more acidic pyroglutamate form of
+
+glucarpidase across active substance shelf life. This shift to the more acidic pyroglutamate does not
+
+impact the overall product enzymatic activity.
+
+The proposed active substance specifications are acceptable.
+
+*Analytical procedures*
+
+A description of the analytical procedures used for the release and stability testing of active substance
+
+as well as the validation of those methods were provided. The information presented is adequate.
+
+*Batch analysis*
+
+Batch analysis data has been provided for development, conformance and commercial scale lots. Data
+
+has been also provided on the lots used in early development and clinical trials. Specifications for lots
+
+manufactured before commercial scale lots reflect the limits in place at the time of manufacture and
+
+may therefore differ to the commercial specifications proposed for the marketing authorisation as some
+
+limits have been revised and methodologies changed following review of the collective batch data over
+
+time.
+
+*Reference standards*
+
+Details on the reference standards (RS) is included in the finished product section.
+
+*Container closure system*
+
+Glucarpidase active substance is stored and transported in a 10 L single-use, sterile bioprocessing
+
+container (BPC). The product-contact material of the containers is manufactured according to cGMPs in
+
+a Class 10,000 (ISO 7) environment and sterilised by gamma irradiation. An extraction study and a full
+
+process risk assessment were completed on the components of the container-closure systems used for
+
+the long-term storage of active substance. The film containers comply with Ph. Eur. and USP.
+
+Compatibility of the materials was also demonstrated.
+
+The container closure systems described are considered adequate for glucarpidase active substance.
+
+***2.4.2.4.*** ***Stability***
+
+Long-term stability studies have been performed on three conformance lots stored in small scale
+
+versions of the bulk storage container. These conformance lots were also placed in accelerated studies
+
+and one lot was used for the stress study. The stability protocols, study conditions, test methods and
+
+number of lots used for these studies are in accordance with ICH Q1A(R2) guideline.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The stability studies results showed that glucarpidase is susceptible to a certain degree of change at all
+
+storage temperatures, being acceptable at the proposed storage temperature. The major changes are
+
+seen in isoforms ratios with no impact on activity. Based on these results, the proposed shelf life for
+
+the active substance when stored at the recommended storage conditions is considered acceptable.
+
+Data from accelerated studies support short excursions from this storage temperature such as may
+
+occur during storage, shipping and handling.
+
+Forced degradation studies performed in glucarpidase active substance and Voraxaze finished product
+
+demonstrated that the glucarpidase protein is susceptible to light, heat, base, acid, pyroglutamination
+
+and Maillard degradation pathways and that no single method is suitable for detecting changes by all
+
+the degradation pathways. These results have allowed the identification of stability indicating methods,
+
+which have been included in the post-approval stability protocol.
+
+Photostability studies are included as part of the forced degradation studies.
+
+The post-approval stability protocol includes the methods identified as stability indicating in the forced
+
+degradation studies. The proposed testing frequency has been justified and is acceptable.
+
+In conclusion, the information provided in this section is sufficient.
+#### **2.4.3. Finished Medicinal Product **
+
+***2.4.3.1.*** ***Description of the product and pharmaceutical development***
+
+Voraxaze finished product is supplied as a lyophilised powder solution for intravenous infusion in a
+
+dosage strength of 1000 Units of glucarpidase as active substance. Other ingredients are lactose,
+
+trometamol and zinc acetate dihydrate. Before use, the lyophilised finished product is reconstituted
+
+with 1 mL of sterile 0.9% sodium chloride solution yielding a solution containing 1000 Units/mL.
+
+The finished product is supplied in a 3 mL Type 1 glass vials with a bromobutyl stopper and standard
+
+blue flip off seal. Each pack contain one vial.
+
+Finished product qualitative and quantitative composition has been provided.
+
+*Pharmaceutical development*
+
+Glucarpidase is the only active ingredient in the Voraxaze finished product. The finished product
+
+formulation is identical to the active substance formulation: 1000 ± 100 Units of glucarpidase in a
+
+Tris/HCl buffer, zinc acetate and lactose.
+
+No overages are included in the formulation or filling of glucarpidase finished product.
+
+The manufacture of Voraxaze finished product for clinical trials started in 1991 and three finished
+
+product manufacturing facilities have been used since then. The final formulation has remained
+
+unchanged since the first batch.
+
+The finished product manufacturing process has almost not been modified since the first manufacturing
+
+process described with the exception of a few changes to the lyophilisation cycle due to differences in
+
+the lyophilisation equipment and differences in the facilities. The differences have been properly
+
+described and justified. Comparability studies between the finished product batches manufactured at
+
+different sites have been performed.
+
+Different reports detailing the protocols, acceptance criteria and results from the comparability studies
+
+between finished product batches manufactured at different manufacturing sites have been provided.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Comparability results indicate that the processes were comparable in quality attributes. The higher
+
+differences were observed in the content of each isoform in the different finished product lots. As has
+
+been described in the characterisation section of active substance, the different charge isoforms were
+
+considered to be product related substances and have been defined as those variants that have
+
+properties comparable to those of the desired product.
+
+During the comparability study, finished product lots were exposed to degradation conditions and
+
+samples were analysed after those treatments with some tests. The analytical results of the different
+
+tests used when the finished product was exposed to these degradation conditions have been provided.
+
+The container/closure system comprises a Type I neutral borosilicate glass vial, a bromo butyl
+
+elastomeric stopper and an aluminium flip-off type cap. Suitability of the container has been
+
+demonstrated through different studies including evaluation of the container integrity (dye leak testing
+
+and microbial challenge testing) and compatibility with diluent. A comprehensive evaluation of the
+
+manufacturer’s leachable and extractable experimental studies has been completed as a full process
+
+risk assessment.
+
+***2.4.3.2.*** ***Manufacture of the product and process controls***
+
+The finished product manufacturing process has been sufficiently described. The manufacturing
+
+process consists of glucarpidase active substance sterilisation, filling, lyophilisation, primary and
+
+secondary packaging.
+
+IPCs and CPPs and their acceptable limits are clearly defined. CPP, PP and IPACs were identified. The
+
+information provided is sufficient.
+
+*Process Validation*
+
+The finished product manufacturing process has been adequately validated with several consecutive PV
+
+batches. Several validation procedures have been successfully performed. Validation reports have been
+
+provided. A shipping validation study for transport of Voraxaze finished product has also been
+
+provided.
+
+***2.4.3.3.*** ***Product specification***
+
+Finished product specification covering relevant parameters, has been provided. The specification for
+
+release and stability of glucarpidase finished product have been set in accordance with ICH Q6B and
+
+covers most of the relevant characteristics of enzymes: appearance, pH, identity, purity and
+
+impurities, potency and microbiological content.
+
+The proposed specifications for finished product are considered adequate to ensure the quality of the
+
+produced Voraxaze finished product batches.
+
+The acceptance criteria have been established using release and stability data from several lots.
+
+The specifications acceptance criteria have been adequately justified.
+
+A summary of the risk assessment for elemental impurities in line with ICH Q3D has been included. It
+
+can be concluded that the risk and the impact on patient safety associated with the presence of
+
+elemental impurities is negligible. Specific control on elemental impurities are considered not needed.
+
+This is agreed.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Upon request, the applicant provided a risk assessment concerning the potential presence of
+
+nitrosamines in the product. Based on this assessment the applicant concluded that there is no risk
+
+associated with nitrosamines for Voraxaze finished product, and this conclusion can be agreed.
+
+*Analytical methods*
+
+Summaries of each method have been provided and include details on the preparation of standards,
+
+controls and test samples, critical analytical reagents and instrumentation, method procedural steps,
+
+system suitability measures, data analysis (including calculations) and the generation of reportable
+
+results.
+
+Validation summaries for relevant analytical procedures have been provided along with copies of the
+
+validation reports.
+
+The information presented is sufficient and acceptable.
+
+*Batch analysis*
+
+Batch analysis results from lots manufactured at different manufacturing sites have been provided and
+
+they complied with the specification established at the manufacturing time with some exceptions that
+
+were adequately justified.
+
+*Reference standards*
+
+Glucarpidase active substance current primary reference standard (PRS) has been described and its
+
+qualification data has been provided. Voraxaze finished product current working reference standard
+
+(WRS) has also been described and meets the acceptance criteria defined in the release tests for
+
+qualification of a new WRS. The validation report for this WRS has been provided.
+
+The applicant describes the PRS as an active substance lot used as a comparator when bridging
+
+between subsequent WRS, and the WRS as a finished product lot.
+
+Overall, the information presented supports the suitability of the reference standards.
+
+***2.4.3.4.*** ***Stability of the product***
+
+A shelf life of 48 months when stored at 2-8°C is claimed for the finished product. Overall, the stability
+
+presented is in line with ICH Q1A(R2) and ICH Q5C.
+
+Stability studies have been conducted on different voraxaze batches under these conditions: real-time
+
+(2 - 8ºC), accelerated (25 ± 2°C with a relative humidity, RH, of 60 ± 5%), in-use at 2-8ºC or 25 ºC,
+
+and in-use photostability. The applicant has referenced the forced degradation studies, heat and
+
+photostability studies to justify the absence of stress conditions stability studies, which is endorsed.
+
+Stability protocols for real-time and accelerated conditions have been included. All studies have been
+
+conducted using the intended container/closure system for marketing.
+
+In line with ICH guide Q5C, stability data of at least three lots supporting the proposed shelf life have
+
+been provided.
+
+Based on the studies conducted to date, as well as supportive data from full-scale development lots
+
+the claimed shelf life of 48 months when stored at 2 - 8°C for the finished product is considered
+
+acceptable.
+
+Chemical and physical in-use stability following reconstitution has been demonstrated for 4 hours at 2
+8ºC. From a microbiological point of view, Voraxaze should be used immediately after reconstitution. If
+
+not used immediately, in-use storage times and conditions prior to use are the responsibility of the
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+user and would normally not be longer than 4 hours at 2- 8 °C, unless reconstitution has taken place
+
+in controlled and validated aseptic conditions.
+
+***2.4.3.5.*** ***Adventitious agents***
+
+The Voraxaze active substance is manufactured by bacterial fermentation and as a consequence no
+
+mammalian adventitious virus testing and viral clearance studies are needed.
+
+It was not possible to certificate that some materials used in the preparation of the MCB were free of
+
+TSE. The applicant has produced a WCB including a single-colony isolation step to reduce the potential
+
+prion proteins carryover associated. A review of the method of WCB preparation and the subsequent
+
+manufacturing of finished product demonstrated an almost negligible risk associated of TSE
+
+contamination.
+
+The adventitious agents’ safety including TSE have been sufficiently assured.
+#### **2.4.4. Discussion on chemical, pharmaceutical and biological aspects **
+
+Glucarpidase is a zinc-dependent exopeptidase enzyme with co-catalytic zinc ion centres and a
+
+conserved aminopeptidase fold. The finished product is presented as a lyophilised powder solution for
+
+intravenous infusion in a dosage strength of 1000 Units of glucarpidase. The finished product
+
+formulation is 1000 ± 100 Units of glucarpidase in a Tris/HCl buffer, zinc acetate and lactose.
+
+In general, the glucarpidase active substance and Voraxaze finished product manufacturing processes
+
+and process controls are described in detail. The information provided is considered sufficient.
+
+During development, several process changes have been implemented to the glucarpidase active
+
+substance manufacturing process. On the contrary, Voraxaze finished product manufacturing process
+
+has almost not been modified since the first process, except for a few changes to the lyophilisation
+
+cycle. The data presented in the dossier are comprehensive and allow for adequate and retrospective
+
+assessment on comparability (when applicable).
+
+Manufacturing processes have been adequately validated. The control strategies defined for the
+
+different manufacturing processes are acceptable.
+
+For glucarpidase characterisation, a comprehensive series of analytical methods have been used. The
+
+information provided is acceptable.
+
+The proposed release and stability specifications are generally appropriate since they cover the most
+
+relevant features of the glucarpidase enzyme and ensure the quality of finished product batches.
+
+The information provided on the reference standards (RS) is sufficient to support their suitability.
+
+The storage conditions and the shelf lives proposed for glucarpidase active substance and Voraxaze
+
+finished product are considered adequate.
+
+The facilities and equipment involved in the different manufacturing processes are described correctly.
+
+The information provided in the *Adventitious Agents* section is acceptable. **2.4.5. Conclusions on the chemical, pharmaceutical and biological aspects **
+
+The overall quality of Voraxaze is considered acceptable when used in accordance with the conditions
+
+as defined in the SmPC.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The different aspects of the chemical, pharmaceutical and biological documentation comply with
+
+existing guidelines. The manufacturing process of the active substance is adequately described,
+
+controlled and validated. The active substance is well characterised and appropriate specifications are
+
+set. The manufacturing process of the finished product has been satisfactorily described and validated.
+
+The quality of the finished product is controlled by adequate test methods and specifications.
+
+Adventitious agents’ safety including TSE have been sufficiently assured.
+#### **2.4.6. Recommendation(s) for future quality development **
+
+N/A ***2.5. Non-clinical aspects *** **2.5.1. Introduction **
+
+The pharmacology package for glucarpidase includes eight *in vivo* pharmacodynamics studies (mice,
+
+rabbits, Rhesus monkeys), four safety pharmacology studies of DAMPA in the isolated rabbit heart,
+
+dogs, and Rhesus monkeys and one *in vitro* study. The *in vivo* pharmacodynamics studies were proof
+of-concept studies that involved administration of HDMTX to animals followed by treatment with
+
+glucarpidase (IV or IT route). A study in rabbits in which glucarpidase, MTX and Leucovorin were
+
+intravenously administered, has also been undertaken to investigate the impact of different clinical
+
+sample handling procedures on MTX concentration. An *in vitro* pharmacology study also investigated
+
+the properties of glucarpidase in human plasma. **2.5.2. Pharmacology **
+
+Glucarpidase is a homodimeric, carboxypeptidase enzyme with a molecular weight of 83 kDa. It is
+
+produced by a genetically-modified E. coli containing the gene for carboxypeptidase cloned from
+
+Pseudomonas strain Rs-16. Carboxypeptidases hydrolyse the carboxyl terminal glutamate residue from
+
+folic acid; this class of enzymes also hydrolyses and inactivates many analogues of folic acid, including
+
+methotrexate and leucovorin (citrovorum factor). The rationale for use of glucarpidase in methotrexate
+
+toxicity is based on the fact that the enzyme will hydrolyse the carboxyl terminal glutamate residue
+
+from compounds such as methotrexate, producing glutamate and 2,4-diamino-N10-methylpteroic acid
+
+(DAMPA), normally a minor metabolite of methotrexate and an inactive metabolite based on potential
+
+to inhibit dihydrofolate reductase activity.
+
+DAMPA and glutamate are metabolised by the liver, and thus use of Voraxaze provides an alternative
+
+route of elimination. Patients at risk for methotrexate toxicity are those with impaired renal function or
+
+with evidence of delayed elimination. In this population of patients, methotrexate and metabolites may
+
+precipitate in renal tubules leading to life-threatening acute renal dysfunction.
+
+***2.5.2.1.*** ***Primary pharmacodynamic studies***
+
+Methotrexate cannot be metabolised to inactive products in species such as mouse and human that
+
+lack certain hepatic enzymes. Glucarpidase will hydrolyse methotrexate to 2,4-diamino-N10
+methylpteroic acid (DAMPA) that is metabolised by the liver and studies in mouse showed that
+
+intravenous glucarpidase could increase DAMPA levels from 0.212-0.607 µmol/l to 3.35-57.1 µmol/l
+
+post-glucarpidase.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+In a pharmacodynamic study in mice (Chabner et al, 1972), IP administration of CPG1 to mice 24
+
+hours after receiving a lethal dose (LD 35 ) of MTX resulted in an immediate decrease in plasma MTX
+
+concentrations and increased the survival rate of the animals to MTX-induced toxicity.
+
+In a rescue pharmacology study in mice, the toxicity of multiple IP doses of MTX alone was compared
+
+with that in mice who were given either MTX + LV or MTX + LV + glucarpidase. There was no evidence
+
+that either LV alone or LV + glucarpidase effected the MTX-induced reduction in body weight, clinical
+
+changes, bone marrow toxicity, or haematological changes. There were differences in mortality
+
+between the groups with 20% animals dying in the MTX alone group and 4% in each of the other two
+
+groups given MTX with either LV or LV + glucarpidase. There was severe necrosis in the epithelium of
+
+the small intestine with 9, 6 and 1 animals with dilation of the small intestine in the MTX only, MTX +
+
+LV and MTX + LV + glucarpidase groups, respectively.
+
+A rescue pharmacology study in mice (was performed to further investigate the potential benefit of
+
+adding glucarpidase to MTX + LV. MTX-induced toxicity and mortality was compared between three
+
+groups, as in the previous study: Group A: MTX alone; Group B: MTX + LV; Group C: MTX + LV +
+
+glucarpidase. MTX was given as a 72 hour IP infusion via osmotic pump, LV was given IP, and
+
+glucarpidase was administered IV. The MTX alone group (Group A) demonstrated significantly more
+
+weight loss than the other two groups of mice (Groups B and C). There was no statistically significant
+
+difference in reductions in mean percentage weight loss compared to baseline weights or based on
+
+nadir weights between Groups B and C, and no difference in mortality between these two groups.
+
+Hepatic and renal lesions occurred with greater frequency in Group C. Suppurative nephritis occurred
+
+only in Group C, and was thought to be associated with bacteraemia as a result of possible
+
+contamination of glucarpidase.
+
+A pilot study was carried out in rabbits to determine if glucarpidase administration could abrogate the
+
+toxic effects of HDMTX administered by the IT route. However, in this study, while glucarpidase
+
+showed some evidence of rescuing animals from HDMTX toxicity, the appearance of neurogenic
+
+pulmonary oedema possibly due to IT administration due to cisternal puncture resulted in the rabbit
+
+model being abandoned. Data from the rabbit study suggested that this was not a good model for
+
+assessment of intrathecal drug administration.
+
+The bibliographical data showed that administration of an IT dose of 25 or 50 mg glucarpidase to
+
+Rhesus monkeys receiving an IT overdose of MTX resulted in a greater than 400-fold decrease in CSF
+
+MTX concentration within 5 minutes of glucarpidase administration and prevented the occurrence of
+
+MTX-induced neurotoxicity (Adamson *et al*, 1991). In a second study in Rhesus monkeys, IV
+
+administration of glucarpidase decreased the plasma concentration of MTX by >2 logs within 15
+
+minutes of glucarpidase administration, decreased the MTX t1/2α from 5.8 minutes to approximately
+
+42 seconds, and decreased the AUC of MTX from approximately 301 to 19.6 μmol·min/L (Adamson *et*
+
+*al*, 1992). In a third study in Rhesus monkeys, administration of glucarpidase to animals previously
+
+treated with continuous infusion of MTX resulted in a rapid decrease in plasma MTX concentrations that
+
+appear to be dose-dependent, with the exception that one of the animals treated with the low dose (1
+
+Unit/kg) of glucarpidase presented with decreased plasma MTX concentration at a rate similar to that
+
+found at the high dose (50 Units/kg). Therefore, the 1 Unit/kg glucarpidase dose decreased the MTX
+
+levels approximately 99% in some cases, but it did not do so consistently. A rapid increase in plasma
+
+DAMPA concentrations was associated with administration of glucarpidase, which was expected, as
+
+DAMPA is a major MTX metabolite. DAMPA concentrations declined over time and approached the LOQ
+
+of the assay by 3 hours post-glucarpidase administration. The results of these studies support proof
+of-concept for the administration of glucarpidase to patients to decrease plasma MTX concentrations
+
+and treat HDMTX-induced toxicity.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+***2.5.2.2.*** ***Secondary pharmacodynamic studies***
+
+No secondary pharmacodynamics studies were completed.
+
+***2.5.2.3.*** ***Safety pharmacology programme***
+
+The safety pharmacology package for glucarpidase includes four studies of DAMPA in the isolated
+
+rabbit heart, dogs, and Rhesus monkeys and one *in vitro* study. These studies were performed to
+
+assess if DAMPA, the major metabolite of MTX following IV glucarpidase administration, has any
+
+associated toxicity.
+
+An *in vitro* study (Widemann *et al*, 2000) showed that DAMPA was not toxic to MOLT-4 human
+
+leukaemic cells, nor did it alter the toxic effects of MTX on these cells, indicating that it is probably not
+
+an active metabolite. Results of *in vivo* studies in Rhesus monkeys (Widemann *et al*, 2000) showed
+
+that >50% of DAMPA was metabolised rather than eliminated and no signs of toxicity were seen in the
+
+animals, suggesting that DAMPA-induced renal toxicity is most likely not an issue.
+
+The safety of DAMPA was also supported by two studies, one in the isolated rabbit heart and one in
+
+Beagle dogs, both of which showed that DAMPA did not cause any clearly consistent or dose-related
+
+effects on cardiovascular function.
+
+In addition, *in vitro* interaction studies of DAMPA in human liver microsomes or freshly isolated human
+
+hepatocytes revealed almost no potential for inhibition of CYP P450 isoenzymes and possible enzyme
+
+induction with two isoenzymes (CYP1A2 and CYP2C9) at clinically relevant concentrations of DAMPA
+
+(0.1 to 1 mg/mL). Therefore, these studies showed not only that DAMPA is safe in the animals tested
+
+(Rhesus monkeys, Beagle dogs, and isolated rabbit hearts), but that in the monkey, over half of it
+
+(54%) is metabolised, resulting in a more rapid elimination of DAMPA than MTX.
+
+***2.5.2.4.*** ***Pharmacodynamic drug interactions***
+
+One *in vitro* study (Study No), encompassing a series of experiments, was performed to determine the
+
+enzymatic properties of glucarpidase in human plasma. Previous work had assessed the enzyme
+
+activity of glucarpidase in Tris buffer (Sherwood *et al*, 1985), but human plasma was used here as it is
+
+more relevant to clinical use. This included studies into the enzyme’s effects on methotrexate (MTX)
+
+and leucovorin (LV) isomers and its 5-methyltetrahydrofolate (5-MeTHF) metabolite. LV and 5-MeTHF
+
+exist as two stereoisomers, of which the 6S forms are biologically active. Chiral assays were used to
+
+quantify these isomers. The series also included studies of the stability of these analytes in human
+
+plasma which are relevant to sample handling of clinical samples.
+
+Concentrations of MTX, DAMPA, (6R)-LV, (6S)-LV, (6R)-5-MeTHF and (6S)-5-MeTHF in human plasma
+
+samples derived from a series of experiments to evaluate the enzymatic degradation of methotrexate
+
+(MTX), LV and 5-MeTHF by glucarpidase in human plasma were analysed in this study. Plasma
+
+concentrations of MTX and DAMPA were measured using a validated high performance liquid
+
+chromatographic (HPLC) method. Plasma concentrations of (6R)-LV, (6S)-LV, (6R)-5-MeTHF and (6S)
+5-MeTHF were measured using a validated HPLC method. The results of each experiment were
+
+analysed to estimate kinetic parameters.
+
+The most important conclusions from these series of experiments are:
+
+Cleavage of MTX by glucarpidase was slower in human plasma than in Tris buffer. Although the
+
+maximum rate of reaction was comparable, the Michaelis constant Km was higher in plasma (86
+
+µmol/L in plasma versus 8 µmol/L in Tris buffer).
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Glucarpidase activity is prevented by acidification of samples with hydrochloric acid (HCl).
+
+Experiments confirmed that glucarpidase-mediated hydrolysis of MTX had gone to completion after 15
+
+minutes incubation. This implies that MTX concentrations in clinical samples taken after glucarpidase
+
+treatment will be representative of the concentrations in the patients at the time the sample was
+
+taken, and that significant further hydrolysis of the MTX after the sample was taken would not have
+
+occurred.
+
+S-LV and S-5MeTHF are also hydrolyzed by glucarpidase, but at a much lower rate than MTX.
+
+LV and 5-MeTHF are shown to be stable in plasma samples in the presence of HCl, ascorbic acid and
+
+glucarpidase.
+#### **2.5.3. Pharmacokinetics **
+
+Glucarpidase (CPG2) is intended for clinical administration of a single IV bolus dose of 50 Units/kg.
+
+Pharmacokinetics (PK) and/or toxicokinetics data for glucarpidase (single IV bolus dose) have been
+
+collected for humans (50 Units/kg), rats (50 and 500 Units/kg; 3-day repeat-dose toxicology study in
+
+the rat), dogs (50, 500 and 2500 Units/kg; 14-day repeat-dose toxicology study in the dog), Rhesus
+
+monkeys (50 Units/kg) and rabbits (500 Units/kg). Dog and rat PK data were collected as part of
+
+toxicokinetics studies and Rhesus monkey data are reported in the scientific literature. Rabbit PK data
+
+were determined as part of a comparability study to demonstrate the comparability of glucarpidase
+
+manufactured by compared to glucarpidase produced by Eurogentec and using the proposed
+
+commercial process.
+
+Analytical methods
+
+In rats, rabbits and dogs, activity of glucarpidase in plasma samples and serum samples in dogs was
+
+determined using an enzyme-substrate spectrophotometric method. The cleavage of the substrate
+
+MTX was monitored by UV absorbance at 320 nm against time.
+
+In dogs, a qualitative analytical method for the detection of immunoglobulin G antibodies to
+
+glucarpidase was performed based on the analytical method developed and validated in human serum
+
+using an ELISA method. Protein A binds strongly to dog IgG and thus was considered as suitable
+
+(instead of Protein G) for the detection of dog IgG bound to Voraxaze in this assay.
+
+**Absorption**
+
+The t1/2 for glucarpidase in rabbit (5.27 hours) is similar to human (5.64-8.17 and 7.13 hours in
+
+Studies PR001-CLN-005 and PR001-CLN-010, respectively). The Tmax is also similar in the rabbit at
+
+0.083, and for the dog at 0.083-0.139 compared to 0.175-0.550 and 0.167 hour for humans in the two
+
+studies noted above. The Cmax for rabbit (21 Units/mL for 500 Units/kg dose), rat (0.5 Units/mL for
+
+50 Units/kg dose) and dog (0.855-0.910 Units/mL for 50 Units/kg dose) are in the same range as
+
+human (1.21-1.44 Units/mL for 50 Units/kg dose in the two studies mentioned above). The AUC (0-τ) for
+
+⋅
+the rabbit (99.3 Units h/mL for a 500 Units/kg dose) is similar to the human AUC (0-τ) (7.56-8.61
+
+Units ⋅ h/mL and 9.67 Units ⋅ h/mL for a 50 Units/kg dose in Studies PR001-CLN-005 and PR001-CLN
+⋅
+010, respectively), while the dog AUC (0-τ) (1.09-1.73 Units h/mL) is about 5-fold less than the human.
+
+The data suggest that the rabbit, and to a lesser extent the dog and rat, might be valid animal
+
+toxicology models, as the PK values are similar to those for humans.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The results of the monkey PK study of DAMPA, the major metabolite of MTX following administration of
+
+glucarpidase, showed that >50% of DAMPA is metabolised rather than eliminated unchanged in the
+
+urine, reducing the potential for additional renal toxicity to occur due to renal precipitation of DAMPA.
+
+The PK study in Beagle dogs showed that the systemic exposure of DAMPA increased with increasing
+
+dose in a greater than dose-proportional manner, suggesting that the DAMPA elimination pathway is
+
+saturable in dogs.
+
+Rabbit PK data were determined as part of a study to demonstrate the comparability of glucarpidase
+
+manufactured previously by with the manufactured glucarpidase product. Results of the study
+
+indicated that with respect to pharmacokinetics, glucarpidase manufactured at (for early development)
+
+is comparable to currently manufactured glucarpidase (Eurogentec and representative of intended
+
+commercial supply) under conditions of the study.
+
+**Distribution, metabolism and excretion**
+
+No studies have been conducted.
+
+The product is an enzyme, and therefore a protein. No metabolism studies were necessary. The “ICH
+
+S6 (R1) Preclinical Safety Evaluation of Biotechnology-Derived Pharmaceuticals” guidance document
+
+states that metabolism studies are generally not required for biotechnology-derived pharmaceuticals.
+
+The guideline expects that metabolism of such products entails the degradation to small peptides and
+
+individual amino acids and therefore, the metabolic pathways are generally understood. The guideline
+
+states that classical biotransformation studies are not needed.
+
+**Pharmacokinetic drug interactions**
+
+Three pharmacokinetic drug interaction studies were performed. Two studies were performed *in vitro*
+
+to determine if DAMPA, the major metabolite formed by the degradation of MTX by glucarpidase,
+
+induced or inhibited P450 CYP enzymes in freshly isolated human hepatocytes or liver microsomes,
+
+respectively (see the Clinical section for more details).
+
+A parallel group design pharmacokinetic interaction study was performed in rabbits to assess the
+
+effects of glucarpidase on the pharmacokinetics of the active isomer of LV, (6S)-LV and its active
+
+metabolite, (6S)-5-MeTHF, in the presence and absence of MTX, and to also determine if MTX affects
+
+the observed pharmacokinetic interaction between glucarpidase and LV and 5-MeTHF. Following the
+
+first LV dose, glucarpidase had very little effect on the pharmacokinetics of LV. However, on
+
+subsequent doses, the Cmax and AUC t values of LV generally increased in the presence of
+
+glucarpidase. The increase in systemic exposure to LV in the presence of glucarpidase was more
+
+marked in animals receiving MTX. The limited data available in this study showed that glucarpidase
+
+rapidly converted MTX to DAMPA, causing an increase in the systemic availability of both forms of LV in
+
+the presence of MTX.
+#### **2.5.4. Toxicology **
+
+***2.5.4.1.*** ***Single dose toxicity***
+
+No single dose toxicity studies have been conducted. Single-dose toxicity was evaluated based on the
+
+results of the initial doses in the 3 day repeat-dose toxicity study in rats and the 14 day repeat-dose
+
+toxicity study in dogs.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+***2.5.4.2.*** ***Repeat dose toxicity***
+
+The toxicology program consisted of a 3-day repeat-dose toxicology study in the rat, a single-dose,
+
+dose-escalation toxicology study in the dog, and a 14-day repeat dose toxicology study in the dog.
+
+In the rat, intravenous doses of glucarpidase of up to 5000 Units/kg daily for 3 days did not result in
+
+adverse effects. In dogs, single doses of up to 2500 Units/kg did not result in adverse effects, however
+
+evidence of hepatic and/or renal toxicity based on clinical signs and laboratory findings were observed
+
+at doses greater than 2500 Units/kg; no post-mortem assessment of organs or histopathology were
+
+conducted in this study.
+
+In the 14-day repeat-dose study, 3 dogs/sex/group received 50, 500 or 2500 Units glucarpidase/kg
+
+every other day for up to 14 days. Four of the 6 dogs receiving 500 Units/kg and 3 of the 6 dogs
+
+receiving 2500 Units/kg dose died prematurely or were sacrificed between days 11-13 of the study.
+
+The cause of death could not be determined from post-mortem histopathologic evaluation.
+
+The repeated dose toxicity of glucarpidase by the intravenous route was investigated in rat and dog in
+
+a 3 and 14 day study. The dog appeared the most sensitive species with a NOAEL of 50 U/kg compared
+
+with a NOAEL of 5000 U/kg in rat. At the NOAEL in rat, C max was approximately 100 fold higher than
+
+corresponding value in humans at the MHD or approximately x14 higher based on allometric scaling. In
+
+dogs the NOAEL was equal to MHD or ½ based on surface area basis. Tolerability as reflected in NOAEL
+
+values appeared to differ in rat and dog with haematological reactions and congestion, haemorrhage of
+
+the gastrointestinal tract, lung and gall bladder in dog at high doses of 500 to 2500 U/kg.
+
+Dogs were the most sensitive species with all treated animals testing positive for anti-glucarpidase
+
+antibodies (IgG and IgM) by Day 15. The applicant justifies that glucarpidase has been reported to be
+
+immunogenic in non-human primates (Adamson et al, 1992), and therefore the dog was used as the
+
+non-rodent species in the hope that immunogenicity would be less of an issue. It is however of note
+
+that monkeys have been consequently used in the post-marketing studies using intrathecal route of
+
+administration. The overall aim of the studies was to assess the *Cynomolgus* monkey model as suitable
+
+for performing a pivotal GLP study. The studies showed that Voraxaze was well tolerated when
+
+administered by intrathecal injection in monkeys at doses up to 2000 Units, with no treatment-related
+
+clinical signs. However, the studies established a number of limitations in the use of the model with
+
+significant inter-animal variability in CSF MTX levels and neurotoxicity precluding a reasonably sized
+
+definitive study.
+
+When considering only the pharmacokinetic data, parameters such as t1/2 and tmax shows high
+
+similarity to human PK.
+
+Duration of the pivotal toxicology study in non-rodent species (dogs) is in line with the applicable
+
+guideline (ICH S6) for this product. It is recommended that where it is not possible to use transgenic
+
+animal models or homologous proteins, it may still be prudent to assess some aspects of potential
+
+toxicity in a limited toxicity evaluation in a single species, e.g., a repeated dose toxicity study of ≤ 14
+
+days duration that includes an evaluation of important functional endpoints (e.g., cardiovascular and
+
+respiratory).
+
+In dogs, 14-day study included IV doses of 0, 50, 500 and 2500 Units/kg with the high dose (2500
+
+Units/kg) representing the MTD from the pilot dog toxicology study. The full battery of toxicology
+
+parameters was evaluated, including ophthalmological examination, EKG/ECG tracings, toxicokinetics,
+
+local tolerance (histopathology evaluation of the injection site) and immunogenicity. No other special
+
+features than cardiovascular and immunological were included to the study.
+
+A number of observed effects (central nervous system and gastrointestinal effects) are consistent with
+
+what might be predicted for a high dose folic acid inhibitor, and the effects might actually represent an
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+exaggerated pharmacological effect of glucarpidase. Some of the effects might also have been due to
+
+the immunogenicity of glucarpidase in the dog. This rationale was already discussed during the
+
+previous submission. No new studies were conducted meanwhile to clarify the toxicity observed. This is
+
+acceptable bearing in mind limitations of animal studies for this substance which is proposed to be
+
+used under specific circumstances (emergency use due to methotrexate toxicity) as single dose
+
+application and available clinical data.
+
+Assessment of local tolerance, immunogenicity and toxicokinetics were incorporated into the repeat
+dose toxicology studies in lieu of completion of separate studies.
+
+***2.5.4.3.*** ***Genotoxicity***
+
+No studies for genotoxic potential have been conducted. This is adequate as per relevant guidelines
+
+(ICH S6(R1), ICH S1A and ICH S9).
+
+***2.5.4.4.*** ***Carcinogenicity***
+
+No studies for carcinogenic potential have been conducted. This is adequate as per relevant guidelines
+
+(ICH S6(R1), ICH S1A and ICH S9).
+
+***2.5.4.5.*** ***Reproductive and developmental toxicity***
+
+No reproductive toxicology studies were completed for glucarpidase because 1) glucarpidase will be
+
+administered to patients who have already been exposed to HDMTX, a known teratogen, 2)
+
+glucarpidase will be used in a patient population with a serious and life-threatening illness with poor
+
+prognosis, 3) appropriate labelling will indicate that glucarpidase should only be used when the
+
+expected benefit is likely to outweigh the risk, 4) as indicated in the labelling, MTX is contraindicated in
+
+pregnancy, and therefore glucarpidase administration to pregnant women should seldom be an issue
+
+and 5) glucarpidase is a protein, and therefore it is unlikely that it will pose any more of a reproductive
+
+toxicology risk than MTX. Glucarpidase could potentially be of benefit if it were given to a pregnant
+
+woman with prolonged exposure to toxic concentrations of MTX as it would reduce this exposure.
+
+***2.5.4.6.*** ***Toxicokinetic data***
+
+Assessment of toxicokinetics were incorporated into the repeat-dose toxicology studies in lieu of
+
+completion of separate studies. Toxicokinetic groups were included to both pivotal toxicology studies in
+
+rats and dogs. In rats, measurements are however limited to only one sampling time 10 minutes post
+dose. The low dose (50 Units/kg) resulted in plasma concentrations of 0.4-0.5 Units/mL 10 minutes
+
+post-dose. This compares to a Cmax of 1.5 Units/mL in humans receiving a single IV dose of
+
+glucarpidase, also at 50 Units/kg. The high dosed (5000 Units/kg) rats presented with plasma
+
+concentrations of 100-163 Units/mL. This is in the range of at least 100-fold greater than the human
+
+C max (1.5 Units/mL) at a single IV dose of 50 Units/kg.
+
+In dogs, quantifiable systemic exposure was found at all dose concentrations, and the systemic
+
+exposure increased with increasing dose concentration with no gender differences. Tmax for enzyme
+
+activity generally occurred at the first blood sampling time of 0.083 hours (5 minutes) post-dose in
+
+most animals at all dose concentrations. The mean elimination t1/2 for glucarpidase was
+
+approximately 5 hours, ranging from 4.3 to 4.6 hours at 500 Units/kg and 5.3 to 6.0 hours at 2500
+
+Units/kg, similarly as in humans. Due to high mortality, no data are available allowing adequate
+
+statistical analysis of the measured parameters.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+***2.5.4.7.*** ***Local Tolerance***
+
+Assessment of local tolerance was incorporated into the repeat-dose toxicology studies. There was no
+
+local inflammatory response reported at the injection site in any of the treated rats up to 5000
+
+Units/kg/day. In the dog study, there was no significant difference in the degree of inflammation at the
+
+injection site between control and treated animals at doses up to 2500 Units/kg.
+
+***2.5.4.8.*** ***Other toxicity studies***
+
+No specific studies for anti-glucarpidase antibody response was conducted. The applicant refers to
+
+published study from 1992 conducted in monkeys. The study suggested that the effectiveness of
+
+glucarpidase in animals with high antibody titres was somewhat reduced.
+
+Immunogenicity was examined in both the pilot and pivotal repeat-dose toxicology studies by the use
+
+of an ELISA assay using Protein A as a secondary detection agent (IgG and IgM dog anti-glucarpidase
+
+antibodies; however, in this assay, they were not distinguished.
+
+Anti-glucarpidase antibodies were detected in both toxicology studies in the dog after repeated dosing.
+
+However, correlation of antibody formation on pharmacokinetic/pharmacodynamic parameters,
+
+incidence and/or severity of adverse effects, complement activation, or the emergence of new toxic
+
+effects cannot be made due to limited number of survived animals.
+
+Analytes from other species were not measured in toxicology studies for the presence of antibodies.
+
+In general, the induction of antibody formation in animals is not predictive of a potential for antibody
+
+formation in humans.
+
+In rats, a single IV injection of the anti-foaming agent StruktolTM J673 at doses up to 0.1 mg/kg to
+
+administered either alone or combined with Voraxaze (50 U/kg), was not associated with any in-life
+
+signs of toxicity or pathological changes.
+
+In monkeys, the safety and efficacy of glucarpidase administered by the intrathecal route after MTX
+
+has been investigated. Even though reduction in measured CSF MTX concentrations were observed
+
+within 15 minutes of Voraxaze administration in all animals a number of limitations in the use of the
+
+model with significant inter-animal variability in CSF MTX levels and neurotoxicity precluded a
+
+reasonably sized definitive study.
+#### **2.5.5. Ecotoxicity/environmental risk assessment **
+
+The Environmental Risk Assessment (ERA) of Voraxaze has been performed in accordance with the
+
+CHMP Guideline on the environmental risk assessment of medicinal products for human use
+
+(EMEA/CHMP/SWP/4447/00 corr 2 and draft guidance EMEA/CHMP/SWP/4447/00 Rev. 1).
+
+The active substance is a natural substance, the use of which will not alter the concentration or
+
+distribution of the substance in the environment. In addition, glucarpidase PEC surface water value was
+
+found to be below the action limit of 0.01 µg/L. Therefore, glucarpidase is not expected to pose a risk
+
+to the environment. **2.5.6. Discussion on non-clinical aspects **
+
+Glucarpidase is a recombinant bacterial enzyme that hydrolyses the carboxyl-terminal glutamate
+
+residue from folic acid and structurally related molecules such as MTX. Glucarpidase converts MTX to
+
+its inactive metabolites DAMPA and glutamate. Because both DAMPA and glutamate are metabolised by
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+the liver, glucarpidase provides an alternative route for MTX elimination in patients with renal
+
+dysfunction during high-dose MTX treatment. Due to its large molecular size, glucarpidase does not
+
+cross the cellular membrane and therefore does not counteract the intracellular antineoplastic effects
+
+of high-dose MTX. The carcinogenic, genotoxic and reproductive toxicity potential of glucarpidase have
+
+not been studied. (see SmPC 5.1 and 5.3).
+
+Folinic acid, also known as leucovorin, is a competitive substrate of glucarpidase that may compete for
+
+the MTX binding sites. Glucarpidase can decrease folinic acid concentration, which may decrease the
+
+effect of folinic acid rescue unless it is dosed as recommended. Glucarpidase may also reduce the
+
+concentrations of other folate analogues or folate analogue metabolic inhibitors (see SmPC section 4.2
+
+and 4.5). The interaction with leucovorin (LV) is further discussed under Clinical pharmacology.
+
+The increase in systemic exposure of repeated dosing with LV following an administration of
+
+glucarpidase with or without MTX in rabbits shows conflicting results in comparison to the DDI study in
+
+humans (PR001-CLN-010), where glucarpidase was found to decrease systemic exposure of LV in the
+
+absence of MTX. The applicant acknowledged several factors which may have impact on study results
+
+interpretation when comparing rabbit and human PK interaction studies (see Clinical section).
+
+Generally, effects in non-clinical studies were observed at exposures considered sufficiently in excess
+
+of the maximum human exposure indicating little relevance to clinical use.
+
+Decreased platelets were reported in a 14 day dog study and intravenous human equivalent doses of
+
+278 and 1389 Units/kg were associated with increasing severe dose related toxicity which resulted in
+
+deaths or premature euthanasia. For safety margin calculation the more conservative body surface
+
+area dose scaling method was used. Section 5.3 of SmPC is adequate.
+
+The carcinogenic and genotoxic toxicity potential of glucarpidase have not been studied. The lack of
+
+fertility and early embryonic, embryo-foetal, prenatal, postnatal development including maternal
+
+function and juvenile animal studies for Voraxaze is acceptable. Glucarpidase will generally be
+
+administered as a single treatment per MTX cycle and MTX is a known teratogen.
+
+Reproductive studies of glucarpidase in animals were not performed. This considered acceptable based
+
+on the proposed indication and in line with relevant guidelines (ICH S6(R1) and ICH S9). SmPC
+
+section 4.6 adequately reflects the lack of data and section 5.3 potential risks due to MTX. It is
+
+unknown whether glucarpidase causes harmful effects during pregnancy and/or on the foetus/newborn
+
+child or whether it can affect reproductive capacity. Glucarpidase should only be given to a pregnant
+
+woman if clearly needed. It is unknown whether glucarpidase/metabolites are excreted in human milk.
+
+A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue
+
+breast-feeding or to discontinue/abstain from glucarpidase therapy taking into account the benefit of
+
+breast-feeding for the child and the benefit of therapy for the woman. Fertility studies in animals were
+
+not performed. It is unknown whether glucarpidase affects fertility (see SmPC 4.6).
+
+Anti-glucarpidase antibodies were present after repeat dosing in the dog, demonstrating that
+
+glucarpidase is immunogenic in that species. Results of local tolerance evaluations by histopathology
+
+revealed that even though glucarpidase is immunogenic, there appeared to be little in the way of local
+
+injection site reactions with repeat dosing.
+
+The active substance is a natural substance, the use of which will not alter the concentration or
+
+distribution of the substance in the environment. Therefore, glucarpidase is not expected to pose a risk
+
+to the environment.
+
+The applicant provided adequate justification for omission of juvenile toxicity. It is agreed that based
+
+on the mechanism of action and the fact that glucarpidase is entirely intravascular and does not rely
+
+on interaction with receptors, constitutive enzymes or biological structures, safety risks do not differ
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+between paediatric and adult patients. Moreover, the review of the safety database concluded that
+
+there are no risks unique to the paediatric patient population as a whole.
+#### **2.5.7. Conclusion on the non-clinical aspects **
+
+Glucarpidase will generally be administered as a single treatment per methotrexate cycle, in a patient
+
+population with a serious and life-threatening disease with a poor prognosis. Glucarpidase is to be used
+
+in cases of methotrexate toxicity or at risk of methotrexate toxicity with methotrexate being a
+
+substance with known genotoxic and reproduction toxicity potential. No safety concerns have been
+
+identified for single dose use. Effects in non-clinical studies were observed at exposures considered
+
+sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
+
+Overall, the non-clinical package submitted is adequate for the type of product and the specific
+
+conditions of use. All relevant information has been included in sections 4,2, 4.6, 5.1 and 5.3. of the
+
+SmPC. ***2.6. Clinical aspects *** **2.6.1. Introduction **
+
+Nine clinical studies of glucarpidase contributed key data to this MAA. Four clinical studies (Studies
+
+001, 002, 003 and 006) provide the key data on efficacy and safety and included patients who
+
+received glucarpidase as compassionate use treatment due to delayed MTX elimination in the presence
+
+of renal impairment (Widemann et al., 1995; Widemann et al., 1997; Buchen et al., 2005; Schwartz et
+
+al., 2007; Snyder, 2007; Widemann et al., 2010; Patterson and Lee, 2010; Widemann et al., 2014).
+
+Five additional studies (Studies 005, 010, 012, 016, and 017) provide data on pharmacokinetics, drug
+
+interactions and/or immunogenicity and included patients receiving HDMTX with or without renal
+
+impairment, healthy volunteer subjects, and otherwise-healthy subjects with renal impairment (Phillips
+
+et al., 2008). All of these studies are complete or terminated. The table below is a summary of these
+
+key studies. In the two largest clinical studies providing data in support of efficacy and safety (Studies
+
+002 and 006), the patients enrolled were predominantly in the US. Two supportive efficacy studies
+
+(Studies 001 and 003) enrolled primarily European patients. Studies 016 and 017 were conducted
+
+entirely in the US.
+
+***GCP aspects***
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the
+
+Community were carried out in accordance with the ethical standards of Directive 2001/20/EC.
+
+  - **Tabular overview of clinical studies**
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+#### **2.6.2. Clinical pharmacology **
+
+***2.6.2.1.*** ***Pharmacokinetics***
+
+The pharmacokinetics of glucarpidase have been investigated in three phase I studies, PR001-CLN
+005, PR001-CLN-010 and PR001-CLN-017 and 1 phase II study, PR001-CLN-012.
+
+***Absorption***
+
+Maximal plasma levels of glucarpidase were approximately 3 µg/mL, achieved in 15 minutes following
+
+single dose administration, following gradual decline in concertation with elimination half-life 9-10
+
+hours. The exposure in healthy subjects following single dose of 50 U/kg was app. 20 µg*hr/mL.
+
+***Distribution***
+
+**Study PR001-CLN-005** was conducted to determine PK parameters of glucarpidase in subjects with a
+
+range of renal functions (normal renal function with a calculated creatinine clearance >80 mL/min and
+
+severely impaired renal function with a calculated creatinine clearance <30 mL/min), to determine
+
+whether glucarpidase was eliminated unchanged renally, and to determine whether glucarpidase PK
+
+were altered by renal impairment. This was an open-label, single-site, PK study of glucarpidase
+
+administered IV at a dose of 50 U/kg in male and female subjects, including 8 healthy and 4 with
+
+impaired renal function.
+
+Serum glucarpidase samples were collected: pre-dose (prior to start of glucarpidase IV dose), end of
+
+5-minute infusion, and 0.25, 0.5, 1, 2, 4, 6, 8, 12, 18, 24, 48, 72, and 96 hours following the start
+
+time of the infusion dose. Two assay methods were used to quantify serum glucarpidase, the
+
+enzymatic method and the ELISA method, for assessment of glucarpidase enzyme activity and total
+
+glucarpidase, respectively. Urinary excretion of glucarpidase was evaluated at: 0 to 2, 2 to 4, 4 to 8,
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+and 8 to 24 hours following the start time of the infusion dose. Urine samples were assayed for
+
+unchanged glucarpidase using the ELISA method only. Results are summarised in the below table.
+
+**Table 2:** Glucarpidase Pharmacokinetic Parameters for Subjects with Normal and Impaired Renal
+Function (PR001-CLN-005)
+
+a
+##### Median (min,max) shown for T max
+
+|Assay|Col2|PK Parameter|Impaired Renal Function Mean (SD) ( N=4)|Norma Function ( N|
+|---|---|---|---|---|
+|Enzymati c Method||C (µg/mL) max|2.76 (0.55)|3.29|
+|||T a (hr) max|0.55 (0.10, 4.00)|0.18 (0.|
+|||AUC (µg*hr/mL) 0-τ|17.3 (4.32)|19.7|
+|||AUC ( µg*hr/mL) 0-inf|23.0 (5.78)|23.3|
+|||t (hr) 1/2|8.17 (2.59)|5.64|
+|||CL (mL/min)|7.69b (1.91)|7.49b|
+|||V (L) ss|5.06b (1.60)|3.55b|
+|ELISA Method||C (µg/mL) max|2.86 (0.83)|3.08|
+|||T a (hr) max|0.55 (0.10, 1.00)|0.25 (0.1|
+|||AUC (µg*hr/mL) 0-τ|21.5 (10.49)|20.2|
+|||AUC (µg*hr/mL) 0-inf|24.5 (9.43)|23.4|
+|||t (hr) 1/2 CL (mL/min)|9.97 (2.06) 7.68b (2.62)|9.00 7.51b|
+|||V (L) ss|6.14b (3.12)|5.01b|
+
+
+
+***Elimination***
+
+The mean clearance was 7.51 mL/minute and the mean elimination half-life of glucarpidase was
+
+approximately 9 hours in healthy subjects. The metabolism and elimination pathways have not been
+
+specifically evaluated. The product is an enzyme, and therefore a protein. No metabolism studies were
+
+necessary. Metabolism of such products entails the degradation to small peptides and individual amino
+
+acids and therefore, the metabolic pathways are generally understood.
+
+No levels of glucarpidase were observed in urine.
+
+***Dose proportionality and time dependencies***
+
+No dose-response study was conducted. Only a single dose was investigated in the pharmacokinetic
+
+study. Of note, although some patients in clinical studies of glucarpidase received a second, or
+
+occasionally third, dose during a single cycle of MTX therapy, only a single dose is recommended in the
+
+SmPC.
+
+***Pharmacokinetics in target population***
+
+**Study PR001-CLN-012** provides glucarpidase PK information in 2 patients that received HDMTX with
+
+LV rescue and two-50 Unit/kg glucarpidase doses 24 hr apart. Blood samples were obtained pre-dose
+
+and 0.25, 1, 4, 8 and 22-24 hr after the first glucarpidase dose on Day 2 and 1-2, 24 and 48 hr after
+
+the second glucarpidase dose on Day 3. Two assays were used to measure glucarpidase: one assay
+
+(enzymatic assay) measured glucarpidase enzyme activity, and the other (ELISA) measured total
+
+glucarpidase protein concentration. Only data obtained after the first glucarpidase dose were used to
+
+obtain PK parameter values. The concentration-time profiles were consistent with a simple single
+
+exponential decay (i.e., a 1-compartment model). Serum concentration- time profiles for the 2 patients
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+were virtually superimposable. The data from the samples taken after the second glucarpidase dose
+
+were also virtually superimposable with the results from the first dose. Cmax was observed in the first
+
+sample taken after dosing. Total glucarpidase was cleared relatively slowly as reflected by CL values of
+
+7.44 and 9.14 mL/min for the 2 patients (Table below). Total glucarpidase t½ was 3.33 hr and 3.59 hr
+
+for the two patients. Volume of distribution at steady state was 2.33 L and 2.57 L, suggesting that
+
+glucarpidase distribution is restricted to plasma volume.
+
+**Table 3:** Individual Pharmacokinetic Parameters of Total Glucarpidase Following Intravenous
+
+Administration of Glucarpidase (Study PR001-CLN-rpt012)
+
+|Col1|Patient 012-001|Patient 012-003|
+|---|---|---|
+|AUC0-tlast (μg*hr/mL)|13.1|12.7|
+|AUC0-inf (μg*hr/mL)|13.3|12.8|
+|C’inf (μg/mL)|2.54|2.63|
+|Cmax (μg/mL)|2.42|2.54|
+|Tmax (h)|0.33|0.25|
+|t½ (h)|3.59|3.33|
+|CL (mL/min)|7.44|9.14|
+|Vz (L)|2.31|2.63|
+|Vss (L)|2.33|2.57|
+
+
+
+Abbreviations: AUC0- tlast = area under the serum concentration-time curve from time zero up to the actual time of the last
+sample; AUC0–∞ = area under the plasma concentration vs. time curve from time 0 to infinity; C’inf = concentration at end of
+infusion; CL = systemic clearance; Cmax = maximum observed plasma concentration; t1/2 = apparent terminal elimination halflife; Tmax = time to maximum observed plasma concentration; Vz = apparent volume of distribution during terminal phase; Vss.=
+volume of distribution at steady state
+1 Unit/kg glucarpidase is equivalent to 2198 ng/kg glucarpidase.
+
+Pharmacokinetic parameters based on glucarpidase activity were also assessed in one of the patients
+
+with osteogenic sarcoma and normal renal function. In this patient, the t½ of glucarpidase activity was
+
+2.94 hours, Cmax and AUC0-∞ values were 3.09 μg/mL and 13.0 μg*hour/mL, respectively.
+
+Glucarpidase systemic CL was 7.61 mL/minute, and Vss was 1.94 L.
+
+DAMPA
+
+The half-life of metabolite DAMPA formed from MTX in the presence of glucarpidase reported in
+
+humans is 9-12 hours. Based on a study in monkeys, about half of the formed DAMPA is eliminated
+
+unchanged in the urine. Three metabolites have been identified in humans and monkeys, hydroxy
+DAMPA, DAMPA-glucuronide and hydroxy-DAMPA-glucuronide. The elimination in human was not
+
+specifically evaluated and no precise data are available, however indirect data show on at least partial
+
+involvement of metabolism in elimination of DAMPA. Similar elimination pathways of DAMPA in human
+
+as in monkeys can be expected. The applicant also evaluated half-life of DAMPA in the pivotal clinical
+
+studies with glucarpidase and the median was app. 7 hours, which was much shorter than the median
+
+half-life observed for methotrexate (16.7 h).
+
+***Special populations***
+
+**Impaired renal function**
+
+See Study PR001-CLN-005 above for data on four subjects with renal impairment.
+
+**Impaired hepatic function**
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+A study to assess of the effect of hepatic impairment on glucarpidase PK has not been performed.
+
+However, the applicant performed an analysis of MTX and DAMPA PK parameters for the central HPLC
+
+population from studies PR001-CLN-001, PR001-CLN-002, PR001-CLN-003 and PR001-CLN-006.
+
+Mean central assay MTX and DAMPA C0, Cfirst, Cmax and AUC0-2 values for the hepatic impairment
+
+subgroup local were greater in magnitude that those for the patients with no hepatic impairment. The
+
+mean MTX C0 value for the hepatic impairment subgroup (313.65μmol/L) was 4.37-fold higher than
+
+the C0 value for patients with no hepatic impairment (71.73 μmol/L). The mean MTX C0 value for the
+
+hepatic impairment subgroup was 31365-fold greater than the corresponding DAMPA C0 value, while
+
+the mean MTX C0 value for the no hepatic impairment subgroup was 89.66-fold higher than the
+
+corresponding mean DAMPA C0 value. For both the hepatic impairment and no hepatic impairment
+
+subgroups, DAMPA was a minor MTX metabolite relative to the MTX C0 concentration.
+
+Following glucarpidase administration, there was a 99.28% and 98.75% decrease from mean MTX C0
+
+to Cfirst values for the hepatic impairment and no hepatic impairment subgroups, respectively. There
+
+was a corresponding 100% and 98.33% increase from mean DAMPA C0 to Cfirst values for the hepatic
+
+impairment and no hepatic impairment subgroups, respectively, consistent with the glucarpidase
+
+mechanism of action. Mean MTX Cfirst was 5.45-fold higher for the hepatic impairment subgroup than
+
+for the no hepatic impairment subgroup. Since the percent change in mean MTX concentration after
+
+glucarpidase administration was similar for the hepatic impairment and no hepatic impairment
+
+subgroups, Cfirst values largely depended on the corresponding C0 values.
+
+For example, the MTX Cfirst value resulting from a 98% decrease in a C0 value of 200 μmol/L, ie, 4.0
+
+μmol/L, will be higher than the Cfirst value resulting from a 98% decrease in a C0 value of 40 μmol/L,
+
+ie, 0.2 μmol/L.
+
+Mean MTX Tfirst values were similar for hepatic impairment and no hepatic impairment subgroups.
+
+Mean DAMPA Tfirst for the hepatic impairment subgroup was 3.22-fold longer than mean Tfirst for the
+
+no hepatic impairment subgroup, although median Tfirst was similar for both groups.
+
+Mean DAMPA AUC0-2 values were 90.01% and 84.05% higher than the mean MTX AUC0-2 values for
+
+the hepatic impairment and no hepatic impairment subgroups, respectively.
+
+Mean DAMPA Cmax values were 85.99-fold and 49.40-fold greater than the mean MTX Cmax values
+
+for the hepatic impairment and no hepatic impairment subgroups, respectively. Mean DAMPA Cmax for
+
+the hepatic impairment group was 5.61-fold greater than the DAMPA Cmax for the no hepatic
+
+impairment subgroup. Mean MTX and DAMPA Cmax values for the hepatic impairment subgroup were
+
+similar to the corresponding Cfirst values and the mean MTX and DAMPA Cmax values for the no
+
+hepatic impairment subgroup were similar to the corresponding Cfirst values. The mean MTX Tmax
+
+value for the hepatic impairment and no hepatic impairment subgroups were similar. The mean DAMPA
+
+Tmax value for the hepatic impairment subgroup was 3.20- fold greater than the Tmax value for the
+
+no hepatic impairment subgroup.
+
+The mean DAMPA t½ for the hepatic impairment subgroup (11.77 hr) was 1.31-fold longer than that
+
+for the no hepatic impairment subgroup (9.00 hr).
+
+MTX and DAMPA AUC0-2, C0, Cfirst and Cmax values were highly variable as reflected by CV values
+
+that were, for the most part >100%. There was no apparent trend for CV values to increase or
+
+decrease as a function of the presence or absence of hepatic impairment.
+
+**Gender**
+
+The applicant performed an analysis of PK MTX and DAMPA parameters in the population of patients
+
+receiving glucarpidase divided into groups by gender. The mean MTX C0 value was 1.97-fold higher in
+
+females than males. Mean DAMPA C0 was 3.86-fold higher for males than females. The mean MTX C0
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+values for males and females were 125.72-fold and 954.43-fold greater than the corresponding DAMPA
+
+C0 values, consistent with DAMPA being a minor MTX metabolite in the absence of glucarpidase.
+
+The reduction in MTX following glucarpidase administration was similar in males and females (98.82%
+
+to 99.23% decrease, respectively). The increase in DAMPA concentration was also similar in males and
+
+females (98.64% and 99.85% increase, respectively). MTX Cfirst value was similar in males and
+
+females. However, DAMPA Cfirst value was 2.38-fold higher in females than males. MTX Tfirst values
+
+were similar in males and females. DAMPA Tfirst values were 3.87-fold longer in males than females.
+
+MTX AUC0-2 value for females was 2.07-fold higher than that of males. DAMPA AUC0-2 value for
+
+females was 3.28-fold higher than that of males. Following glucarpidase administration, mean DAMPA
+
+Cmax values were 47.75-fold and 80.14-fold higher than MTX Cmax in males and females,
+
+respectively. Mean MTX Tmax values in males and females were similar. DAMPA Tmax values were
+
+2.57-fold longer in males than females, but median Tmax values in males and females were similar.
+
+Mean DAMPA t½ values were similar in males and females. MTX and DAMPA AUC0-2, C0, Cfirst and
+
+Cmax values were highly variable as reflected by CV values consistently >150%. PK variability was
+
+similar in males and females.
+
+**Weight**
+
+No analysis of the influence of body weight on PK glucarpidase parameters was performed.
+
+**Elderly**
+
+A dedicated study to assess the effect of age on glucarpidase PK has not been performed. The
+
+applicant performed an analysis of PK MTX and DAMPA parameters in the population of patients
+
+receiving glucarpidase divided in age groups of <12 years, ≥ 12 to 18 years, ≥ 18 to <65 years, and ≥
+
+65 years. Mean MTX C0 values increased as a function of decreasing age as reflected by C0 increasing
+
+from 15.68 µmol/L for the ≥ 65 years group to 306.26 µmol/L for the <12 years group. This represents
+
+a 19.53-fold increase in C0 over the <12 years to >65 years age range. DAMPA was a minor MTX
+
+metabolite relative to the MTX C0 concentration for all the age groups. Many of the DAMPA C0 values
+
+for all age groups were BLQ as reflected by median C0 values of 0.00. There did appear to be a trend
+
+for mean DAMPA to increase with decreasing age. The mean MTX C0 value for all of the age groups
+
+were 95.41-fold to >584-fold greater than the corresponding DAMPA C0 values.
+
+MTX and DAMPA Cfirst values also appeared to increase as a function of decreasing age. Following
+
+glucarpidase administration, there was a 98.81% to 99.11% decrease in mean central assay MTX
+
+concentration. The extent of the decrease in MTX did not appear to be related to age. The increase in
+
+mean DAMPA concentration was >98.50% and the extent of the increase did not appear to be related
+
+to age. MTX Cfirst values increased from 0.14 µmol/L for the ≥ 65 years group to 2.97 µmol/L for the
+
+<12 years group. MTX Tfirst values were similar for all age groups. DAMPA Tfirst values ranged from
+
+0.24 hr to 0.77 hr but did not appear to change as a function of age.
+
+MTX AUC0-2 values increased as a function of decreasing age from 2.66 µmol*hr/L for the ≥ 65 years
+
+to 43.15 µmol*hr/L for the <12 years group. DAMPA AUC0-2 values increased as a function of
+
+decreasing age from 13.30 µmol*hr/L for the ≥ 65 years to 379.97 µmol*hr/L for the <12 years group.
+
+DAMPA AUC0-2 values were 4.65-fold to 8.81-fold greater than the corresponding MTX AUC0-2 values,
+
+and the ratio of DAMPA AUC0-2 to MTX AUC0-2 did not appear to be related to age.
+
+Following glucarpidase administration, mean DAMPA Cmax values were higher (47.28- fold to 69.94
+fold) than the corresponding MTX Cmax values, and the extent to which they were greater was not a
+
+function of age. Mean MTX and DAMPA Tmax values were generally similar for all age groups. Mean
+
+DAMPA t½ values ranged from 6.74 hr to 10.19 hr and appeared to increase as a function of
+
+decreasing age. MTX and DAMPA AUC0-2, C0, Cfirst and Cmax values were highly variable as reflected
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+by CV values consistently >100%. There was no apparent trend for CV values to increase or decrease
+
+as a function of age.
+
+***Pharmacokinetic interaction studies***
+
+The active substance is an enzyme, and therefore no conventional *in vitro* PK DDI studies with
+
+glucarpidase are deemed necessary. Although DAMPA is a minor metabolite of MTX in the absence of
+
+glucarpidase, it is the major metabolite of MTX following administration of glucarpidase. The potential
+
+for PK DDI of DAMPA was evaluated.
+
+DAMPA is likely to induce CYP1A2 and CYP2C9 at clinically relevant concentrations *in vitro* . The risk for
+
+other pharmacokinetic interactions with glucarpidase is expected to be low apart from the interaction
+
+with leucovorin.
+
+**Leucovorin (LV)**
+
+**Study (PR001-CLN-010)** was a double-blind, placebo-controlled, randomized, 2-period crossover PK
+
+study of the effect of glucarpidase on leucovorin pharmacokinetics in healthy male subjects. Six
+
+subjects were randomised and entered the study. All six subjects completed the study in accordance
+
+with the protocol, protocol amendments and the treatment randomisation. An interval of at least 14
+
+days separated each treatment period. In the first treatment period, 3 subjects received an IV infusion
+
+of glucarpidase (50 U/kg) over 5 minutes and 3 subjects received an IV infusion of placebo; in the
+
+second treatment period, each subject received the alternate treatment. In each study period, subjects
+
+also received 5 IV injections of LV (150 mg/m2) at 6-hourly intervals (q6h), starting at 2 hr after the
+
+glucarpidase or placebo infusion. Dosing occurred at similar times for both treatment periods,
+
+commencing at 10:00 for glucarpidase or placebo and at 12:00, 18:00, 00:00, 06:00 and 12:00 for
+
+LV. Blood samples for the analysis of LV (Dose 1 and Dose 5): pre-dose, 3, 5, 10, 15, 30, 45, 60, 90,
+
+120, 180, 240, and 360 minutes post-LV dose. Blood samples for the analysis of glucarpidase were
+
+collected pre-dose, 10 and 60 minutes, 2, 6, 14 and 26 hr after glucarpidase. An ELISA method was
+
+used to measure total glucarpidase. The immune response to glucarpidase was not assessed in this
+
+study.
+
+The data from study PR001-CLN-010 showed that exposure to active L stereoisomer of LV is
+
+significantly decreased in presence of glucarpidase. The exposure following first dose was reduced by
+
+47% and following 5th dose (administered 26 h after glucarpidase administration) the exposure was
+
+reduced by 22%. Maximal plasma levels were reduced as well by 10% and 32% respectively.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The levels of inactive (6) D/R-Leucovorin were not affected by co-administration of glucarpidase in the
+
+study. As significant PK interaction between glucarpidase and leucovorin was shown in study PR001
+CLN-010, the clinical significance of this was further evaluated in Study PR001-CLN-017 in patients
+
+treated with HDMTX.
+
+**Study PR001-CLN-017:**
+
+This was an open-label, non-randomized multicenter PK study in patients treated with HDMTX and LV.
+
+It was designed to assess the PK profile of LV and its active metabolite in patients showing delayed
+
+elimination of MTX in the presence of renal impairment who were treated with glucarpidase (Arm A).
+
+Patients not requiring glucarpidase (that is, not showing delayed elimination of MTX and not renally
+
+impaired) served as a reference arm (Arm B). Patients in both Arms A and B received HDMTX followed
+
+by IV LV at doses as recommended in institutional tumour-specific treatment guidelines. Patients in
+
+Arm A also received a single dose of glucarpidase 50 U/kg in a bolus injection over 5 minutes. The first
+
+IV LV dose after glucarpidase for Arm A patients, and the first IV LV dose after MTX for Arm B patients
+
+were designated as the reference LV doses. For Arm A, eligible patients required IV LV rescue therapy
+
+with either ≥ 15 mg or ≥ 10 mg/m2 every 6 hours (q6h). The dose of LV was to be based upon the
+
+preglucarpidase MTX concentration and maintained for at least 48 hours after dosing with glucarpidase.
+
+It was recommended that the administration schedule for LV be adjusted so that it was not
+
+administered within 2 to 4 hours prior to or 2 to 4 hours following glucarpidase. For Arm B, only
+
+patients who required LV by the IV route at a dose of ≤ 25 mg/m2 were to be entered into the study.
+
+Patients in both treatment arms were to continue to receive standard of care treatment including
+
+supportive care such as hydration and alkalinisation of urine. Haemoperfusion/dialysis was to have
+
+been instituted if so indicated, as appropriate general supportive care. Plasma blood samples for the
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+determination of (6S)-LV, (6R)-LV, (6S)-5MeTHF, (6R)-5MeTHF, and MTX were collected pre-LV
+
+(reference LV) dose and at 5 minutes, 30 minutes, 1 hour, 2 hours, and 3 hours after the patient’s
+
+reference LV dose. Plasma concentrations of (6R)-5MeTHF were below the limit of quantification (0.01
+
+μmol/L) for all samples therefore PK parameters were not computed for this analyte.
+
+The study was designed as single-dose. Nine of the 11 Arm A patients received 1 dose of glucarpidase
+
+and 2 patients received 2 doses. The second glucarpidase doses were given at 50.4 and 119.9 hours
+
+after the first doses.
+
+Summaries of (6S)-LV PK parameters, (6S)-LV PK parameters normalized by LV reference dose and
+
+(6S)-LV PK parameters normalized by pre-glucarpidase calculated creatinine clearance are presented
+
+in Table 5, Table 6, and Table 7, respectively.
+
+**Table 5:** Summary of Pharmacokinetic Parameters for (6S)-LV, (6R)-LV, (6S)-5McTHF, and MTX (by
+
+Central LC-MS)
+
+**Table 6:** Summary of Pharmacokinetic Parameters for (6S)-LV, (6R)-LV, (6S)-5MeTHF, and MTX (by
+
+Central LC-MS) – Normalized by CrCI pre
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Table 7:** Summary of Pharmacokinetic Parameters for (6S)-LV, (6R)-LV, (6S)-5MeTHF, and MTX (by
+
+Central LC-MS) – Normalized by CrCI pre (continued)
+
+Mean (6S)-LV plasma concentration-data for patients in Arms A and B are plotted on the linear scale in
+
+Figure 1.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Figure 1:** Mean +SD Plasma Concentration-Time Profiles after Start of Reference LV for (6S)-LV: PK
+
+Population – Linear Scale
+
+Visual inspection of the PK parameter values shows higher exposure in Arm A than in Arm B. The
+
+difference in magnitude of the PK parameter values cannot be directly attributed to administration of
+
+glucarpidase to patients in Arm A because patients in Arm A also received a 6.7-fold higher median LV
+
+dose than patients in Arm B. Therefore, individual (6S)-LV PK parameter values for patients in Arms A
+
+and B were normalized by the LV reference dose (in mg/m2) in order to compensate for the LV dose
+
+effect on interpretation of the PK parameter values.
+
+Mean dose normalized AUC0-3 values (AUC0-3/DLV) for Arms A and B were similar in magnitude (Arm
+
+A: 10.02 [μmol·h/L/mg/m2]·102 and Arm B: 9.79 [μmol·h/L/mg/m2]·102). Dose normalized Cmax
+
+(Cmax/DLV) values were also similar in magnitude (Arm A: 17.33 [μmol/L/mg/m2]·102 and Arm B:
+
+18.79 [μmol/L/mg/m2]·102). Mean dose normalized C3 values (C3/DLV) for Arms A and B could not
+
+be compared because only 1 patient in Arm B had data. Mean dose normalized C0 values (C0/DLV)
+
+were negligible in both groups. Variability of dose normalized PK parameters was high as reflected by
+
+CVs that ranged from 48.24% to 222.55%.
+
+**Bioanalytical methods**
+
+Competitive enzyme-linked immunosorbent assay (ELISA) was used to measure serum glucarpidase
+
+content for PK analysis in Studies 005 and 010. An alternative and more accurate ELISA was used in
+
+later Study 012 (two patients only). The measured maximum serum glucarpidase concentrations
+
+(Cmax) were similar between all clinical studies indicating that major differences between the methods
+
+were unlikely. All methods were developed and validated at. The validation results and assay
+
+performance data were acceptable.
+
+The effect of glucarpidase on leucovorin pharmacokinetics was investigated in the Studies 010 and
+
+017. To support these interaction studies enantiomers of leucovorin and 5-methyltetrahydrofolic acid
+
+were measured in human plasma by chiral HPLC fluorescence methods validated at Huntingdon Life
+
+Sciences, UK. Acceptable linearity, precision, accuracy, selectivity and stability were demonstrated for
+
+all analytes, (6R)-LV, (6S)- LV, (6R)-5-MeTHF) and (6S)-5-MeTHF.
+
+***Pharmacokinetics using human biomaterials***
+
+In order to determine if DAMPA has the potential to induce cytochrome (CYP) P450 enzymes, an *in*
+
+*vitro* induction study (PR001-NCL-PK007) was conducted whereby DAMPA and CYP1A2, CYP2C9 and
+
+CYP3A substrates were incubated with freshly isolated hepatocytes in primary culture from three
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+different donors. There was a statistically significant (p<0.001) induction of CYP1A2 at a DAMPA level
+
+of 1 mg/mL in hepatocytes from all three donors, and one donor showed statistically significant
+
+(p<0.01) induction at 0.1 mg/mL DAMPA. Therefore, it was concluded that DAMPA is likely to induce
+
+CYP1A2 when DAMPA concentrations are 1 mg/mL or greater, and may act as an inducer when DAMPA
+
+concentrations are between 0.1 and 1 mg/mL. Two out of 3 donor hepatocytes presented statistically
+
+significant (p<0.001 and p<0.01) induction of CYP2C9 activities when exposed to 1 mg/mL DAMPA and
+
+one donor induced CYP2C9 at a DAMPA range of 0.1 to 1 mg/mL DAMPA (p<0.01). It was therefore
+
+concluded that DAMPA concentrations of 1 mg/mL or greater or DAMPA concentrations between 0.1
+
+and 1 mg/mL may cause induction of CYP2C9. The clinically relevant enzyme induction (0.1 to 1
+
+mg/mL DAMPA) was seen in this study with two of the isoenzymes, CYP1A2 and CYP2C9, both in one
+
+of three donors.
+
+The potential inhibition of CYP enzymes (PR001-NCL-PK006) was measured in human liver microsomes
+
+incubated with DAMPA at concentrations of 0.01, 0.02, 0.03, 0.06, 0.1, 0.3, 0.6 and 1 mg/mL, in order
+
+to cover the maximum expected human plasma Cmax of DAMPA, with the maximum concentration
+
+being 3-fold the expected human plasma concentration. The model substrates used for detection of
+
+inhibition of CYP enzymes were phenacetin (CYP1A2), tolbutamide (CYP2C9), S-mephenytoin
+
+(CYP2C19), bufuralol (CYP2D6), chlorzoxazone (CYP2E1), midazolam (CYP3A4) and testosterone
+
+(CYP3A4).
+
+Inhibition of all CYP substrate activities by DAMPA was less than 50%; therefore, no IC50 value could
+
+be determined. DAMPA did not cause clinically significant direct inhibition of CYP1A2, CYP2C9,
+
+CYP2C19, CYP2D6, CYP2E1 and CYP3A4 at the concentrations used in this study, which included 3-fold
+
+the expected human plasma concentration.
+
+***2.6.2.2.*** ***Pharmacodynamics***
+
+***Mechanism of action***
+
+Glucarpidase hydrolyses the terminal glutamate residue from folates and folate analogs. The hydrolysis
+
+of MTX and its active metabolite, 7-hydroxymethotrexate (7-OH MTX), by glucarpidase forms the
+
+inactive metabolites glutamate, DAMPA, and 7-OH DAMPA, which are metabolized hepatically and thus
+
+provides an alternative route of MTX elimination (Adamson et al, 1991; Mohty et al, 2000; Widemann
+
+et al, 2000).
+
+                                                  **Figure 2:** Voraxaze® (Glucarpidase; CPDG2) Hydrolyzes MTX to DAMPA (2,4-diamino-N [10]
+
+methylpteroic acid) and Glutamic Acid (Ramsey et al, 2018)
+
+***Primary and Secondary pharmacology***
+
+A series of experiments (PR001-NCL-rptPK008) attempted to characterise the enzyme properties of
+
+glucarpidase in human plasma, which is an appropriate model of the clinical use of glucarpidase. These
+
+studies confirmed that in this matrix glucarpidase cleaves MTX to DAMPA, and can also cleave (6S)
+leucovorin (LV) and (6S)-5- methyltetrahydrofloate (5MeTHF), the biologically active S isomers of LV
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+and 5MeTHF, respectively, but at a rate much lower than the hydrolysis of MTX. The apparent Km of
+
+MTX in human plasma (86 μmol/L) (PR001-NCL-rptPK008) was higher than in Tris buffer. Km values
+
+for (6S)-LV and (6S)-5MeTHF could not be determined, but appear to be higher than that for MTX.
+
+Glucarpidase is a large molecule that does not gain intracellular access or cross the blood brain barrier.
+
+Glucarpidase has been shown in clinical studies to cause a rapid and substantial decrease in plasma
+
+MTX concentration. In Studies 001, 002, 003 and 006, a 97% to 99% median reduction of MTX
+
+concentration occurred within 15 minutes of glucarpidase administration. The percent of patients with
+
+≥ 95% initial reductions in MTX concentration from baseline was similar in patients who received first
+
+glucarpidase doses of <40 U/kg (88.2%) and those who received first glucarpidase doses of 40 to <60
+
+U/kg (88.0%).
+#### **2.6.3. Discussion on clinical pharmacology **
+
+The pharmacokinetics of glucarpidase in the absence of MTX were studied in 8 healthy subjects
+
+following glucarpidase 50 Units/kg administered as an intravenous injection over 5 minutes. Serum
+
+glucarpidase activity levels were measured by an enzymatic assay and serum total glucarpidase
+
+concentrations were measured by enzyme linked immunosorbent assay (ELISA). The mean maximum
+
+serum concentration (C max ) was 3.3 μg/mL and the mean area under the curve (AUC 0-INF ) was
+
+23.3 μg·h/mL. The pharmacokinetic parameters derived from the serum total glucarpidase
+
+concentrations were similar to those generated by serum glucarpidase activity levels except for
+
+elimination half-life. The mean volume of distribution (V d ) was 3.55 L.
+
+A clinically relevant accumulation of glucarpidase after a repeat injection within a MTX cycle has not
+
+been observed.
+
+The active substance glucarpidase is an enzyme, and therefore a protein. The metabolism of such
+
+products entails the degradation to small peptides and individual amino acids and therefore, the
+
+metabolic pathways are generally understood. Classical biotransformation studies are therefore not
+
+required and have not been conducted.
+
+The ability of the main metabolite produced by the action of glucarpidase on MTX (DAMPA) to induce or
+
+inhibit CYP450 metabolising isoenzymes has been investigated *in vitro*, which revealed possible
+
+enzyme induction with CYP1A2 and CYP2C9. Modest induction would only be expected in a minority of
+
+patients who have the highest DAMPA exposure.
+
+Serum glucarpidase activity levels declined with a mean elimination half-life (t 1/2 ) of 5.6 hours and
+
+serum total glucarpidase concentration declined with a mean t 1/2 of 9 hours. The mean systemic
+
+clearance (CL) was 7.5 mL/min.
+
+A study of the pharmacokinetics of glucarpidase in the absence of MTX in 4 subjects with severe renal
+
+impairment (CLcr <30 mL/min) showed that the mean pharmacokinetic parameters were similar to
+
+those observed in healthy subjects. On this basis, no dose adjustment of glucarpidase is recommended
+
+for patients with renal impairment.
+
+In study PR001-CLN-012 in target patients the maximal plasma levels were similar to healthy
+
+volunteers, however the estimates of exposure to glucarpidase and half-life were significantly
+
+decreased (AUC app. 45%, Thalf 3.5 hours). The data suggest glucarpidase exposure is decreased in
+
+patients treated with HDMTX. Glucarpidase is intended for single dose administration only. In the study
+
+Study PR001-CLN-012 patients received two doses of glucarpidase, but due to the fact that the trial
+
+was prematurely terminated by the sponsor, only incomplete data is available to draw more general
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+conclusions. These data suggest no clinically relevant accumulation and that glucarpidase distribution
+
+is restricted to plasma volume.
+
+Significant interaction between glucarpidase and leucovorin was shown in the study PR001-CLN-010.
+
+To address this issue, the applicant has conducted study PR001-CLN-017 in patients treated with
+
+HDMTX and LV to investigate whether the administration of glucarpidase reduces exposure to LV and
+
+its active metabolite below the level achieved in patients who have not received glucarpidase. Dose
+normalized AUC 0-3 of (6S)-LV in patients with delayed elimination of MTX, who were treated with
+
+glucarpidase, were similar to the dose normalized AUC 0-3 in patients with normal renal function who did
+
+not receive glucarpidase in this study. Leucovorin levels were not significantly affected when there was
+
+a minimum 2-hour dosing interval between glucarpidase and leucovorin administration (see SmPC
+
+4.2).
+
+No formal evaluation of the effect of age on the pharmacokinetics of glucarpidase has been performed.
+
+As children were included in the efficacy/safety analysis, additional pharmacokinetic data is not
+
+considered necessary for this population. The same dose is suggested for children and adults.
+
+No studies of possible genetic differences in response to glucarpidase have been conducted.
+
+Glucarpidase is a high molecular weight protein so it does not gain intracellular access or cross the
+
+blood brain barrier. It will therefore not counteract the anti-tumour effect of MTX trapped intracellularly
+
+as polyglutamate.
+
+Glucarpidase will not replace LV in the setting of HDMTX rescue since it does not gain entry into the
+
+cell; thus, intracellular MTX will continue to inhibit reduction of folate to its active form. LV will
+
+therefore be needed to replenish the intracellular source of reduced active folate.
+
+The applicant submitted PR001-CMC-001 study report, which was an *in vitro* demonstration of
+
+pemetrexed being a substrate of glucarpidase. However, the coadministration of pemetrexed and MTX
+
+in patients treated with glucarpidase is unlikely (data not shown).
+#### **2.6.4. Conclusions on clinical pharmacology **
+
+The clinical pharmacokinetics of glucarpidase was sufficiently documented and is adequately presented
+
+in the product SmPC. The information regarding the pharmacodynamics given in the proposed SmPC is
+
+acceptable. **2.6.5. Clinical efficacy **
+
+The efficacy of glucarpidase has been demonstrated in four compassionate-use, open-label multicentre
+
+studies in patients with delayed MTX elimination due to renal dysfunction, Studies 001, 002, 003 and
+
+006. These four studies were chosen to support the efficacy of glucarpidase because in these studies,
+
+MTX concentration data were collected using an HPLC central laboratory, and the studies were similar
+
+with respect to inclusion criteria, glucarpidase dosing and administration, and collection of data on
+
+renal function, mortality, and post-glucarpidase MTX concentrations (using both central laboratory
+
+HPLC assays and local laboratory immunoassays).
+
+***2.6.5.1.*** ***Dose response study(ies)***
+
+No dose response studies have been performed by the applicant.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+All clinical protocols recommended a glucarpidase dose of 50 U/kg body weight. This dose was initially
+
+selected for the NCI sponsored clinical trial (Study 002) based upon theoretical considerations. Based
+
+on its *in vitro* activity, 50 U/kg glucarpidase was predicted to be able to reduce 1000 µmol/L MTX to 10
+
+µmol/L in 1 minute. This calculation assumes a 3000 U dose given to a 60 kg patient with a blood
+
+volume of 4 L. It further assumes that at maximum velocity, 1 mole of enzyme will convert 800 moles
+
+of MTX per second; the molecular weight of the enzyme is 83,000 Daltons, and the mass of 1000 U of
+
+enzyme is approximately 2.5 mg.
+
+The ability of lower doses of glucarpidase to effect a rapid reduction in plasma MTX concentration has
+
+been assessed in a small study in Rhesus monkeys conducted by the NCI. Doses of 50, 15 or 5 U/kg
+
+were effective in reducing MTX concentration. However, there was some evidence that the rate of
+
+decrease of MTX concentration was greater in the animals treated with the higher doses of
+
+glucarpidase (15 and 50 U/kg). No attempt was made to model the delayed elimination of MTX in this
+
+study, so the results may not be relevant to the clinical situation.
+
+Drug availability and logistical considerations prompted imposition of a dose cap of 2,000 Units per
+
+dose at certain times during the conduct of the largest glucarpidase clinical studies, Studies 002 and
+
+006. The 2,000 Unit dose cap limited the dose of glucarpidase administered to patients with body
+
+weights >40 kilograms; patients with body weights ≤ 40 kilograms were to receive the full 50 U/kg
+
+glucarpidase dose.
+
+Of the 419 patients in the Safety Population for whom glucarpidase dosing information are available,
+
+287 (69%) received glucarpidase doses close to the protocol recommendation (i.e., ≥ 40 to <60 U/kg),
+
+and 30% received doses of <40 U/kg. The other 1% of patients received glucarpidase doses of ≥ 60
+
+U/kg. In all of these dose groups, the efficacy of glucarpidase in causing a CIR in MTX concentration
+
+was similar. These data suggest that the bottom of the glucarpidase dose-response curve may not yet
+
+have been identified. However, the number of patients receiving glucarpidase doses of <40 U/kg in the
+
+Central MTX HPLC and Local Laboratory Populations was small (17 of 148 patients, or 11%; and 124 of
+
+400 patients, or 31%, respectively), and the clinical experience with these lower doses is not an
+
+adequate basis for a lower dose recommendation.
+
+***2.6.5.2.*** ***Main studies***
+
+**Study PR001-CLN-001** : Study of recombinant carboxypeptidase G2 (CPG2) for the management of
+
+patients with delayed methotrexate (MTX) clearance or intrathecal MTX overdosage.
+
+**Methods**
+
+This was a prospective, open-label, non-randomized multicentre, compassionate-use trial in patients
+with delayed MTX clearance after treatment with high-dose methotrexate (HDMTX), or with
+
+intrathecal MTX overdose.
+##### **Study participants **
+
+Inclusion criteria:
+
+1. Patients ≥18 years of age who were receiving HDMTX (>1 g/m2 body surface area given as an
+
+infusion over 24 hours) for the treatment of acute lymphoblastic leukaemia (ALL), non-Hodgkin’s
+
+lymphoma, or a solid tumour were eligible for participation in the study if their serum MTX
+
+concentration was:
+
+- >5 μmol/L 42 hours or later after the start of MTX infusion; or
+
+- >1 μmol/L 42 hours or later after the start of MTX infusion together with renal insufficiency; or
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+- >0.4 μmol/L 48 hours or later after the start of MTX infusion together with renal insufficiency.
+
+[Renal insufficiency was defined as serum creatinine >1.5 times the upper limit of normal and/or
+
+oliguria (urine output <500 mL/24 hours despite adequate hydration, diuretics and alkalinisation)].
+
+2. Patients who developed oliguria and/or a serum creatinine >1.5 times the upper limit of normal
+
+could be enrolled sooner than 42 hours after the start of MTX infusion. If glucarpidase was
+
+administered within 24 hours of the start of MTX infusion, MTX was to be stopped immediately.
+
+3. Patients with intrathecal MTX overdose (≥50 mg of MTX) could be treated with glucarpidase after
+
+consultation with the Principal Investigator. In patients with intrathecal MTX overdose, immediate
+
+cerebrospinal fluid (CSF) removal by lumbar puncture, ventriculolumbar perfusion or continuous CSF
+
+drainage was to be considered. Additional alkalinisation and leucovorin (LV) rescue were to be
+
+instituted, and anticonvulsive and dexamethasone therapies were also to be considered.
+
+Exclusion criteria:
+
+1. Patients were excluded from the study if they:
+
+- Were pregnant or lactating females; or
+
+- Were unwilling to provide informed patient consent.
+
+2. Patients with known intolerance to protein products (anaphylaxis) were not automatically excluded
+
+from the study, but may have been enrolled at the discretion of the investigator/Principal Investigator,
+
+with the following precautions taken:
+
+- Skin testing prior to administration of glucarpidase;
+
+- Premedication with ≥250 mg prednisolone, or the equivalent;
+
+- Ready availability of adrenalin, plasma expander, etc.; and
+
+- Administration of glucarpidase in an intensive care unit (ICU), followed by observation in the ICU for
+
+at least 24 hours.
+
+No conditions for withdrawing patients from the study were specified in the protocol.
+##### **Treatments **
+
+All patients received at least a single dose of 50 U/kg glucarpidase administered as an IV injection over
+
+a 5-minute period. Patients who had a serum MTX concentration (by local assay) greater than
+
+0.1 μmol/L 24 hours or later after glucarpidase administration were permitted to receive an additional
+
+dose of glucarpidase 50 U/kg with the approval of the Principal Investigator.
+
+Patients were required to have received high-dose methotrexate (HDMTX) prior to glucarpidase
+
+administration. Methotrexate administration regimens differed according to the oncological diagnosis.
+
+Because of the potential for interaction of glucarpidase and leucovorin (LV), LV was not to be
+
+administered within 4 hours prior to glucarpidase dosing. Following glucarpidase dosing, LV was to be
+
+subsequently dosed at a level determined by the serum MTX concentration (based on local assay), but
+
+at no less than 15 mg/m2 every 6 hours until two MTX measurements 24 hours apart were <0.1
+
+μmol/L.
+
+Consistent with general recommendations for patients treated with HDMTX, patients were treated with
+
+IV hydration, adequate diuresis (when possible), and alkalinisation (to maintain urinary pH >7.5) prior
+
+to the start of HDMTX therapy. These treatments were to be maintained until 72 hours after serum
+
+MTX concentrations fell below 0.1 μmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+In patients with intrathecal MTX overdosage, immediate CSF removal was recommended, and
+
+ventriculolumbar perfusion or continuous CSF drainage was to be considered. Additional alkalinisation
+
+and LV rescue were to be instituted, and anticonvulsive and dexamethasone therapies were to be
+
+considered.
+
+Glucarpidase was supplied in a lyophilised form in vials that contained 1,000 units of glucarpidase. The
+
+lyophilized product was reconstituted in isotonic saline prior to use.
+
+All patients were treated with the same lot of glucarpidase: Lot 004.
+
+*Efficacy measurements:*
+
+The efficacy assessments used in this study were serum MTX concentrations measured by a central
+
+laboratory using a high-performance liquid chromatography (HPLC) assay, and MTX and serum
+
+creatinine concentrations measured by local laboratories.
+
+MTX Concentration (Central Laborat ory) :
+
+Blood samples for the determination of MTX concentrations by HPLC were taken by venipuncture at 0
+
+minutes (ie, immediately before) and 15 minutes, 1 hour, and 4 hours after the first glucarpidase dose,
+
+and every 24 hours thereafter until the MTX concentration dropped below 0.1 μmol/L. Optional
+
+samples could be taken at 30 minutes, 2 hours, 3 hours, 6 hours, 7 hours, and 8 hours after
+
+glucarpidase dosing.
+
+MTX Concentration (Local La bor at or ies):
+
+Serum samples for the determination of MTX concentrations by local laboratories were collected and
+
+analysed as clinically indicated and in accordance with GMALL guidelines.
+
+Blood samples for the determination of MTX concentrations by HPLC were taken at 15 minutes, 30
+
+minutes, 60 minutes, 120 minutes, 4 hours, 1 day, 2 days, 3 days, 4 days, 5 days, 6 days, 7 days, 8
+
+days, 15 days, and 22 days after the first glucarpidase dose.
+
+Serum Creatinine Concentra ti ons:
+
+Samples for determination of serum creatinine concentrations by a local laboratory were to be obtained
+
+prior to MTX treatment, before glucarpidase treatment, and daily thereafter.
+
+Urine Sampling:
+
+Twenty-four hour urine samples were collected to determine the total amount of MTX inactivated by
+
+glucarpidase. Collection was to continue until 2 consecutive serum MTX measurements, 24 hours
+
+apart, were <0.1 μmol/L.
+##### **Bioanalytical methods **
+
+Concentrations of MTX, OH-MTX and DAMPA were measured in human serum, plasma and urine by
+
+validated HPLC methods in the central facilities (one in the USA and one in Germany). Both methods
+
+were sufficiently sensitive, selective and provided reliable results. Stability studies were carried out at
+
+xxxxxxxxxxxxxxxx. It is facility where another HPLC methods with fluorescence detection were
+
+developed for sample handling studies.
+
+These sample handling studies () were carried out to investigate the potential for *ex-vivo* metabolism
+
+of MTX by glucarpidase between time of sample collection and analysis. Their aim was to provide
+
+assurance that reported MTX levels in patients following glucarpidase treatment accurately reflected
+
+MTX levels *in vivo* at the time of blood draw. The effect of inactivation of glucarpidase with HCl was
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+clearly demonstrated, acid effectively inactivates glucarpidase in samples. Acid cannot be added to
+
+whole blood because it causes agglutination of the samples. There is thus inevitably a period between
+
+taking the sample and adding the HCl in which *ex vivo* conversion could have occurred. The data from
+
+all sample handling studies demonstrated that degradation of MTX even at high concentrations is
+
+complete by 15 minutes of glucarpidase incubation or administration. No significant further conversion
+
+of MTX to DAMPA can be detected after this time, regardless of how the samples are subsequently
+
+handled, even in samples in which the enzyme is not inactivated with HCl. Degradation of MTX to
+
+DAMPA and glutamate may continue *in vitro* after blood collection and before plasma acidification.
+
+However, this *in vitro* contribution to MTX decline is insignificant. The primary efficacy endpoint of the
+
+clinical studies was not significantly affected by *in vitro* degradation of MTX before analysis. The
+
+outcome of these studies is considered applicable across all the bioanalytical methodologies utilized for
+
+MTX.
+
+Although concentrations of MTX, OH-MTX and DAMPA were measured in the clinical studies by accurate
+
+and precise HPLC methods, routine clinical laboratories mostly use immunoassays to monitor MTX
+
+levels in patients. However, after glucarpidase administration, the immunoassays significantly
+
+overestimate plasma MTX concentrations because of assay interference from plasma DAMPA. The
+
+extent of interference of DAMPA with immunochemistry assays of MTX determination and difference
+
+from specific HPLC results was evaluated based on four efficacy studies. The applicant confirmed that
+
+DAMPA half-life was about 9 hours. DAMPA is eliminated faster than MTX, the metabolism is involved in
+
+DAMPA elimination and elimination is not dependent on renal clearance. The SmPC wording was
+
+adjusted to contain clear instructions for practitioners how to proceed with monitoring of MTX levels
+
+before and after 48 hours (5 t1/2 of DAMPA) and how to interpret the levels. The need of HPLC method
+
+preference was emphasized. Leucovorin dosing will be still based upon pre-glucarpidase plasma MTX
+
+concentrations for 48 hours after glucarpidase administration.
+
+Besides xxxxxxxxxxxxxx methods there was one more MTX method, HPLC/MS/MS developed
+
+atxxxxxxxxxxxxxxx, UK to re-analyse samples from Arm A of the interaction study PR001-CLN-017.
+
+Study 017 samples were previously assayed at xxxxxxxxxxxxxusing an HPLC-F method however MTX
+
+concentrations in patients receiving Voraxaze (Arm A) were considered anomalous. After their re
+analysis at xxxxxxxxxxxxxxxby HPLC/MS/MS concentrations of MTX were lower than values
+
+determined by HLS method and comparable with previous clinical studies. Concentrations without
+
+Voraxaze treatment (Arm B) were comparable with those analysed by HPLC-F method. All references
+
+to the analytical phase are just for LC-MS/MS analysis in this Study 017.
+##### **• Objectives **
+
+The protocol-defined objectives of this study were to evaluate the safety and efficacy of glucarpidase in
+
+patients with impaired MTX clearance due to MTX-induced renal failure following IV administration of
+
+HDMTX therapy, or in patients with intrathecal MTX overdose.
+
+**•** **Outcomes/endpoints**
+
+Primary efficacy endpoint:
+
+The primary efficacy variable was the proportion of patients who achieved a clinically important
+
+reduction (CIR) in serum MTX concentration based on the central laboratory HPLC assay. A patient was
+
+deemed to have achieved a CIR if the serum MTX concentrations in all samples obtained after the first
+
+dose of glucarpidase were ≤ 1 µmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Time from the first glucarpidase dose to the first central laboratory HPLC MTX concentration ≤ 1 µmol/L
+
+with all subsequent central HPLC MTX concentrations ≤ 1 µmol/L was calculated for all patients.
+
+The secondary efficacy endpoints:
+
+Secondary efficacy variables included the measurement of
+
+  - serum MTX concentration (based on central and local laboratory HPLC assay);
+
+  - rebound of serum MTX concentration (based on central HPLC assay);
+
+  - renal function evaluations (local laboratory assay): assessments of serum creatinine
+
+concentration, measured creatinine clearance and calculated creatinine clearance.
+
+Although mentioned in the protocol, data on determination of leucovorin (LV) levels and metabolites,
+
+and urine MTX metabolites, were not analysed due to insufficient recording of such data. Antibody data
+
+for this study were recorded; however, the data are not reported and analysed in this report because
+
+the method used was insufficiently sensitive and/or specific to be considered reliable.
+
+**Results**
+
+  - Primary efficacy endpoint:
+
+**Proportion of Patients Who Achieved CIR (Central MTX HPLC Laboratory Assay)**
+
+As shown in Table below, 24 of 28 (85.7%) patients in the central MTX HPLC population achieved a CIR
+
+(95% CI: 68.5%, 94.3%) (Table below).
+
+The median time to the first post-glucarpidase MTX concentration with all subsequent MTX
+
+concentrations ≤ 1 μmol/L was 0.25 hours (range: 0.1 to 132.0 hours) (Table below).
+
+**Table 8:** Primary Efficacy endpoint: Clinically Important Reduction (CIR) – Central MTX HPLC
+
+Population
+
+There were 4 patients in the central MTX HPLC population who did not achieve a CIR (Table below). All
+
+4 of these patients achieved initial decreases in MTX concentration to ≤ 1 μmol/L, but in 3 of these
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+patients, MTX concentrations >1 μmol/L were subsequently measured 2 to 4 days following
+
+glucarpidase. In the fourth patient, the initial MTX concentration post-glucarpidase was 1.0 μmol/L,
+
+achieving greater than a 99% reduction in MTX levels from a pre-glucarpidase MTX concentration of
+
+165.86 μmol/L. The next 3 MTX concentrations in this patient taken at 30 minutes, 60 minutes and
+
+120 minutes post-glucarpidase, were >1 μmol/L (1.05 μmol/L, 1.49 μmol/L and 3.62 μmol/L,
+
+respectively), and thus the patient did not achieve a CIR.
+
+**Table 9:** Patients in the Central MTX HPLC Population Who Did Not Achieve a CIR
+
+The sensitivity analysis for attainment of CIR in the patient subset with baseline MTX concentration >1
+
+μmol/L was consistent with the primary efficacy analysis. These results confirmed the robustness of
+
+the primary efficacy analysis: 19 of 23 (82.6%; CI: 62.8%, 93.0%) patients who had a baseline MTX
+
+concentration >1 μmol/L achieved a CIR.
+
+*In the central HPLC population, following glucarpidase administration, CIR was achieved in 24 of 28*
+
+*(85.7%) patients (95% CI: 68.5%, 94.3%).*
+
+*Glucarpidase rapidly reduces MTX levels, which can potentially lead to the decrease of MTX toxicity*
+
+*in some proportion of patients. The relationship between MTX levels and MTX toxicity has been*
+
+*justified by literature references.*
+
+*According to the Nirenberg (1977) twenty-eight of 74 patients with MTX levels >10 μM at 24 hours,*
+
+*twenty-five of 68 patients with serum MTX concentrations > 1 μM at 48 hours and 20 of 96 patients*
+
+*with MTX levels >0.1 μM at 72 hours developed toxicity. Clinical toxicity was defined as oral*
+
+*mucositis, fever, haematologic depression, and/or generalized rash usually requiring hospitalisation.*
+
+*In Pitman (1977) is mentioned that in 148 of the courses of MTX treatment, when the MTX level at*
+
+*24 hours was <1 μmol/L, there was no change in renal function or myelotoxicity. In contrast, all*
+
+*courses of MTX treatment associated with a change in renal function had a serum MTX*
+
+*concentration >1 μmol/L at 24 hours.*
+
+*Plasma concentrations greater than 1 μmol/L at approximately 42 hours following the start of MTX*
+
+*have been associated with increased risk for toxicity (mucositis, renal dysfunction) despite the*
+
+*standard leucovorin rescue was administered (Relling, 1994).*
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+*Stoller (1977) described clinical study in that when MTX levels at 48 hours was <0.9 μM, no toxicity*
+
+*occurred. Twelve patients had MTX levels >0.9 μM at 48 hours. Five of these patients developed*
+
+*myelosuppression.*
+
+*According to the outcomes of Wang (1984) factors that may be predictive of MTX toxicity are 48*
+
+*hour plasma MTX level >1 μmol/L, age >15 and number of prior MTX infusions >10 which predicted*
+
+*a 33.2% probability of MTX toxicity. The low risk group is determined as 48 hour plasma MTX level*
+
+*<1 μmol/L, age <15 and number of prior MTX infusions <10, predicted a 2.4% probability of MTX*
+
+*toxicity.*
+
+*The other benefit of decrease of plasma level of MTX relates to the better entrance of leucovorin into*
+
+*cells. Ramsey et al. (2018) stated that leucovorin must compete with MTX for cell entry and*
+
+*polyglutamation, so it is less effective as a rescue agent at high MTX concentration if is not also*
+
+*present at an equipotent concentration. This is described also in reference Widemann (2006) which*
+
+*stated that elevated MTX plasma concentrations may lead to ineffective rescue by leucovorin and*
+
+*cause other MTX toxicities such as myelosuppression, mucositis, hepatitis and dermatitis.*
+
+  - Secondary efficacy endpoints:
+
+**Proportion of Patients Who Achieved CIR Over Time (Local Laboratory Assay)**
+
+For patients with MTX concentration assayed by local laboratories, 38.1% (CI: 25.0%, 53.2%)
+
+achieved a CIR in all MTX concentrations post glucarpidase. Due to expected DAMPA interference,
+
+further analyses were conducted to assess CIR after excluding the MTX concentrations before 2, 12,
+
+and 24 hours. At these time points, 50.0%, 59.5%, and 69.0% of patients achieved a CIR,
+
+respectively. Patients who achieved a CIR at prior time points (i.e., 0, 2, or 12 hours) were counted as
+
+having a CIR in all subsequent time points regardless of the availability of MTX data at subsequent
+
+time points. At the 24-hour time point, the percent of patients that achieved a CIR (69.0% [CI:
+
+53.9%, 80.9%]) by the local laboratory assay was less than the percent of patients that achieved a
+
+CIR based on the central MTX HPLC assay (85.7% [CI: 68.5%, 94.3%]).
+
+**Change from Baseline in MTX Concentration Over Time (Central MTX HPLC Laboratory**
+
+**Assay)**
+
+The median MTX concentration at baseline was 4.77 μmol/L for the patients in the central MTX HPLC
+
+population. At 15 minutes after the first glucarpidase dose, the median MTX concentration was 0.05
+
+μmol/L, which represented a median reduction from baseline of 98.9%. At 30, 60, and 120 minutes
+
+after glucarpidase dosing, the median MTX concentrations remained at 0.05 μmol/L for each time
+
+point, with respective median reductions of 98% or more, and remained at this level through the day 1
+
+time point. On the Day 2 time point after glucarpidase dosing, there was a small increase in the
+
+median MTX level (0.21 μmol/L) that probably represents MTX re-equilibration into the central
+
+compartment from the peripheral compartment. An immediate and sustained reduction in MTX
+
+concentration levels was observed from baseline through Day 8 as evidenced by median MTX
+
+concentrations less than 0.29 μmol/L, median reduction in MTX levels from baseline by at least 92%,
+
+and interquartile ranges remaining below 1 μmol/L at all time points. This trend of reduced MTX
+
+concentration in the central MTX HLPC population is displayed in Figure below.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Figure 3:** Median (with Inter-Quartiles) MTX Concentration by Time – Central HPLC MTX Population
+
+Additional sensitivity analysis of the subset of 23 patients in the central MTX HPLC population who had
+
+a baseline central HPLC MTX concentration >1 μmol/L showed similar results over this timeframe.
+
+**Change from Baseline in MTX Concentration Over Time (Local Laboratory Assay)**
+
+Median MTX concentration (with inter-quartiles) is displayed by time in Figure below. The median MTX
+
+concentration at baseline was 7.97 μmol/L for patients in the local MTX HPLC population. At 15 minutes
+
+after the first glucarpidase dose, the median MTX concentration was 2.61 μmol/L, which represented a
+
+median reduction of 80.3% from baseline. The local median MTX concentration then increased at 30
+
+minutes (3.88 μmol/L) and 60 minutes (3.98 μmol/L) after the first glucarpidase dose, decreased at
+
+120 minutes (1.87 μmol/L), then again increased at 4 hours (4.09 μmol/L), and thereafter decreased
+
+to <1 μmol/L at all subsequent time points through 15 days post glucarpidase. Of note, there were
+
+fewer patient data available at the earlier time points, which could contribute to higher variability in
+
+these values.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Figure 4:** Median (with Inter-Quartiles) MTX Concentration by Time – Local MTX Population
+
+The sensitivity analysis for the change from baseline over time in local laboratory MTX concentrations
+
+(ie, in the subpopulation with baseline local MTX concentration >1 μmol/L) showed a similar trend
+
+across the time points.
+
+**Rebound of MTX Concentration in the Central MTX HPLC Population**
+
+Four of the 28 patients (14.3%) in this population had a rebound of their MTX concentration. The
+
+median time to maximum rebound was 76.21 hours (range: 7.3 to 115.3 hours).
+
+The 4 patients with rebound were the same 4 patients who did not achieve a CIR. Of these 4 patients,
+
+3 had rebound after receiving only 1 dose of glucarpidase, and 1 patient had rebound after a second
+
+dose (Table below). The maximum percent increase from the lowest post-glucarpidase MTX
+
+concentration (nadir) prior to rebound to the MTX concentration that met the rebound criteria was
+
+5042.9% (ie, an approximate 50-fold increase); however, the absolute difference (from 0.021 μmol/L
+
+to 1.08 μmol/L) was relatively small. Of note, although the percent increase from the nadir was the
+
+smallest in Patient 01-0029, this patient had the largest absolute increase (from 1.0 μmol/L to 14.84
+
+μmol/L). This may in part reflect the larger preglucarpidase MTX concentration in this patient, 165.86
+
+μmol/L, compared with the other 3 patients (7.11 μmol/L to 43.49 μmol/L) who had rebound.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Table 10:** Patients with MTX Concentration Rebound – Central MTX HPLC Population
+
+**Renal Function (Local Laboratory Assay):**
+
+**Change from Baseline Over Time in Serum Creatinine Concentration**
+
+There was approximately a 3-fold increase in serum creatinine concentration from pre-MTX to baseline
+
+(pre glucarpidase) in the renal evaluable population (Table below). After administration of
+
+glucarpidase, mean serum creatinine concentrations increased slightly through Day 2 (from 2.23
+
+mg/dL at baseline to 2.45 mg/dL on Day 2), remained slightly above baseline through Day 5, then
+
+returned to below baseline by Day 6, after which concentrations decreased to baseline and below (Day
+
+22 value was 1.59 mg/dL). Though it appears that patients had not reached full renal recovery at 3
+
+weeks (Day 22) after glucarpidase dosing, these data should be interpreted with caution, as only 12 of
+
+44 (27.3%) patients in the renal evaluable population had serum creatinine measurements recorded
+
+both at baseline (pre-glucarpidase) and at Day 22.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Table 11:** Mean Serum Creatinine (mg/dL) Values and Change from Pre-Glucarpidase to Post
+Glucarpidase Time Points – Renal Evaluable Population
+
+The mean serum creatinine values over time are also displayed in Figure below.
+
+**Figure 5:** Mean (+/-SD) of Serum Creatinine Values by Time – Renal Evaluable Population
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Calculated creatinine clearance**
+
+The change from baseline (pre-glucarpidase) values over time for calculated creatinine clearance is
+
+summarized in Table below. Calculated creatinine clearance improved in a manner similar to serum
+
+creatinine.
+
+**Table 12:** Calculated creatinine clearance – Renal Evaluable Population
+
+**Study PR001-CLN-002**
+
+A Trial of Carboxypeptidase-G2 (CPG2) for the Management of Patients with Methotrexate Toxicity and
+
+Renal Dysfunction
+##### **Methods**
+
+The study was a prospective, open-label, non-randomized, multicentre, compassionate-use trial that
+
+evaluated the safety and efficacy of glucarpidase in patients experiencing HDMTX-induced
+
+nephrotoxicity and delayed MTX excretion. **• Study participants **
+
+Inclusion criteria:
+
+Patients of any age were eligible for the study if they were at risk of life-threatening toxicity following
+
+MTX administration secondary to delayed MTX elimination, as defined by:
+
+`•` Plasma MTX concentration ≥ 10 μmol/L >42 hours after the start of the MTX infusion; or
+
+`•` Serum creatinine ≥ 1.5 times the ULN or CrCl ≤ 60 mL/m2/minute and delayed MTX excretion
+
+documented by plasma MTX concentration measurements that were ≥ 2 SD above the mean at least
+
+12 hours following MTX administration.
+
+Exclusion criteria:
+
+There were no pre-specified exclusion criteria. **• Treatments **
+
+The study was a prospective, open-label, non-randomized, multicenter, compassionate-use trial that
+
+evaluated the safety and efficacy of glucarpidase in patients experiencing HDMTX-induced
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+nephrotoxicity and delayed MTX excretion. Requests for inclusion in the study were made to the NCI,
+
+who supplied the protocol, glucarpidase and thymidine to the requesting institution.
+
+Plasma MTX concentrations and renal function were monitored before and after the administration of
+
+an IV dose of glucarpidase.
+
+- Patients eligible to receive glucarpidase under protocol had a pre-treatment evaluation including
+
+oncological diagnosis, medical history, physical examination, and laboratory evaluations (haematology,
+
+liver function tests, electrolytes and coagulation parameters), as well as assessment of renal function.
+
+- Plasma samples for the determination of MTX and 4-deoxy-4-amino-N10-methylpteroic acid (DAMPA)
+
+concentrations by a central laboratory high-performance liquid chromatography (HPLC) method were
+
+to be obtained immediately prior to glucarpidase administration and at 15, 60, and 120 minutes
+
+following glucarpidase dosing, and immediately prior to and 60 minutes following every subsequent
+
+dose. Sampling strategy changed over the course of the study. Beginning July 1997, daily samples
+
+were also to be collected; beginning April 2000, sample collection ceased; and beginning November
+
+2003, sample collection was reinstated at 15 minutes, 1 hour and 2 hours following each dose of
+
+glucarpidase, and daily thereafter.
+
+Plasma samples for the determination of MTX concentrations by local laboratories were collected and
+
+analysed using the local institutions’ routine assay methods. Samples for determination of sCr
+
+concentrations by local laboratory were to be obtained prior to MTX treatment, before glucarpidase
+
+treatment, and daily thereafter. Serum creatinine concentrations were categorized by Protherics
+
+according to the NCI’s Common Toxicity Criteria for Adverse Events (CTCAE) v3.0 based on age
+adjusted normal ranges.
+
+- All patients remained hospitalized during the study.
+
+- Study Treatments: Each patient was to receive glucarpidase 50 U/kg administered IV over 5 minutes.
+
+The dosing strategies of glucarpidase changed during the course of the study. Dosing strategies
+
+included 3 doses of glucarpidase at 4-hour intervals, 2 doses administered 24 hours apart, or
+
+additional doses based on MTX plasma concentration. After February 2002, the maximum dose of
+
+glucarpidase was capped at 2000 U. Following glucarpidase administration, patients were to continue
+
+treatment with IV hydration, urinary alkalinisation, and LV.
+
+- Thymidine was administered to all patients, per protocol, until July 1997 when the use of thymidine
+
+was restricted to patients who received glucarpidase >96 hours after the start of MTX infusion. In
+
+December 1997, thymidine was allowed only for patients suffering from severe MTX-related toxicity at
+
+the time of study entry, and in November 2003, thymidine treatment was not allowed per the study
+
+protocol.
+
+Post-Glucarpidase Evaluations:
+
+- Patients were to be closely monitored for adverse events (AE), which were to be documented in the
+
+data collection form (DCF). Clinical chemistry, haematology and coagulation parameters were
+
+monitored at designated time points.
+
+- Blood samples for quantification of anti-glucarpidase antibodies (AGAs) were to be obtained
+
+according to the initial protocol at 3, 7, and 14 days after glucarpidase administration. This
+
+requirement was not included in the protocol amendment of October 2001; however, beginning
+
+November 2001, samples were to be collected immediately prior to glucarpidase and approximately 7,
+
+14, and 21 days following glucarpidase dosing.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Plasma samples for determination of MTX concentrations (using central HPLC and local laboratory
+
+assays) and DAMPA concentrations (central HPLC assay) were to be collected before and after
+
+glucarpidase administration.
+
+**•** **Bioanalytical methods**
+
+*Please see assessment of the Study PR001-CLN-001.*
+
+**•** **Objectives**
+
+The overall objective of the study was to determine the efficacy of glucarpidase or a combination of
+
+glucarpidase and thymidine in rescuing patients with delayed MTX elimination secondary to renal
+
+dysfunction. Specific objectives of the study, as described in the original NCI protocol, were:
+
+- To determine the utility of the combination of glucarpidase and LV with or without the addition of
+
+thymidine in patients with delayed MTX excretion secondary to renal dysfunction;
+
+- To study the pharmacokinetics (PK) of MTX and MTX metabolites following glucarpidase rescue; and
+
+- To evaluate the immune response to glucarpidase in patients treated with 1 or more doses of this
+
+enzyme.
+
+**•** **Outcomes/endpoints**
+
+The primary efficacy endpoin t was the proportion of patients achieving a clinically important reduction
+
+(CIR) in plasma MTX concentration based on the central laboratory HPLC assay. The central laboratory
+
+results were used to assess the primary efficacy endpoint because a metabolite of MTX, DAMPA,
+
+interferes with local MTX assays following glucarpidase dosing. A patient was deemed to have achieved
+
+a CIR if the plasma MTX concentrations in all samples obtained after the first dose of glucarpidase were
+
+≤ 1 μmol/L.
+
+The primary endpoint, plasma MTX concentrations of ≤ 1 μmol/L in all samples collected after the first
+
+dose of glucarpidase, was retrospectively defined as a Clinically Important Reduction (CIR), after
+
+discussions with the FDA.
+
+The secondary efficacy endp o i n ts included:
+
+−
+The MTX concentration (central HPLC assay and by local assay) and percent change from baseline at
+
+time points after the first glucarpidase dose;
+
+−
+The proportion of patients who achieved a CIR (ie, all local laboratory MTX plasma concentrations
+
+were ≤ 1 μmol/L after the first dose of glucarpidase), and the proportion of patients with all local
+
+laboratory MTX concentrations ≤ 1 μmol/L more than 1 day postglucarpidase (ie, after excluding MTX
+
+concentrations on the same calendar day as the first dose of glucarpidase) and more than 2 days post
+glucarpidase (ie, after excluding MTX concentrations on the same calendar day and the calendar day
+
+after glucarpidase administration);
+
+−
+Rebound of MTX concentrations (central HPLC assay), defined as patients who had MTX
+
+concentrations that satisfied rebound criteria (ie, the post-glucarpidase MTX concentration at time tn
+
+was >2 times the nadir post-glucarpidase MTX concentration prior to time tn, and the increase of MTX
+
+concentration at time tn from the nadir prior to tn was >1 μmol/L);
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+−
+Serum creatinine concentrations at pre-MTX and baseline and at selected time points after first
+
+glucarpidase dose; change from baseline values at time points after first glucarpidase dose; and the
+
+proportion of patients who recovered, and time to recovery from CTCAE Grade 2 and above to Grade 0
+
+or Grade 1 from the start of MTX administration, the first glucarpidase dose, and the maximum sCr
+
+value.
+#### **Results**
+
+**Primary efficacy endpoint**
+
+Proportion of patients who achieved a CIR in plasma MTX concentration based upon the central
+
+laboratory HPLC assay (ie, all central HPLC MTX plasma concentrations after the first dose of
+
+glucarpidase were ≤ 1 μmol/L).
+
+Of the 84 patients in the central MTX HPLC population, 46 (54.8%) achieved a CIR (95% CI: 44.2% to
+
+65.0%) (Table below). A sensitivity analysis, comprising all patients in the central MTX population with
+
+baseline (last pre-glucarpidase) MTX concentration >1 μmol/L, was consistent with the primary
+
+analysis of a CIR, in that 38 of 75 patients (50.7%) achieved a CIR (95% CI: 39.6% to 61.7%).
+
+All 46 patients who achieved a CIR had their first MTX concentration collected within 40 minutes of
+
+glucarpidase dosing; 40 (86.9%) of the 46 patients had their first MTX concentration within 15 minutes
+
+post-glucarpidase dosing.
+
+Forty-nine patients had a pre-glucarpidase HPLC MTX concentration ≤ 50 μmol/L, of whom 43 (87.8%)
+
+patients achieved a CIR. In contrast, only 1 of 32 (3.1%) patients with a pre-glucarpidase HPLC MTX
+
+concentration >50 μmol/L, achieved a CIR. Pre-glucarpidase MTX concentrations were not recorded in
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+3 patients, 2 of whom achieved a CIR. However, even in the 32 patients whose pre-glucarpidase MTX
+
+concentration was >50 μmol/L, the initial reduction in MTX concentration was at least 96.9%.
+
+Among the 38 patients who did not achieve a CIR:
+
+- 23 (60.5%) patients failed to achieve a CIR because the initial MTX concentration post-glucarpidase
+
+was >1 μmol/L (range 1.09 μmol/L to 10.90 μmol/L). In these patients, the MTX concentration prior to
+
+glucarpidase ranged from 60.0 to 849.1 μmol/L. Post-glucarpidase MTX concentrations in these 23
+
+patients showed reductions from pre-glucarpidase (baseline) concentrations of at least 96%
+
+`•` 15 (39.5%) patients had an initial MTX concentration post-glucarpidase ≤ 1 μmol/L, with subsequent
+
+MTX concentrations >1 μmol/L; the maximum MTX concentration was 7.60 μmol/L. Thirteen of these
+
+15 patients met the definition of rebound (2 patients did not have rebound; Patients 03-0011 and 03
+0069), with rebound occurring from 12 hours to 8 days post-glucarpidase dosing. Post-glucarpidase
+
+MTX concentrations in these 15 patients showed reductions from pre-glucarpidase (baseline)
+
+concentrations of at least 95%, except in Patients 03-0009, 03-0012, 03-0013, 03-0016, 03-0064, 03
+0068, and 03-0078, who had reductions between 77.1% and 94.1% at the time of rebound.
+
+**Rebound of MTX Concentration in the Central MTX HPLC Population**
+
+Rebound in the central MTX HPLC population was defined as a MTX concentration at least 2 times the
+
+nadir MTX concentration and more than 1 μmol/L greater than the nadir following a decrease of MTX
+
+concentration post-glucarpidase. Nineteen of the 84 patients (22.6%) in this population had a rebound
+
+in MTX concentration.
+
+The median time to maximum rebound was 71.00 hours (range: 12.00 to 195.00 hours) after the first
+
+dose of glucarpidase.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Of the 19 patients with rebound, the maximum increase in MTX concentration from the lowest MTX
+
+concentration post-glucarpidase was between 1 and 2 μmol/L for more than half of these patients (10
+
+of 19 patients, 52.6%). In 6 patients, the maximum increase in MTX concentration from the lowest
+
+MTX concentration post-glucarpidase was between >2 to <5 μmol/L, and was between >5 to <10
+
+μmol/L for 3 patients. Overall, for these 19 patients, the median increase in MTX concentration from
+
+the lowest MTX concentration post-glucarpidase was 1.90 μmol/L (range: 1.0 to 8.1 μmol/L).
+
+Eleven of the 19 patients with rebound had subsequent MTX concentrations recorded after the last
+
+occurrence of rebound. In the first MTX concentration after the last occurrence of rebound, 4 of these
+
+11 patients had a reduction in MTX concentration to <1 μmol/L; the 7 remaining patients had a
+
+reduction in MTX concentration ranging from 1.10 to 8.80 μmol/L. The first MTX concentrations after
+
+the last occurrence of rebound were recorded within 2 days of rebound for these 11 patients.
+
+In the last MTX concentration after the last occurrence of rebound, all 11 patients had a reduction in
+
+MTX concentration to <1 μmol/L. The last MTX concentrations after the last occurrence of rebound
+
+were recorded between 1 and 15 days after the last occurrence of rebound in these 11 patients.
+
+**Effect of Glucarpidase Dosing Scheme on CIR**
+
+Forty-five patients in the central MTX HPLC population received a single dose of glucarpidase, of whom
+
+27 (60.0%) patients achieved a CIR. A slightly smaller proportion of the 39 patients who received 2 or
+
+3 doses of glucarpidase, 19 (48.7%) patients, achieved a CIR.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+However, this is a difficult comparison because of the following confounding factors:
+
+- Failure to achieve a CIR before the second glucarpidase dose: almost half the patients who received
+
+more than 1 dose of glucarpidase (18 of 39, 46.2%) had a MTX concentration >1 μmol/L between the
+
+first and second doses of glucarpidase; therefore, these patients failed to achieve a CIR even before
+
+the second glucarpidase dose was administered.
+
+- Patients with a pre-glucarpidase MTX concentration >50 μmol/L were more likely to receive multiple
+
+doses of glucarpidase: 19 of the 32 (59.4%) patients who had a preglucarpidase MTX concentration
+
+>50 μmol/L received multiple doses of glucarpidase, compared to 18 of the 49 (36.7%) patients who
+
+had a pre-glucarpidase MTX concentration <50 μmol/L (Listing 16.5.1.3). Therefore, a comparison of
+
+the achievement of a CIR between patients who received single and multiple doses of glucarpidase is
+
+confounded because patients in this study who had a pre-glucarpidase MTX concentration >50 μmol/L
+
+**Effect of Thymidine on Ability to Achieve a CIR**
+
+Of the 84 patients in the central MTX HPLC population, 42 received thymidine and 42 did not receive
+
+thymidine. In patients who received thymidine, 21 of 42 (50%; 95% CI: 35.5% to 64.5%) achieved a
+
+CIR. In patients that did not receive thymidine, 25 of 42 (59.5%, 95% CI: 44.5% to 73.0%) achieved
+
+a CIR.
+
+**Secondary efficacy endpo** **in** **t** **s**
+
+**Change From Baseline in MTX Concentration Over Time (Central HPLC Laboratory)**
+
+The median MTX concentration at baseline was 24.80 μmol/L for the patients in the central HPLC
+
+population. The median MTX concentrations at 15 minutes, 30 minutes, 60 minutes, and 120 minutes
+
+after the first dose of glucarpidase were all <1 μmol/L, representing median reductions from baseline
+
+of at least 98%. At the 4-hour time point, the median MTX concentration was 1.54 μmol/L; however, it
+
+should be noted that there were only 6 patients with recorded values at this time point. At the Days 1,
+
+2, and 3 points, all median MTX concentrations were <1 μmol/L. At the Day 4 time point, the median
+
+MTX concentration was 1.10 μmol/L. At Day 5, the median MTX concentration was 1.12 μmol/L.
+
+Then, at all subsequent time points (Days 6, 7 and 8) median MTX concentrations were <1 μmol/L;
+
+however, it should again be noted that there were only at most 9 patients with data at these time
+
+points. Excluding the 4-hour time point, the median MTX concentrations were <1 μmol/L beginning
+
+immediately post-glucarpidase and persisting for 3 days. Between Days 1 and 5 there was a gradual
+
+increase in the median MTX concentration, and by Day 4, the median MTX concentration was greater
+
+than 1 μmol/L (median of 1.10 μmol/L).
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+A sensitivity analysis for the change in MTX concentration over time in patients in the central MTX
+
+HPLC population who had a baseline central HPLC MTX concentration >1 μmol/L was similar.
+
+The median reductions at the first (median time 0.25 hours), peak (median time 2.00 hours), nadir
+
+(median time 2.00 hours), and last concentration (median time 25.00 hours) after the first dose of
+
+glucarpidase, and prior to any subsequent glucarpidase dose, were at least 98% from preglucarpidase
+
+(baseline) levels. This demonstrated that the effect of glucarpidase in significantly reducing MTX
+
+concentrations was immediate and sustained.
+
+**Effect of Timing of Second Glucarpidase Dose on MTX Reduction (Central HPLC Laboratory)**
+
+There were 26 patients in the central HPLC MTX population who received a second dose of glucarpidase
+
+24 ± 2 hours after the first dose of glucarpidase for whom there were MTX concentrations after the
+
+second dose of glucarpidase.
+
+Four of these patients had a baseline MTX concentration (ie, before the second glucarpidase dose) >1
+
+μmol/L, ranging from 1.1 to 10.2 μmol/L, allowing for an assessment of the efficacy of a second dose.
+
+Two of these patients had reductions in MTX concentration of 10% and 16%, respectively, in the first
+
+measurement after the second dose of glucarpidase, but MTX concentrations still remained above 1
+
+μmol/L (1.8 and 2.1 μmol/L, respectively). One patient had no change in MTX concentration (1.1
+
+μmol/L), and 1 patient had a slight increase in concentration from 10.2 to 10.7 μmol/L. Thus, it
+
+appears that the reduction in MTX concentration from receiving the second glucarpidase administration
+
+at 24 ± 2 hours after the first dose of glucarpidase was negligible.
+
+There were 5 patients in the central HPLC MTX population who received a second dose of glucarpidase
+
+>26 hours from the first dose of glucarpidase, and who had a baseline and a post-baseline HPLC MTX
+
+concentration. Four of these patients had a baseline MTX concentration (ie, before the second
+
+glucarpidase dose) >1 μmol/L, ranging from 1.4 to 6.5 μmol/L; the other 1 patient had a baseline MTX
+
+concentration ≤ 1 μmol/L. All 4 of these patients had further reductions in MTX concentration, ranging
+
+from 7.7% to 97.3%, in the first measurement after the second dose of glucarpidase, but the
+
+concentration remained above 1 μmol/L for 2 of these patients (1.4 and 6.0 μmol/L, respectively).
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Given the small number of patients in each of these subsets, these results must be interpreted with
+
+caution.
+
+**Effect of Multiple Glucarpidase Doses Administered Within 22 Hours (Central HPLC**
+
+**Laboratory)**
+
+In 7 patients in the central HPLC MTX population who received a total of 2 to 3 glucarpidase doses
+
+within 22 hours of the first dose of glucarpidase, the reduction from the MTX concentration prior to the
+
+first glucarpidase dose to the first MTX concentration after the first and last glucarpidase dose was
+
+assessed. Six (85.7%) of these patients had reductions in MTX concentrations of at least 95% both
+
+after the first glucarpidase dose and after the last glucarpidase dose within 22 hours of the first dose
+
+compared to the MTX concentration prior to the first glucarpidase dose. Therefore, there appeared to
+
+be no additional effect on the MTX concentration reduction from multiple glucarpidase doses that were
+
+administered within 22 hours.
+
+**Methotrexate Concentrations (Local Laboratory)**
+
+**Proportion of Patients Who Achieved MTX Concentrations** ≤ **1 μmol/L (Local Laboratory)**
+
+A CIR for the local assay population was defined as all local plasma MTX concentrations ≤ 1 μmol/L
+
+after the first dose of glucarpidase. Of the 188 patients in the local assay population, 75 patients
+
+(39.9%, 95% CI: 33.2% to 47.0%) achieved a CIR in all MTX concentrations postglucarpidase. Due to
+
+expected DAMPA interference, further analyses were conducted to assess the proportion of patients
+
+with all MTX concentrations ≤ 1 μmol/L at the ≥ 1 day post-glucarpidase time point (ie, after excluding
+
+MTX concentrations on the same calendar day as the first dose of glucarpidase) and at the 2-day post
+glucarpidase time point (ie, after excluding MTX concentrations on the same calendar day and the
+
+calendar day after glucarpidase administration). At the ≥ 1 day time point, 46.8% of patients had all
+
+subsequent MTX concentrations ≤ 1 μmol/L, and at the ≥ 2 day time point post-glucarpidase, 55.9% of
+
+patients achieved this MTX concentration.
+
+At the ≥ 2 day time point, the percentage of patients who reported all subsequent MTX concentrations
+
+≤ 1 μmol/L (55.9%, 95% CI: 48.7% to 62.8%) by the local laboratory assay was almost the same as
+
+the percentage of patients that achieved a CIR based on the central MTX HPLC assay (54.8%, 95% CI:
+
+44.2% to 65.0%).
+
+**Change from Baseline in MTX Concentration Over Time (Local Laboratory)**
+
+The median MTX concentration at baseline was 17.82 μmol/L for patients in the local MTX assay
+
+population. At 15 minutes, 30 minutes, 60 minutes, 120 minutes, and 4 hours after the first
+
+glucarpidase dose, the median MTX concentrations were 7.40 μmol/L, 9.90 μmol/L, 4.50 μmol/L, 5.95
+
+μmol/L, and 5.33 μmol/L, respectively, with corresponding median reductions from baseline of
+
+35.60%, 66.86%, 74.13%, 78.53%, and 85.09%, respectively. Of note, while there were 172 patients
+
+at baseline in the local MTX assay population (ie, 172 patients who had baseline and at least 1 post
+baseline value), at the subsequent time points of 15 minutes through 4 hours after the first
+
+glucarpidase dose, the number of patients ranged from only 7 to 18, which could have contributed to
+
+higher variability in the MTX concentration values. In addition, given the interference from DAMPA at
+
+these early time points, the data must be interpreted with caution.
+
+Subsequently, at Day 1 and Day 2, the local median MTX concentrations decreased to <1 μmol/L, with
+
+corresponding median reductions from baseline of 89.11%, and 92.68%, respectively. From Day 3
+
+through Day 22, the local median MTX concentration remained <1 μmol/L at all time points. Therefore,
+
+beginning at 30 minutes post-glucarpidase through Day 22, there was a steady decline in the local
+
+median MTX concentrations.
+
+**Figure 7:** Median (with Inter-Quartiles) MTX Concentration by Time – Local MTX Population
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Renal Function**
+
+Renal function was analysed for the renal evaluable population (ie, all patients who had at least 1 renal
+
+function parameter evaluated after the first dose of glucarpidase).
+
+**Serum Creatinine Concentration (Local Laboratory) - Change from Baseline Over Time**
+
+There was approximately a 4-fold increase in mean sCr concentration from pre-MTX to baseline (pre
+glucarpidase) in the renal evaluable population as a whole. After administration of glucarpidase, mean
+
+sCr concentrations increased very slightly through Day 3 (from 3.09 mg/dL at baseline to 3.30 mg/dL
+
+on Day 3), remained slightly above baseline through Day 5, then returned to below baseline by Day 6,
+
+after which sCr concentrations decreased in general through Day 22 (the mean at Day 22 was 1.19
+
+mg/dL, approximately a 60% reduction from pre-glucarpidase baseline).
+
+**Time to Highest Value**
+
+The median time to the highest sCr value in the renal evaluable population was 5 days (range: 2 to 36
+
+days) after MTX dosing and 4 days (range: 2 to 34 days) after glucarpidase administration.
+
+**Shifts in CTC Grade Over Time and Time to Recovery**
+
+Among 197 patients who had a baseline (pre-glucarpidase) sCr value and at least 1 post-glucarpidase
+
+value, 15 (7.6%) patients had Grade 0 or 1 values, 170 (86.3%) patients had Grade 2 or 3 values, and
+
+12 (6.1%) patients had a Grade 4 sCr value at baseline (pre-glucarpidase) following MTX
+
+administration. Of the 80 patients with both baseline and Day 22 sCr CTC grades, 67 (83.8%) patients
+
+had at least a 1-grade improvement in sCr at Day 22, and 59 patients (73.8%) had improved to Grade
+
+0 or 1 at Day 22. These data should be interpreted with caution, as it is possible that patients with
+
+persistent sCr abnormalities were more likely to have repeated measurements.
+
+**Study PR001-CLN-003**
+
+A Trial of Carboxypeptidase-G2 (CPG2) for the Management of Patients with Methotrexate Toxicity and
+
+Renal Dysfunction
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+#### **Methods**
+
+This was a prospective, open-label, nonrandomized, multicentre, compassionate-use and emergency
+use study in patients of any age experiencing delayed elimination of MTX in the presence of renal
+
+impairment following administration of HDMTX.
+
+**•** **Study participants**
+
+Inclusion criteria:
+
+Patients of any age, at risk of life-threatening toxicity following MTX administration, secondary to
+
+delayed MTX excretion as defined below, were eligible for participation in the study:
+
+- Plasma MTX concentration (new venipuncture)
+
+−
+>10 μmol/L more than 36 hours, or
+
+−
+>5 μmol/L more than 42 hours, or
+
+−
+>3 μmol/L more than 48 hours after the start of the infusion; and
+
+- Delayed MTX excretion documented by serial plasma MTX levels (>2 SD above the mean) at least 12
+
+hours after MTX administration (Note: This criterion was included in the protocol but not reported in
+
+the published manuscript.); and
+
+- Renal dysfunction as indicated by:
+
+−
+Decreased diuresis; or
+
+−
+Serum creatinine >1.5 x ULN and documented increase during the infusion period.
+
+−
+Note: The enrolment criteria as stated in the published manuscript (Buchen et al 2005) differed in
+
+minor ways from the enrolment criteria as stated in the protocol. The MTX serum level criterion of
+
+greater than 2 SD above the mean was not mentioned in the published manuscript. Furthermore, the
+
+protocol did not provide instructions to the investigators regarding the expected mean MTX
+
+concentrations for various MTX administration regimens, and the limits which would define 2 SD above
+
+the mean. As a result, it is unclear whether this criterion was actually used to determine patient
+
+eligibility. Although not stated in the protocol, the study publication defined decreased diuresis as less
+
+than 50% excretion of the input hydration. Of note, urine output was not recorded.
+
+Exclusion criteria:
+
+There were no pre-specified exclusion criteria in the protocol.
+
+**•** **Treatments**
+
+- Patients eligible to receive glucarpidase under this protocol had a pretreatment evaluation including
+
+oncological diagnosis, medical history, physical examination, and laboratory evaluations.
+
+- Plasma blood samples for the determination of MTX and 4-deoxy-4-amino-N10-methylpteroic acid
+
+(DAMPA) concentrations by central high-performance liquid chromatography (HPLC) method were to
+
+be obtained immediately prior to glucarpidase administration and at 15, 30, 60, and 120 minutes
+
+following glucarpidase dosing. Local assays were also to be obtained and analysed as clinically
+
+indicated.
+
+- All patients remained hospitalized during the study.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+- Study Treatments: Each patient was to receive glucarpidase 50 U/kg administered intravenously (IV)
+
+over 5 minutes. Patients who experienced greater than a 1 logarithmic decrease from baseline in
+
+serum MTX concentrations following glucarpidase administration but who still had plasma MTX
+
+concentrations >1 μmol/L could receive additional doses of glucarpidase with the approval of the
+
+Principal Investigator. Patients were to continue to be treated with IV hydration, urinary alkalisation,
+
+and leucovorin (LV).
+
+- In order to avoid a potential interaction between LV and glucarpidase, LV administration was not to
+
+be administered 4 hours prior to or 1 hour following administration of glucarpidase.
+
+Post-Glucarpidase Evaluations:
+
+- Renal function (urea and creatinine levels) was to be monitored daily for 1 week, and thereafter as
+
+clinically indicated. In addition, a complete blood count with differential, platelet count, alanine
+
+aminotransferase (ALT), aspartate aminotransferase (AST), and bilirubin were to be assessed at least
+
+twice weekly for 3 weeks following glucarpidase administration.
+
+- Patients were to be evaluated for glucarpidase-related adverse events. The World Health
+
+Organization (WHO) toxicity scale was used to record the severity of the events and included the
+
+following pre-defined areas: Allergy, Bilirubin, Cardiovascular (Clinical Status),Creatinine, Creatinine
+
+Clearance, Diarrhoea (per day), Echocardiography, Fever, General Condition, ALT/AST, Haematuria,
+
+Haemorrhage, Infection, Liver (Clinical Status), Lungs, Nausea, Neurotoxicity Central, Neurotoxicity
+
+Peripheral, Proteinuria, Skin Changes, Stomatitis (per day), Total Toxicity, and Vomiting (per day).
+
+- A blood sample for quantification of anti-glucarpidase antibodies was to be obtained 14 days
+
+following glucarpidase administration.
+
+**•** **Bioanalytical methods**
+
+*Please see Study PR001-CLN-001.*
+
+**•** **Objectives**
+
+The objectives of this study were:
+
+- To determine the utility of single-dose glucarpidase in patients with delayed methotrexate (MTX)
+
+excretion secondary to renal dysfunction;
+
+- To study the pharmacokinetics (PK) of MTX following glucarpidase rescue; and
+
+- To evaluate the immune response to glucarpidase in patients treated with one or more doses of
+
+glucarpidase.
+
+**•** **Outcomes/endpoints**
+
+The primary efficacy endpoin t was the proportion of patients who achieved a CIR in plasma MTX
+
+concentration based on the central laboratory HPLC assay. A patient was deemed to have achieved a
+
+CIR if the plasma MTX concentrations in all samples obtained after the first dose of glucarpidase were
+
+≤ 1 μmol/L.
+
+The central laboratory results were used to assess the primary endpoint because a metabolite of MTX,
+
+known as DAMPA, interferes with most local MTX assays during the first few hours following
+
+glucarpidase.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Secondary efficacy criteria were plasma MTX concentration and serum creatinine concentrations
+
+measured by the local laboratories.
+#### **Results**
+
+**Primary efficacy endpoint**
+
+The primary efficacy parameter was the proportion of patients who achieved a CIR in plasma MTX
+
+concentration based on the central laboratory HPLC assay (all central HPLC MTX plasma concentrations
+
+after the first dose of glucarpidase were ≤ 1 μmol/L).
+
+Two-thirds of patients (20/30, 66.7%) achieved a CIR (95% CI: 49% to 81%).
+
+In the central HPLC population, 23/30 patients (76.7%) achieved a post-glucarpidase MTX
+
+concentration ≤1 μmol/L. The median time to the first post-glucarpidase MTX concentration ≤1 μmol/L
+
+The sensitivity analysis for a CIR (ie, all central laboratory HPLC MTX plasma concentrations after the
+
+first glucarpidase were ≤1 μmol/L and the baseline MTX concentration was >1 μmol/L) supported the
+
+primary efficacy analysis. Almost three-fourths (16/22 [72.7%]; 95% CI: 51.8% to 86.8%) of the
+
+patients who had a baseline MTX concentration >1 μmol/L achieved a CIR. The median time to the first
+
+post-glucarpidase MTX concentration ≤1 μmol/L with all subsequent MTX concentrations ≤1 μmol/L
+
+was 0.25 hours (range: 0.2 to 10.0 hours) for the patients in the central MTX HPLC population with
+
+baseline MTX concentration >1 μmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+There were 10 patients in the central MTX HPLC population who did not achieve a CIR. Of the 10
+
+patients who did not achieve a CIR, 4 patients came close to achieving a CIR as they had only 1
+
+measured MTX concentration >1 μmol/L (Patients 02-0014, 02-0021, 02-0061, and 02-083). Four
+
+additional patients had MTX concentrations slightly in excess of 1 μmol/L (maximum of 1.65 μmol/L).
+
+Six of the 10 patients in the central MTX HPLC population who did not achieve a CIR had pre- and
+
+post-glucarpidase MTX concentrations. Of these, 5/6 (83%) patients (02-0010, 02-0016, 02-0021, 02
+0076, and 02-0085) had at least an 85% reduction in MTX concentration after glucarpidase dosing.
+
+Two patients failing to achieve a CIR (02-0014 and 02-0082) had LV dose violations, ie, a LV dose
+
+within 4 hours pre-glucarpidase dose and/or 1 hour post-glucarpidase dose.
+
+**Pre-Glucarpidase MTX Concentration and Glucarpidase Dose Effect on CIR**
+
+Patients who had pre-glucarpidase MTX concentrations >50 μmol/L did not achieve a CIR. All patients
+
+with glucarpidase doses <50 U/kg achieved a CIR, however, each of these patients also had pre
+glucarpidase MTX concentrations <50 μmol/L.
+
+Patients’ glucarpidase dosages ranged from 32.61 U/kg to 60.24 U/kg in the central MTX HPLC
+
+population. Glucarpidase dosing information was missing for 7 patients; 5 of these patients achieved a
+
+CIR; however, each of these patients also had pre-glucarpidase MTX concentrations <50 μmol/L. Of
+
+the 2 patients who did not achieve a CIR, 1 patient had a pre-glucarpidase MTX concentrations >50
+
+μmol/L and, for 1 patient, the pre-glucarpidase MTX concentration was missing. Of the 23 patients with
+
+dosing information, 3 received a glucarpidase dose of <45 U/kg (32.61 to 41.21 U/kg), 18 received a
+
+dose of ≥ 45 U/kg to ≤ 55 U/kg, and 2 received a dose >55 U/kg (57.31 to 60.24 U/kg). All 5 patients
+
+who received glucarpidase doses <45 or >55 U/kg achieved a CIR, while 10/18 (56%) patients
+
+achieved a CIR who received doses ≥ 45 U/kg to ≤ 55 U/kg.
+
+**Effect of LV Dose Timing Violation, Number of Glucarpidase Dose, and Reported Use of**
+
+**Rescue Regimens on CIR**
+
+Four of 30 patients in the central HPLC MTX population had violations of the time interval between LV
+
+and glucarpidase dosing (02-0014, 02-0026, 02-0071, and 02-0082).
+
+For all 4 patients, glucarpidase was administered <4 hours after the LV dose. Two of 4 (50%) patients
+
+achieved a CIR.
+
+Among the 26 patients who did not have a LV dose timing violation, 18/26 (69.2%) achieved a CIR.
+
+Due to the limited number of patients with LV dosing violations in the central HPLC MTX population, the
+
+effect of LV dosing violations on CIR cannot be assessed.
+
+Per protocol, patients who did not achieve a CIR were eligible to receive multiple doses of
+
+glucarpidase; thus, patients who received multiple doses were more likely to be nonresponders.
+
+Three of 30 patients in the central HPLC MTX population received more than 1 dose of glucarpidase. Of
+
+these, 1 patient achieved a CIR following the second dose and 2 patients did not achieve a CIR. The
+
+number of patients who received multiple glucarpidase doses and achieved a CIR was too small to
+
+assess the effect on response for patients who received single versus multiple doses of glucarpidase.
+
+One patient in the central HPLC MTX population with a reported use of a rescue regimen did not
+
+achieve a CIR.
+
+**Secondary efficacy endpo** **in** **t** **s**
+
+**Change From Baseline in MTX Concentration Over Time (Central MTX HPLC Laboratory)**
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+The median MTX concentration at baseline was 6.4 μmol/L for patients in the central MTX HPLC
+
+population. At 15 minutes after glucarpidase dosing, the median MTX concentration was 0.3 μmol/L,
+
+and the median percent reduction was 96.8%; 20/23 (87%) patients had a 95% or greater reduction
+
+of the pre-glucarpidase MTX concentration. At 30, 60, and 120 minutes after glucarpidase dosing, the
+
+median MTX concentration was 0.1 μmol/L, and the median percent reduction was 98.5%.
+
+The median times to first, peak, nadir, and last MTX concentration were 15, 15, 30, and 120 minutes,
+
+respectively. At the first, peak, nadir, and last assessments, median MTX concentrations were 0.3, 0.3,
+
+0.1 and 0.1 μmol/L, respectively, and median percent reductions from baseline were 97.4%, 96.8%,
+
+98.8%, and 98.6%, respectively.
+
+The glucarpidase effect on the MTX concentration was observed within the first 15 minutes after
+
+dosing. MTX concentrations decreased by a median of 97% (interquartile range [IQR]: 92%, 99%)
+
+within the first 15 minutes of glucarpidase dosing; 20/25 (80%) patients achieved at least a 90%
+
+reduction at the same time point; 64% (16/25) and 48% (12/25) patients achieved at least 95% and
+
+98% reductions, respectively.
+
+The sensitivity analysis for the change from baseline over time and the time to post-glucarpidase MTX
+
+concentrations in central laboratory HPLC MTX concentrations (ie, in the subpopulation with baseline
+
+MTX concentration >1 μmol/L) supports the analysis performed for the central HPLC MTX analysis
+
+population.
+
+**Proportions of Patients Who Achieved CIR Over Time**
+
+For patients with MTX concentration assayed by local laboratories, 25/58 (43.1%) achieved a CIR. Due
+
+to expected DAMPA interference, further analyses were conducted to assess CIR after excluding MTX
+
+concentrations before 2, 12, and 24 hours; at these time points, 28/58 (48.3%), 33/58 (56.9%), and
+
+35/58 (60.3%) of patients achieved a CIR, respectively, following the first glucarpidase dose. Patients
+
+who achieved a CIR at prior time points (ie, 0, 2, or 12 hours) were counted as having a CIR in all
+
+subsequent time points regardless of available MTX data. At the 24-hour time point, the percent of
+
+patients that achieved a CIR (35/58, 60.3%) by the local laboratory assay was similar to the percent of
+
+patients that achieved a CIR based on the central MTX HPLC assay (20/30, 66.7%).
+
+The median time to the first post-glucarpidase MTX concentration ≤ 1 μmol/L with all subsequent MTX
+
+concentrations ≤ 1 μmol/L was 9.0 hours (range: 0.2 to 343.8 hours).
+
+**Change from Baseline in MTX Concentration Over Time (Local Laboratory)**
+
+The median MTX concentration at baseline was 9.8 μmol/L for patients in the local MTX HPLC
+
+population. At 15 minutes after glucarpidase dosing, the median MTX concentration was 0.9 μmol/L,
+
+and the median percent reduction was 85.3%. The increase in local MTX concentrations at 30 minutes
+
+(1.2 μmol/L), 60 minutes (2.8 μmol/L), and 120 minutes (4.7 μmol/L) after the first glucarpidase
+
+dosing was in part due to the high variation in the number of patients with data at the different time
+
+points, although at 4 hours post-glucarpidase, the median local MTX concentration was 1 μmol/L, with
+
+further decreases in median MTX concentrations observed through the 8-day time point.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+At the first, peak (highest), nadir (lowest), and last assessment, median local MTX concentrations were
+
+1.5, 2.2, 0.2, and 0.2 μmol/L, respectively, and median percent reductions from baseline were 81.4%,
+
+75.8%, 97.1%, and 96.8%, respectively.
+
+The sensitivity analysis for the change from baseline over time in local laboratory MTX concentrations
+
+(ie, in the subpopulation with baseline MTX concentration >1 μmol/L) had similar reductions in MTX
+
+concentrations.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Rebound of MTX Concentration (Local Laboratory)**
+
+Of the 6 patients with rebound, 4 patients had rebound after the first dose of glucarpidase, 1 patient
+
+had rebound after the first and second dose, and 1 patient had rebound after the third dose. The
+
+maximum percent increase from the lowest post-glucarpidase MTX concentration prior to rebound to
+
+the MTX concentration that met the rebound criteria was 479%.
+
+Four of 6 patients with rebound were eligible to receive a second dose of glucarpidase (ie, had a >1
+
+logarithm decrease in MTX concentration following the first dose of glucarpidase, but still had an MTX
+
+concentration >1 μmol/L). Of these, 2 patients received multiple glucarpidase doses (Patient 02-0050
+
+received 2 glucarpidase doses and had rebound after each dose, and Patient 02-0031 received 3
+
+glucarpidase doses and had rebound after the third dose).
+
+**Renal Function (Local Laboratory)**
+
+Renal function was analysed for the renal evaluable population (ie, all patients who have at least 1
+
+post-glucarpidase renal function evaluation).
+
+**Serum Creatinine Concentration (Local Laboratory)**
+
+**Change From Baseline Over Time**
+
+There was a 3-fold increase in serum creatinine concentration from pre-MTX to baseline (pre
+glucarpidase). After administration of glucarpidase, mean serum creatinine continued to rise slowly
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+until Day 6 after which a slow decline in serum creatinine was observed over the remaining period of
+
+observation. However, these data should be interpreted with caution as fewer than half of the patients
+
+had serum creatinine measurements beyond Day 5; quite possibly the patients with continued serum
+
+creatinine elevations were more likely to have repeated measurements.
+
+There was a 2.5- to 3-fold increase in mean serum creatinine concentration from pre-MTX to baseline
+
+(pre-glucarpidase) for patients <12 years, ≥ 12 to <18 years, and ≥ 18 to <65 years compared with a
+
+5-fold increase in patients ≥ 65 years. After administration of glucarpidase, mean serum creatinine
+
+continued to rise slowly during the first week after which a slow decline in serum creatinine was
+
+observed through Day 22 for patients <12 years, ≥ 12 to <18 years, and ≥ 18 to <65 years. For
+
+patients ≥ 65 years, a slow decline in serum creatinine was observed through Day 4; thereafter, there
+
+was high variability in the serum creatinine values due to the small number of patients (1 to 3
+
+patients) making it difficult to interpret a trend.
+
+**Shifts in Common Toxicity Criteria (CTC) Grade Over Time**
+
+Pre-MTX serum creatinine values were available for 53/58 (91.4%) patients in the renal evaluable
+
+population. Prior to MTX administration, 52/53 patients (98.1%) had Grade 0 or 1 serum creatinine
+
+values and 1/53 (1.9%) patient had a Grade 2 serum creatinine value.
+
+Baseline (pre-glucarpidase) serum creatinine values were available for 57/58 (98.3%) patients in the
+
+renal evaluable population. At baseline (pre-glucarpidase), 11/57 (19.3%) patients had Grade 0 or 1
+
+serum creatinine values and 46/57 (80.7%) had Grade 2 or greater serum creatinine values.
+
+Forty-five of 57 (78.9%) patients had their worst recorded serum creatinine value prior to glucarpidase
+
+dosing. For the remaining patients, serum creatinine values continued to worsen after glucarpidase
+
+dosing; 10/57 (17.5%) had a worsening by 1 grade (Grade 2 to 3 for 6 patients, and Grade 3 to 4 for
+
+4 patients), and 2/58 (3.5%) had a worsening by 2 grades (Grade 2 to 4).
+
+At the last available assessment after glucarpidase dosing, there were 34/57 (59.6%) patients at
+
+Grade 0 or 1, and the remaining 23/57 (40.3%) at Grade 2 or greater.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+Thus, 34/57 (59.6%) patients had Grade 0 or 1 serum creatinine at the last recorded assessment
+
+compared with 52/53 patients (98.1%) with Grade 0 or 1 serum creatinine values prior to MTX
+
+administration. However, it should be noted that limited serum creatinine data were available for
+
+patients followed for extended periods of time: of the 57 patients, 20 had data at 7 days, 21 had data
+
+at 15 days, and 9 patients had data at 22 days. Therefore, these data should be interpreted with
+
+caution; it is possible that patients with continued serum creatinine abnormalities were more likely to
+
+have repeated measurements.
+
+**Time to Highest Value and Time to Recovery**
+
+The median time to the highest serum creatinine value after MTX dosing was 4.0 days (range: 2 to 15
+
+days) in the renal evaluable population. For patients with the highest serum creatinine value recorded
+
+after the first glucarpidase dose, the median time to the highest value was 2.0 days after the first
+
+glucarpidase dose (range: 1 to 9 days).
+
+Grade 2 or greater serum creatinine values recovered to Grade 0 in 9/48 (18.8%) patients after MTX
+
+dosing. The Kaplan-Meier estimates of the median time to recovery from a Grade 2 or greater to a
+
+Grade 0 serum creatinine value after MTX dosing (n = 9) was 28 days (CI: 26 days to not estimable).
+
+However, it should be noted that with the limited follow-up duration for serum creatinine evaluations,
+
+the estimation of time to recovery becomes less reliable. In this study, many patients had relatively
+
+short follow-up durations for serum creatinine. Their time to recovery was censored resulting in a
+
+much smaller number of patients included in the estimation of probability to recovery.
+
+Grade 2 or greater serum creatinine values recovered to Grade 1 or 0 in 25/48 (52.1%) patients after
+
+MTX dosing. The Kaplan-Meier estimates of the median time to recovery from a Grade 2 or higher to a
+
+Grade 1 or 0 serum creatinine values after MTX dosing (n = 25) was 16 days (CI: 4 to 23 days). Again,
+
+these data should be interpreted with caution due to the lack of longer follow-up data for serum
+
+creatinine values.
+
+**Other Renal Function Parameters (Local Laboratory)**
+
+Calculated creatinine clearance and urea improved from baseline values (pre-glucarpidase) as assessed
+
+at Days 8, 15, and 22. At the time of last assessment, calculated creatinine clearance and urea had not
+
+returned to baseline values.
+
+**Study PR001-CLN-006**
+
+Title of Study: Special Exception Protocol for the Use of Carboxypeptidase-G2 for methotrexate (MTX)
+
+Toxicity
+#### **Methods **
+
+This was a prospective, open-label, non-randomised multicentre, compassionate-use trial that
+
+evaluated the safety and efficacy of glucarpidase in patients experiencing high-dose methotrexate
+
+(HDMTX)-induced nephrotoxicity and delayed MTX excretion.
+
+**•** **Study participants**
+
+Inclusion criteria:
+
+Patients of any age, with signs and symptoms of MTX toxicity and the following additional evidence of
+
+toxicity and renal dysfunction were eligible for participation in the study:
+
+- Patients with osteosarcoma were eligible if they had:
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+o a plasma MTX concentration >50 μmol/L 24 hours or >5 μmol/L 48 hours after the start of MTX
+
+infusion or
+
+o a plasma MTX concentration >2 SD above the mean MTX elimination curve at >12 hours after
+
+MTX administration and abnormal renal function defined by a >2-fold increase from baseline (pre
+MTX) in serum creatinine.
+
+- All other patients were eligible if they had:
+
+o a plasma MTX concentration >10 μmol/L 42 hours or more after the start of MTX infusion or
+
+o a plasma MTX concentration >2 SD above the mean MTX elimination curve at least 12 hours after
+
+MTX administration and abnormal renal function defined by serum creatinine >1.5 x upper limit of
+
+normal or (creatinine clearance <60 mL/minute at least 12 hours after MTX administration.
+
+Each patient was evaluated on a case-by-case basis.
+
+Exclusion criteria:
+
+There were no pre-specified exclusion criteria.
+
+**•** **Treatments**
+
+Eligible patients received one or two doses of 50 U/kg glucarpidase administered IV over a 5-minute
+
+period by bolus injection. Patients with plasma MTX concentrations <100 μM immediately prior to
+
+glucarpidase administration were to receive a single dose of glucarpidase. Patients with plasma MTX
+
+concentrations >100 μM immediately prior to glucarpidase administration were eligible to receive a
+
+second dose of glucarpidase 48 hours after administration of the first glucarpidase dose.
+
+Prior to glucarpidase administration, patients were to be maintained on LV administered IV, either at a
+
+dose of 1,000 mg/m2 every 6 hours, or in accordance with local standard practice. LV was not to be
+
+administered 2 hours prior to and 2 hours following the administration of glucarpidase. Following
+
+glucarpidase administration, LV was to be administered as an IV dose of 250 mg/m2 every 6 hours for
+
+a total of 48 hours, after which the LV dose could be adjusted based on local laboratory measurements
+
+of plasma MTX concentrations.
+
+It was recommended that IV hydration, with fluids containing sodium bicarbonate, be continued in
+
+order to maintain urine pH above 7.0 and, if possible, maintain urine output at a high flow rate.
+
+Dialysis was to be instituted if indicated. Appropriate general supportive care was also recommended.
+
+Glucarpidase was supplied in a lyophilised form in vials that contained 1,000 units of glucarpidase. The
+
+lyophilised product was then reconstituted with 1 mL of Sodium Chloride Injection.
+
+Patients were treated with one of two lots of glucarpidase: Lot 2090302 (manufactured 2003) or Lot
+
+2090601 (manufactured 2006).
+
+*Efficacy measurments:*
+
+Plasma MTX concentrations determined by HPLC analysis at a central laboratory, and MTX and serum
+
+creatinine concentrations, creatinine clearance, and blood urea nitrogen (BUN) determined by local
+
+assays, were the efficacy measurements in this study.
+
+MTX Concentration (Central Laborat ory) :
+
+Blood samples for the determination of MTX (and DAMPA) concentrations were taken by venipuncture.
+
+Blood samples were collected before the first glucarpidase dose, and at 15 minutes, and 1 and 2 hours
+
+after each glucarpidase dose, and daily for a total of 8 days.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+MTX Concentration (Local La bor at or ies):
+
+Plasma samples for the determination of MTX concentrations using the local institutions’ routine assay
+
+methods were collected immediately prior to glucarpidase administration, and daily after glucarpidase
+
+administration until MTX concentrations were <0.05 μmol/L.
+
+Serum Creatinine Concentra ti ons:
+
+Samples for determination of serum creatinine concentrations by local laboratory were to be obtained
+
+prior to MTX treatment, before glucarpidase treatment, daily thereafter for 1 week, then as clinically
+
+indicated until recovery of renal function (return of serum creatinine to baseline [pre-MTX] level).
+
+**•** **Bioanalytical methods**
+
+*Please see assessment of the Study PR001-CLN-001.*
+
+**•** **Objectives**
+
+Primary efficacy objective:
+
+The primary objective of this study was to confirm the efficacy of glucarpidase by evaluating MTX
+
+plasma concentrations following glucarpidase administration (as measured by the specific HPLC
+
+method) while providing access to glucarpidase on a compassionate basis for patients experiencing
+
+MTX toxicity and who have no other treatment options.
+
+Secondary efficacy objective:
+
+The secondary objective of this study was to demonstrate a sustained reduction in plasma MTX
+
+following glucarpidase administration and to collect additional data on MTX toxicities.
+
+**•** **Outcomes/endpoints**
+
+Primary efficacy endpoint:
+
+The primary efficacy variable was the proportion of patients who achieved a clinically important
+
+reduction (CIR) in serum MTX concentration based on the central laboratory HPLC assay. A patient was
+
+deemed to have achieved a CIR if the serum MTX concentrations in all samples obtained after the first
+
+dose of glucarpidase were ≤1 µmol/L.
+
+The time from the first dose of glucarpidase to the first time a plasma MTX concentration was ≤1
+
+μmol/L with all subsequent concentrations ≤1 μmol/L was calculated for all patients.
+
+The secondary efficacy endpoints:
+
+Secondary efficacy variables included the measurement of
+
+  - serum MTX concentration (based on central and local laboratory HPLC assay);
+
+  - rebound of serum MTX concentration (based on central HPLC assay);
+
+  - renal function evaluations (local laboratory assay): assessments of serum creatinine
+
+concentration, measured creatinine clearance, calculated creatinine clearance and blood urea
+
+nitrogen (BUN).
+
+**Results**
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+  - Primary efficacy endpoint:
+
+**Proportion of Patients Who Achieved CIR (Central MTX HPLC Laboratory Assay)**
+
+Of the 27 patients in the central MTX HPLC population, 14 (51.9%) achieved a CIR (95% CI: 34.0% to
+
+69.3%) (Table below).
+
+All 14 patients who achieved a CIR had their first MTX concentration collected within 60 minutes of
+
+glucarpidase dosing; 7 (50.0%) of the 14 patients had their first MTX concentration within 15 minutes
+
+post-glucarpidase dosing (Table below).
+
+**Table 18:** Primary Efficacy endpoint: Clinically Important Reduction (CIR) – Central MTX HPLC
+
+Population
+
+Sixteen patients had a pre-glucarpidase HPLC MTX concentration ≤50 μmol/L, of whom 13 (81.3%)
+
+patients achieved a CIR. In contrast, none of the 8 patients with a pre-glucarpidase HPLC MTX
+
+concentration >50 μmol/L achieved a CIR. Pre-glucarpidase MTX concentrations were not recorded in 3
+
+patients, 1 of whom achieved a CIR.
+
+Among the 13 patients who did not achieve a CIR:
+
+  - 9 (69.2%) patients failed to achieve a CIR because the initial MTX concentration post
+glucarpidase was >1 μmol/L (range: 1.344 to 521.753 μmol/L).
+
+  - 4 (30.8%) patients had an initial MTX concentration post-glucarpidase ≤1 μmol/L, with
+
+subsequent MTX concentrations >1 μmol/L; the maximum MTX concentration was 2.542
+
+μmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021
+
+
+-----
+
+**Table 19:** Patients in the Central MTX HPLC Population Who Did Not Achieve a CIR
+
+Assessment report
+EMA/CHMP/751047/2021 Page 82/162
+
+
+-----
+
+Assessment report
+EMA/CHMP/751047/2021 Page 83/162
+
+
+-----
+
+A sensitivity analysis, comprising all patients in the central MTX population with baseline (ie, last pre
+glucarpidase) MTX concentration >1 μmol/L, was consistent with the primary analysis of a CIR, in that
+
+10 of 20 patients (50.0%) achieved a CIR (95% CI: 29.9% to 70.1%).
+
+  - Secondary efficacy endpoints:
+
+**Proportion of Patients Who Achieved CIR Over Time (Local Laboratory Assay)**
+
+Of the 134 patients in the local assay population, 62 patients (46.3%, 95% CI: 38.1% to 54.7%)
+
+achieved a CIR in all MTX concentrations postglucarpidase. Due to expected DAMPA interference,
+
+further analyses were conducted to assess the proportion of patients with all MTX concentrations ≤1
+
+μmol/L at the ≥1-day post-glucarpidase time point (ie, after excluding MTX concentrations on the
+
+same calendar day as the first dose of glucarpidase) and at the ≥2-day post-glucarpidase time point
+
+(ie, after excluding MTX concentrations on the same calendar day and the calendar day after
+
+glucarpidase administration). At the ≥1-day time point, 52.2% of patients had all subsequent MTX
+
+concentrations ≤1 μmol/L, and at the ≥2-day time point, 55.2% of patients achieved this MTX
+
+concentration.
+
+Because time of day may not have been recorded for local laboratory MTX measurements or
+
+glucarpidase administration, a measurement included in the ≥1-day time point could occur as early as
+
+1 hour after glucarpidase administration, and could therefore include times when DAMPA might
+
+interfere with the measurement of MTX. A MTX measurement included in the ≥2-day time point could
+
+occur as early as 25 hours after glucarpidase administration, when the interference of DAMPA would be
+
+reduced. At the ≥1 and ≥2 day time points, the percentage of patients with all subsequent MTX
+
+concentrations ≤1 μmol/L (52.2%, 95% CI: 43.8% to 60.5% for ≥1 day time point, and 55.2%, 95%
+
+CI: 46.7% to 63.4% for ≥2 day time point) by the local laboratory assay were similar to the
+
+percentage of patients that achieved a CIR based on the central MTX HPLC assay (51.9%, 95% CI:
+
+34.0% to 69.3%).
+
+**Change from Baseline in MTX Concentration Over Time (Central MTX HPLC Laboratory**
+
+**Assay)**
+
+The median MTX concentration at baseline was 37.09 μmol/L for the patients in the central HPLC
+
+population. The median MTX concentration at 15 minutes after the first dose of glucarpidase was 0.16
+
+μmol/L, corresponding to a median reduction from baseline of 99.30%. At all subsequent time points
+
+(30 minutes to 8 days post-glucarpidase dosing), the median MTX concentrations were <1 μmol/L,
+
+representing median reductions from baseline of at least 97.34%. Reduction in MTX concentration in
+
+the central MTX HLPC population is displayed in Figure below.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 84/162
+
+
+-----
+
+**Figure 10:** Median (with Inter-Quartiles) MTX Concentration by Time – Central HPLC MTX Population
+
+A sensitivity analysis for the change in MTX concentration over time in patients in the central MTX
+
+HPLC population who had a baseline central HPLC MTX concentration >1 μmol/L was similar.
+
+**Change from Baseline in MTX Concentration Over Time (Local Laboratory Assay)**
+
+Median MTX concentration (with inter-quartiles) is displayed by time in Figure below. The median MTX
+
+concentration at baseline was 27.30 μmol/L for patients in the local MTX population. At 15 minutes, 30
+
+minutes, 60 minutes, 120 minutes, and 4 hours after the first glucarpidase dose, the median MTX
+
+concentrations were 25.00 μmol/L, 12.63 μmol/L, 44.90 μmol/L, 8.15 μmol/L, and 9.79 μmol/L,
+
+respectively, with corresponding median reductions from baseline of 70.45%, 0.00%, 64.49%,
+
+78.57%, and 86.19%, respectively.
+
+Of note, while there were 131 patients at baseline in the local MTX assay population (ie, 131 patients
+
+who had baseline and at least 1 post-baseline value), at the subsequent time points of 15 minutes
+
+through 4 hours after the first glucarpidase dose, the number of patients ranged from only 3 to 21,
+
+which could have contributed to higher variability in the MTX concentration values. In addition, given
+
+the interference from DAMPA at these early time points, the data must be interpreted with caution.
+
+At Day 1 and Day 2 after the first glucarpidase dose, the local median MTX concentrations were below
+
+1 μmol/L, with corresponding median reductions of 92.19% and 95.21%, respectively relative to the
+
+pre-glucarpidase baseline. At all subsequent time points through Day 22, the median local MTX
+
+concentration remained below 1 μmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 85/162
+
+
+-----
+
+**Figure 11:** Median (with Inter-Quartiles) MTX Concentration by Time – Local MTX Population
+
+A sensitivity analysis for the change from baseline over time in local laboratory MTX concentrations, in
+
+patients with a baseline local MTX concentration >1 μmol/L, showed a similar trend across these time
+
+points.
+
+Four of the 27 patients (14.8%) in this population had a rebound in MTX concentration. The median
+
+time to maximum rebound was 58.28 hours (range: 48.75 to 72.08 hours) after the first dose of
+
+glucarpidase.
+
+Of the 4 patients with rebound, the maximum increase in MTX concentration from the lowest MTX
+
+concentration post-glucarpidase was between 1 and 2 μmol/L for 3 of these patients. In 1 patient, the
+
+maximum increase in MTX concentration from the lowest MTX concentration post-glucarpidase was
+
+between 2 and 5 μmol/L. Overall, for these 4 patients, the median increase in MTX concentration from
+
+the lowest MTX concentration post-glucarpidase was 1.67 μmol/L (range: 1.439 to 2.492 μmol/L).
+
+Three of the 4 patients with rebound had subsequent MTX concentrations recorded after the last
+
+rebound measurement. In the first measurement after the last rebound (within 1 day of rebound), all 3
+
+patients had a reduction in MTX concentration to ≤1 μmol/L.
+
+**Renal Function (Local Laboratory Assay):**
+
+**Change from Baseline Over Time in Serum Creatinine Concentration**
+
+There was approximately a 3.5-fold increase in mean serum creatinine concentration from pre-MTX to
+
+baseline (pre-glucarpidase) in the renal evaluable population as a whole (Table below). After
+
+administration of glucarpidase, mean serum creatinine concentrations increased very slightly through
+
+Day 5 (from 2.79 mg/dL at baseline to 3.19 mg/dL on Day 5), then returned to below baseline by Day
+
+8, after which serum creatinine concentrations decreased through Day 22 (the mean at Day 22 was
+
+1.38 mg/dL, approximately a 50% reduction from pre-glucarpidase baseline).
+
+Assessment report
+EMA/CHMP/751047/2021 Page 86/162
+
+
+-----
+
+**Table 20:** Descriptive Summary of Serum Creatinine Values (mg/dL) and Change from Pre-glucarpidase
+
+to Post-glucarpidase Time Points - Renal Evaluable Population
+
+The mean serum creatinine values over time are also displayed in Figure below.
+
+**Calculated creatinine clearance**
+
+Assessment report
+EMA/CHMP/751047/2021 Page 87/162
+
+
+-----
+
+time, from baseline following glucarpidase administration through Day 22. At Day 22, the mean
+
+calculated creatinine clearance was 109.62 mL/minute, compared with a baseline value of 40.74
+
+mL/minute, and a pre-MTX value of 133.59 mL/minute.
+
+The data for reported creatinine clearance should be interpreted with caution given the small number
+
+of patients with data at Days 15 and 22.
+
+**Table 21:** Calculated creatinine clearance – Renal Evaluable Population
+
+Assessment report
+
+|Table 22: Summary of efficacy for trial 001|Col2|Col3|
+|---|---|---|
+|Title: STUDY OF RECOMBINANT CARBOXYPEPTIDASE G2 (CPG2) FOR THE MANAGEMENT OF PATIENTS WITH DELAYED METHOTREXATE (MTX) CLEARANCE OR INTRATHECAL MTX OVERDOSAGE|||
+|Study identifier|PR001-CLN-001||
+|Design|This was a prospective, open-label, non-randomised multicenter, compassionate- use interventional trial in patients with delayed MTX clearance after treatment with HDMTX, or with intrathecal MTX overdose.||
+||Duration of main phase: Duration of Run-in phase:|1314 Days (10 Jan 2000 to 16 Aug 2003) Not given|
+|Hypothesis|Evaluate the safety and efficacy of glucarpidase in patients with impaired MTX clearance owing to MTX-induced renal failure following high-dose MTX therapy, or with intrathecal MTX overdose.||
+
+EMA/CHMP/751047/2021 Page 88/162
+
+
+-----
+
+Assessment report
+
+|Treatments groups|Eligible Participants|Col3|Patients ≥18 years of age who were receiving HDMTX (>1 g/m2 BSA given as an infusion over 24 hours) for the treatment of ALL, non-Hodgkin’s lymphoma, or a solid tumour were eligible for participation in the study given specific serum MTX concentration groups. Serum MTX >5 µmol/L 42 hours or later after the start of MTX infusion, or serum MTX >1 μmol/L 42 hours or later after the start of MTX infusion together with renal insufficiency, or serum MTX >0.4 µmol/L 48 hours or later after the start of MTX infusion together with renal insufficiency. Renal insufficiency was defined as serum creatinine >1.5 × the upper limit of normal (ULN) and/or oliguria (urine output < 500 mL/24 hours despite adequate hydration, diuretics and alkalinisation).|
+|---|---|---|---|
+|Endpoints and definitions|Primary endpoint|<CIR>|The primary efficacy endpoint was the proportion of patients who achieved a CIR in serum MTX concentration based on the central laboratory HPLC assay. A patient was deemed to have achieved a CIR if the serum MTX concentrations in all samples obtained after the first dose of glucarpidase were ≤1 μmol/L.|
+||Secondary endpoint|<MTX>|The analyses of secondary efficacy endpoints were based on the central laboratory HPLC and local laboratory MTX concentrations, and local laboratory assay of measures of renal function. Change in baseline in MTX concentrations over time.|
+|Database lock|Not given|||
+|Results and Analysis||||
+|Analysis description|Primary Analysis|||
+
+EMA/CHMP/751047/2021 Page 89/162
+
+
+-----
+
+Assessment report
+
+|Analysis population and time point description|MTX Concentration Population: This population included all patients who had at least 1 serum MTX concentration (either by central laboratory HPLC assay or local laboratory assay) after the first dose of glucarpidase. Two subset populations as shown below were used for any MTX concentration-related endpoints. − Central MTX HPLC population: this population included all patients who had at least 1 serum MTX concentration from the central HPLC assay after the first dose of glucarpidase. − Local MTX assay population: this population included all patients who had at least 1 serum concentration by local laboratory assay after the first dose of glucarpidase|Col3|
+|---|---|---|
+|Descriptive statistics and estimate variability|Treatment group|Central MTX HPLC population|
+||Number of subject|28 patients|
+||CIR Statistics|24 of 28 (85.7%) patients in the central MTX HPLC population achieved a CIR (95% CI: 68.5%, 94.3%).|
+||CIR Statistics|The median time to the first post-glucarpidase MTX concentration with all subsequent MTX concentrations ≤1 μmol/L was 0.25 hours (range: 0.1 to 132.0 hours). The mean was 10.21 (SD (30.69)) The distribution of time was skewed right due to 4 patients who achieved a MTX concentration ≤1 μmol/L only after a prolonged interval. n=26.|
+||Sensitivity Analysis|19 of 23 (82.6%; CI: 62.8%, 93.0%) patients who had a baseline MTX concentration >1 μmol/L achieved a CIR. The median time to the first post-glucarpidase MTX concentration ≤1 μmol/L with all subsequent MTX concentrations ≤1 μmol/L was also 0.25 hours (range: 0.1 to 132.0 hours) for the patients in the central MTX HPLC population with baseline MTX concentration >1 μmol/L.|
+||Outliers|4 patients who achieved a MTX concentration ≤1 μmol/L only after a prolonged interval: 01-0022 [132 hours], 01-0024 [87.75 hours], 01-0002 [33 hours], and 01-0013 [6.75 hours]).|
+
+EMA/CHMP/751047/2021 Page 90/162
+
+
+-----
+
+Assessment report
+
+|Col1|LV Dosing, Number of Glucarpidase Doses, Rescue Regimens on CIR|17/28 (60.7%) patients in HPLC had LV dosing violations concerning time between LV administration and glucarpidase dosing. 15/17 (88.2%) achieved CIR. 11/28 (39.3%) did not have LV dosing violations. 9/11 (81.8%) achieved CIR. LV dosing violations did not have significant effect on achieving CIR. 3/28 (10.7%) patients in HPLC received more than one dose of glucarpidase. 2 of 3 achieved CIR, 1 did not. The one patient had MTX concentration 0.125 μmol/L before second dose and 0.108 μmol/L after second dose. Second dose did not produce substantial reductions in MTX concentration.|
+|---|---|---|
+||Time Points|Median MTX Concentrations – central MTX HPlC population Baseline = 4.77 μmol/L 15 minutes after the first glucarpidase dose = 0.05 μmol/L, median reduction from baseline of 98.9%. 30, 60, and 120 minutes after glucarpidase dosing= 0.05 μmol/L for each time point, with respective median reductions of 98% or more, and remained at this level through the day 1 time point. Day 2 time point after glucarpidase dosing = small increase of 0.21 μmol/L - MTX re-equilibration into the central compartment from the peripheral compartment. Through Day 8 = An immediate and sustained reduction in MTX concentration levels, median MTX concentrations less than 0.29 μmol/L, median reduction in MTX levels from baseline by at least 92%, and interquartile ranges remaining below 1 μmol/L at all time points.|
+||Reduction in MTX|MTX concentration within 15 min of glucarpidase administration – 98.9% median reduction Median MTX concentration at each post-glucarpidase assessment time point (15 min through Day 8) ≤0.29 μmol/L. First MTX assessment after glucarpidase dosing – 92.3% patients with both baseline and post-baseline MTX assessment achieved at least 95% reduction in MTX concentration Last MTX assessment after glucarpidase dosing – 65.4% achieved at least 95% reduction, 84.6% achieved at least 90% reduction.|
+
+EMA/CHMP/751047/2021 Page 91/162
+
+
+-----
+
+|Notes|There were 4 patients in the central MTX HPLC population who did not achieve a CIR. All 4 of these patients achieved initial decreases in MTX concentration to ≤1 μmol/L, but in 3 of these patients, MTX concentrations >1 μmol/L were subsequently measured 2 to 4 days following glucarpidase. In the fourth patient, the initial MTX concentration post-glucarpidase was 1.0 μmol/L, achieving greater than a 99% reduction in MTX levels from a pre-glucarpidase MTX concentration of 165.86 μmol/L. The next 3 MTX concentrations in this patient taken at 30 minutes, 60 minutes and 120 minutes post-glucarpidase, were >1 μmol/L (1.05 μmol/L, 1.49 μmol/L and 3.62 μmol/L, respectively) and thus the patient did not achieve a CIR.|Col3|
+|---|---|---|
+|Analysis description|Secondary Analysis - Plasma MTX Concentrations and Renal Function by Local Assay||
+|Descriptive statistics and estimate variability|Treatment group|All patients in the Central MTX HPLC population and Local MTX Assay Population|
+||Number of subjects|Central MTX HPLC – 28 patients Local MTX Assay - 42 patients|
+||MTX Concentrations - HPLC|Median time to first and nadir MTX concentrations in HPLC = 0.25 hrs. MTX concentrations in first, peak, nadir and last assessments 0.05, 0.24, 0.05 and 0.12 μmol/L = median reductions from baseline of over 95% for each measurement. 24/26 (92.3%) with both baseline and post baseline MTX concentration who achieved ≥95% reduction 20/26(76.9%) achieved ≥98% reduction 26/26 (100%) achieved ≥85% reduction 19/26 (73.1%) had ≥90% reduction in peak MTX concentration 22/26 (84.6%) had ≥90% reduction in last MTX concentration|
+
+
+Assessment report
+EMA/CHMP/751047/2021 Page 92/162
+
+
+-----
+
+Assessment report
+
+|Col1|CIR – Local Laboratory|16/42 (38.1%) achieved CIR Additional CIR analysis performed after excluding MTX concentrations At 2, 12 and 24 hours after glucarpidase, CIR achieved by 50%, 59.5% and 69% patients, respectively. Median time to first post-glucarpidase MTX concentration ≤1 μmol/L was 21.9 hrs (0.2 to 447 hrs) Over first 4 hrs after glucarpidase, median % reduction in MTX concentration was from 52% to 82%. Over first 15 days after glucarpidase, median % reduction in MTX concentration was from 88% to 99%.|
+|---|---|---|
+||Serum Creatinine|Serum creatinine values increased approximately 3-fold between MTX administration and baseline in renal population. After glucarpidase administration, mean serum creatinine values slightly increased by Day 1, stayed unchanged through Day 5, and returned to pre-values by Day 6. Patients whose maximal renal impairment was Grade 2 or worse: 30.6% recovered to Grade 0 (median recovery time 19 days) 61.1% recovered to at least Grade 1 (median recovery time 16.5 days after glucarpidase dosing.|
+||Change from Baseline in MTX Concentrations (Local Labs)|The median MTX concentration at baseline was 7.97 μmol/L for patients in the local MTX HPLC population. 15 minutes after the first glucarpidase dose, the median MTX concentration was 2.61 μmol/L, which represented a median reduction of 80.3% from baseline. The local median MTX concentration then increased at 30 minutes (3.88 μmol/L) and 60 minutes (3.98 μmol/L) after the first glucarpidase dose, decreased at 120 minutes (1.87 μmol/L), then again increased at 4 hours (4.09 μmol/L), and thereafter decreased to <1 μmol/L at all subsequent time points through 15 days post glucarpidase.|
+
+
+|Table 23: Summary of efficacy for trial 002|Col2|
+|---|---|
+|Title: A TRIAL OF CARBOXYPEPTIDASE-G2 (CPG2) FOR THE MANAGEMENT OF PATIENTS WITH METHOTREXATE TOXICITY AND RENAL DYSFUNCTION||
+|Study identifier|PR001-CLN-002|
+
+EMA/CHMP/751047/2021 Page 93/162
+
+
+-----
+
+|Design|The study was a prospective, open-label, non-randomised, multicentre, compassionate-use trial that evaluated the safety and efficacy of glucarpidase in patients experiencing HDMTX-induced nephrotoxicity and delayed MTX excretion.|Col3|Col4|
+|---|---|---|---|
+||Duration of main phase:||November 1993 – May 2004|
+|Hypothesis|<Exploratory: open-label, compassionate use> Conducted to evaluate the safety and effectiveness of glucarpidase or a combination of glucarpidase and thymidine in rescuing patients with delayed MTX elimination secondary to renal dysfunction.|||
+|Treatments groups|Inclusion Criteria||Patients of any age at risk of life-threatening toxicity following MTX administration secondary to delayed MTX elimination, as defined by: • Plasma MTX concentration ≥10 μmol/L more than 42 hours after the start of the MTX infusion; or • Serum creatinine ≥1.5 times the ULN or CrCl ≤60 mL/m2/minute and delayed MTX excretion documented by plasma MTX concentration measurements that were ≥2 SD above the mean at least 12 hours following MTX administration.|
+|Endpoints and definitions|Primary endpoint|CIR|The primary efficacy variable was the proportion of patients who achieved a clinically important reduction (CIR) in plasma MTX concentration based on the central laboratory HPLC assay.|
+||Secondary|MTX, Renal Function|Secondary efficacy variables included the measurement of plasma MTX concentration and rebound of plasma MTX concentration by the central HPLC assay, as well as measurement of plasma MTX concentration by the local assay. Additionally, sCr and other renal function measurements (reported and calculated CrCl and BUN) were evaluated.|
+|Database lock|Not given|||
+|Results and Analysis||||
+|Analysis description|Primary Analysis|||
+
+
+Assessment report
+EMA/CHMP/751047/2021 Page 94/162
+
+
+-----
+
+Assessment report
+
+|Analysis population and time point description|Efficacy Populations • MTX Concentration Population: this population included all patients who had at least 1 plasma MTX concentration (either by central HPLC assay or local assay) after the first dose of glucarpidase. Two subset populations were used for any MTX concentration-related endpoints: − Central MTX HPLC Population: this population included all patients who had at least 1 plasma MTX concentration from the central HPLC assay after the first dose of glucarpidase; − Local MTX Assay Population: this population included all patients who had at least 1 plasma MTX concentration by the local assay after the first dose of glucarpidase. • Renal Evaluable Population: this population included all patients who had at least 1 renal function parameter evaluation (ie, sCr evaluation or reported CrCl) after the first dose of glucarpidase.|Col3|
+|---|---|---|
+|Descriptive statistics and estimate variability|Treatment group|Central MTX HPLC Population|
+||Number of subject|84 patients in the central MTX HPLC population|
+||Patients Achieving CIR|46/84 (54.8%) achieved a CIR (95% CI: 44.2% to 65.0%). A sensitivity analysis, comprising all patients in the central MTX population with baseline (last pre-glucarpidase) MTX concentration >1 μmol/L, was consistent with the primary analysis of a CIR, in that 38 of 75 patients (50.7%) achieved a CIR (95% CI: 39.6% to 61.7%).|
+||Time to First Post- glucarpidase MTX Concentration ≤1 μmol/L|N = 70 Mean (SD) = 36.98(70.05) Median = 0.25|
+
+EMA/CHMP/751047/2021 Page 95/162
+
+
+-----
+
+Assessment report
+
+|Col1|CIR|All 46 patients who achieved a CIR had their first MTX concentration collected within 40 minutes of glucarpidase dosing; 40/46 (86.9%) had their first MTX concentration within 15 minutes post-glucarpidase dosing 49 patients had a pre-glucarpidase HPLC MTX concentration ≤50 μmol/L 43/49 (87.8%) patients achieved a CIR. 1/32 (3.1%) patients with a pre-glucarpidase HPLC MTX concentration >50 μmol/L, achieved a CIR. In the 32 patients whose pre-glucarpidase MTX concentration was >50 μmol/L, the initial reduction in MTX concentration was at least 96.9%.|
+|---|---|---|
+||MTX reduction|76/81 (93.8%) patients had ≥95% reduction in central laboratory MTX concentration from baseline at first post- assessment (median 15 min after first CPG2 dose) 69/81 (85.2%) had ≥95% reduction in central laboratory MTX concentration from baseline at last post-assessment (median 25 hrs after first CPG2 dose) Effect of CPG2 in significantly reducing MTX concentrations was immediate and sustained|
+||Glucarpidase Dosing Scheme and CIR|45 HPLC patients received 1 dose of glucarpidase 27/45 (60%) achieved CIR 39 patients received 2/3 doses of glucarpidase 19/39 (48.7%) achieved CIR 18/39 (46.2%) failed to achieve CIR even before 2nd glucarpidase dose Patients with a pre-glucarpidase MTX concentration >50 μmol/L were more likely to receive more doses of glucarpidase Conclusion – effect of subsequent glucarpidase dose vs. single glucarpidase dose, on maintaining MTX concentration ≤1 μmol/L could not be assessed.|
+
+EMA/CHMP/751047/2021 Page 96/162
+
+
+-----
+
+Assessment report
+
+|Notes|23 out of 38 (60.5%) patients didn’t achieve a CIR because the initial MTX concentration post-glucarpidase was >1 μmol/L (range 1.09 μmol/L to 10.90 μmol/L). In these patients, concentration prior to glucarpidase ranged from 60.0 to 849.1 μmol/L. In the remaining 15 patients (39.5%), initial MTX concentration post-glucarpidase was <1 μmol/L, but subsequent MTX|Col3|
+|---|---|---|
+|Analysis description|Secondary Analysis – Plasma MTX Concentrations and renal function by local assay||
+|Descriptive statistics and estimate variability|Treatment group|Central MTX HPLC Population and Local MTX Assay Population|
+||Number of subject|84 HPLC patients and 188 Local Assay patients|
+||Rebound of MTX concentration|Rebound = MTX concentration at least 2 times nadir MTX concentration and more than 1 μmol/L greater than nadir after decrease of MTX concentration post-glucarpidase 19/84(22.6%) had MTX concentration rebound Median time to max rebound – 71 hrs (12-195 hrs) after first glucarpidase dose|
+||MTX concentration reduction|55.9% of local assay patients achieve MTX concentrations ≤1 μmol/L 2 days after glucarpidase administration, Similar to 54.8% patients achieving CIR using central laboratory HPLC assay.|
+||Effect of Thymidine on CIR|84 HPLC patients – 42 received thymidine and 42 did not. Receiving thymidine – 21/42 (50%; 95% CI: 35.5% to 64.5%) achieved CIR Not receiving thymidine – 25/42 (59.5%; 95% CI: 44.5% to 73.0%) achieved CIR|
+
+EMA/CHMP/751047/2021 Page 97/162
+
+
+-----
+
+|Col1|sCr|After MTX administration, approximately 4-fold increase in mean sCr concentration from pre-MTX (0.79 mg/dL) to baseline (3.09 mg/dL). Through Day 3 – sCr increased to 3.30 mg/dL Through Day 5 – sCr returned to 3.10 mg/dL Through Day 6 – sCr below baseline to 2.95 mg/dL Through Day 22 – sCr decreased to 1.19 mg/dL Patients >65 years did not recover renal function secondary to MTx toxicity compared to younger patients Of patients developing CTC Grade 2 or higher sCr values 61/193 (31.6%) recovered to Grade 0 (median recovery time 19 days) 126/191 (66.5%) recovered to at least Grade 1 (median recovery time 14 days)|
+|---|---|---|
+
+
+Assessment report
+
+|Table 24: Summary of efficacy for trial 003|Col2|Col3|
+|---|---|---|
+|Title: A TRIAL OF CARBOXYPEPTIDASE-G2 (CPG2) FOR THE MANAGEMENT OF PATIENTS WITH METHOTREXATE TOXICITY AND RENAL DYSFUNCTION|||
+|Study identifier|PR001-CLN-003||
+|Design|The study was a prospective, open-label, nonrandomised, multicentre, compassionate-use and emergency-use study in patients of any age experiencing delayed elimination of MTX in the presence of renal impairment following administration of HDMTX.||
+||Duration of main phase:|March 1997 – March 2002|
+|Hypothesis|<Exploratory: open-label, compassionate use> Conducted to evaluate the feasibility, effectiveness and safety of glucarpidase as adjunctive treatment in patients with delayed MTX elimination secondary to renal dysfunction.||
+
+EMA/CHMP/751047/2021 Page 98/162
+
+
+-----
+
+Assessment report
+
+|Treatments groups|Inclusion Criteria|Col3|Patients of any age, at risk of life-threatening toxicity following MTX administration, secondary to delayed MTX excretion as defined below, • Plasma MTX concentration (new venipuncture) − >10 μmol/L more than 36 hours, or − >5 μmol/L more than 42 hours, or − >3 μmol/L more than 48 hours after the start of the infusion; and • Delayed MTX excretion documented by serial plasma MTX levels (>2 SD above the mean) at least 12 hours after MTX administration (Note: This criterion was included in the protocol but not reported in the published manuscript.); and • Renal dysfunction as indicated by: − Decreased diuresis; or− Serum creatinine >1.5 x ULN and documented increase during the infusion period.|
+|---|---|---|---|
+|Endpoints and definitions|Primary endpoint|CIR|The primary efficacy variable was the proportion of patients who achieved a CIR in plasma MTX concentration based on the central laboratory HPLC assay. Patient achieves CIR if the plasma MTX concentrations in all obtained samples after the first dose of glucarpidase were ≤1 μmol/L.|
+
+EMA/CHMP/751047/2021 Page 99/162
+
+
+-----
+
+Assessment report
+
+|Col1|Secondary endpoint|MTX, Renal Function|Based on central laboratory HPLC and local laboratory MTX concentrations, and local laboratory assay of measures of renal functions, i.e. serum creatinine concentrations, reported and calculated creatinine clearance and urea. Specifically: Central laboratory HPLC MTX concentrations and the percent change from baseline at 15 minutes, 30 minutes, 60 minutes, and 120 minutes after the first glucarpidase dose; • First, peak, nadir, and last recorded central laboratory HPLC MTX concentration after the first glucarpidase dose and the percent change from baseline; • Time to the first, peak, nadir, and last recorded central laboratory HPLC MTX concentration after the first glucarpidase dose; and • Percentage of patients who achieved MTX reduction, grouped by their achievement of 80%, 85%, 90%, 95%, and 98% MTX reduction from pre-glucarpidase concentration at the first, peak, nadir, and last MTX assessment was summarised.|
+|---|---|---|---|
+|Database lock|Not given|||
+|Results and Analysis||||
+|Analysis description|Primary Analysis|||
+
+EMA/CHMP/751047/2021 Page 100/162
+
+
+-----
+
+Assessment report
+
+|Analysis population and time point description|Efficacy Populations • MTX Concentration Population: This population included all patients who had at least 1 plasma MTX concentration (either by central laboratory HPLC assay or local laboratory assay) after the first dose of glucarpidase. Two subset populations as shown below were used for any MTX concentration-related endpoints. − Central MTX HPLC population: this population includes all patients who had at least 1 evaluation from central laboratory HPLC assay after the first dose of glucarpidase. − Local MTX assay population: this population includes all patients who had at least 1 evaluation from the local laboratory assay after the first dose of glucarpidase. • Renal evaluable population: This population includes all patients who had at least 1 renal function parameter evaluation (ie, serum creatinine evaluation, or reported creatinine clearance) after the first dose of glucarpidase.|Col3|
+|---|---|---|
+|Descriptive statistics and estimate variability|Treatment group|Central MTX HPLC Population|
+||Number of subjects|30 patients|
+||Primary Efficacy|two-thirds of patients (20/30, 66.7%) achieved a CIR (95% CI: 49% to 81%). In the central HPLC population, 23/30 patients (76.7%) achieved a post-glucarpidase MTX concentration ≤1 μmol/L. The median time to the first post-glucarpidase MTX concentration ≤1 μmol/L with all subsequent MTX concentrations ≤1 μmol/L was 0.25 hours (range: 0.2 to 10.0 hours). Mean time was 0.72(SD 2.03)|
+||Did not Achieve CIR|10/30 (33.3%) patients. 4/10 had only 1 measured MTX concentration >1 μmol/L 4 additional patients had MTX concentrations slightly more than 1 μmol/L. (max 1.65 μmol/L) 6/10 had pre and post-glucarpidase MTX concentrations 5/6 (83%) had ≥85% reduction in MTX concentration after CPG2 dosing 2/10 had LV dose violations|
+
+EMA/CHMP/751047/2021 Page 101/162
+
+
+-----
+
+Assessment report
+
+|Col1|Sensitivity Analysis|16.22(72.7%) patients (95% CI: 51.8% to 86.8%) who had baseline MTX concentration >1 μmol/L achieved CIR Median time to first post-glucarpidase MTX concentration ≤1 μmol/L was 0.25 hrs (0.2 to 10.0 hrs) for the patients in the central MTX HPLC population with baseline MTX concentration >1 μmol/L.|
+|---|---|---|
+||Pre-CPG2 MTX Concentration and CPG2 Dose Effect on CIR|3 patients with pre-glucarpidase MTX concentrations >50 μmol/L did not achieve CIR All patients with glucarpidase doses <50 U/kg achieved CIR, each patient had pre-glucarpidase MTX concentrations <50 μmol/L Glucarpidase doses range – (32.61 U/kg to 60.24 U/kg) 23 patients had dosing information 5 patients had glucarpidase dose <45 or >55 U/kg – all achieved CIR 18 patients had glucarpidase dose ≥45 U/kg or ≤55 U/kg, 10/18 (56%) achieved CIR.|
+||LV Dose Timing|4/30 (13.3%) had LV time interval violations 2/4 achieved CIR 18/26 (69.2%) of those without violations achieved CIR Effect of LV dosing violations cannot be assessed due to small sample Effect of patients receiving multiple glucarpidase doses on CIR cannot be assessed due to small sample|
+|Notes|10 patients in the central MTX HPLC population did not achieve an CIR. 6 of the 10 had pre and post glucarpidase MTX concentrations. 5 of these had at least an 85% reduction in MTX concentration after glucarpidase dosing. 4 patients had very high pre-glucarpidase MTX concentrations (67-315 mol/L)||
+|Analysis description|Secondary Analysis - Change From Baseline in MTX Concentration Over Time, MTX Concentrations, Renal Function and sCr Concentration||
+|Descriptive statistics and estimate variability|Treatment group|Central MTX HPLC Population And Local MTX Assay Population|
+||Number of subjects|MTX HPLC – 30 MTX Assay - 58|
+||||
+
+EMA/CHMP/751047/2021 Page 102/162
+
+
+-----
+
+|Col1|Change in MTX Concentration|Median % reduction in MTX levels (central HPLC) following CPG2 administration at first, peak, nadir assessments – 95% 15 min of CPG2 dosing – MTX concentrations decreased by median 97% (IQR 92%, 99%) 80% achieved >90% MTX concentration reduction 64% achieved >95% reduction 48% achieved >98% reduction|
+|---|---|---|
+||CIR|Local laboratory MTX population 35/58 (60.3%) patients achieved CIR after excluding MTX concentration before 24 hrs post-CPG2 Similar to|
+||Rebound|6 patients with MTX concentration rebound after CPG2 dosing Median time to rebound = 40.79 hr|
+||sCr|25/48 (52.1%) patients with Grade 2 or worse pre- glucarpidase recovered to at least Grade 1 Median time to recovery = 16 days after MTX dosing|
+
+
+Assessment report
+
+|Table 25: Summary of efficacy for trial 006|Col2|Col3|
+|---|---|---|
+|Title: SPECIAL EXCEPTION PROTOCOL FOR THE USE OF CARBOXYPEPTIDASE-G2 FOR MTX TOXICITY|||
+|Study identifier|PR001-CLN-006||
+|Design|The study was a prospective, open-label, non-randomised, multicentre, compassionate-use trial that evaluated the safety and efficacy of glucarpidase in patients experiencing HDMTX-induced nephrotoxicity and delayed MTX excretion.||
+||Duration of main phase:|June 2004 – April 2007|
+|Hypothesis|Exploratory – open-label, compassionate use Study was conducted to confirm the efficacy of glucarpidase by evaluating MTX plasma concentrations following glucarpidase administration (measured by specific high-performance liquid chromatography [HPLC] method).||
+
+EMA/CHMP/751047/2021 Page 103/162
+
+
+-----
+
+Assessment report
+
+|Treatments groups|Treatment Group|Col3|Patients of any age, with signs and symptoms of MTX toxicity and the following additional evidence of toxicity and renal dysfunction: • Osteosarcoma patients: o a plasma MTX concentration >50 μmol/L 24 hours or >5 μmol/L 48 hours after the start of MTX infusion or o a plasma MTX concentration >2 SD above the mean MTX elimination curve at >12 hours after MTX administration and abnormal renal function defined by a >2-fold increase from baseline (pre-MTX) in sCr. • All other patients: o a plasma MTX concentration >10 μmol/L 42 hours or more after the start of MTX infusion or o a plasma MTX concentration >2 SD above the mean MTX elimination curve at least 12 hours after MTX administration and abnormal renal function defined by sCr >1.5 x upper limit of normal or (CrCl <60 mL/minute at least 12 hours after MTX administration.|
+|---|---|---|---|
+|Endpoints and definitions|Primary endpoint||Proportion of patients who achieved a CIR in plasma MTX concentration based on the central laboratory HPLC assay. A patient was deemed to have achieved a CIR if the plasma MTX concentrations in all samples obtained after the first dose of glucarpidase were ≤1 μmol/L.|
+
+EMA/CHMP/751047/2021 Page 104/162
+
+
+-----
+
+Assessment report
+
+|Col1|Secondary endpoint|Col3|Based on central laboratory HPLC and local laboratory MTX concentrations, and local laboratory assay of measures of renal functions, i.e. serum creatinine concentrations, reported and calculated creatinine clearance and urea. Specifically: Central laboratory HPLC MTX concentrations and the percent change from baseline at 15 minutes, 30 minutes, 60 minutes, and 120 minutes after the first glucarpidase dose; • First, peak, nadir, and last recorded central laboratory HPLC MTX concentration after the first glucarpidase dose and the percent change from baseline; • Time to the first, peak, nadir, and last recorded central laboratory HPLC MTX concentration after the first glucarpidase dose; and • Percentage of patients who achieved MTX reduction, grouped by their achievement of 80%, 85%, 90%, 95%, and 98% MTX reduction from pre-glucarpidase concentration at the first, peak, nadir, and last MTX assessment was summarised.|
+|---|---|---|---|
+|Database lock|Not given|||
+|Results and Analysis||||
+|Analysis description|Primary Analysis|||
+|Analysis population and time point description|MTX Concentration Population: this population included all patients who had at least 1 plasma MTX concentration (either by central HPLC assay or local assay) after the first dose of glucarpidase. Two subset populations were used for any MTX concentration-related endpoints: − Central MTX HPLC Population: this population included all patients who had at least 1 plasma MTX concentration from the central HPLC assay after the first dose of glucarpidase; − Local MTX Assay Population: this population included all patients who had at least 1 plasma MTX concentration by the local assay after the first dose of glucarpidase. Renal Evaluable Population: this population included all patients who had at least 1 renal function parameter evaluation (ie, sCr evaluation or reported CrCl) after the first dose of glucarpidase.|||
+
+EMA/CHMP/751047/2021 Page 105/162
+
+
+-----
+
+Assessment report
+
+|Descriptive statistics and estimate variability|Treatment group|184 registered patients. 149 had evidence of glucarpidase dosing. 27 are in the MTX HPLC population and 134 are in the MTX assay population.|
+|---|---|---|
+||Number of subject|27 patients in the central MTX HPLC population.|
+||Primary Efficacy Parameter|Of the 27 patients in the central MTX HPLC population, 14 (51.9%) achieved a CIR (95% CI: 34.0% to 69.3%). A sensitivity analysis, comprising all patients in the central MTX population with baseline (ie, last pre-glucarpidase) MTX concentration >1 μmol/L, was consistent with the primary analysis of a CIR, in that 10 of 20 patients (50.0%) achieved a CIR (95% CI: 29.9% to 70.1%)|
+||Primary Efficacy|95% Confidence Interval (34.0, 69.3) Mean (SD) 32.73 (53.30) Median 0.98 Min, Max 0.3, 164.9|
+||CIR|All 14 patients who achieved a CIR had their first MTX concentration collected within 60 minutes of glucarpidase dosing; 7 (50.0%) of the 14 patients had their first MTX concentration within 15 minutes post-glucarpidase dosing Sixteen patients had a pre-glucarpidase HPLC MTX concentration ≤50 μmol/L, of whom 13 (81.3%) patients achieved a CIR.|
+||MTX Concentration and CPG2 Dose Effect on CIR|23 patients from HPLC, 12 achieved CIR and 11 did not. Initial CPG2 dose range – 39.41 U/kg to 52.08 U/kg 22/23 had initial CPG2 dose of 50+- 5 U/kg 11/23(47.83%) achieved CIR|
+||MTX Concentration Reduction|20/24 (83.3%) had at least 95% reduction and 19 (79.2%) patients had at least 98% reduction in central laboratory MTX concentration from baseline to first post-CPG2 assessment (median 15 min after first dose) Same percentage (79.2%) had at least 98% reduction at 25 hr after first dose|
+||Rebound|4/27 (14.8%) patients had a rebound in central laboratory MTX concentration from nadir. Max rebound of 1.439 to 2.492 μmol/L occurred between 48.75 to 72.08 hrs after CPG2.|
+
+EMA/CHMP/751047/2021 Page 106/162
+
+
+-----
+
+|Notes|Among the 13 patients who did not achieve a CIR: • 9 (69.2%) patients failed to achieve a CIR because the initial MTX concentration post-glucarpidase was >1 μmol/L (range: 1.344 to 521.753 μmol/L). In 7 of these 9 patients, the baseline MTX concentration (ie, prior to glucarpidase) ranged from 0.05 to 708.351 μmol/L; the baseline MTX concentration was missing for 2 patients. The initial post-glucarpidase MTX concentrations in 6 of these 9 patients showed reductions from baseline of at least 96%; 1 patient (Patient 03-0260) had an increase of 6840.00%, and 2 patients did not have a baseline concentration.|Col3|
+|---|---|---|
+||Secondary Analysis||
+|Analysis description|Change From Baseline in MTX Concentration Over Time, MTX Concentrations, Renal Function and sCr||
+|Descriptive statistics and estimate variability|Treatment group|Central HPLC Population and Local Assay Population|
+||Number of subjects|HPLC – 27 Local Assay - 134|
+||CIR|52.2% of local assay patients achieved CIR, similar to 51.9% of HPLC patients|
+||Subsequent Dosing|Not assessed due to a small sample (n=6) of central HPLC patients receiving a second dose|
+||sCr concentration|Following MTX administration – approximately 3.5-fold increase in mean sCr concentration from pre-MTX (0.82 mg/dL) to baseline (2.79 mg/dL) Following CPG2 administration Through Day 5 – mean sCr concentrations increased to 3.19 mg/dL Through Day 8 – returned below baseline to 2.69 mg/dL Through Day 22 – decreased to 1.38 mg/dL Renal recovery trend similar across all age groups except >65 years, who did not recover to same extent as other age groups|
+
+
+Assessment report
+EMA/CHMP/751047/2021 Page 107/162
+
+
+-----
+
+|Col1|MTX Reduction|Using local assay MTX concentrations, the percentage of patients that achieved MTX concentrations ≤1 μmol/L at the later time points as DAMPA was cleared (eg, ≥1 calendar day [52.2%] and ≥2 calendar days [55.2%] following glucarpidase administration), were similar to results from the central laboratory HPLC assay (51.9%) who achieved a CIR.|
+|---|---|---|
+||sCr|135 patients developed CTC Grade 2 or higher sCr values post-MTX, and didn’t recover below prior to CPG2 administration 50/135 (37%) recovered to Grade 0, median = 20 days 88/135 (65.2%) recovered to at least Grade 1, median = 11 days Median = days since CPG2 administration|
+
+
+***2.6.5.3.*** ***Clinical studies in special populations***
+
+No specific studies have been performed in special populations.
+
+***2.6.5.4.*** ***Analysis performed across trials (pooled analyses and meta-analysis)***
+
+Overall, there were 476 patients in the 4 efficacy studies who received at least 1 dose of glucarpidase
+
+or had evidence of follow-up (safety population). There were 169 (35.5%) patients who had at least 1
+
+post-glucarpidase MTX concentration from a central HPLC assay (central MTX HPLC population), and
+
+422 (88.7%) patients with at least 1 post-glucarpidase MTX concentration from a local assay (local
+
+MTX assay population). Of the 476 patients in the safety population, 447 (93.9%) had at least 1 post
+glucarpidase renal function parameter recorded (renal evaluable population). Also within the safety
+
+population, 330 (69.3%) patients had baseline MTX concentration and renal assessments, enabling
+
+them to be included in the target population, ie, they had confirmation of delayed MTX elimination and
+
+renal dysfunction before glucarpidase dosing.
+
+**Methotrexate Administration**
+
+The median dose of IV MTX was 5.00 g/m2 in all analysis populations, and ranged from 0.01 g/m2 to
+
+40 g/m2. The median duration of MTX administration was also similar across the populations (4.1 to
+
+4.3 hours), and ranged from 1 hour to 51 hours.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 108/162
+
+
+-----
+
+**Pre-glucarpidase MTX Concentration and Renal Function**
+
+The table 26 below summarises baseline (ie, pre-glucarpidase) MTX concentrations and renal function
+
+parameters in the analysis populations.
+
+Median baseline central MTX HPLC concentrations were similar in the safety, central MTX HPLC, local
+
+MTX assay, and renal evaluable populations (11.52 to 12.80 μmol/L), and lower than that in the target
+
+population (21.67 μmol/L). Median baseline local MTX concentrations were similar in the safety, local
+
+MTX assay, and renal evaluable populations (17.49 to 17.86 μmol/L), and lower than in the central
+
+MTX HPLC (22.08 μmol/L) and target (25.50 μmol/L) populations. Differences in median baseline MTX
+
+concentration between the populations and between assay methodologies may reflect the differences
+
+in MTX doses, differences in timing of the baseline assessments, or may be due to the differences in
+
+sample size or other factors within the populations.
+
+Median baseline sCr values were similar in the safety, central MTX HPLC, local MTX assay, and renal
+
+evaluable populations (2.55 to 2.60 mg/dL), and lower than that in the target population (2.70
+
+mg/dL). The percentage of patients with moderate (CrCl ≥15 to <30 mL/minute) and severe (CrCl
+
+<15 mL/minute) renal impairment were similar (approximately 31% and 4%, respectively) in the
+
+safety, central MTX HPLC, local MTX assay, and renal evaluable populations. The target population had
+
+a greater percentage of patients with moderate renal impairment (37%); this was because the target
+
+population only included patients with documented impaired renal function.
+
+**Table 26:** Pre-glucarpidase MTX Concentration and Renal Function.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 109/162
+
+
+-----
+
+**Glucarpidase Administration**
+
+Table 27 below characterises glucarpidase administration in the analysis populations according to
+
+dosage, number of doses recorded, and the time interval between doses.
+
+A first glucarpidase dose (in Units) was recorded for at least 90% of patients in each of the analysis
+
+populations. Among patients for whom the first glucarpidase dose could be normalised by body weight,
+
+the median dose was almost identical across populations (49.50 U/kg to 50.00 U/kg), however, the
+
+dose ranged from 9.80 U/kg to 100.00 U/kg. Approximately 70% of patients in the safety, local MTX
+
+assay, renal evaluable, and target populations received a first glucarpidase dose in the range of ≥40
+
+U/kg to <60 U/kg. A greater percentage of patients in the central MTX HPLC population (approximately
+
+87%) received a first dose in this range.
+
+Among patients for whom the number of glucarpidase doses was recorded, 69.8% to 76.3% of
+
+patients across the populations received 1 dose, 21.7% to 26.6% received 2 doses, and 1.7% to 3.6%
+
+received 3 doses. No patient received more than 3 doses of glucarpidase for rescue treatment after the
+
+study cycle of MTX administration. Across the populations, the median second dose of glucarpidase
+
+was 49.91 U/kg to 50.00 U/kg, and the median third dose of glucarpidase was 48.81 U/kg to 50.00
+
+U/kg. The most common time interval between MTX dosing and the first glucarpidase dose was 3 days,
+
+seen in 41.4% to 42.9% of patients across the populations. The median time interval between IV MTX
+
+dosing and the first glucarpidase dose was 3 days for each population (range: 1 to 13 days).
+
+Assessment report
+EMA/CHMP/751047/2021 Page 110/162
+
+
+-----
+
+**Table 27:** Glucarpidase Administration
+
+**Association between Demographic/Baseline Characteristics and Subgroup Factors**
+
+Demographic and baseline characteristics of patients in the central MTX HPLC population were further
+
+analysed by subgroup factors.
+
+The following differences in demographic and baseline characteristics were observed:
+
+  - Approximately 76% of osteogenic sarcoma patients were <18 years of age, with no osteogenic
+
+sarcoma patients aged ≥65 years, whereas all patients with PCNSL were
+
+Assessment report
+EMA/CHMP/751047/2021 Page 111/162
+
+
+-----
+
+  - ≥18 years of age, with 42.9% of PCNSL patients aged ≥65 years. Most patients with ALL and
+
+NHL were in the adult (≥18 to <65 years) age group (55.2% and 62.5%, respectively);
+
+  - Among patients <12 years of age, the most frequent tumour was osteogenic sarcoma (10
+
+patients) followed by ALL (5 patients). Among patients ≥65 years of age, the most frequent
+
+tumour was PCNSL (6 patients) followed by NHL (4 patients);
+
+  - Most PCNSL, ALL, and NHL patients were male (100.0%, 81.8%, and 77.8%, respectively),
+
+whereas most osteogenic sarcoma patients were female (55.1%);
+
+  - Osteogenic sarcoma patients received a much higher median dose of MTX (12.00 g/m2) than
+
+patients with ALL, NHL or PCNSL (median doses ranged from 3.00 to 3.96 g/m2);
+### −
+
+As a consequence, patients with osteogenic sarcoma had substantially higher median
+
+pre-glucarpidase MTX concentrations (76.65 µmol/L) than patients with ALL, NHL or
+
+PCNSL (median concentrations ranged from 4.60 to 5.75 µmol/L) by the central HPLC
+
+assay; −
+
+Also, a higher percentage of osteogenic sarcoma patients received a second dose of
+
+glucarpidase (37.0%) than did patients with NHL, ALL and PCNSL (15.0%, 13.3% and
+
+7.1%, respectively). This was due to protocol design requirements in the individual
+
+studies: generally patients in Studies 002 and 006 received a second dose of
+
+glucarpidase if they had high baseline MTX concentrations, and patients in Studies 001
+
+and 003 received additional doses if they had high MTX concentrations after
+
+glucarpidase;
+
+  - A higher percentage of PCNSL and osteogenic sarcoma patients had moderate or severe (CrCl
+
+<30 mL/minute) renal impairment (57.1% and 40.5%, respectively) than did patients with ALL
+
+and NHL (31.0% and 21.6%, respectively). This is likely to be a consequence of the higher
+
+proportion of elderly patients with PCNSL, and the higher pre-glucarpidase MTX concentrations
+
+in patients with osteogenic sarcoma;
+
+  - A higher percentage of osteogenic sarcoma patients (26.1%) had hepatic impairment (bilirubin
+
+>3 x ULN) than did patients with PCNSL, ALL and NHL (0.0%, 5.3%, and 16.7%, respectively).
+
+This is likely to be a consequence of chemical hepatitis induced by the higher pre-glucarpidase
+
+MTX concentrations in patients with osteogenic sarcoma;
+
+  - A higher percentage of PCNSL and NHL patients (35.7% and 28.2%, respectively) received
+
+glucarpidase more than 4 days after MTX administration than did osteogenic sarcoma and ALL
+
+patients (19.2% and 20.7%, respectively).
+
+In summary, the differences in patient characteristics and baseline values described above are inter
+associated and result in the potentially unequal distribution of pre-glucarpidase MTX concentrations
+
+among the different subsets of patients treated in the integrated efficacy studies. Examples of these
+
+inter-associations include:
+
+  - Younger patients and female patients had higher pre-glucarpidase MTX concentrations due to
+
+the larger proportion of osteogenic sarcoma disease in these groups, and the higher doses of
+
+MTX administered;
+
+  - Patients who were treated with glucarpidase earlier were those who had higher pre
+glucarpidase MTX concentrations;
+
+  - Patients who received multiple doses of glucarpidase tended to have higher pre-glucarpidase
+
+MTX concentrations, and therefore received the additional doses by protocol design;
+
+Assessment report
+EMA/CHMP/751047/2021 Page 112/162
+
+
+-----
+
+  - Patients that were moderately or severely renally impaired had higher pre- glucarpidase MTX
+
+concentrations; and
+
+  - Patients with hepatic impairment also tended to have higher pre-glucarpidase MTX
+
+concentrations.
+
+***Comparison of Efficacy Results of all Studies***
+
+**Evaluations of MTX Concentration**
+
+**Clinically Important Reduction (CIR) in MTX Concentration – Primary Efficacy Endpoint**
+
+**(Central MTX HPLC Assays)**
+
+The primary efficacy endpoint was the proportion of patients who achieved a CIR in plasma MTX
+
+concentration based upon the central laboratory HPLC assays, ie, all central HPLC MTX plasma
+
+concentrations after the first dose of glucarpidase were ≤1 µmol/L. Table 28 summarises the number
+
+of patients (with a 95% CI) in the central MTX HPLC and target populations who achieved a CIR, and
+
+the time to the first post-glucarpidase MTX concentration that was ≤1 μmol/L, with all subsequent MTX
+
+concentrations ≤1 μmol/L.
+
+A CIR was achieved by 104 of 169 (61.5%) patients in the central MTX HPLC population (CI: 54.0% to
+
+68.5%), and by 60 of 115 (52.2%) patients in the target population (CI: 43.1% to 61.1%). The
+
+median time to the first post-glucarpidase MTX concentration ≤1 μmol/L was 15 minutes (0.25 hours)
+
+in both populations, and ranged from 0.1 hour to 325 hours.
+
+**Table 28:** Clinically Important Reduction (CIR) – Central MTX HPLC Assay
+
+Sensitivity analyses were conducted on the central MTX HPLC and target populations. The first analysis
+
+looked at patients who had a baseline (last pre-glucarpidase) MTX concentration >1 μmol/L. Results of
+
+this analysis were consistent with the primary analysis of a CIR in both the central MTX HPLC
+
+population, in which 83 of 140 patients (59.3%) achieved a CIR (95% CI: 51.0% to 67.1%), and in
+
+the target population, in which 48 of 96 patients (50.0%) achieved a CIR (95% CI: 40.2% to 59.8%).
+
+In addition, because the primary analysis of a CIR included a patient even if there was only1 post
+glucarpidase MTX concentration available, a sensitivity analysis was conducted on all patients who had
+
+at least 1 MTX concentration ≤2 hours after the first glucarpidase dose and at least 1 MTX
+
+concentration ≥24 hours after the first glucarpidase dose. Results of this more restrictive analysis were
+
+Assessment report
+EMA/CHMP/751047/2021 Page 113/162
+
+
+-----
+
+again consistent with the primary analysis, and confirmed an immediate and sustained reduction in
+
+MTX concentration: 70 of 125 patients (56.0%) in the central MTX HPLC population achieved a CIR
+
+(95% CI: 47.2% to 64.4%), and 43 of 90 patients (47.8%) in the target population achieved a CIR
+
+(95% CI: 37.8% to 58.0%).
+
+The achievement of a CIR (yes/no) was also plotted according to the first glucarpidase dose and pre
+glucarpidase MTX concentration in the central MTX HPLC population. Patients who had a pre
+
+glucarpidase MTX concentration >50 μmol/L were less likely to achieve a CIR than were patients with a
+
+concentration ≤50 μmol/L. Therefore, pre-glucarpidase (baseline) MTX concentration appeared to be
+
+an important factor in achieving a CIR. Additionally, within the range of glucarpidase doses
+
+administered, the dose of glucarpidase administered did not appear to influence the achievement of
+
+CIR.
+
+**Figure 13** Patient Achievement of a CIR by First Glucarpidase Dose and Pre- glucarpidase MTX
+
+Concentration - Central MTX HPLC Population
+
+An exploratory analysis was conducted to characterize the patients in the central MTX HPLC and target
+
+populations who did not achieve a CIR (Table 29). The number and percent were determined for
+
+patients with first post-glucarpidase MTX concentrations >1 μmol/L, or first post-glucarpidase MTX
+
+concentrations ≤1 μmol/L but with subsequent concentrations >1 μmol/L.
+
+Of the 65 patients in the central MTX HPLC population who did not achieve a CIR, 39 did not achieve a
+
+CIR because the immediate reduction in MTX, as measured by the first post- glucarpidase MTX
+
+concentration, was >1 μmol/L. For the remaining 26 patients who did not achieve a CIR, there was an
+
+immediate reduction in MTX concentration to ≤1 μmol/L after the first glucarpidase dose, but
+
+subsequent MTX concentrations were >1 μmol/L. For the 65 patients who did not achieve a CIR, the
+
+median maximum deviation from a MTX concentration of 1 μmol/L was 1.03 μmol/L.
+
+An additional assessment in patients who did not achieve a CIR was performed to determine whether
+
+MTX concentrations were eventually reduced to below 1 μmol/L and were sustained. In both the
+
+central MTX HPLC and target populations, post-glucarpidase MTX concentrations<1 μmol/L were
+
+achieved and sustained during the follow-up period in approximately 62% of patients.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 114/162
+
+
+-----
+
+**Table 29:** Characteristics of Patients Who Did Not Achieve a CIR - Central MTX HPLC Assay
+
+**Clinically Important Reduction (CIR) by Subgroups – Central MTX HPLC Assay**
+
+The number and percentage of patients who achieved a CIR is summarised by subgroup factors.
+
+Additionally, prediction modelling using single factor and multivariate logistic regression was performed
+
+to evaluate the potential factors that could affect the achievement of a CIR. Summaries and analyses
+
+of CIR by subgroup factors gave the same conclusions for both for the central MTX HPLC and target
+
+populations.
+
+**Figure 14** Factor Effects on CIR - Central MTX HPLC Population
+
+CIR by Last Pre - glucarpidase MT X Co nc e ntr ation Group (Central Assay)
+
+An analysis of CIR by the last pre-glucarpidase central MTX concentration (10 μmol/L categories,
+
+ranging from <10 μmol/L to ≥50 μmol/L) clearly demonstrated that patients with lower pre
+Assessment report
+EMA/CHMP/751047/2021 Page 115/162
+
+
+-----
+
+glucarpidase MTX concentrations were more likely to achieve a CIR. The single factor logistic
+
+regression analysis also demonstrated that baseline MTX concentration was a statistically significant (P
+
+<0.001) factor in achieving a CIR, with an OR, corresponding to a 10 μmol/L increase in MTX
+
+concentration, of 0.56 in the central MTX HPLC population; ie, the odds of achieving a CIR decreased
+
+by 44% for every 10 μmol/L increase in MTX concentration.
+
+CIR by Tumour Type
+
+Patients diagnosed with osteogenic sarcoma were the least likely to achieve a CIR, with only 29.6% of
+
+osteogenic sarcoma patients achieving a CIR compared to 77.5% to 85.7% of patients with ALL, NHL,
+
+and PCNSL in the central MTX HPLC population. This same pattern was observed when tumour type
+
+was evaluated by age group.
+
+Single factor logistic regression analysis also showed that achievement of a CIR was statistically
+
+significantly (P <0.001) different between tumour types, with ORs, comparing ALL, NHL and PCNSL
+
+against osteogenic sarcoma, of 8.18 to 14.25 in the central MTX HPLC population; ie, the odds of
+
+achieving a CIR were approximately 8- to 14- fold greater for ALL, NHL and PCNSL than for osteogenic
+
+sarcoma. This result is likely to be a consequence of osteogenic sarcoma patients having higher
+
+baseline MTX concentrations.
+
+CIR by Age
+
+The percentage of patients achieving a CIR increased with age, from 29.4% in patients <12 years of
+
+age achieving a CIR to 100.0% of patients ≥65 years of age in the central MTX HPLC population. The
+
+single factor logistic regression analysis also showed that age was a statistically significant (P <0.001)
+
+factor in achieving a CIR, with an OR, corresponding to a 10 year increase in age, of 1.57 in the central
+
+MTX HPLC population; ie, the odds of achieving a CIR increased by 57% for every 10 year increase in
+
+age. This result is likely to be a consequence of younger patients, who tended to have osteogenic
+
+sarcoma, having higher baseline MTX concentrations.
+
+The table below presents the data from the paediatric population:
+
+**Table 30**
+
+CIR by Total Number of Glucarpi d a s e D oses
+
+A higher percentage of patients who received 1 dose of glucarpidase (69.5%) achieved a CIR,
+
+compared to patients who received 2 doses of glucarpidase (46.7%) in the central MTX HPLC
+
+population. Of the few patients who received 3 doses of glucarpidase, there was only 1 patient in the
+
+central MTX HPLC population (16.7%) who achieved a CIR. Single factor logistic regression analysis
+
+also showed that the number of doses of glucarpidase was a statistically significant factor (P=0.005 for
+
+the central MTX HPLC population) in achieving a CIR, with an OR, comparing 1 and 2 doses, of 0.38 in
+
+the central MTX HPLC population; ie, the odds of achieving a CIR were 62% lower for patients who
+
+received 2 doses of glucarpidase compared to patients who received a single dose. This result is likely
+
+due to higher baseline MTX concentrations in osteogenic sarcoma patients, who tended to receive 2
+
+doses by protocol design as a consequence of their high MTX concentrations.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 116/162
+
+
+-----
+
+CIR by Interval between Sta r t of M TX and F irst Glucarpidase Dose
+
+The percentage of patients in the central MTX HPLC population who achieved a CIR increased from a
+
+low of 40.0% for those who received glucarpidase 2 days after MTX to a high of 77.1% for those who
+
+received glucarpidase 4 days after MTX. Single factor logistic regression showed that the number of
+
+days between MTX and glucarpidase was a statistically significant factor (P=0.025 for the central MTX
+
+HPLC population) in achieving a CIR, with an OR, corresponding to a 1 day delay in administering
+
+glucarpidase, of 1.32; ie, the odds of achieving a CIR increased by 32% for every 1 day delay in
+
+administering glucarpidase. This result is likely due to higher baseline MTX concentrations in
+
+osteogenic sarcoma patients, who tended to receive glucarpidase earlier than other patients.
+
+CIR by Last Pre - glucarpidase Cal cul ated C r Cl Group
+
+An assessment of the potential impact of pre-glucarpidase renal status (as measured by last pre
+glucarpidase calculated CrCl) on CIR demonstrated that the percentage of patients who achieved a CIR
+
+was lower in patients with worse renal function, and improved as renal function improved. Single factor
+
+logistic regression analysis showed a significant association (P=0.027) between last pre-glucarpidase
+
+calculated CrCl and the achievement of a CIR, with an OR, corresponding to a 10 mL/minute increase
+
+in CrCl, of 1.20 in the central MTX HPLC population; ie, the odds of achieving a CIR increased by 20%
+
+for every 10 mL/minute increase in CrCl. This result is likely to be due, in part, to higher baseline MTX
+
+concentrations in osteogenic sarcoma patients who had worse renal function.
+
+CIR by First Dose of Glucarpi d ase (Do s e R a nges)
+
+In an assessment of CIR based on the first dose of glucarpidase (by dose ranges), no consistent trend
+
+was detected. However, when the achievement of a CIR was calculated for all patients in the central
+
+MTX HPLC population who received <40 U/kg, 70.6% (12 of 17) of patients achieved a CIR, compared
+
+with 66.7% (39 of 169) of patients in the ≥40 to <50 U/kg dose group, and 56.7% (90 of 169) of
+
+patients in the ≥50 to <60 U/kg dose group. These results suggest that doses above 40 U/kg did not
+
+necessarily result in increased achievement of a CIR. Single factor logistic regression analysis similarly
+
+did not show any evidence of an association between the first glucarpidase dose and the achievement
+
+of a CIR.
+
+CIR by Patient Sex
+
+Male patients were more likely to achieve a CIR, with 64.4% of male patients achieving a CIR
+
+compared to 35.0% of female patients in the central MTX HPLC population. This result is likely due to
+
+lower baseline MTX concentrations in patients with ALL, NHL and PCSNL, who were more likely to be
+
+male.
+
+CIR by Hepatic Function
+
+Patients with hepatic impairment (ie, last pre-glucarpidase bilirubin >3 x ULN) were less likely to
+
+achieve a CIR, with 29.4% of hepatically impaired patients achieving a CIR compared to 61.0% of
+
+patients who did not have this level of hepatic impairment in the central MTX HPLC population. This
+
+result is likely to be due, in part, to higher baseline MTX concentrations in osteogenic sarcoma patients
+
+who had worse hepatic function.
+
+CIR by Race
+
+Of the 27 patients with race recorded in the central MTX HPLC population, a similar percentage of
+
+Caucasian patients achieved a CIR (50.0%) compared to non-Caucasian patients (66.7%).
+
+Overall Subgroup Evaluation
+
+Assessment report
+EMA/CHMP/751047/2021 Page 117/162
+
+
+-----
+
+Patient demographic characteristics and baseline factors that were individually considered as factors
+
+influencing achievement of a CIR (ie, significant at the 10% level in single factor logistic regression
+
+analyses) were further analysed using a stepwise multivariate logistic regression. The final multivariate
+
+logistic regression model indicated that the baseline MTX concentration was the only factor that
+
+impacted the patient’s achievement of a CIR. This result suggests that the other factors, while
+
+statistically significantly associated with a CIR in the single factor logistic regression analyses (ie,
+
+tumour type, age, the number of doses of glucarpidase, the number of days between MTX and
+
+glucarpidase administration, and pre- glucarpidase CrCl), are themselves associated with baseline MTX
+
+concentrations. Similarly, when the number and percentage of patients who achieved a CIR are
+
+stratified by baseline MTX concentration below 50 μmol/L and ≥50 μmol/L, the effect of these factors is
+
+largely diminished or no longer apparent. The final multivariate logistic regression model showed that
+
+with an increase of 10 µmol/L in the baseline MTX concentration, the odds of achieving a CIR
+
+decreased by 44% (ie, an OR of 0.56).
+
+Based on the final multivariate logistic regression model in the central MTX HPLC population, the
+
+predicted probability of achieving a CIR for a patient can be estimated from his/her pre- glucarpidase
+
+MTX concentration. Predicted probabilities of achieving a CIR are shown in the below table for the
+
+median, 25th and 75th percentiles of the central assay pre-glucarpidase MTX concentrations, and also
+
+for the median of the local assay pre-glucarpidase MTX concentrations.
+
+Although the median pre-glucarpidase MTX concentration as measured by local assays (17.49 μmol/L)
+
+is slightly greater than the median for the central HPLC assays (11.519 μmol/L), resulting in slightly
+
+different predicted probability of achieving a CIR, this is likely due to differences in collection times of
+
+plasma samples for central and local assays.
+
+Due to skewness of the pre-glucarpidase MTX HPLC concentration distribution (on which the
+
+multivariate model was based), and approximately only 35% of patients in the safety population
+
+having HPLC data available, the prediction of the proportion of patients who achieved a CIR needs to
+
+be interpreted with caution. On the other hand, the baseline characteristics were similar between the
+
+safety population and the central HPLC MTX population; therefore, there is no reason to expect a
+
+different outcome on the achievement of a CIR.
+
+**Table 31:** Predicted Probabilities of Achieving a CIR for Different Pre-glucarpidase MTX concentrations
+
+– Using Central MTX HPLC Population Logistic Regression Model
+
+**Evaluation of MTX Concentration Reduction**
+
+***Change from Baseline in MTX Concentration - Central MTX HPLC Assay***
+
+The median MTX concentration at baseline was 11.68 μmol/L for the patients in the central MTX HPLC
+
+population. The median MTX concentrations at all time points through 8 days after the first dose of
+
+glucarpidase were <1 μmol/L (Figure 3.2.12.3). In clinical studies, treatment with glucarpidase
+
+produced a rapid and sustained reduction in plasma MTX level in patients with elevated plasma MTX
+
+concentrations (Figure 3.2.12.4). The initial reduction in MTX concentration was generally >95% and
+
+Assessment report
+EMA/CHMP/751047/2021 Page 118/162
+
+
+-----
+
+occurred within the first 15 to 30 minutes following administration. Thereafter, plasma MTX
+
+concentration increased modestly over the next 3 days, probably representing a redistribution of MTX
+
+from extracellular to intravascular compartments, before it is eventually cleared from the body.
+
+**Figure 3.2.12.3.** Median (with Inter-Quartiles) MTX Concentration by Time - Central MTX HPLC
+
+Population
+
+At the first MTX concentration post-glucarpidase (at a median of 15 minutes after glucarpidase) in the
+
+central MTX HPLC population, the median MTX concentration was 0.16 μmol/L and the median
+
+reduction was 98.81%. When assessed at the time the last post-glucarpidase concentration was
+
+measured (at a median of 40.25 hours after glucarpidase), the median MTX concentration was 0.17
+
+μmol/L and the median reduction was 98.61%. Individual patient responses (from pre- glucarpidase to
+
+first post-glucarpidase dose) plotted for patients in the central MTX HPLC population with pre
+glucarpidase MTX concentrations <50 μmol/L or ≥50 μmol/L illustrate the consistent trend of
+
+immediate MTX reductions. Similar results were seen in the target population. Results in the target
+
+population were similar to those in the central MTX HPLC population, although the median MTX
+
+concentration at baseline was higher at 21.80 μmol/L. The median MTX concentrations in the target
+
+population were also <1 μmol/L at all time points through 8 days after the first dose of glucarpidase,
+
+and median reductions at the first and last measurement were 99.89% and 98.80%, respectively.
+
+**Table 32:** Summary of MTX Concentrations (μmol/L) by Time Point - Central MTX HPLC Assay
+
+Population
+
+Assessment report
+EMA/CHMP/751047/2021 Page 119/162
+
+
+-----
+
+The number and percentage of patients who achieved at least a 80%, 85%, 90%, 95% and 98%
+
+reduction from baseline concentration when assessed at the time the first, peak, nadir, and last post
+glucarpidase concentrations were measured (by central HPLC assay) are summarised for the central
+
+MTX HPLC and target populations in Table 33. These results are also presented graphically in Figure
+
+3.2.12.4. for the central MTX HPLC population.
+
+Of 156 patients in the central MTX HPLC population with both a baseline and a post-baseline MTX
+
+concentration, 136 (87.2%) of the patients had at least a 95% reduction in MTX concentration from
+
+baseline at the first post-glucarpidase measurement, and 123 (78.8%) patients had at least a 95%
+
+reduction at the last MTX concentration measurement. Considering each patient’s highest post
+glucarpidase value, 110 (70.5%) patients had at least a 95% reduction in MTX concentration. Results
+
+were similar for patients in the target population.
+
+Overall, these results demonstrated that the effect of glucarpidase in reducing MTX concentrations was
+
+both immediate and sustainable.
+
+**Table 33:** Summary of MTX Concentration Reduction – Central MTX HPLC Assay
+
+Assessment report
+EMA/CHMP/751047/2021 Page 120/162
+
+
+-----
+
+**Figure 3.2.12.4.** Percentage of Patients Achieving MTX Reductions by Percent Reduction from Pre
+glucarpidase MTX Concentration - Central MTX HPLC Population
+
+**Evaluation of MTX Concentration Reduction by Subgroups – Central MTX HPLC Assay**
+
+The percentage reduction from the baseline MTX concentration to the first post-glucarpidase MTX
+
+concentration was also summarised by subgroup factors, and the results are discussed below. As for
+
+the subgroup analysis of CIR, differences in percentage reduction in MTX concentrations between
+
+subgroup factors, described below, are actually likely to be due to differences in baseline MTX
+
+concentration between the subgroup factors.
+
+Summaries and analyses of percentage MTX reduction by subgroup factors generally gave the same
+
+conclusions for both for the central MTX HPLC and target populations.
+
+MTX Concentration Reduction by Last P re- glucarpidase MTX Concentration
+
+An analysis of MTX concentration reduction by baseline MTX concentration showed that 97.8% of
+
+patients (44 of 45 patients) in the central MTX HPLC population with a baseline MTX concentration ≥50
+
+μmol/L had at least a 95% initial reduction in MTX concentration, compared to 82.9% of patients (92
+
+of 111 patients) with a baseline concentration <50 μmol/L. Similarly, there was a reduction of at least
+
+95% at the last measured MTX concentration in 97.8% of patients with a baseline MTX concentration
+
+≥50 μmol/L, compared to 71.2% of patients with a baseline concentration <50 μmol/L . Therefore it
+
+appears that patients with higher baseline MTX concentrations had higher percentage reductions in
+
+MTX concentrations.
+
+Figure 3.2.12.5. presents the percent reduction in MTX concentration from pre-glucarpidase MTX
+
+concentrations to first post-glucarpidase MTX concentration, after a single dose of glucarpidase in the
+
+central MTX HPLC population, with each symbol representing 1 patient. Regardless of the starting MTX
+
+concentration, nearly all patients experienced a reduction in MTX concentration of at least 85%. Thus,
+
+although a CIR was achieved in slightly more than half of all treated patients, and occurred mostly in
+
+patients with MTX concentrations <50 µmol/L, nearly all patients responded to glucarpidase with a
+
+substantial percent reduction in MTX concentration, and this occurred regardless of the starting
+
+concentration of MTX.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 121/162
+
+
+-----
+
+**Figure 3.2.12.5.** MTX Reduction from Pre-glucarpidase MTX Concentration to First Post- glucarpidase
+
+Concentration after a Single Glucarpidase Dose by the Pre- glucarpidase MTX Concentration - Central
+
+MTX HPLC Population
+
+Patients with a baseline MTX concentration ≥50 μmol/L were unlikely to achieve a CIR. However, in
+
+these patients, the initial reduction in MTX concentration was at least 95% in all except 1 patient, and
+
+the reduction at the last MTX concentration was at least 95% in approximately 98% of patients in the
+
+central MTX HPLC population.
+
+MTX Concentration Reduction by T u m ou r T ype
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial reduction
+
+in MTX concentration from baseline was greater for patients with osteogenic sarcoma (96.0%) than for
+
+patients with ALL, NHL and PCNSL (82.8%, 83.8% and 84.6%, respectively).
+
+There was a similar difference between tumour types when MTX reduction was assessed at the time of
+
+the peak, nadir, and last concentrations.
+
+MTX Concentration Reduction by Age Gr ou p s
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial reduction
+
+in MTX concentration from baseline was slightly lower in patients in the ≥18 to <65 years age group
+
+(85.1%) compared to patients in the younger and older age groups (90.6% to 93.3%). There was a
+
+similar difference between age groups when MTX reduction was assessed at the time of the peak,
+
+nadir, and last concentrations.
+
+MTX Concentration Reduction by I n terval b etween Start of MTX and First Dose of Glucarpidase
+
+A subgroup analysis of MTX concentration reduction by the interval between the start of MTX dosing
+
+and the first dose of glucarpidase suggested that patients treated later with glucarpidase (>4 days
+
+after MTX) were less likely to have a ≥95% reduction, as assessed at first, peak, nadir and last
+
+concentrations, compared to patients who were treated earlier. A ≥95% initial reduction in MTX
+
+concentration was seen in 80.6% of patients in the central MTX HPLC population who received
+
+glucarpidase >4 days after MTX, compared to 94.1%, 88.3% and 96.9% of patients who received
+
+glucarpidase 2, 3 and 4 days after MTX, respectively. There was a similar difference between patients
+
+Assessment report
+EMA/CHMP/751047/2021 Page 122/162
+
+
+-----
+
+treated earlier and later with glucarpidase when MTX reduction was assessed at the time of the peak,
+
+nadir, and last concentrations.
+
+MTX Concentration Reduction by Last P re- glucarpidase Calculated CrCl
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial reduction
+
+in MTX concentration from baseline was slightly lower for patients with CrCl ≥60 mL/minute (82.1%)
+
+than for patients with CrCl <60 mL/minute (95 of 107 [88.8%] patients). There was a similar
+
+difference between CrCl levels when MTX reduction was assessed at the time of the peak, nadir, and
+
+last concentrations.
+
+MTX Concentration Reduction b y Fi rs t Do se of Glucarpidase
+
+A similar percentage of patients in the central MTX HPLC population who received a first glucarpidase
+
+dose of ≥40 to <60 U/kg had at least a 95% initial reduction in MTX concentration from baseline
+
+(88.0%) compared to patients who received a dose of <40 U/kg (88.2%) (3.3.44). Similar results
+
+were also obtained when MTX reduction was assessed at the time of the peak, nadir, and last
+
+concentrations. Therefore, it does not appear that the dose of glucarpidase had an effect on reduction
+
+of MTX concentration.
+
+**Table 34:** Summary of MTX Concentration Reduction by First Dose of Glucarpidase Range of Values 
+Central MTX HPLC Assay
+
+The percent reduction in MTX concentration from pre-glucarpidase MTX concentrations to first post
+glucarpidase MTX concentration after a single dose of glucarpidase in the central MTX HPLC population
+
+was independent of the dosage of glucarpidase administered (Figure 3.2.12.6).
+
+Similar results were seen in the target population.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 123/162
+
+
+-----
+
+**Figure 3.2.12.6.** MTX Reduction from Pre-glucarpidase MTX Concentration to First Post- glucarpidase
+
+Concentration after a Single Glucarpidase Dose by the First Dose of Glucarpidase - Central MTX HPLC
+
+Population
+
+MTX Concentration Reduction b y S ex
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial reduction
+
+in MTX concentration from baseline was slightly lower in males (87.5%) compared to females (97.4%).
+
+A similar trend was observed when MTX reduction was assessed at the time of the peak, nadir, and
+
+last concentrations, with ≥95% reductions in the last concentration seen in 76.8% of males and 92.1%
+
+of females.
+
+MTX Concentration Reduction by Hepati c I mpairment
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial reduction
+
+in MTX concentration from baseline was similar in patients who were hepatically impaired (i.e., last
+
+pre-glucarpidase bilirubin >3 x ULN) (82.4%), compared to patients who did not have this level of
+
+hepatic impairment (87.9%). Similar results were also obtained when MTX reduction was assessed at
+
+the time of the peak, nadir, and last concentrations.
+
+MTX Concentration Reduction b y R ac e
+
+Of the 25 patients with race recorded who could be assessed for MTX concentration reduction in the
+
+central MTX HPLC population, a similar percentage of Caucasian patients had at least a 95% initial
+
+reduction in MTX concentration from baseline (90.9%) compared to non-Caucasian patients (100.0%).
+
+Similar results were also obtained when MTX reduction was assessed at the time of the peak, nadir,
+
+and last concentrations.
+
+MTX Concentration Reduction by Total Num ber of Glucarpidase Doses
+
+The percentage of patients in the central MTX HPLC population who had at least a 95% initial MTX
+
+reduction was similar for patients who got a single dose (85.6%) compared to patients who got 2
+
+doses (89.7%). When assessed at the last MTX concentration, 74.8% of patients who received a single
+
+dose had at least a 95% reduction, compared to 87.2% of patients who received 2 doses. However,
+
+since assessments after the second dose of glucarpidase were excluded, this analysis does not allow an
+
+assessment of the effect of subsequent doses of glucarpidase on MTX reduction.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 124/162
+
+
+-----
+
+**Evaluation of MTX Concentration (Local MTX Assay)**
+
+***Evaluation of Patients Who Achieved MTX Concentration ≤1 μmol/L***
+
+The method for evaluating efficacy in the local MTX assay population was modified because DAMPA
+
+interferes with the assessment of MTX concentration in the initial samples. For the local MTX assay
+
+population, achievement of all MTX concentrations ≤1 μmol/L was assessed after excluding early MTX
+
+concentration measurements likely to be unreliable due to interference with DAMPA (i.e., excluding all
+
+values within approximately 1 day of glucarpidase dosing, and separately by excluding all values within
+
+approximately 2 days of glucarpidase dosing). The methodology differed slightly among the studies.
+
+For Studies 001 and 003, where the local assay sampling times were usually clearly recorded,
+
+achievement of all MTX concentrations ≤1 μmol/L was assessed after excluding all MTX concentrations
+
+that were within 24 hours of the first glucarpidase dose. Therefore, in these studies, a patient was
+
+counted as achieving all MTX concentrations ≤1 μmol/L if all local MTX concentrations post-24 hours
+
+were ≤1 µmol/L. For Studies 002 and 006, due to missing sampling times, achievement of all MTX
+
+concentrations ≤1 μmol/L was assessed after excluding all concentrations on the same day and on the
+
+day after the first glucarpidase dose.
+
+Of the 422 patients in the local MTX assay population, 243 (57.6%) patients achieved all MTX
+
+concentrations ≤1 μmol/L which is comparable to the 61.5% of patients in the central MTX HPLC
+
+population who achieved a CIR (see Table 28) . The percentage of patients who achieved all local assay
+
+MTX concentrations ≤1 μmol/L in the target population was slightly lower (52.0%).
+
+**Table 35:** Patient Achievement of All MTX Concentrations ≤1 µmol/L >24 Hours or ≥2 Days After
+
+Glucarpidase Dose - Local MTX Assay
+
+**Evaluation of Patients Who Achieved MTX Concentration ≤1 μmol/L by Glucarpidase Dose**
+
+**(Local MTX Assay)**
+
+The percentage of patients who achieved all MTX concentrations ≤1 μmol/L was 66.9% (83 of 124) of
+
+patients who received <40 U/kg, compared with 52.7% (49 of 93) of patients in the ≥40 to <50 U/kg
+
+dose group, and 55.6% (99 of 178) of patients in the ≥50 to <60 U/kg dose group. As with the central
+
+assay assessment of a CIR, the local assay results suggest that doses above 40 U/kg did not result in
+
+increased achievement of all MTX concentrations ≤1 μmol/L.
+
+**Change from Baseline in MTX Concentration Over Time (Local MTX Assay)**
+
+Changes from baseline in local assay MTX concentrations over time were assessed in the local MTX
+
+assay and target populations.
+
+The median MTX concentration at baseline (pre-glucarpidase) was 17.40 μmol/L for patients in the
+
+local MTX assay population. At 15 minutes, 30 minutes, 60 minutes, 120 minutes, and 4 hours after
+
+the first glucarpidase dose, the median MTX concentrations were 5.14 μmol/L, 6.10 μmol/L, 4.67
+
+μmol/L, 5.58 μmol/L, and 4.67 μmol/L, respectively, with corresponding median reductions from
+
+baseline of 75.33%, 73.11%, 74.22%, 77.20%, and 84.82%, respectively. Of note, while there were
+
+399 patients at baseline in the local MTX assay population (i.e., patients who had baseline and at least
+
+Assessment report
+EMA/CHMP/751047/2021 Page 125/162
+
+
+-----
+
+1 post-baseline value), at these subsequent post-glucarpidase time points of 15 minutes through 4
+
+hours, the number of patients ranged from only 34 to 67, which could have contributed to higher
+
+variability in the MTX concentration values. In addition, given the interference from DAMPA at these
+
+early post-glucarpidase time points, the data must be interpreted with caution.
+
+Subsequently, at all-time points from Day 1 through Day 22, the local assay median MTX
+
+concentrations consistently decreased to values <1 μmol/L, from a high of 0.88 μmol/L at Day 1 to a
+
+low of 0.05 μmol/L at Day 22. Correspondingly, median reductions from baseline consistently increased
+
+from a low of 90.46% at Day 1 to a high of 99.83% at Day 22.
+
+Furthermore, the inter-quartile ranges for the local median MTX population remained below 1 μmol/L
+
+beginning on Day 4 and continuing through Day 22.
+
+At the first, peak (highest), nadir (lowest), and last assessments post-glucarpidase, median local MTX
+
+concentrations in the local MTX assay population were 2.25 μmol/L, 3.30 μmol/L, 0.13 μmol/L, and
+
+0.15 μmol/L, respectively, with corresponding median reductions from baseline of 83.17%, 82.04%,
+
+98.37%, and 98.22%, respectively.
+
+**Figure 3.2.12.7.** Median (with Inter-Quartiles) MTX Concentration by Time - Local MTX Assay
+
+Population
+
+For patients in the target population, the median MTX concentration at baseline (pre- glucarpidase)
+
+was 25.00 μmol/L, which was higher than that in the local MTX assay population (17.40 μmol/L).
+
+Although median MTX concentrations post-glucarpidase were generally slightly higher in the target
+
+population than in the local MTX assay population, and the corresponding median percent reductions
+
+were generally lower, the overall trend in MTX reduction over time for the target population was similar
+
+to that for the local MTX assay population. Median MTX concentrations in the local MTX assay
+
+population were reduced to <1 μmol/L by Day 1 (0.98 μmol/L), and steadily decreased to a low of 0.05
+
+μmol/L by Day 22. The corresponding percent reductions also steadily increased over this time frame,
+
+from 90.34% at Day 1 to 99.83% at Day 22. The inter-quartile ranges for the target remained at or
+
+below 1 μmol/L from Day 4 through Day 22.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 126/162
+
+
+-----
+
+***MTX and DAMPA Concentrations***
+
+Prior to administration of glucarpidase, median local and central MTX concentrations were very similar.
+
+Immediately following glucarpidase administration and at early time points (up to 4 hours), median
+
+local assay MTX levels were significantly elevated above central assay levels due to the assay
+
+interference caused by DAMPA. At the 24 hour time point, local assay MTX levels decreased to a
+
+median concentration of approximately 1 µmol/L. The local assay MTX levels approached central assay
+
+levels at 48 hours, which is consistent with DAMPA interference and elimination within the 48 hours
+
+post-glucarpidase administration. The DAMPA levels spiked after glucarpidase administration, and
+
+decreased to a median level of approximately 1 µmol/L at 24 hours, and continued to decrease to
+
+approximately a median concentration of 0.3 µmol/L at 48 hours.
+
+**Figure 3.2.12.8.** Median (with Inter-Quartiles) MTX and DAMPA Concentrations Over Time (Up to 48
+
+Hours) – Central and Local MTX Assay Populations
+
+***Local MTX Concentration Reduction by Glucarpidase Dose Groups***
+
+An analysis of local MTX concentration reduction, in the first concentration 24 hours after the
+
+glucarpidase dose for Studies 001 and 003, and in the first concentration ≥2 days after the
+
+glucarpidase dose for Studies 002 and 006, was performed by first glucarpidase dose groups (10 U/kg
+
+categories, ranging from <10 U/kg to ≥60 U/kg). This analysis did not reveal a consistent trend in MTX
+
+reduction across these dosing categories in either the local MTX assay or target populations. In
+
+addition, this effect can be subject to variations in the local assay plasma collection times (both the
+
+pre-glucarpidase baseline and first post-glucarpidase concentrations) used in this analysis. When all
+
+patients in the local MTX assay population with a first glucarpidase dose of <40 U/kg were assessed,
+
+35.0% (42 of 120 patients) had a ≥95% MTX reduction, which is similar to 34.2% (88 of 257 patients)
+
+who received a first glucarpidase dose of ≥40 to <60 U/kg. Therefore, it does not appear that the dose
+
+of glucarpidase had an effect on reduction of MTX concentration.
+
+**Table 36:** Local MTX Concentration Reduction by Glucarpidase Dose Groups - Local MTX Assay
+
+Population (Patients with Both Baseline and Post Baseline MTX Concentrations
+
+Assessment report
+EMA/CHMP/751047/2021 Page 127/162
+
+
+-----
+
+**Overall Summary of CIR and Percent MTX Reduction in Central MTX HPLC and Local MTX**
+
+**Assay Populations**
+
+Table 37 summarises the achievement of all MTX concentrations ≤1 μmol/L (i.e., achievement of a CIR
+
+with the central assay data) and percent MTX reduction results for the central MTX HPLC and local
+
+assays. The achievement of all MTX concentrations ≤1 μmol/L was similar in the central MTX HPLC
+
+population (61.5% of patients) and the local MTX assay population (57.6% of patients). The effect of
+
+glucarpidase in significantly reducing MTX concentrations was immediate, as evidenced by 87.2% of
+
+patients in the central MTX HPLC population who had at least a 95% reduction at the first measured
+
+concentration. However, only 34.1% of patients in the local MTX assay population had a ≥95%
+
+reduction in the first local assay measured concentration >24 hours or ≥2 days after glucarpidase
+
+administration. This may have been due to greater variability in the local assay measurements
+
+compared to the central assay results for both the baseline and “first” (after >24 hours or ≥2 days
+
+after glucarpidase administration) post- glucarpidase time points. This was likely a consequence of the
+
+following differences in sample collection times:
+
+  - Plasma samples for the first post-glucarpidase central assay measurements were generally
+
+collected close to 15 minutes after glucarpidase administration, whereas the “first” local assay
+
+samples were collected over a considerably wider time period;
+
+  - Plasma samples for the baseline central assay measurements were, by protocol, to be collected
+
+immediately before glucarpidase administration, whereas the baseline local assay samples
+
+were collected over a considerably wider time period.
+
+However, the median percentage reductions in local assay MTX concentrations at Days 1 and 2 still
+
+showed substantial reduction from pre-glucarpidase baseline, suggesting that there was a consistent
+
+glucarpidase effect on the reduction of MTX concentration in both the local and central assays (table
+
+38).
+
+**Table 37:** Summary of Achieving all MTX Concentrations ≤1 μmol/L and Percent MTX Reduction –
+
+Central MTX HPLC and Local Assays
+
+Assessment report
+EMA/CHMP/751047/2021 Page 128/162
+
+
+-----
+
+**Table 38:** Median MTX concentration and Median Percent Reduction at Days 1 and 2 – Central MTX
+
+HPLC and Local Assays
+
+**Rebound of MTX Concentration in the Central MTX HPLC Population**
+
+Rebound in MTX concentrations and the time to rebound were assessed by the central MTX HPLC
+
+assay. This assessment did not include data from Study 003, which generally recorded central assay
+
+MTX concentrations only up to 2 hours post- glucarpidase, which was too short a timeframe for an
+
+assessment of rebound. Therefore, results presented in this section were derived from Studies 001,
+
+002 and 006.
+
+A slightly lower percentage of patients in the central MTX HPLC population (19.4%) had a rebound in
+
+MTX concentration compared to the target population (24.7%). The median absolute increases in MTX
+
+concentration from the lowest MTX values in the central MTX HPLC and target populations were 1.60
+
+μmol/L and 1.84 μmol/L, respectively, and the median time to maximum rebound were 64.00 hours
+
+and 60.63 hours, respectively, after the first dose of glucarpidase.
+
+For over half of the patients with rebound in both the central MTX HPLC population (16 of 27 patients,
+
+59.3%) and target population (13 of 24 patients, 54.2%), the maximum increase in MTX concentration
+
+from the lowest MTX concentration post-glucarpidase was >1 μmol/L to ≤2 µmol/L. There was only 1
+
+patient in each of the populations for whom the maximum increase in MTX concentration from the
+
+lowest MTX concentration post-glucarpidase was >10 μmol/L.
+
+**Table 39:** Summary of MTX Concentration Rebound - Central MTX HPLC Assay
+
+Assessment report
+EMA/CHMP/751047/2021 Page 129/162
+
+
+-----
+
+An analysis of MTX concentration rebound on the central MTX HPLC assay data, by glucarpidase dose
+
+groups (10 U/kg categories, ranging from <10 U/kg to ≥60 U/kg), was difficult to interpret due to the
+
+small number of patients (2 of 16, 12.5%) who received a first glucarpidase dose <40 U/kg and who
+
+had rebound. Of patients who received a first glucarpidase dose of ≥40 to <60 U/kg, 19.3% (21 of
+
+109 patients) had rebound.
+
+**Evaluation of Renal Function**
+
+Renal function was evaluated in the renal evaluable population (i.e., all patients who had at least 1
+
+renal function parameter evaluated from the local assay after the first dose of glucarpidase) and the
+
+target population.
+
+**Serum Creatinine (sCr) Concentration**
+
+For the renal evaluable population there was a 3.5-fold increase in mean sCr concentration from pre
+MTX to pre-glucarpidase baseline (0.79 mg/dL to 2.79 mg/dL). After administration of glucarpidase,
+
+mean sCr concentrations increased slightly (to 3.04 mg/dL) through Day 4, remained slightly above
+
+baseline through Day 6, then returned to below baseline by Day 7 (2.72 mg/dL), after which sCr
+
+concentrations decreased in general through Day 22. The mean sCr value at Day 22 was 1.27 mg/dL.
+
+Findings for the target population were similar to those observed in the renal evaluable population,
+
+with a 3.8-fold increase in mean sCr concentration from pre-MTX to pre- glucarpidase baseline (0.77
+
+mg/dL to 2.92 mg/dL), a concentration below baseline by Day 6, and a Day 22 concentration of 1.33
+
+mg/dL.
+
+To further evaluate sCr values as related to renal recovery, a sensitivity analysis was performed on all
+
+patients who had at least 1 sCr value on Day 15 or later following the first dose of glucarpidase.
+
+**Shifts in CTC Grade for Serum Creatinine Over Time**
+
+The severity of each sCr value was graded according to the CTC v3.0 as Grade 0, 1, 2, 3, or 4 using
+
+age-adjusted normal ranges. The number and percentage of patients with shifts in CTC grades from
+
+baseline (i.e., pre-glucarpidase) to post-baseline values are summarised at the first assessment after
+
+the first dose of glucarpidase, and at Days 1 through 11, Day 15, and Day 22 after the first
+
+glucarpidase dose, and at the first, peak, nadir, and last concentration after the first glucarpidase dose.
+
+Of the 147 patients with both baseline and Day 22 sCr CTC grades, 141 patients had pre-glucarpidase
+
+sCr Grade 2 or above, and on Day 22, 102 (72.3%) patients had improved to Grade 0 or 1, and 45
+
+patients (31.9%) had improved to Grade 0 at Day 22. Of the 435 patients in the renal evaluable
+
+population who had a last sCr assessment, 391 patients had pre-glucarpidase sCr Grade 2 or above,
+
+and at the last assessment, 250 (63.9%) patients had improved to a Grade 0 or 1, and 123 (31.5%)
+
+had improved to Grade 0.
+
+Results in the target population were similar to those seen in the renal evaluable population. At Day
+
+22, a total of 88 (71.5%) of the 123 patients who had a Grade ≥2 sCr post-MTX value had improved to
+
+Grade 0 or 1, and 34 patients (27.6%) had improved to Grade 0; at the last assessment, 207 (65.5%)
+
+of the 316 patients who had a Grade ≥2 sCr post-MTX value had improved to a Grade 0 or 1, and 95
+
+(30.1%) had improved to Grade 0.
+
+A sensitivity analysis of data over time was conducted using patients who had at least one sCr on Day
+
+15 or later following the first dose of glucarpidase. The overall course of sCr CTC grade change was
+
+consistent with that seen for all patients.
+
+**Serum Creatinine Recovery**
+
+Assessment report
+EMA/CHMP/751047/2021 Page 130/162
+
+
+-----
+
+To further assess renal function, the time course of sCr abnormalities and the effect of glucarpidase on
+
+time to recovery of sCr values were explored. The time to recovery to CTC Grade 0, or to CTC Grade 1
+
+or Grade 0 was evaluated in days after MTX IV dosing and in days after the first dose of glucarpidase.
+
+Of 413 patients who developed sCr Grade 2 or higher post-MTX and who remained at Grade 1 or
+
+higher at the pre- glucarpidase baseline (i.e., did not recover to Grade 0), 129 (31.2%) recovered to
+
+Grade 0, with a median time to recovery of 19 days. Of 410 patients who developed Grade 2 or higher
+
+sCr post- MTX and who remained at grade 2 or higher at the pre-glucarpidase baseline, 262 (63.9%)
+
+recovered to Grade 0 or 1, with a median time to recovery of 12.5 days.
+#### **2.6.6. Discussion on clinical efficacy **
+
+***Design and conduct of clinical studies***
+
+The applicant submitted data from 4 clinical studies which are considered as the main phase 3 studies
+
+for efficacy analysis: PR001-CLN-001, PR001-CLN-002, PR001-CLN-003, PR001-CLN-006 to support
+
+the efficacy of glucarpidase in the proposed indication of treatment of patients at risk of methotrexate
+
+toxicity due to delayed methotrexate elimination.
+
+**Study PR001-CLN-001** was a prospective, open-label, non-randomised multicentre, compassionate
+use trial in patients with delayed MTX clearance after treatment with high-dose methotrexate
+
+(HDMTX), or with intrathecal MTX overdose. Patients ≥ 18 years of age who were receiving HDMTX (>1
+
+g/m2 body surface area given as an infusion over 24 hours) for the treatment of acute lymphoblastic
+
+leukaemia (ALL), non-Hodgkin’s lymphoma, or a solid tumour were eligible for participation in the
+
+study if their serum MTX concentration was:
+
+- >5 μmol/L 42 hours or later after the start of MTX infusion; or
+
+- >1 μmol/L 42 hours or later after the start of MTX infusion together with renal insufficiency; or
+
+- >0.4 μmol/L 48 hours or later after the start of MTX infusion together with renal insufficiency.
+
+All patients received at least a single dose of 50 U/kg glucarpidase administered as an IV injection over
+
+a 5-minute period. Patients who had a serum MTX concentration greater than 0.1 μmol/L 24 hours or
+
+later after glucarpidase administration were permitted to receive an additional dose of glucarpidase 50
+
+U/kg. Patients were required to have received high-dose methotrexate (HDMTX) prior to glucarpidase
+
+administration. Following glucarpidase administration, patients were to continue treatment with IV
+
+hydration, adequate diuresis, urinary alkalinisation, and LV.
+
+Plasma MTX concentrations and renal function were monitored before and after the administration of
+
+an IV dose of glucarpidase. Patients eligible to receive glucarpidase under protocol had a pre-treatment
+
+evaluation including oncological diagnosis, medical history, physical examination, and laboratory
+
+evaluations, as well as assessment of renal function.
+
+Plasma samples for the determination of MTX and 4-deoxy-4-amino-N10-methylpteroic acid (DAMPA)
+
+concentrations by a central laboratory HPLC method were to be obtained immediately prior to
+
+glucarpidase administration and at 15, 60, and 120 minutes following glucarpidase dosing. Blood
+
+samples for the determination of MTX concentrations by HPLC were taken at 15 minutes, 30 minutes,
+
+60 minutes, 120 minutes, 4 hours, 1 day, 2 days, 3 days, 4 days, 5 days, 6 days, 7 days, 8 days, 15
+
+days, and 22 days after the first glucarpidase dose.
+
+The objectives of this study were to evaluate the safety and efficacy of glucarpidase in patients with
+
+impaired MTX clearance due to MTX-induced renal failure following IV administration of HDMTX
+
+therapy, or in patients with intrathecal MTX overdose.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 131/162
+
+
+-----
+
+**Study PR001-CLN-002** was a prospective, open-label, non-randomised, multicenter, compassionate
+use trial that evaluated the safety and efficacy of glucarpidase in patients experiencing HDMTX-induced
+
+nephrotoxicity and delayed MTX excretion. Patients of any age were eligible for the study if they were
+
+at risk of life-threatening toxicity following MTX administration secondary to delayed MTX elimination,
+
+as defined by: plasma MTX concentration ≥ 10 μmol/L >42 hours after the start of the MTX infusion; or
+
+serum creatinine ≥ 1.5 times the ULN or CrCl ≤ 60 mL/m2/minute and delayed MTX excretion
+
+documented by plasma MTX concentration measurements that were ≥ 2 SD above the mean at least
+
+12 hours following MTX administration.
+
+Plasma MTX concentrations and renal function were monitored before and after the administration of
+
+an IV dose of glucarpidase. Patients eligible to receive glucarpidase under protocol had a pre-treatment
+
+evaluation including oncological diagnosis, medical history, physical examination, and laboratory
+
+evaluations (haematology, liver function tests, electrolytes and coagulation parameters), as well as
+
+assessment of renal function. Plasma samples for the determination of MTX and 4-deoxy-4-amino
+N10-methylpteroic acid (DAMPA) concentrations by a central laboratory high-performance liquid
+
+chromatography (HPLC) method were to be obtained immediately prior to glucarpidase administration
+
+and at 15, 60, and 120 minutes following glucarpidase dosing, and immediately prior to and 60
+
+minutes following every subsequent dose. Sampling strategy changed over the course of the study.
+
+Plasma samples for the determination of MTX concentrations by local laboratories were collected and
+
+analyzed using the local institutions’ routine assay methods. Samples for determination of sCr
+
+concentrations by local laboratory were to be obtained prior to MTX treatment, before glucarpidase
+
+treatment, and daily thereafter.
+
+Each patient was to receive glucarpidase 50 U/kg administered IV over 5 minutes. The dosing
+
+strategies of glucarpidase changed during the course of the study. Dosing strategies included 3 doses
+
+of glucarpidase at 4-hour intervals, 2 doses administered 24 hours apart, or additional doses based on
+
+MTX plasma concentration. After February 2002, the maximum dose of glucarpidase was capped at
+
+2000 U. Following glucarpidase administration, patients were to continue treatment with IV hydration,
+
+urinary alkalinisation, and LV.
+
+The overall objective of the study was to determine the effectiveness of glucarpidase or a combination
+
+of glucarpidase and thymidine in rescuing patients with delayed MTX elimination secondary to renal
+
+dysfunction.
+
+**Study PR001-CLN-003** was a prospective, open-label, nonrandomised, multicenter, compassionate
+use and emergency-use study in patients of any age experiencing delayed elimination of MTX in the
+
+presence of renal impairment following administration of HDMTX.
+
+Patients of any age, at risk of life-threatening toxicity following MTX administration, secondary to
+
+delayed MTX excretion as defined below, were eligible for participation in the study:
+
+Plasma MTX concentration (new venipuncture): >10 μmol/L more than 36 hours, or >5 μmol/L more
+
+than 42 hours, or >3 μmol/L more than 48 hours after the start of the infusion; and delayed MTX
+
+excretion documented by serial plasma MTX levels (>2 SD above the mean) at least 12 hours after
+
+MTX administration (Note: This criterion was included in the protocol but not reported in the published
+
+manuscript.); and renal dysfunction as indicated by decreased diuresis; or serum creatinine >1.5 x
+
+ULN and documented increase during the infusion period.
+
+Plasma blood samples for the determination of MTX and 4-deoxy-4-amino-N10-methylpteroic acid
+
+(DAMPA) concentrations by central high-performance liquid chromatography (HPLC) method were to
+
+be obtained immediately prior to glucarpidase administration and at 15, 30, 60, and 120 minutes
+
+following glucarpidase dosing. Local assays were also to be obtained and analyzed as clinically
+
+indicated.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 132/162
+
+
+-----
+
+Study Treatments: Each patient was to receive glucarpidase 50 U/kg administered intravenously (IV)
+
+over 5 minutes. Patients who experienced greater than a 1 logarithmic decrease from baseline in
+
+serum MTX concentrations following glucarpidase administration but who still had plasma MTX
+
+concentrations >1 μmol/L could receive additional doses of glucarpidase with the approval of the
+
+Principal Investigator. Patients were to continue to be treated with IV hydration, urinary alkalisation,
+
+and leucovorin (LV). In order to avoid a potential interaction between LV and glucarpidase, LV
+
+administration was not to be administered 4 hours prior to or 1 hour following administration of
+
+glucarpidase.
+
+The objectives of this study were to determine the utility of single-dose glucarpidase in patients with
+
+delayed methotrexate (MTX) excretion secondary to renal dysfunction; to study the pharmacokinetics
+
+(PK) of MTX following glucarpidase rescue; and to evaluate the immune response to glucarpidase in
+
+patients treated with one or more doses of glucarpidase.
+
+**Study PR001-CLN-006** was a prospective, open-label, non-randomised multicenter, compassionate
+use trial that evaluated the safety and efficacy of glucarpidase in patients experiencing high-dose
+
+methotrexate (HDMTX)-induced nephrotoxicity and delayed MTX excretion. Patients of any age, with
+
+signs and symptoms of MTX toxicity and the following additional evidence of toxicity and renal
+
+dysfunction were eligible for participation in the study:
+
+- atients with osteosarcoma were eligible if they had:
+
+o a plasma MTX concentration >50 μmol/L 24 hours or >5 μmol/L 48 hours after the start of MTX
+
+infusion or
+
+o a plasma MTX concentration >2 SD above the mean MTX elimination curve at >12 hours after MTX
+
+administration and abnormal renal function defined by a >2-fold increase from baseline (pre-MTX) in
+
+serum creatinine.
+
+- All other patients were eligible if they had:
+
+o a plasma MTX concentration >10 μmol/L 42 hours or more after the start of MTX infusion or
+
+o a plasma MTX concentration >2 SD above the mean MTX elimination curve at least 12 hours after
+
+MTX administration and abnormal renal function defined by serum creatinine >1.5 x upper limit of
+
+normal or (creatinine clearance <60 mL/minute at least 12 hours after MTX administration.
+
+All patients received one or two doses of 50 U/kg glucarpidase administered IV over a 5-minute period.
+
+Patients with plasma MTX concentrations >100 μM immediately prior to glucarpidase administration
+
+were eligible to receive a second dose of glucarpidase. Patients were required to have received high
+dose methotrexate (HDMTX) prior to glucarpidase administration. Following glucarpidase
+
+administration, patients were to continue treatment with IV hydration, urinary alkalinisation, and LV.
+
+Plasma MTX concentrations and renal function were monitored before and after the administration of
+
+an IV dose of glucarpidase. Patients eligible to receive glucarpidase under protocol had a pre-treatment
+
+evaluation including oncological diagnosis, medical history, physical examination, and laboratory
+
+evaluations, as well as assessment of renal function.
+
+Plasma samples for the determination of MTX and 4-deoxy-4-amino-N10-methylpteroic acid (DAMPA)
+
+concentrations by a central laboratory HPLC method were to be obtained immediately prior to
+
+glucarpidase administration and at 15, 60, and 120 minutes following glucarpidase dosing. Blood
+
+samples for the determination of MTX concentrations by a local laboratory were collected immediately
+
+prior to glucarpidase administration, and daily after glucarpidase administration until MTX
+
+concentrations were <0.05 μmol/L.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 133/162
+
+
+-----
+
+The primary objective of this study was to confirm the efficacy of glucarpidase by evaluating MTX
+
+plasma concentrations following glucarpidase administration while providing access to glucarpidase on
+
+a compassionate basis for patients experiencing MTX toxicity and who have no other treatment
+
+options.
+
+***Efficacy data and additional analyses***
+
+**Study PR001-CLN-001, PR001-CLN-002, Study PR001-CLN-003 and PR001-CLN-006**
+
+The primary efficacy endpoint was defined for all these studies as proportion of patients who achieved
+
+a CIR in plasma MTX concentration based upon the central laboratory HPLC assay (ie, all central HPLC
+
+MTX plasma concentrations after the first dose of glucarpidase were ≤ 1 μmol/L).
+
+Study **PR001-CLN-001:** In the central HPLC population, following glucarpidase administration, CIR
+
+was achieved in 24 of 28 (85.7%) patients (95% CI: 68.5%, 94.3%).
+
+For patients with MTX concentration assayed by local laboratories, 16 of 42 patients (38.1%) achieved
+
+a CIR in all MTX concentrations post glucarpidase.
+
+Study **PR001-CLN-002:** From overall 84 evaluable subjects (central MTX HPLC population) the 46
+
+subjects (54.8%) reached the CIR (95% CI: 44.2% to 65.0%).
+```
+    –
+
+```
+Seventy five (39.9%) patients from local laboratory population achieved CIR. According to further
+
+analysis conducted (to eliminate DAMPA interference), CIR was achieved by 46.8% patients (At the ≥ 1
+
+day time point).
+
+Study **PR001-CLN-003:** From overall 30 evaluable patients (central MTX HPLC population), the 20
+
+subjects (66.7%) reached the CIR (95% CI: 49% to 81%).
+
+Twenty – five (43.1%) patients from local laboratory population achieved CIR. According to further
+
+analysis conducted (to eliminate DAMPA interference), CIR was achieved by 60.3% patients.
+
+Study **PR001-CLN-006** : In the central HPLC population, following glucarpidase administration, CIR
+
+was achieved in 14 of 27 (51.9%) patients (95% CI: 34.0% to 69.3%).
+
+For patients with MTX concentration assayed by local laboratories, 62 of 134 patients (46.3%)
+
+achieved a CIR in all MTX concentrations post glucarpidase.
+
+A total of 169 patients were included in the pooled central MTX HPLC population and received a median
+
+initial dose of 50 Units/kg (range 11 to 60 Units/kg). A CIR was achieved by 61.5% (95% CI: 54.0%
+
+to 68.5%) of patients that was sustained for up to 8 days. A median reduction of > 98% in MTX
+
+concentration occurred within 15 minutes following glucarpidase administration.
+
+The majority of the MTX concentration data of the patients enrolled in the main studies have been
+
+analysed by less selective analytical methods (immunoassays suffering from cross reactivity with
+
+DAMPA) that may partly underestimate the effect of glucarpidase, which is also reflected by the less
+
+frequent achievement of clinically important reduction of MTX serum levels (due to cross reactivity with
+
+DAMPA). The data from HPLC analyses indicated a rebound phenomenon that has occurred in
+
+approximately 14-23% of patients in the 4 main clinical studies. However, most of the patients
+
+experiencing rebound phenomenon had relatively small increase in MTX concentrations (up to 2µmol/L
+
+or up to 200% increase from the lowest value). It is uncertain how this phenomenon will be dealt with
+
+in the clinical practise, where immunoassays suffering from cross reactivity with DAMPA will be used.
+
+Therefore, a false increase in MTX serum concentration could be concluded by the physicians especially
+
+after 48h, when it may represent DAMPA accumulation. The SmPC recommends a high-performance
+
+chromatography (HPLC) method for measuring MTX concentrations following glucarpidase
+
+administration, as current immunoassays are unreliable due to DAMPA interfering with the
+
+Assessment report
+EMA/CHMP/751047/2021 Page 134/162
+
+
+-----
+
+measurement of MTX concentration and leading in an overestimation (see section 4.4 of the SmPC).
+
+Glucarpidase rapidly reduces MTX levels, which can potentially lead to the decrease of MTX toxicity in
+
+some proportion of patients. The relationship between MTX levels and MTX toxicity has been justified
+
+by literature references.
+
+According to the Nirenberg (1977) twenty-eight of 74 patients with MTX levels >10 μM at 24 hours,
+
+twenty-five of 68 patients with serum MTX concentrations > 1 μM at 48 hours and 20 of 96 patients
+
+with MTX levels >0.1 μM at 72 hours developed toxicity. Clinical toxicity was defined as oral mucositis,
+
+fever, haematologic depression, and/or generalised rash usually requiring hospitalisation.
+
+In Pitman (1977) is mentioned that in 148 of the courses of MTX treatment, when the MTX level at 24
+
+hours was <1 μmol/L, there was no change in renal function or myelotoxicity. In contrast, all courses
+
+of MTX treatment associated with a change in renal function had a serum MTX concentration >1
+
+μmol/L at 24 hours.
+
+Plasma concentrations greater than 1 μmol/L at approximately 42 hours following the start of MTX
+
+have been associated with increased risk for toxicity (mucositis, renal dysfunction) despite the
+
+standard leucovorin rescue was administered (Relling, 1994).
+
+Stoller (1977) described clinical study in that when MTX levels at 48 hours was <0.9 μM, no toxicity
+
+occurred. Twelve patients had MTX levels >0.9 μM at 48 hours. Five of these patients developed
+
+myelosuppression.
+
+According to the outcomes of Wang (1984), factors that may be predictive of MTX toxicity are 48-hour
+
+plasma MTX level >1 μmol/L, age >15 and number of prior MTX infusions >10 which predicted a
+
+33.2% probability of MTX toxicity. The low risk group is determinated as 48-hour plasma MTX level <1
+
+μmol/L, age <15 and number of prior MTX infusions <10, predicted a 2.4% probability of MTX toxicity.
+
+The other benefit of decrease of plasma level of MTX relates to the better entrance of leucovorin into
+
+cells. Ramsey et al. (2018) stated that leucovorin must compete with MTX for cell entry and
+
+polyglutamation, so it is less effective as a rescue agent at high MTX concentration if is not also
+
+present at an equipotent concentration. This is described also in reference Widemann (2006) which
+
+stated that elevated MTX plasma concentrations may lead to ineffective rescue by leucovorin and
+
+cause other MTX toxicities such as myelosuppresion, mucositis, hepatitis and dermatitis.
+
+Posology and method of administration in Section 4.2 of the SmPC reflects the local European and
+
+international guidelines for glucarpidase administration. It is recommended to utilise local treatment
+
+protocols or guidelines to determine when glucarpidase should be administered (see SmPC section
+
+4.2).
+
+The applicant provided a discussion on similar rates of efficacy observed in paediatric subgroups and
+
+adult patients. After stratification by baseline MTX levels, the reduction of MTX concentrations in the
+
+central HPLC population and the local MTX Assay population were comparable. The local MTX assay
+
+percent reduction was the same in all paediatrics subgroups as in the adult population (data not
+
+shown). Delayed MTX elimination may result in the same toxicity in children and adults. Glucarpidase’s
+
+mechanism of action is not influenced by physiological differences. Therefore, it could be expected that
+
+pharmacokinetics of glucarpidase are directly related to reduced MTX exposure resulting in an
+
+efficacious response. In conclusion, efficacy in the paediatric subgroups would be expected at the same
+
+success rate as an adult population, dependent on overall exposure. No dose adjustments were made
+
+for paediatric patients.
+
+***Additional efficacy data needed in the context of an MA under exceptional circumstances.***
+
+At the current time, the best estimate for the number of patients affected and who may require
+
+Assessment report
+EMA/CHMP/751047/2021 Page 135/162
+
+
+-----
+
+treatment with glucarpidase is 0.382 per 10,000 people. Taking into account the totality of the
+
+available data, the CHMP was of the view that the data set on clinical efficacy for glucarpidase under
+
+normal conditions of use could not be considered comprehensive due to the absence of any
+
+randomised head-to-head comparison with a placebo or active comparator in any clinical setting. As
+
+MTX toxicity is a relatively rare and unpredictable condition there were several major challenges in the
+
+clinical development of glucarpidase as a therapeutic agent which inhibit the generation of
+
+comprehensive data on efficacy and safety.
+
+However, it is not considered feasible to generate a comprehensive data set due to ethical
+
+considerations preventing the conduct of a randomised placebo-controlled trial. At the time of this
+
+report, there are no alternative pharmaceutical treatments capable of reducing toxic and potentially
+
+fatal circulating MTX concentrations in the presence of renal impairment, and it was not possible to
+
+initiate studies with an untreated control group, and no patients with delayed MTX elimination and
+
+renal impairment received placebo in the clinical studies of glucarpidase.
+
+Therefore, the current situation prevents the generation of new controlled data to confirm the
+
+outcomes of studies PR001-CLN-001, -002, -003 and **-** 006.
+
+The CHMP was therefore of the view that a marketing authorisation under exceptional circumstances
+
+should be granted subject to specific obligations. The applicant will conduct a prospective,
+
+observational, phase IV, multicentre, open label study based on a glucarpidase patient registry in order
+
+to obtain safety and efficacy data for glucarpidase in patients with impaired MTX clearance. Patients
+
+will be followed up for up to 6 months following glucarpidase treatment and data collection will
+
+continue as long as the product remains authorised.
+#### **2.6.7. Conclusions on the clinical efficacy **
+
+The efficacy of glucarpidase has been evaluated in four open-label multicentre, compassionate use,
+
+single arm, open label studies in patients with delayed MTX elimination due to renal dysfunction. The
+
+primary endpoint was CIR (clinically important reduction). A patient was considered to have achieved a
+
+CIR if the serum MTX concentrations in all samples obtained after the first dose of glucarpidase were ≤
+
+1 µmol/L. In the central HPLC population of four presented studies, following glucarpidase
+
+administration, CIR was achieved in 85.7%, 54.8%, 66.7% and 51.9% patients. In the pooled central
+
+HPLC population, a CIR was achieved in 61.5% (95% CI: 54.0% to 68.5%) that was sustained for up
+
+to 8 days. A median reduction of > 98% in MTX concentration occurred within 15 minutes following
+
+glucarpidase administration.
+
+The relationship between MTX levels and MTX toxicity has been justified by literature references. It can
+
+be expected that the profound and rapid decrease of MTX serum concentrations will potentially lead to
+
+a clinical benefit in patients with delayed methotrexate elimination or at risk of methotrexate toxicity.
+
+In conclusion, it is considered that the provided data are sufficient to justify the use of glucarpidase in
+
+the proposed indication.
+
+The acute MTX toxicity is an emergent life-threatening condition and a comparative study design would
+
+be impossible to conduct. In this context, a data package based on compassionate use, open label,
+
+single arm trials is considered acceptable, taking also into account that the applicant applied for a
+
+marketing authorisation under exceptional circumstances. The proposed specific obligation is
+
+considered adequate and endorsed.
+
+The CHMP considers the following measures necessary to address the missing efficacy data in the
+
+context of an MA under exceptional circumstances:
+
+Assessment report
+EMA/CHMP/751047/2021 Page 136/162
+
+
+-----
+
+  - In order to further characterise the efficacy and safety of glucarpidase indicated to reduce toxic
+
+plasma methotrexate concentration in adults and children (aged 28 days and older) with
+
+delayed methotrexate elimination or at risk of methotrexate toxicity, the MAH should conduct
+
+and submit the results of a study from a glucarpidase patient registry to be conducted on
+
+patients with impaired methotrexate clearance according to an agreed protocol.
+#### **2.6.8. Clinical safety **
+
+The clinical safety database for IV-administered glucarpidase includes patients experiencing renal
+
+impairment and/or delayed elimination of MTX, patients without renal impairment who received
+
+glucarpidase following MTX in “planned use” studies, and in healthy volunteer subjects in the absence of
+
+MTX. In total, safety database consists of 14 completed clinical studies and the main focus is on data
+
+from six pooled studies (i.e. “Main Safety Population”).
+
+The Main Safety Population comprises patients who had confirmed glucarpidase dosing and/or evidence
+
+of post-glucarpidase follow-up. The Target Population comprises patients in the Main Safety Population
+
+who had impaired renal function and evidence of delayed MTX elimination; these patients represent the
+
+target population for which registration is sought. For the purpose of defining the Target Population,
+
+impaired renal function was defined as sCr >1.5 times the upper limit of normal ULN or calculated CrCl
+
+<60 mL/min. Delayed elimination of MTX was defined as MTX concentration ≥50 μmol/L ≥24 hours; MTX
+
+concentration ≥10 μmol/L ≥42 hours, or; MTX concentration ≥5 μmol/L ≥48 hours after the start of MTX
+
+infusion.
+
+Eight completed additional clinical studies of glucarpidase (Study 021, 005, 010, 016, 009, 015, 019,
+
+011) were not included in the pooled analyses. For these unpooled studies, only data on deaths, other
+
+SAEs and events representing possible hypersensitivity reactions that occurred in glucarpidase-treated
+
+patients are presented.
+
+***2.6.8.1.*** ***Patient exposure***
+
+The Main Safety Population consists of 492 patients who participated in six completed clinical studies
+
+with evidence of post-glucarpidase follow-up (Studies 001, 002, 003, 006, 012 and 017). The Target
+
+Population includes 343 patients with delayed MTX elimination and impaired renal function.
+
+The median number of days of follow-up after the last glucarpidase dose was similar: 20 days and 21
+
+days, respectively. The differences in the length of follow-up between studies are due to the studies`
+
+designs.
+
+The median dose and median cumulative dose of glucarpidase were 50 U/kg in both Populations, and
+
+most patients were in the 40 to <60 U/kg dose and cumulative dose groups. Approximately 75% of
+
+patients in both populations received a single dose of glucarpidase; 22% of patients in the Main Safety
+
+Population and 23% of patients in the Target Population received two doses, and 2% of patients in
+
+each population received three glucarpidase doses.
+
+The time interval between IV MTX and administration of glucarpidase was 3 or more days for most
+
+patients (87% and 91%, respectively), and the median intervals between the first and second
+
+glucarpidase doses were 45 and 48 hours, respectively.
+
+Exposure to glucarpidase differed across subgroups. In the Main Safety Population, the median dose of
+
+glucarpidase was 49 or 50 U/kg in most subgroups; however, patients with PCNSL and patients ≥65
+
+years of age (the age group with the largest proportion of patients with PCNSL) had lower median
+
+doses of 35 and 40 U/kg, respectively.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 137/162
+
+
+-----
+
+**Table 40**
+
+***2.6.8.2.*** ***Adverse events***
+
+The majority of patients in both Populations experienced at least one AE or TEAE during participation in
+
+their respective studies.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 138/162
+
+
+-----
+
+**Table 41:** Overall Summary of Adverse Events, Serious Adverse Events, Events by CTCAE Grade, and
+
+Treatment-Related Events, Main Safety and Target Populations
+
+**Common TEAEs**
+
+Most of the common TEAEs that occurred in the Main Safety Population studies are common toxicities
+
+of HDMTX treatment as stomatitis and nausea (128/489, 126/489, 26%, each), vomiting (123/489,
+
+25%), diarrhoea (76/489, 16%) and blood creatinine abnormal (49/489, 10%). The most common
+
+event, renal disorder (133/489; 27.2%), reflects also the fact that renal impairment was an entry
+
+criterion for the majority of the Main Safety Population studies. All other events occurred in <10% of
+
+patients. Similarly, most commonly occurred Grade ≥3 TEAEs in the Main Safety Population were renal
+
+disorders (88/489; 18.0%), stomatitis (50/489; 10.2%), nausea (34/489; 7.0%) and vomiting
+
+(31/489; 6.3%); all other individual Grade ≥3 events occurred in <5% of patients.
+
+Only the common event hypertension (32/489; 6.5%) cannot be entirely explained by concomitant
+
+treatments or other factors. A greater incidence than expected was noted in Studies 002 and 006. Most
+
+of the patients who experienced hypertension TEAEs in these studies were younger patients (i.e., ≤23
+
+years of age), and slightly more male than female patients experienced these events. Most of the
+
+hypertension events were not serious and were assessed as not related to glucarpidase. In more than
+
+half of the cases for which onset dates were reported, hypertension occurred within 3 days of
+
+glucarpidase administration, and in cases for which both onset and resolution dates were reported,
+
+events lasted from two to 30 days. Past medical history information was not reported for any of the
+
+patients with hypertension events. Approximately 25% of the patients had steroid administration that
+
+pre-dated the onset of the AE. Approximately 20% of the patients received dialysis as rescue therapy.
+
+Thus, steroids or fluid overload did not seem to be an etiologic factor in most of the patients. When
+
+reported, in approximately two-thirds of the patients, anti-hypertensive medication other than diuretics
+
+(e.g., furosemide), which are commonly used to maintain urine output in this clinical setting, was
+
+reported as a concomitant medication.
+
+Infants ( ≥ 28 Day to <2 Years)
+
+Assessment report
+EMA/CHMP/751047/2021 Page 139/162
+
+
+-----
+
+5 of 6 (83.3%) infants experienced at least 1 AE. However, no infants experienced a related AE. One
+
+infant had PT diarrhoea with an unknown relationship to glucarpidase.
+
+AE reported: stomatitis (2/6, 33.3%), diarrhoea, nausea, vomiting, fatigue, mucosal inflammation,
+
+pyrexia, infection, blood creatinine abnormal, general physical condition abnormal, histiocytosis
+
+haematophagic, hypotonia, renal disorder, skin reaction, haemorrhage, and hypotension (each 1/6,
+
+16.7%).
+
+Children ( ≥ 2 to <12 Years) a n d Adol es c e n ts ( ≥ 12 to <18 Years)
+
+The overall incidence of AEs was slightly higher in children ≥2 to <12 years compared with adolescents
+
+≥12 to <18 years (76/83, 91.6% versus 124/143, 86.7%) with a higher incidence (difference of ≥ 5%)
+
+in the Hepatobiliary disorders SOC compared with adolescents ≥12 to <18 years (7/83, 8.4% versus
+
+4/143, 2.8%) and in the Investigations SOC compared with adolescents ≥ 12 to <18 years (41/83,
+
+49.4% versus 60/143, 42.0%). At PT level, a higher incidence of nausea (35/83, 42.2% versus
+
+47/143, 32.9%) and vomiting (35/83, 42.2% versus 49/143, 34.3%) was noted.
+
+At the preferred term level, children ≥2 to <12 years had a higher incidence (difference of ≥ 5%) of
+
+liver disorder, blood bilirubin abnormal, and nervous system disorder (6%, 7.2%, and 8.4%,
+
+respectively) than adolescents ≥12 to <18 years (0.7%, 2.1%, and 2.1%, respectively). Adolescents
+
+≥12 to <18 years had a higher incidence of renal disorder than children ≥2 to <12 years (23.1%
+
+versus 18.1%).
+
+**AE assessed as related to glucarpidase**
+
+A few patients reported treatment-related AE: 54/489 (11.0%) in Main Safety Population and 37/342
+
+(10.8%) in Target Population with the most commonly occurred paraesthesia (10/489; 2.0%). Similar,
+
+related events occurring in <1% of patients were burning sensation, hypoesthesia, oral paraesthesia,
+
+skin burning sensation and formication. The second most common related TEAE was flushing, which
+
+occurred in 1.8% of patients. Similar, related events occurring in <1% of patients were feeling hot, hot
+
+flush and erythema. The third most common related event was headache.
+
+22 of the 833 patients (2.6%) experienced 40 events assessed as possible Type I hypersensitivity
+
+events with most common flushing (8), feeling hot 4), hot flush (1) and erythema (1). Two patients
+
+discontinued study treatment. TTO in all AEs was 2 days, most were mild and resolved on the same
+
+day or within two days. The majority of patients were treated with only one dose of glucarpidase.
+
+Ten of the 833 patients (1.2%) reported 9 events identified as possible Type III hypersensitivity
+
+reactions with the most common dermatitis allergic (2), rash, rash follicular, rash maculo-papular, and
+
+dermatologic examination abnormal (1 each). Onset dates were between two and 28 days following
+
+glucarpidase administration. The six patients with outcome data had events that had resolved, except
+
+for one patient whose event was noted as ongoing and subsequently died due to lymphoma.
+
+Grade ≥3 events that were assessed as related to glucarpidase were rare, occurring in 13/489 patients
+
+(2.7%) in the Main Safety Population. The majority of these events were abnormalities in laboratory
+
+parameters under the Investigations SOC. Grade ≥4 events that were assessed as related to
+
+glucarpidase were also rare, occurring in seven of the 489 patients (1.4%) in the Main Safety
+
+Population. Each of the event occurred in one patient (0.2%) only.
+
+The incidence of related TEAEs was similar in patients with baseline MTX concentrations of <50 and
+
+≥50 μmol/L (31/282, 11.0% and 21/154, 13.6%, respectively).
+
+The incidence of related TEAEs was slightly higher in patients who received two doses of glucarpidase,
+
+compared with those who received a single dose (13/105, 12.4% and 38/355, 10.7%, respectively).
+
+The incidence of related TEAEs was low in the one- and two-dose glucarpidase groups. At the SOC and
+
+Assessment report
+EMA/CHMP/751047/2021 Page 140/162
+
+
+-----
+
+preferred term levels, there was no event for which the incidence in one group exceeded that of the
+
+other group by ≥5%.
+
+Analysis per Age Subgroups
+
+No related AE was reported for Infant Subgroup.
+
+No difference of ≥5% was noted in related adverse events at the SOC or preferred term level between
+
+the Child and Adolescent subgroups, although the overall incidence of related events was higher in the
+
+Adolescent subgroup (20/143, 14.0%) compared to the Child subgroup (7/83, 8.4%).
+
+At the preferred term level, no events occurred in more than 2 patients in Child subgroup. In the
+
+adolescent subgroup, feeling hot (3), paresthesia (5) and flushing (4) occurred in more than 2
+
+patients.
+
+No difference of ≥5% was noted in related adverse events at the SOC or preferred term level between
+
+the Child and Adolescent subgroups, although the overall incidence of related events was higher in the
+
+Adolescent subgroup (20/143, 14.0%) compared to the Child subgroup (7/83, 8.4%).
+
+At the preferred term level, no events occurred in more than 2 patients in Child subgroup. In the
+
+adolescent subgroup, feeling hot (3), paresthesia (5) and flushing (4) occurred in more than 2
+
+patients.
+
+***2.6.8.3.*** ***Serious adverse event/deaths/other significant events***
+
+**Serious adverse events**
+
+Approximately one-third of patients in both populations experienced SAEs (153/489; 31.3%), most
+
+commonly occurred in the Investigations (10%), Renal and urinary disorders (7%), and
+
+Gastrointestinal disorders (6%) SOCs. The most common SAEs were renal disorder (6%), stomatitis
+
+(4%) and neutrophil count abnormal (3%); all other events occurred in <2% of patients. As for TEAEs,
+
+the most common SAEs are sequelae of HDMTX treatment or reflects the population studied.
+
+For 57 patients, the relationship to glucarpidase was not recorded and is characterised as “unknown.”
+
+A few patients reported a treatment-related SAE: 9/489 (1.8%) in the Main Safety Population and
+
+7/342 (7.0%) in the Target Population. At the PT level, each related SAE occurred in only one patient
+
+(0.2%).
+
+In the unpooled clinical studies of glucarpidase, an additional 20 patients experienced non-fatal SAEs.
+
+The events experienced by these patients were mostly unrelated to glucarpidase.
+
+The incidence of SAEs was slightly higher in patients who received two doses of glucarpidase,
+
+compared with those who received a single dose (35/105, 33.3% and 107/355, 30.1%, respectively).
+
+Patients who received two doses of glucarpidase had a higher incidence, compared with patients who
+
+received one dose, of SAEs in the Renal and urinary disorders SOC (difference 6.9%) and the SAE
+
+renal disorder (difference 6.6%).
+
+Analysis per Age Subgroups
+
+Infants ( ≥ 28 Day to <2 Years)
+
+2 SAEs reported: histiocytosis haemopophagic (fatal outcome >30 days after the last glucarpidase
+
+treatment), hypotension.
+
+Four infants (4/6, 66.7%) experienced at least 1 Grade ≥3 event: 1 infant experienced events of
+
+nausea, stomatitis and vomiting (each, 1/6, 16.7%); 1 infant experienced mucosal inflammation (1/6,
+
+Assessment report
+EMA/CHMP/751047/2021 Page 141/162
+
+
+-----
+
+16.7%); 1 infant experienced histiocytosis haematophagic (1/6, 16.7%); and 1 infant experienced
+
+hypotension (1/6, 16.7%).
+
+Children ( ≥ 2 to <12 Years) a n d Adol es c e n ts ( ≥ 12 to <18 Years)
+
+The overall incidence of SAEs was higher in children ≥2 to <12 years compared with adolescents ≥12
+
+to <18 years (38/83, 45.8% versus 42/143, 29.4%) with a higher incidence of SAE nausea at PT level
+
+(5/83, 6% vs. 0/143).
+
+The overall incidence of ≥Grade 3 AEs was generally similar across the child and adolescent age
+
+groups (66.3% versus 59.4%). Children ≥2 to <12 years compared with adolescents ≥12 to <18 years
+
+had a higher incidence of Grade ≥3 events (difference of ≥ 5%) in the following SOCs: gastrointestinal
+
+disorders (30.1% versus 21.7%), hepatobiliary disorders (6.0% versus 0.7%), nervous system
+
+disorders (12.0% versus 7.0%), and vascular disorders (9.6% versus 5.6%). Adolescents ≥12 to <18
+
+years compared with children ≥2 to <12 years had a higher incidence of Grade ≥ 3 events in the Renal
+
+and urinary disorders SOC (23.8% versus 18.1%).
+
+**Deaths**
+
+Of the 833 patients exposed to glucarpidase across all clinical studies, 116 patients (13.9%) were
+
+reported to have died. Of these, 57 patients (6.8%) died within 30 days of the last dose of
+
+glucarpidase, 47 patients (5.6%) died >30 days after the last dose of glucarpidase, and for 12 patients
+
+(1.4%), the date of death relative to the last dose of glucarpidase is unknown. No deaths occurred in
+
+the healthy volunteer subjects.
+
+For the majority of the events that led to the 97 patient deaths across the studies of glucarpidase, the
+
+relationship to glucarpidase was not recorded. For 53 patients who died, the investigator assessed the
+
+fatal event(s) as not related to glucarpidase. For one patient (01-0004 in Study 001), one of two fatal
+
+events were assessed as possibly related to glucarpidase (coma, neurological decompensation): 18
+year old patient with ALL experienced the day after glucarpidase administration “M+suspected induced
+
+meningoencephalitis”. The patient’s condition deteriorated, and coma was diagnosed 10 days after
+
+receipt of glucarpidase. Other SAEs that occurred at the time were neurological deterioration, nervous
+
+system disorder, hydrocephalus, and intracranial pressure increased. The causes of death were
+
+reported to be coma, neurological decompensation and encephalitis.
+
+In the Main Safety Population 74/489 (15.1%) of patients with evidence of follow-up were reported to
+
+have died: 39 (8%) within 30 days of the last dose of glucarpidase and 23 (5%) who died > 30 days
+
+after the last dose of glucarpidase. For the remaining 12 patients, the date of death relative to
+
+glucarpidase dosing is not known.
+
+In the Main Safety Population, events recorded as having a fatal outcome were most commonly in the
+
+General disorders and administration site conditions, Infections and infestations, and Neoplasms
+
+benign, malignant and unspecified (incl. cysts and polyps) SOCs. The most common fatal events were
+
+death, disease progression, malignant neoplasm progression, multi- organ failure and sepsis; all other
+
+events occurred in <1% of patients.
+
+The incidence of fatal events was the same in the groups of patients who received one and two doses
+
+of glucarpidase (54/355, 15.2% and 16/105, 15.2%, respectively).
+
+Analysis per Age Subgroups
+
+1 fatal SAE reported in the Infant Subgroup: histiocytosis haemopophagic (fatal outcome >30 days
+
+after the last glucarpidase treatment).
+
+The overall incidence of events with outcome of death was higher in children ≥2 to <12 years (6/83,
+
+7.2%) than in adolescents ≥12 to <18 years (6/143, 4.2%).
+
+Assessment report
+EMA/CHMP/751047/2021 Page 142/162
+
+
+-----
+
+The incidence of deaths within 30 days of glucarpidase treatment was slightly higher in children ≥2 to
+
+<12 years (2/83, 2.4%) compared with adolescents ≥12 to <18 years (2/143, 1.4%). The cause of
+
+death for these patients included acute shock syndrome based on the shock kidney (anaemic kidney),
+
+liver damage (MTX toxicity) and total bone marrow aplasia (Study 002 Patient 03-0012), progressive
+
+lymphoma (Study 002 Patient 03-0050), multi-organ failure (Study 006 Patient 02-0050) and
+
+circulatory collapse after pneumonia with sepsis (Study 006 Patient 02-0082).
+
+The incidence of deaths >30 days after the last glucarpidase treatment was also higher in children ≥2
+
+to <12 years (3/83, 3.6%) compared with adolescents ≥12 to <18 years (2/143, 1.4%). The incidence
+
+of death was unknown relative to 30 days before or after glucarpidase treatment in both children ≥ 2 to
+
+<12 years (1/83, 1.2%) and adolescents ≥12 to <18 years (2/143, 1.4%)
+
+Children ≥2 to <12 years had a higher incidence of fatal events (difference of ≥3%) in the SOC
+
+General disorders and administration site conditions (4/83, 4.8%) compared with adolescents ≥12 to
+
+<18 years (2/143, 1.4%).
+
+***2.6.8.4.*** ***Laboratory findings***
+
+**Haematology**
+
+As would be expected in a group of patients with recent exposure to HDMTX, it was common for
+
+patients in the Main Safety Population studies to have haematological abnormalities at pre
+glucarpidase baseline. Approximately 88% of patients with haemoglobin data had low values, and
+
+approximately one-third of patients with data had low leukocyte, neutrophil, and platelet values.
+
+Following glucarpidase administration, between 23% and 41% of patients had worsening of
+
+haematological parameters by at least two CTCAE grades. At the time of the last assessment, between
+
+47% and 63% of these patients had values that did not return to baseline or better.
+
+An analysis of haematology parameters by subgroup revealed that:
+
+- The youngest patients (< 12 years old) had the highest incidence of haematology parameters that
+
+worsened by two or more CTCAE grades following glucarpidase administration.
+
+- Patients who had higher baseline MTX concentrations (i.e., ≥50 μmol/L) had a higher incidence of
+
+haemoglobin values that worsened by two or more CTCAE grades following glucarpidase
+
+administration.
+
+- Patients with Grade 3 or 4 sCr values, compared with patients with Grade 0, 1 or 2 sCr values, had a
+
+higher incidence of haemoglobin and leukocyte values that worsened by two or more CTCAE grades
+
+following glucarpidase administration.
+
+- Patients whose initial glucarpidase dose was 40 to <60 U/kg, compared with patients who received
+
+<40 U/kg, had a higher incidence of haematological parameters that did not return to baseline or
+
+better following glucarpidase administration.
+
+- Patients who received two doses of glucarpidase, compared with those who received one dose, had a
+
+higher incidence of haemoglobin and neutrophil values that worsened by two or more CTCAE grades
+
+following glucarpidase administration, and that did not return to baseline or better at the time of the
+
+last assessment.
+
+For the parameter haemoglobin, post-glucarpidase mean and median values fluctuated around the
+
+baseline value, and no trend toward decreased values was observed. Mean and median post
+glucarpidase neutrophil, leukocyte and platelet values each decreased at two or more time points
+
+Assessment report
+EMA/CHMP/751047/2021 Page 143/162
+
+
+-----
+
+following administration of glucarpidase, but still remained within the normal range. These decreases
+
+are likely related to MTX-induced myelosuppression.
+
+***Markedly Abnormal Values for Haematology Parameters***
+
+In the 489 patients in the Main Safety Population, the treatment-emergent SAEs that were
+
+abnormalities in haematology parameters were neutrophil count abnormal (12 patients, 2.5%),
+
+haematotoxicity (8 patients, 1.6%), neutropenia (7 patients, 1.4%), platelet disorder (3 patients,
+
+0.6%), bone marrow failure, leukopenia, pancytopenia, white blood cell disorder, white blood cell count
+
+decreased, platelet count decreased (2 patients, or 0.4%, each), and anaemia, thrombocytopenia,
+
+haematology test abnormal, haemoglobin abnormal, haemoglobin decreased, and white blood cell
+
+count abnormal (1 patient, or 0.2%, each).
+
+**Biochemistry**
+
+Many patients had abnormalities in AST, ALT, and bilirubin at pre-glucarpidase baseline, which is to be
+
+expected in patients recently exposed to HDMTX. Sixty percent of patients had elevated AST values,
+
+67% had elevated ALT values, and 44% had elevated bilirubin values. Following glucarpidase
+
+administration, between 9 and 11% of patients had AST, ALT and bilirubin values that had worsened
+
+by at least 2 CTCAE grades, and between 41% and 74% of these patients had values that did not
+
+return to baseline or better at the time of the last study assessment.
+
+At pre-glucarpidase baseline, 29% of patients had abnormal sodium levels, and 33% had abnormal
+
+potassium levels. This high proportion of patients with electrolyte abnormalities likely reflects several
+
+underlying factors, including renal dysfunction, fluid loading, alkalinisation and use of concomitant
+
+medications such as steroids and diuretics in a population of patients with MTX-induced renal
+
+dysfunction. Following glucarpidase administration, 9% had sodium values and 31% had potassium
+
+values that had worsened by at least 2 CTCAE grades, and for approximately one-quarter of these
+
+patients, values did not return to baseline or better at the last study assessment.
+
+An analysis of liver function parameters by subgroup revealed that:
+
+- Patients with higher baseline MTX concentrations had a higher incidence of liver function parameters
+
+that did not return to baseline or better at the time of the last assessment.
+
+- Patients, whose initial glucarpidase dose was 40 to <60 U/kg, compared with patients who received
+
+<40 U/kg, had a higher rate of liver function parameters that did not return to baseline or better
+
+following glucarpidase administration.
+
+In the Main Safety Population, for the parameters sodium and potassium, no important changes from
+
+baseline in mean and median post-glucarpidase values were noted. For the parameters, chloride and
+
+bicarbonate, following administration of glucarpidase, changes from baseline toward the normal range
+
+occurred. Mean and median chloride values were on the low end of the normal range at baseline, and
+
+had increased slightly at post-glucarpidase Days 8, 15 and 22, and the last assessment. Mean and
+
+median bicarbonate values were on the high end of the normal range at baseline, and had decreased
+
+slightly at post-glucarpidase Days 8, 15 and 22, and the last assessment. Mean and median AST, ALT
+
+and bilirubin values decreased following administration of glucarpidase.
+
+***Markedly Abnormal Values for Biochemistry Parameters***
+
+In the 489 patients in the Main Safety Population, the treatment-emergent SAEs that were related to
+
+biochemistry parameters were liver function test abnormal (8 patients, 1.6%), blood creatinine
+
+abnormal (7 patients, 1.4%), blood bilirubin abnormal (6 patients, 1.2%), creatinine renal clearance
+
+abnormal (5 patients, 1.0%), alanine aminotransferase abnormal (3 patients, 0.6%), aspartate
+
+aminotransferase abnormal, blood creatinine increased, blood glucose abnormal, hyperuricaemia,
+
+Assessment report
+EMA/CHMP/751047/2021 Page 144/162
+
+
+-----
+
+hypokalaemia, metabolic acidosis (2 patients, or 0.4%, each), alanine aminotransferase increased,
+
+aspartate aminotransferase increased, blood amylase abnormal, blood lactate dehydrogenase
+
+abnormal, blood potassium decreased, blood urea increased, blood uric acid abnormal, hypocalcaemia,
+
+and hypomagnesaemia (1 patient, or 0.2%, each).
+
+The biochemistry-related SAEs that occurred in the unpooled studies of glucarpidase were creatinine
+
+increased, increase in bilirubin, and hypernatraemia. The event hypernatraemia caused discontinuation
+
+of study treatment.
+
+Analysis per Subgroup
+
+Infants (≥28 Day to <2 Years)
+
+All infants with one baseline laboratory values (n=5) had low haemoglobin, leukocyte and platelet
+
+values that worsened from Baseline by at least two grades; such decreases are likely related to MTX
+
+administration. Four infants had high AST and/or ALT values that worsened from Baseline. Overall,
+
+data should be interpreted with caution due to the small number in this subgroup.
+
+Children (≥2 to <12 Years) and Adolescents (≥12 to <18 Years)
+
+The incidence in the Child subgroup with a low potassium that worsened from baseline was higher
+
+(35.1%) when compared to Adolescents (20.5%). The incidence in the Child subgroup with
+
+haemoglobin, leukocytes and platelets that worsened from baseline was higher (41.9%, 53.4% and
+
+34.2%) when compared to Adolescent subgroup (24.6%, 37.5% and 27.7%), respectively. Conversely
+
+the incidence of Adolescents with neutrophils that worsened from baseline was higher (42.1%) when
+
+compared to Child subgroup (25.0%).
+
+**Vital signs**
+
+No summaries of vital signs data were produced.
+
+In the pooled clinical studies of glucarpidase, vital signs data were only collected in Study 006. In this
+
+study, a total of 120 patients ≥4 years of age in the Safety Population had at least one post
+glucarpidase vital sign measurement that was within 30 days of the last glucarpidase dose.
+
+In Study 006, for the parameters heart rate, systolic and diastolic blood pressure, respiration rate and
+
+body temperature, there were no clinically important trends noted in the mean or median changes over
+
+time from pre-MTX values through values recorded at Day 22. Possibly clinically significant decreases
+
+in systolic and diastolic blood pressure were identified in 10.8% and 15.0% of patients, respectively,
+
+and possibly clinically significant increases in systolic and diastolic blood pressure were identified in
+
+27.5% and 15.8% of patients, respectively. In general, these abnormal values were not temporally
+
+related to glucarpidase administration.
+
+In Study 005, a study of the pharmacokinetic parameters of glucarpidase in subjects with a range of
+
+renal functions (normal to severely impaired), vital signs (i.e., blood pressure, heart rate and oral
+
+temperature) were assessed at screening, before glucarpidase administration, and at 5, 15 and 30
+
+minutes, 1 hour, 2 hours, and 1, 2, 3, 4, 7, 14 and 28 days after glucarpidase administration. No
+
+clinically significant trends in vital signs or changes in vital signs were observed following exposure to
+
+glucarpidase, and there were no clinically meaningful differences between subjects with normal renal
+
+function and those with renal impairment.
+
+In Study 010, a study of the effect of glucarpidase on leucovorin pharmacokinetics in healthy male
+
+subjects, vital signs (i.e., blood pressure, pulse rate and oral body temperature) were assessed at
+
+screening, before glucarpidase administration, and at 15 minutes after glucarpidase infusion, as well as
+
+15 minutes after leucovorin infusion for Doses 1 and 2, and 6 hours after leucovorin administration for
+
+Dose 5. There were no treatment-related trends in sitting systolic and diastolic blood pressure, sitting
+
+Assessment report
+EMA/CHMP/751047/2021 Page 145/162
+
+
+-----
+
+pulse rate and oral body temperature. Although transient changes in blood pressure, pulse rate and
+
+body temperature were noted at isolated time points for some subjects, none of these findings were
+
+clinically important.
+
+**Electrocardiograms**
+
+Electrocardiogram data were assessed in two studies. Study 005 was a study of the PK of glucarpidase
+
+in healthy volunteer subjects and patients with impaired renal function. Study 010 was a study of the
+
+effect of glucarpidase on the PK of the active L-isomer of leucovorin in healthy male volunteer
+
+subjects.
+
+There were no clinically important findings in the 12-lead ECG parameters or morphology for individual
+
+subjects during the study 010 and 005.
+
+***2.6.8.5.*** ***Safety in special populations***
+
+**Intrinsic Factors**
+
+***Age Group***
+
+Patient age data were collected in all of the Main Safety Population studies. Younger patients (i.e., <18
+
+years of age) had higher incidence of TEAEs and SAEs in the Gastrointestinal disorders and
+
+Investigations SOCs, of TEAES in the Vascular disorders SOC; of Grade ≥3 TEAEs in the
+
+Gastrointestinal disorders, Investigations, Vascular disorders and General disorders and administration
+
+site conditions SOCs; and higher odds of the TEAEs (in descending order) skin reaction, general
+
+physical condition abnormal, hypocalcaemia, creatinine renal clearance abnormal, haemoglobin
+
+abnormal, neutrophil count abnormal, hypertension, liver function test abnormal, blood bilirubin
+
+abnormal, vomiting, nausea, blood creatinine abnormal, stomatitis and diarrhoea.
+
+A markedly lower proportion of patients <18 years of age, compared with older patients, experienced
+
+fatal events. There was no clear relationship between age group and the incidence of related TEAEs.
+
+The analysis of the safety of glucarpidase by age group is confounded by several factors. Patients in
+
+the clinical studies of glucarpidase who were <18 years of age were more likely to have osteogenic
+
+sarcoma, to have received high doses of MTX, and to have high baseline (pre-glucarpidase) MTX
+
+concentrations. Therefore, some or all of the excess toxicity observed in younger patients may be
+
+related to MTX toxicity.
+
+***Tumour Type***
+
+The analysis of the safety of glucarpidase by tumour type is also confounded, because patients with
+
+osteogenic sarcoma and ALL tended to be younger, and to receive higher doses of MTX and have
+
+higher baseline (pre-glucarpidase) MTX concentrations, while patients with NHL and PCNSL were older
+
+and had, on average, lower MTX doses and baseline MTX concentrations. Some or all of the excess
+
+toxicity observed in the patients with osteogenic sarcoma may be related to MTX, while that observed
+
+in patients with PCNSL may be related to age.
+
+***Renal Impairment***
+
+In the Main Safety Population studies, all patients had renal impairment. Therefore, it is not possible to
+
+analyse the pooled database for information on the effect of renal impairment on the safety of
+
+glucarpidase. In one un-pooled study, Study 005, the PK profile and safety of glucarpidase were
+
+assessed in healthy volunteer subjects and patients with impaired renal function. In this study, 8
+
+healthy volunteer subjects and 4 subjects with impaired renal function received IV glucarpidase 50
+
+U/kg. No AEs were reported during the study. There did not appear to be important differences with
+
+Assessment report
+EMA/CHMP/751047/2021 Page 146/162
+
+
+-----
+
+respect to glucarpidase antibody development between subjects with normal renal function and
+
+subjects with severe renal impairment. Evaluations of clinical laboratory assessments, vital signs,
+
+ECGs, and physical examination data indicated that the safety of glucarpidase was not affected by the
+
+patient’s degree of renal impairment.
+
+***Hepatic impairment***
+
+A relatively small number of patients in the Main Safety Population had hepatic impairment at baseline
+
+(38/360 patients for whom data were available, 10.6%). The analysis of the safety of glucarpidase by
+
+hepatic impairment status at baseline is confounded. The majority of patients with hepatic impairment
+
+(70%) had osteogenic sarcoma, and these patients were younger, had poorer baseline CrCl, received
+
+higher mean doses of MTX, and had markedly higher baseline MTX concentrations, compared with
+
+patients without hepatic impairment. The excess toxicity observed in this group may be related to
+
+MTX, and not to glucarpidase.
+
+**Extrinsic Factors**
+
+No assessments of the safety of glucarpidase by extrinsic factors (e.g., smoking, concomitant drugs,
+
+diet) were performed.
+
+***Use in Pregnancy and Lactation***
+
+No pregnancies have been reported in the patients who participated in the clinical studies of
+
+glucarpidase. There is no information about the effect of glucarpidase during pregnancy, labor and
+
+delivery, or lactation.
+
+***Overdose***
+
+No cases of overdose have been reported in the clinical studies of glucarpidase.
+
+Ten of the 767 patients (1.3%) in the pooled Main Safety Population (492 patients) and Study 016
+
+(275 patients) have received high doses of glucarpidase, defined as single doses ≥90 U/kg or
+
+cumulative doses ≥150 U/kg. Five of these patients received single doses of glucarpidase ≥90 U/kg,
+
+and seven (including two patients from the ≥90 U/kg group) received cumulative doses ≥150 U/kg.
+
+The highest dose of glucarpidase administered to a patient was a single dose of 188.7 U/kg.
+
+The AEs experienced by the ten patients who received high doses of glucarpidase were similar to the
+
+events experienced by patients who received lower glucarpidase doses. Four of the patients
+
+experienced SAEs, and two of the patients died. Most events reported in these patients are toxicities of
+
+HDMTX.
+
+***Effects on Ability to Drive or Operate Machinery or Impairment of Mental Ability***
+
+Because of its large molecular size, glucarpidase does not gain intracellular access and does not cross
+
+the blood-brain barrier. Thus, is not expected to have any significant central nervous system effects or
+
+effects on ability to drive or operate machinery, or on mental ability.
+
+***2.6.8.6.*** ***Immunological events***
+
+**Bioanalytical methods**
+
+The assessment of immunogenicity was initially performed for Studies 001, 002, 005 and 006 using an
+
+anti-glucarpidase ELISA with unknown sensitivity. This assay did not include a secondary step to
+
+confirm arbitrary positive assay responses and had limited validation. Patient results may include both,
+
+false positive and false negative results.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 147/162
+
+
+-----
+
+A separate validated bridging ELISA was used in Studies 012, 016 and 017 and was considered to
+
+provide reliable data. Samples were first screened relative to a positive/negative cut- point and then
+
+screen-positive samples confirmed as true positives by re-analysis following immunodepletion by a
+
+bulk of glucarpidase. The assay also included a glucarpidase affinity purified rabbit anti-glucarpidase
+
+antibody positive control standard curve to provide semiquantitative equivalent mass unit results.
+
+There was acceptable performance of cut-points, calibration standards and QC samples. For the
+
+detection of neutralizing anti-glucarpidase antibodies a spectrophotometric analytical method has been
+
+validated. This method utilises the ability of glucarpidase to hydrolyse glutamate from MTX to
+
+determine the enzyme activity spectrophotometrically since the absorption of the hydrolysis product
+
+differs from that of MTX. The performance of the assays in the Studies 012, 016 and 017 is considered
+
+acceptable.
+
+**Safety analysis**
+
+The open-label treatment protocol for the use of glucarpidase as adjunctive treatment for patients
+
+experiencing or at risk of MTX toxicity (PR001-CLN-016) provided the majority of AGA data in patients
+
+treated with glucarpidase for rescue of MTX-associated renal dysfunction.
+
+A small number of patients had AGA responses measured from studies PR001-CLN-012 and PR001
+CLN-017. Additional antibody data was also collected in clinical studies 001, 002, 005 and 006.
+
+However, the methodologies used were inadequately validated therefore the analysis of these data is
+
+not included in the submission.
+
+Under Amendment 1 of the 016 study protocol, the investigators were instructed to report only AEs
+
+that they assessed as related to glucarpidase, and very few glucarpidase-related AEs were reported.
+
+Under Amendments 2 and 3, the investigators were to report all AEs regardless of relationship. Data
+
+was therefore also analysed in the patients in the Antibody Population that were registered after the
+
+implementation of Amendment 2. Of the 205 patients in the Antibody population, 88 were registered
+
+after implementation of Amendment 2.
+
+Of the 205 patients in the Antibody Population, 43 (21.0%) had at least 1 blood sample after
+
+glucarpidase administration with a positive AGA response, and 22 of these patients (22 of 205
+
+patients, 10.7%) had a positive test for neutralizing antibody (Table below).
+
+**Table 42:** Anti-Glucarpidase Antibody Response and Neutralisation Antibody Response – Antibody
+
+Population
+
+Thirty-two (32) of 176 patients (18.2%) who received 1 dose had a positive AGA response, compared
+
+to 11 of 29 (37.9%) patients who received 2 or 3 doses. This difference was statistically significant.
+
+Also, 14 of 176 patients (8.0%) who received 1 dose had neutralizing antibodies, compared to 8 of 29
+
+(27.6%) patients who received 2 or 3 doses. This difference was also statistically significant. Although
+
+Assessment report
+EMA/CHMP/751047/2021 Page 148/162
+
+
+-----
+
+numbers are small, the likelihood of developing a positive AGA response increases after a second dose
+
+of glucarpidase is administered.
+
+Analysis per Subgroup
+
+121 patients which included 12 infants, 48 children and 61 adolescents were enrolled in the Antibody
+
+Population.
+
+No infants, 35.4% children (17) and 26.2% of adolescents (16) had at least 1 post-glucarpidase anti
+glucarpidase antibody (AGA) test result, and neutralizing antibodies were observed in 0%, 14.6% (7)
+
+and 16.4% (10) respectively.
+
+There were 17/48 (35.4%; 95% CI: 23.4, 49.6) children with an AGA response. Responses occurred at
+
+Week 1-2 (10/45, 22.2%), Week 4-6 (10/45, 22.2%), Months 2-4 (2/41, 4.9%) and Months 5-7
+
+(3/38, 7.9%). Seven (14.6%; 95% CI: 7.2, 27.2) children had neutralisation antibody results.
+
+Responses occurred at Week 1-2 (2/45, 4.4%) and Week 4-6 (5/45, 11.1%).
+
+There were 16/61 (26.2%; 95% CI: 16.8, 38.5) adolescents with an AGA response. Responses
+
+occurred at Week 1-2 (5/57, 8.8%), Week 4-6 (13/56, 23.2%), Months 2-4 (7/42, 16.7%), and
+
+Months 5-7 (3/40, 7.5%). Ten (16.4%; 95% CI: 9.1, 27.6) adolescents had neutralisation antibody
+
+results. Responses occurred at Week 4-6 (5/56, 11.1%), Month 2-4 (4/42, 9.5%) and Month 5-7
+
+(2/40, 5.0%).
+
+***Reported AEs/SAEs/fatal events***
+
+The incidence of TEAEs reported in the Antibody population after implementation of Amendment 2 was
+
+similar in AGA-negative and AGA-positive patients (59.7% and 62.5%, respectively). Of the 72 AGA
+negative patients, 43 (59.7%) had at least 1 TEAE. Of the 16 AGA-positive patients, 10 (62.5%) had
+
+at least 1 TEAE.
+
+Of the 162 patients who were AGA negative, 10 (6.2%) had at least 1 glucarpidase-related TEAE. Of
+
+the 43 patients who were AGA positive, 5 (11.6%) had at least 1 glucarpidase-related TEAE. This
+
+difference was not statistically significant.
+
+None of the 162 AGA-negative patients had a treatment-emergent SAE, compared to 1 of the 43
+
+(2.3%) AGA-positive patients (the relevant SAEs for this patient were cardiac arrest, convulsion, and
+
+respiratory failure). The percentage of patients who had a treatment-emergent SAE after
+
+implementation of Amendment 2 was 15.3% in AGA-negative patients (11 of 72 patients) and 12.5%
+
+(2 of 16 patients) in AGA-positive patients.
+
+The percentage of patients who had a treatment-emergent SAE with an outcome of death within 30
+
+days of the last glucarpidase dose was 13.6% in the AGA-negative patients (22 of 162 patients) and
+
+0% (0 of 43 patients) in AGA-positive patients. Differences in baseline characteristics between AGA
+positive and negative patients, such as age and tumour type, may explain this unexpected and
+
+anomalous finding to which clinical significance cannot be assigned.
+
+Analysis per Subgroup
+
+No infants experienced at least 1 treatment-related TEAE. Two (4.2%) children and 8 (13.1%)
+
+adolescents experienced at least 1 glucarpidase-related TEAE. Treatment related TEAES reported in the
+
+children were blood calcium decreased (2.1%) and peripheral sensory neuropathy (2.1%). Related
+
+TEAEs reported in adolescents were nausea (2, 3.3%), vomiting (2, 3.3%), and rash (2, 3.3.%)
+
+followed by convulsion, headache, cardiac arrest, vision blurred, pyrexia, hyponatremia, respiratory
+
+Assessment report
+EMA/CHMP/751047/2021 Page 149/162
+
+
+-----
+
+failure, and hypertension (each 1.6%). The majority of events in both subgroups combined were Grade
+
+1 severity (9/109, 8.3%).
+
+Treatment-related TEAES reported in a child with a negative AGA response included blood calcium
+
+decreased and in a child with a positive AGA response included peripheral sensory neuropathy.
+
+Treatment-related TEAES reported in adolescents with a negative AGA response included nausea,
+
+vomiting, headache, rash, hyponatremia, and hypertension (each 2.2%); events reported in
+
+adolescents with a positive AGA response included nausea, vomiting, convulsion, rash, cardiac arrest,
+
+vision blurred, pyrexia, respiratory failure (each 6.3%).
+
+There were no infants or children with reported treatment-related SAEs of ≥Grade 3 severity. There
+
+was one adolescent with a positive AGA response who experienced related SAEs ≥Grade 3 of cardiac
+
+arrest and respiratory failure. This adolescent also experienced a serious, Grade 2, treatment-related
+
+AE of convulsion.
+
+No paediatric patients with a positive AGA responses had an outcome of death. Two infants with a
+
+negative AGA response had an AE with outcome of death (death, n=1 and hypoxic encephalopathy,
+
+n=1). Both infant deaths occurred more than 30 days after the last glucarpidase treatment. No
+
+children had an AE with outcome of death. Two adolescents with a negative AGA response experienced
+
+an event of death (preferred term). Both adolescent deaths occurred more than 30 days after the last
+
+glucarpidase treatment.
+
+***2.6.8.7.*** ***Safety related to drug-drug interactions and other interactions***
+
+Leucovorin may compete with MTX as a substrate for glucarpidase. Therefore, glucarpidase has the
+
+potential to reduce the efficacy of leucovorin. In the proposed Prescribing Information for glucarpidase,
+
+it is recommended that leucovorin not be administered within 2 hours of glucarpidase.
+
+Study 017 was a study to evaluate the PK profile of leucovorin in 20 patients who received HDMTX and
+
+leucovorin with or without glucarpidase. In this study, leucovorin was not to be administered within 2
+
+to 4 hours before or after a 50 U/kg dose of glucarpidase. The results of this study show that adequate
+
+leucovorin rescue can be maintained in the presence of glucarpidase if leucovorin dosing is based upon
+
+pre-glucarpidase plasma MTX levels.
+
+Other potential exogenous substrates of glucarpidase may include reduced folates and the folate
+
+antimetabolites aminopterin and pemetrexed, which are both used to treat various malignancies.
+
+***2.6.8.8.*** ***Discontinuation due to adverse events***
+
+The nature of the clinical studies of glucarpidase, in which patients generally received the product as a
+
+single dose, precluded the collection of data on AEs leading to discontinuation. Therefore, it was not
+
+possible to produce tabular summaries of events leading to discontinuation.
+
+***2.6.8.9.*** ***Post marketing experience***
+
+Glucarpidase was approved by the FDA in the US on the 17th January 2012 and has been marketed in
+
+the US since the 30th April 2012. The “Named Patient Supplies” program is ongoing in non-US regions.
+
+Since the launch of Voraxaze (glucarpidase) in the US up to the 31st December 2019 an estimated
+
+2708 patients have been treated with Voraxaze, based upon the assumption that the average patient
+
+requires 4250 units of Voraxaze for treatment at an average weight of 85 kg. Since the launch of
+
+Voraxaze in the US there have been a total of 193 adverse reactions of which 141 were serious.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 150/162
+
+
+-----
+
+Taking post-marketing vigilance data into consideration with clinical trial data, Table 42 summarises
+
+the combined incidence of related adverse reactions from both clinical trials and post marketing
+
+experience. The evaluation of adverse reactions in patients receiving glucarpidase was confounded,
+
+because patients had toxic plasma methotrexate concentrations due to prolonged methotrexate
+
+clearance. The data in Table below therefore excludes adverse reactions likely to be associated with
+
+toxic methotrexate plasma concentrations, such as acute kidney injury, renal failure and blood
+
+creatinine increases. In addition, all unlikely related adverse reactions and adverse reactions deemed
+
+unrelated following additional BTG medical assessment were also removed.
+
+**Table 43:** Incidence of related adverse reactions reported up to 31 [st] December 2019, including clinical
+
+trial data
+
+The frequency of the related adverse events was uncommon, rare or very rare as per the EMA
+
+Important medical terms list, MedDRA version 22.0, 12-Mar-2019. No common or very common events
+
+have been reported.
+
+There have been no updates to the risk/benefit profile, no important foreign regulatory actions noted
+
+and no communications of new safety information have been made since the launch of glucarpidase in
+
+the US (as per the PADER data collected up to the 16th April 2019).
+#### **2.6.9. Discussion on clinical safety **
+
+The safety of glucarpidase is supported by 14 clinical studies and based on 8-years post-marketing
+
+experience from USA. The main limitations of the currently available safety data set is that it derives
+
+from heterogeneous clinical studies performed at various time periods. These studies have different
+
+designs (e.g. administration of different doses; single or repeated administration of up to 3 doses),
+
+different methodology of data collection (e.g. number of missing data) and including patients with
+
+different diagnosis and tumour types. Moreover, it is quite challenging to distinguish glucarpidase
+
+related toxicity in patients suffering from life-threatening HD-MTX toxicity in the context of single-arm
+
+trials. Therefore, most of the common TEAEs, SAEs and common Grade ≥3 TEAEs were sequalae to
+
+HD-MTX treatment.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 151/162
+
+
+-----
+
+Pooled data from 6 completed clinical studies defined the Main Safety Population (492 patients). 343 of
+
+them represent the Target Population for which registration is sought. Paediatric and adult patients
+
+were represented almost equally. Exposure data showed that all paediatric subgroups were
+
+represented (≥28 days to <2 years, ≥2 to <12 years and ≥12 to <18 years of age). No data were
+
+available in children <28 days.
+
+The median dose and median cumulative dose of glucarpidase were 50 U/kg and approximately 75% of
+
+patients received a single dose of glucarpidase (from a max of three in some studies).
+
+11% of patients reported treatment-related AE, most commonly assessed paraesthesia (2%), flushing
+
+(1.8%) and headache (1.5%). Only a few hypersensitivity reactions were reported (Type I – 2.6%;
+
+Type III – 1.2%). Considering the nature of the investigated substance, the very low frequency of
+
+reported treatment-related AEs could be correct.
+
+Approximately one-third of patients in both populations experienced SAEs and less than 2% had at
+
+least one treatment-related SAE (hypertension, hypersensitivity). Most deaths occurred after
+
+glucarpidase elimination time and were probably secondary to sepsis/infection, or to progression of the
+
+patient´s underlying disease which are expected causes of death in an oncology population receiving
+
+HD-MTX. However, for one third of the reported SAEs and for the majority of the events that led to the
+
+patient’s death, the relationship to glucarpidase was not recorded and this could confound the analysis.
+
+The obtained results related to haematology and biochemistry were in line with the known safety of
+
+HD-MTX and do not indicate any substantial patterns associated with glucarpidase administration,
+
+although the presented safety evidence is limited.
+
+The pharmacokinetics of glucarpidase in the absence of MTX from 4 subjects with severe renal
+
+impairment (CLcr <30 mL/min) showed that the mean pharmacokinetic parameters were similar to
+
+those observed in healthy subjects (SmPC section 4.2). On this basis, no dose adjustment of
+
+glucarpidase is recommended for patients with renal impairment.
+
+The additional safety analysis per paediatric subgroups has not revealed any new safety trends with
+
+the majority of adverse events related to glucarpidase being mild to moderate reactions. The data
+
+suggest that a difference in safety in paediatric patients compared to adult patients would not be
+
+expected. No clear relationship between age group and the incidence of related TEAEs was identified.
+
+There are no data from the use of glucarpidase in pregnant women. Glucarpidase is administered in
+
+combination with MTX, which is contraindicated in pregnancy. As use of MTX, a genotoxic and
+
+teratogenic agent, is a prerequisite for the use of glucarpidase, the product is not thought to present
+
+an additional risk to patients already receiving MTX. Reproductive studies of glucarpidase in animals
+
+were not performed. It is unknown whether glucarpidase causes harmful effects during pregnancy
+
+and/or on the foetus/newborn child or whether it can affect reproductive capacity. Glucarpidase should
+
+only be given to a pregnant woman if clearly needed (see SmPC 4.6).
+
+No cases of overdose were recorded during the clinical programme, but several patients were
+
+administered higher doses of glucarpidase (single doses of 90.9 to 188.7 U/kg or cumulative doses of
+
+150.0 to 201.8 U/kg). The safety analysis of high single doses did not show any AEs distinguishable
+
+from the currently proposed dose. In case of overdose, it is recommended to stop glucarpidase, and
+
+patients should be observed and appropriate supportive care should be provided (see SmPC 4.9).
+
+The immune response related to glucarpidase therapy is not anticipated to be of high risk taking into
+
+account the route of administration and one single dose. 205 patients who received one (n=176), 2
+
+(n=27), or 3 (n=2) doses of glucarpidase were evaluated for anti-glucarpidase antibodies. Forty-three
+
+of these 205 patients (21%) had detectable anti-glucarpidase antibodies following administration, of
+
+which 32 received 1 dose and 11 received 2 or 3 doses of glucarpidase. Antibody titers were
+
+Assessment report
+EMA/CHMP/751047/2021 Page 152/162
+
+
+-----
+
+determined using a bridging enzyme-linked immunosorbent assay (ELISA) for anti- glucarpidase
+
+antibodies. Neutralizing antibodies were detected in 22 of the 43 patients who tested positive for anti
+glucarpidase binding antibodies. Data did not show a negative impact of the observed relatively high
+
+incidence of ADAs/NAbs on the safety profile of glucarpidase. The occurrence of ADA or NAb was much
+
+higher in patients receiving 2 [nd] or 3 [rd] dose of glucarpidase, indicating the increasing risk of ADA in a
+
+population receiving repeated doses. The limitation of available immunogenicity results (e.g. non
+reporting of all adverse events for some period) is acknowledged, but taking into account the intended
+
+administration as single dose, the issue is not of concern. (see SmPC 4.8)
+
+Known interaction with leucovorin is further discussed in the PK section (see Study 017 section 2.6.2).
+
+Leucovorin is a competitive substrate of glucarpidase competing for the MTX binding site. Glucarpidase
+
+can decrease leucovorin concentration, which may decrease the effect of leucovorin rescue. It is
+
+therefore recommended that folinic acid should not be administered within the 2 hours before or after
+
+glucarpidase administration to minimise any potential interaction. A relevant warning on proper
+
+administration of both products in line with minimising the potential interaction was included in section
+
+4.2 of the SmPC. Glucarpidase may also reduce the concentrations of other folate analogues or folate
+
+analogue metabolic inhibitors. No further DDI studies were performed, which is acceptable considering
+
+the intended use of glucarpidase and the nature of the molecule.
+
+The applicant summarised the ADRs reported in the period covering 2012-2019 in the US within the
+
+post-marketing setting. The listed events per age groups and seriousness did not reveal any new
+
+findings or trends accompanying glucarpidase administration in comparison to the results retrieved
+
+from clinical trials. Several hypersensitivity reactions/anaphylaxis were reported. These included nine
+
+cases of possible Type III hypersensitivity reactions: dermatitis allergic (n=2), rash, rash follicular,
+
+rash maculo-papular, and dermatologic examination abnormal (n=1 each). Three of them,
+
+anaphylactic reaction, drug eruption and toxic epidermal necrolysis were considered as serious events
+
+and their reports were substantiated. The provided data are acceptable and revealed no new safety
+
+trends.
+
+***Additional safety data needed in the context of an MA under exceptional circumstances***
+
+Taking into account the totality of the available data, the CHMP was of the view that the data set on
+
+clinical safety for glucarpidase under normal conditions of use could not be considered comprehensive
+
+due to the absence of any randomised head-to-head comparison with a placebo or active comparator
+
+in any clinical setting. As MTX toxicity is a relatively rare and unpredictable condition there were
+
+several major challenges in the clinical development of glucarpidase as a therapeutic agent which
+
+inhibit the generation of comprehensive data on efficacy and safety.
+
+However, it is not considered feasible to generate a comprehensive data set due to ethical
+
+considerations preventing the conduct of a randomised placebo-controlled trial. At the time of this
+
+report, there are no alternative pharmaceutical treatments capable of reducing toxic and potentially
+
+fatal circulating MTX concentrations in the presence of renal impairment, and it was not possible to
+
+initiate studies with an untreated control group, and no patients with delayed MTX elimination and
+
+renal impairment received placebo in the clinical studies of glucarpidase.
+
+Therefore, the current situation prevents the generation of new controlled data to confirm the
+
+outcomes of studies PR001-CLN-001, -002, -003 and **-** 006.
+
+The CHMP was therefore of the view that a marketing authorisation under exceptional circumstances
+
+should be granted subject to specific obligations. The applicant will conduct a prospective,
+
+observational, phase IV multicentre, open label study based on a glucarpidase patient registry in order
+
+to obtain safety and efficacy data for glucarpidase in patients with impaired MTX clearance. Patients
+
+will be followed up for up to 6 months following glucarpidase treatment and data collection will
+
+Assessment report
+EMA/CHMP/751047/2021 Page 153/162
+
+
+-----
+
+continue as long as the product remains authorised.
+#### **2.6.10. Conclusions on the clinical safety **
+
+The safety database supporting this application is composed of 492 patients represented almost
+
+equally be paediatric population and adults. The presented pooled clinical safety data has several
+
+limitations mainly due to different trial design, methodology and missing data (including SAEs and
+
+deaths relationship collection). However, in view of the targeted population, based on data from a
+
+single dose administration and the analysis per paediatric subgroups (≥28 days to <2 years, ≥2 to
+
+<12 years and ≥12 to <18 years of age), the safety dataset could be considered acceptable.
+
+Multiple doses were given only to a limited number of patients, and, in addition, showed an increased
+
+risk of toxicity. Therefore, a posology of more than one dose is not recommended from a safety point
+
+of view. A single dose is recommended in section 4.2 of the SmPC.
+
+Acute MTX toxicity is an emergent life threating condition and a comparative study design would be
+
+impossible to conduct. In this context, the safety data package from compassionate use open label
+
+single arm trials is considered acceptable by the CHMP, taking also into account that the applicant
+
+applied for a marketing authorisation under exceptional circumstances.
+
+The CHMP considers the following measures necessary to address the missing safety data in the
+
+context of an MA under exceptional circumstances:
+
+  - In order to further characterise the efficacy and safety of glucarpidase indicated to reduce toxic
+
+plasma methotrexate concentration in adults and children (aged 28 days and older) with
+
+delayed methotrexate elimination or at risk of methotrexate toxicity, the MAH should conduct
+
+and submit the results of a study from a glucarpidase patient registry to be conducted on
+
+patients with impaired methotrexate clearance according to an agreed protocol. ***2.7. Risk Management Plan *** **2.7.1. Safety concerns **
+
+None. **2.7.2. Pharmacovigilance plan **
+
+No additional pharmacovigilance activities. **2.7.3. Risk minimisation measures **
+
+None. **2.7.4. Conclusion **
+
+The CHMP considers that the risk management plan version 1.0 is acceptable.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 154/162
+
+
+-----
+
+#### ***2.8. Pharmacovigilance *** **2.8.1. Pharmacovigilance system **
+
+The CHMP considered that the pharmacovigilance system summary submitted by the applicant fulfils the
+
+requirements of Article 8(3) of Directive 2001/83/EC. **2.8.2. Periodic Safety Update Reports submission requirements **
+
+The requirements for submission of periodic safety update reports for this medicinal product are set
+
+out in the Annex II, Section C of the CHMP Opinion. The applicant did request alignment of the PSUR
+
+cycle with the international birth date (IBD). The IBD is 17.01.2012. The new EURD list entry will
+
+therefore use the IBD to determine the forthcoming Data Lock Points. ***2.9. Product information *** **2.9.1. User consultation **
+
+The results of the user consultation with target patient groups on the package leaflet submitted by the
+
+applicant show that the package leaflet meets the criteria for readability as set out in the *Guideline on*
+
+*the readability of the label and package leaflet of medicinal products for human use.* **2.9.2. Labelling exemptions **
+
+A request of translation exemption of the labelling as per Art.63.1 of Directive 2001/83/EC has been
+
+submitted by the applicant and has been found acceptable by the QRD Group for the following
+
+reasons:
+
+The request for translation exemption (EN only) was considered acceptable for the labels (vial and
+
+outer carton), but not acceptable for the package leaflet. Provision of printed package leaflets in each
+
+national language, and alongside the approved EN version, should be considered.
+
+The labelling subject to translation exemption as per the QRD Group decision above will however be
+
+translated in all languages in the Annexes published with the EPAR on EMA website, but the printed
+
+materials will only be translated in the language(s) as agreed by the QRD Group. **2.9.3. Additional monitoring **
+
+Pursuant to Article 23(1) of Regulation No (EU) 726/2004, Voraxaze (glucarpidase) is included in the
+
+additional monitoring list as:
+
+  - It is a biological product that is not covered by the previous category and authorised after 1
+
+January 2011.
+
+  - It is approved under exceptional circumstances [REG Art 14(8), DIR Art (22)].
+
+Therefore the summary of product characteristics and the package leaflet includes a statement that
+
+this medicinal product is subject to additional monitoring and that this will allow quick identification of
+
+new safety information. The statement is preceded by an inverted equilateral black triangle.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 155/162
+
+
+-----
+
+## **3. Benefit-Risk Balance **
+#### ***3.1. Therapeutic Context *** **3.1.1. Disease or condition **
+
+Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged
+
+28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity. **3.1.2. Available therapies and unmet medical need **
+
+Currently there are several indirect possible treatment strategies to prevent toxicity of MTX in patients
+
+with prolonged high exposure. The risk of treatment-related toxicity may be diminished by increased
+
+renal elimination using urine alkalisation and urine output enhancement, reversal of MTX tissue actions
+
+with leucovorin (with or without thymidine) and use of extracorporeal elimination techniques. There
+
+are no treatment options sharing the same mechanism of action with glucarpidase, i.e. decreasing MTX
+
+levels by its metabolic conversion into inactive metabolites.
+
+Acute MTX toxicity is an emergent life-threatening condition presenting with multiple tissue damage
+
+signs as oral mucositis, generalised rash, fever, haematologic depression, renal and liver dysfunction
+
+and, in severe cases, multiorgan failure. Mortality in patients with MTX high exposure toxicity is high,
+
+although the estimates vary in the literature, e.g. 28% by Ajmani S. et. al., 2017. **3.1.3. Main clinical studies **
+
+The efficacy of glucarpidase has been studied in four compassionate-use, open-label multicentre
+
+studies in patients with delayed MTX elimination due to renal dysfunction: studies 001 (n=44), 002
+
+(n=262), 003 (n=82) and 006 (n=184). The primary efficacy variable was the proportion of patients
+
+who achieved a clinically important reduction (CIR) in serum MTX concentration based on the central
+
+laboratory HPLC assay. A patient was deemed to have achieved a CIR if the serum MTX concentrations
+
+in all samples obtained after the first dose of glucarpidase were ≤1 µmol/L.
+
+Study 001 included patients with impaired MTX clearance due to MTX-induced renal failure following IV
+
+administration of HDMTX therapy, or in patients with intrathecal MTX overdose.
+
+Studies 002 and 006 included patients with impaired MTX clearance due to MTX-induced renal failure
+
+following IV administration of HDMTX therapy.
+
+Study 003 determined the efficacy of glucarpidase or a combination of glucarpidase and thymidine in
+
+rescuing patients with delayed MTX elimination secondary to renal dysfunction. ***3.2. Favourable effects ***
+
+Glucarpidase rapidly reduced MTX serum levels in all the 4 main studies. In the central HPLC
+
+population of the four presented studies, clinically important reduction of MTX serum levels following
+
+glucarpidase administration has been achieved in 85.7% (95% CI: 68.5%, 94.3%), 54.8% (95% CI:
+
+44.2% to 65.0%), 66.7% (95% CI: 49% to 81%) and 51.9% (95% CI: 34.0% to 69.3%) of the
+
+patients enrolled. In patients who received thymidine, 50% (95% CI: 35.5% to 64.5%) achieved a
+
+CIR, while CIR of 59.5% (95% CI: 44.5% to 73.0%) in patients not receiving thymidine was achieved.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 156/162
+
+
+-----
+
+In the local analyses data sets of the four presented studies, clinically important reduction of MTX
+
+serum levels following glucarpidase administration has been less frequent, achieved in 38.1% to
+
+46.3% of the patients enrolled in the individual studies.
+
+In all studies, the median MTX concentration significantly decreased (central laboratory HPLC data set)
+
+within 15 minutes after the first glucarpidase dose. The median reduction from baseline was more than
+
+98% in studies 001 and 002, while 96.8% and 99.3% reductions have been noted in studies 003 and
+
+006, respectively.
+
+Furthermore, the median MTX concentrations have been at least stabilised over 8-15 days of duration
+
+in all the studies.
+#### ***3.3. Uncertainties and limitations about favourable effects ***
+
+Available clinical data is rather limited with respect to the number of patients as well as demonstration
+
+of the clinical relevance of the observed effect on MTX pharmacokinetics. The effect of glucarpidase on
+
+MTX serum level is apparent, although comparative studies have not been performed and the results
+
+are thus based on descriptive statistics.
+
+However, the main uncertainty in the data was identified in the characterisation of the interaction with
+
+leucovorin and clarification of its impact on clinical efficacy of the product. Reduction in leucovorin and
+
+its metabolite is seen following glucarpidase administration, which can abolish the rescue effect of
+
+leucovorin and thus compromise the potential benefit arising from decreased MTX exposure as such.
+
+The majority of the MTX concentration data of the patients enrolled in the main studies have been
+
+analysed by less selective analytical methods (immunoassays suffering from cross reactivity with
+
+DAMPA) that may partly underestimate the effect of glucarpidase, which is also reflected by the less
+
+frequent achievement of clinically important reduction of MTX serum levels (due to cross reactivity with
+
+DAMPA). The data from HPLC analyses indicated a rebound phenomenon that has occurred in
+
+approximately 14-23% of patients in the 4 main clinical studies. However, most of the patients
+
+experiencing rebound phenomenon had relatively small increase in MTX concentrations (up to 2µmol/L
+
+or up to 200% increase from the lowest value). It is uncertain how this phenomenon will be dealt with
+
+in the clinical practice, where immunoassays suffering from cross reactivity with DAMPA will be used.
+
+Therefore, a false increase in MTX serum concentration could be concluded by the physicians especially
+
+after 48h, when it may represent DAMPA accumulation. The SmPC recommends a high-performance
+
+chromatography (HPLC) method for measuring MTX concentrations following glucarpidase
+
+administration, as current immunoassays are unreliable due to DAMPA interfering with the
+
+measurement of MTX concentration and leading in an overestimation (see SmPC 4.4).
+
+The acute MTX toxicity is an emergent life threatening condition and a comparative study design would
+
+be impossible to conduct. In this context, a data package based on compassionate use, open label,
+
+single arm trials is considered acceptable, taking also into account that the applicant applied for a
+
+marketing authorisation under exceptional circumstances. The proposed specific obligation is
+
+considered adequate and endorsed.
+
+The CHMP considers the following measures necessary to address the missing efficacy data in the
+
+context of an MA under exceptional circumstances:
+
+  - In order to further characterise the efficacy and safety of glucarpidase indicated to reduce toxic
+
+plasma methotrexate concentration in adults and children (aged 28 days and older) with
+
+delayed methotrexate elimination or at risk of methotrexate toxicity, the MAH should conduct
+
+and submit the results of a study from a glucarpidase patient registry to be conducted on
+
+patients with impaired methotrexate clearance according to an agreed protocol.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 157/162
+
+
+-----
+
+#### ***3.4. Unfavourable effects ***
+
+The safety of glucarpidase was established in 14 clinical studies and based on 8-year post-marketing
+
+experience from USA.
+
+Pooled data from 6 completed clinical studies defined the Main Safety Population (492 patients). 343 of
+
+them represents the Target Population for which registration is sought. Paediatric and adult patients
+
+were represented almost equally.
+
+In total 11% of patients reported treatment-related AE, most commonly assessed paraesthesia (2%),
+
+flushing (1.8%) and headache (1.5%). Only a few hypersensitivity reactions were reported (Type I –
+
+2.6%; Type III – 1.2%).
+
+Approximately one-third of patients experienced SAEs and less than 2% had at least one treatment
+related SAE (hypertension, hypersensitivity). Most deaths occurred after glucarpidase elimination time
+
+and were probably secondary to sepsis/infection, or to progression of the patient´s underlying disease,
+
+which are expected causes of death in an oncology population receiving HD-MTX.
+
+The immune response related to glucarpidase therapy is not anticipated to be of high risk taking into
+
+account the route of administration and one single dose. Data did not show a negative impact of the
+
+observed relatively high incidence of ADAs/NAbs on safety profile of glucarpidase. The occurrence of
+
+ADA or NAb was much higher in patients received 2 [nd] or 3 [rd] dose of glucarpidase, indicating the
+
+increasing risk of ADA in population receiving repeated doses. ***3.5. Uncertainties and limitations about unfavourable effects ***
+
+The main limitations of the currently available safety data set is that it derives from heterogeneous
+
+clinical studies performed at various time periods. These studies have different designs (e.g.
+
+administration of different doses; single or repeated administration of up to 3 doses), different
+
+methodology of data collection (e.g. number of missing data) and including patients with different
+
+diagnosis and tumour types. Moreover, it is quite challenging to distinguish glucarpidase related
+
+toxicity in patients suffering from life-threatening HD-MTX toxicity in the context of single-arm trials.
+
+Therefore, most of the common TEAEs, SAEs and common Grade ≥3 TEAEs were sequalae to HD-MTX
+
+treatment.
+
+Approximately one-third of patients in both populations experienced SAEs and less than 2% had at
+
+least one treatment-related SAE (hypertension, hypersensitivity). Most deaths occurred after
+
+glucarpidase’s elimination time and were probably secondary to sepsis/infection, or to progression of
+
+the patient´s underlying disease which are expected causes of death in an oncology population
+
+receiving HD-MTX. For a third of the reported SAEs and for the majority of the events that led to the
+
+patient’s death, the relationship to glucarpidase was not recorded and this could confound the analysis. ***3.6. Effects Table ***
+
+**Table 44:** Effects Table for Voraxaze, indicated to reduce toxic plasma methotrexate concentration in
+
+adults and children (aged 28 days and older) with delayed methotrexate elimination or at risk of
+
+methotrexate toxicity.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 158/162
+
+
+-----
+
+|Effect Achieveme|Short Description PEP|Unit %|Treatment 86%|Control n/a|Uncertainties/ Strength of evidence 95% CI: 68.5%, 94.3%|References Study 001|
+|---|---|---|---|---|---|---|
+|Achieveme nt of CIR|PEP|%|86%|n/a|95% CI: 68.5%, 94.3%|Study 001|
+|Achieveme nt of CIR|PEP|%|55%||95% CI: 44.2%, 65.0%|Study 002|
+|Achieveme nt of CIR|PEP|%|67%||95% CI: 49%, 81%|Study 003|
+|Achieveme nt of CIR|PEP|%|52%||95% CI: 34.0%, 69.3%|Study 006|
+|Achieveme nt of CIR|PEP|%|61.5%||95%CI: 54%, 68,5%|Pooled Central MTX Population|
+|Achieveme nt of CIR|PEP|%|52.2%||95%CI: 43.1%, 61.1%|Target Population|
+|Unfavourable Effects|||||||
+|Hypersen sitivity type I|Incidence|%|2.6|n/a||Main safety population|
+|Hypersen sitivity type III|Incidence|%|1.2|||Main safety population|
+|Paraesthe sia|Incidence|%|2|||Main safety population|
+|Flushing|Incidence|%|1.8|||Main safety population|
+|Headache|Incidence|%|1.5|||Main safety population|
+
+
+Abbreviations: CIR: clinically important reduction, PEP: percentage of evaluable population, MTX:
+
+methotrexate
+#### ***3.7. Benefit-risk assessment and discussion *** **3.7.1. Importance of favourable and unfavourable effects **
+
+Administration of glucarpidase led to a rapid, consistent and profound decrease of MTX serum
+
+concentrations that was of a comparable extent as that of haemodialysis, while the effect is
+
+considerably faster. The drug is currently widely used under compassionate programmes, although not
+
+registered in the EU. As MTX toxicity is considered to be a combined factor of exposure and it is time
+
+dependent, the effect of glucarpidase is considered clinically relevant. Additionally, an indirect benefit
+
+of decreasing MTX serum levels relates to better entrance of leucovorin into the cells. Ramsey et al.
+
+(2018) described that leucovorin must compete with MTX for cell entry and polyglutamation, so it is
+
+less effective as a rescue agent at high MTX concentrations if it is not also present at an equipotent
+
+concentration. This is described also by Widemann (2006) stating that elevated MTX plasma
+
+concentrations may lead to ineffective rescue by leucovorin and cause other MTX toxicities such as
+
+myelosuppression, mucositis, hepatitis and dermatitis.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 159/162
+
+
+-----
+
+Therefore, glucarpidase represents an important modality in the treatment of MTX overexposure.
+
+However, glucarpidase has also led to decreased leucovorin (a competitive substrate of glucarpidase)
+
+and its metabolite levels, possibly compromising the leucovorin rescue treatment. It is therefore
+
+recommended that leucovorin should not be administered within 2 hours before or after glucarpidase
+
+administration to minimise any potential interaction (see SmPC section 4.2).
+#### **3.7.2. Balance of benefits and risks **
+
+Glucarpidase produced a rapid, marked and sustained reduction in systemic MTX concentration. The
+
+observed safety profile after a single dose appears acceptable considering the life-threatening condition
+
+treated. It can be concluded that the benefits of glucarpidase in the sought indication outweigh its
+
+risks. **3.7.3. Additional considerations on the benefit-risk balance **
+
+***Marketing authorisation under exceptional circumstances***
+
+As comprehensive data on the product are not available, a marketing authorisation under exceptional
+
+circumstances was proposed by the CHMP during the assessment, after having consulted the applicant.
+
+The CHMP considers that the applicant has sufficiently demonstrated that it is not possible to provide
+
+comprehensive data on the efficacy and safety under normal conditions of use, because the applied for
+
+indication is encountered so rarely that the applicant cannot reasonably be expected to provide
+
+comprehensive evidence. Furthermore, it would be contrary to generally accepted principles of medical
+
+ethics to collect comprehensive data from controlled studies.
+
+At the current time, the best estimate for the number of patients affected and who may require
+
+treatment with glucarpidase is 0.382 per 10,000 people. As MTX toxicity is a relatively rare and
+
+unpredictable condition there were several major challenges in the clinical development of glucarpidase
+
+as a therapeutic agent which inhibit the generation of comprehensive data on efficacy and safety.
+
+Instead, the main method of studying glucarpidase was via compassionate-use protocols. In addition,
+
+it is very difficult to compare the results from the clinical studies of glucarpidase with historical or other
+
+control data from patients who were either not eligible or did not receive glucarpidase as:
+
+1) Patients eligible for glucarpidase have more severe MTX toxicity initially than those who are not
+
+eligible.
+
+2) Those patients that have received glucarpidase may have received it too late therefore did not show
+
+a benefit.
+
+3) Delayed elimination of MTX occurs only rarely and unpredictably in patients. There are not similarly
+
+large cohorts of patients with MTX toxicity reported in the literature and any reports that have been
+
+made have been on the assessment of different interventions.
+
+4) Individual case reports are likely to be highly biased, with favourable outcomes more likely to be
+
+published and although there will be less bias in cases which are reported as part of prospective clinical
+
+studies, these cases are unlikely to be reported in sufficient detail.
+
+5) A fair comparison between study patients and historic controls could only be made if the controls
+
+could be matched to patients on all the relevant parameters, including patient population and
+
+treatment, circulating MTX concentration and renal function. Historical data are not reported in
+
+sufficient detail to allow this to be done.
+
+6) There are very few studies that have investigated the efficacy of extracorporeal methods, and
+
+Assessment report
+EMA/CHMP/751047/2021 Page 160/162
+
+
+-----
+
+evidence for these comes largely from case studies.
+
+In conclusion, as acute MTX toxicity is a rare emergent life-threatening condition, a comparative study
+
+design would be impossible to conduct. Therefore, it is not possible to generate comprehensive data,
+
+and recommending a marketing authorisation under exceptional circumstances is considered
+
+appropriate.
+#### ***3.8. Conclusions ***
+
+The overall benefit/risk balance of Voraxaze is positive, subject to the conditions stated in section
+
+‘Recommendations’.
+## **4. Recommendations **
+
+***Outcome***
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus
+
+decision that the benefit-risk balance of Voraxaze is favourable in the following indication:
+
+Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged
+
+28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity.
+
+The CHMP therefore recommends the granting of the marketing authorisation under exceptional
+
+circumstances subject to the following conditions:
+
+***Conditions or restrictions regarding supply and use***
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product
+
+Characteristics, section 4.2).
+
+***Other conditions and requirements of the marketing authorisation***
+### • Periodic Safety Update Reports
+
+The requirements for submission of periodic safety update reports for this medicinal product are set
+
+out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive
+
+2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+The marketing authorisation holder shall submit the first periodic safety update report for this product
+
+within 6 months following authorisation.
+
+***Conditions or restrictions with regard to the safe and effective use of the medicinal product*** • Risk Management Plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and
+
+interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and
+
+any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+   - At the request of the European Medicines Agency;
+
+   - Whenever the risk management system is modified, especially as the result of new
+
+information being received that may lead to a significant change to the benefit/risk profile or
+
+as the result of an important (pharmacovigilance or risk minimisation) milestone being
+
+Assessment report
+EMA/CHMP/751047/2021 Page 161/162
+
+
+-----
+
+reached.
+### • Obligation to conduct post-authorisation measures
+
+The MAH shall complete, within the stated timeframe, the below measures:
+
+***Specific Obligation to complete post-authorisation measures for the marketing authorisation***
+
+***under exceptional circumstances***
+
+This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation
+
+(EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
+
+|Description|Due date|
+|---|---|
+|In order to further characterise the efficacy and safety of glucarpidase indicated to reduce toxic plasma methotrexate concentration in adults and children (aged 28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity, the MAH should conduct and submit the results of a study from a glucarpidase patient registry to be conducted on patients with impaired methotrexate clearance according to an agreed protocol.|Annual updates to be submitted at the time of the annual reassessment.|
+
+
+
+***Conditions or restrictions with regard to the safe and effective use of the medicinal product***
+
+***to be implemented by the Member States***
+
+Not applicable.
+
+***New Active Substance Status***
+
+Based on the CHMP review of the available data, the CHMP considers that glucarpidase is to be
+
+qualified as a new active substance in itself as it is not a constituent of a medicinal product previously
+
+authorised within the European Union.
+
+***Paediatric Data***
+
+Furthermore, the CHMP reviewed the available paediatric data of studies subject to the agreed
+
+Paediatric Investigation Plan P/0176/2013 and the results of these studies are reflected in the
+
+Summary of Product Characteristics (SmPC) and, as appropriate, the Package Leaflet.
+
+Assessment report
+EMA/CHMP/751047/2021 Page 162/162
+
+
+-----
+
