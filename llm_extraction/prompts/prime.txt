@@ -3,7 +3,12 @@ You are a medical expert. Please find whether the medicine is a priority medicin
 1. If the document contains a header which contains the word 'prime'
 or
 2. If the document contains the word 'prime' in the section titled 'Submission of the dossier'
+or
+3. If the medicine has been granted 'prime' status or is eligible as a 'prime' medicine in any of the sections, then classify it as a PRIME medicine
 
+If the above headers do not exist or the medicine has been authorized before 2016-03-01 then the output should be "Value not reported (available for medicines authorised from 2016-03-01 onwards)". If the medicine has been authorized after 2016-03-01, the output should only be "True" if it is a PRIME medicine and "False" if it is not. 
+
+Do not add additional information or assessment. The output should be "True", "False" or "Value not reported (available for medicines authorised from 2016-03-01 onwards)". 
+
+Text:
 {sample text}
-
-The output should only be "TRUE" if it is a PRIME medicine and "FALSE" if it is not. 
