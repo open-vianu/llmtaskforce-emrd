@@ -1,0 +1,3843 @@
+# EU-1-22-1665_public-assessment-report_20230531_20230531_dabigatran-etexilate-accord-epar-public-assessment-report.pdf
+
+EUROPEAN MEDICINES AGENCY SCIENCE MEDICINES HEALTH
+
+30 March 2023 EMA/182457/2023 Committee for Medicinal Products for Human Use (CHMP)
+
+Assessment report
+
+Dabigatran Etexilate Accord
+
+International non-proprietary name: dabigatran etexilate
+
+Procedure No. EMEA/H/C/005639/0000
+
+Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+Official address Domenico Scarlattilaan 6 . 1083 HS Amsterdam . The Netherlands Address for visits and deliveries Refer to www.ema.europa.eu/how-to-find-us Send us a question Go to www.ema.europa.eu/contact Telephone +31 (0)88 781 6000
+
+An agency of the European Union
+
+European Medicines Agency, 2023. Reproduction is authorised provided the source is acknowledged.
+
+Administrative information
+
+Name of the medicinal product:
+
+Applicant:
+
+Accord Healthcare S.L.U.
+
+World Trade Center
+
+Moll de Barcelona S/N
+
+Edifici Est, 6a Planta
+
+08039 Barcelona
+
+SPAIN
+
+Active substance:
+
+dabigatran etexilate mesilate
+
+International Nonproprietary
+
+Name/Common Name:
+
+dabigatran etexilate
+
+Pharmaco-therapeutic group
+
+(ATC Code):
+
+ANTITHROMBOTIC AGENTS, Direct thrombin
+
+inhibitors
+
+(B01AE07)
+
+Therapeutic indication(s):
+
+Dabigatran Accord 75 mg hard capsules:
+
+Primary prevention of venous thromboembolic
+
+events (VTE) in adult patients who have
+
+undergone elective total hip replacement
+
+surgery or total knee replacement surgery.
+
+Dabigatran Etexilate Accord
+
+Treatment of VTE and prevention of recurrent
+
+VTE in paediatric patients from birth to less than
+
+18 years of age.
+
+Dabigatran Accord 110 mg hard capsules: Primary prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+
+Treatment of VTE and prevention of recurrent
+
+Assessment report EMA/182457/2023
+
+Page 2/56
+
+Pharmaceutical form(s):
+
+Capsule, hard
+
+Strength(s):
+
+75 mg, 110 mg and 150 mg
+
+Route(s) of administration:
+
+Oral use
+
+Packaging:
+
+blister (OPA/Alu/desiccant PEPET/Alu/PE)
+
+bottle (PP)
+
+Package size(s):
+
+10 capsules, 10 x 1 capsules (unit dose), 100
+
+capsules, 100 x 1 capsules (unit dose), 180
+
+capsules, 180 x 1 capsules (unit dose), 30
+
+capsules, 30 x 1 capsules (unit dose), 60
+
+capsules and 60 x 1 capsules (unit dose)
+
+VTE in paediatric patients from birth to less than 18 years of age.
+
+Dabigatran Accord 150 mg hard capsules: Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+Treatment of deep vein thrombosis (DVT) and
+
+pulmonary embolism (PE), and prevention of
+
+recurrent DVT and PE in adults
+
+Treatment of venous thromboembolic events
+
+(VTE) and prevention of recurrent VTE in
+
+paediatric patients from birth to less than 18
+
+years of age.
+
+Assessment report EMA/182457/2023
+
+Page 3/56
+
+Table of contents
+
+1. Background information on the procedure. 7
+
+1.1. Submission of the dossier
+
+7
+
+1.2. Legal basis, dossier content
+
+7
+
+1.3. Information on paediatric requirements
+
+10
+
+1.4. Information relating to orphan market exclusivity
+
+10
+
+1.4.1. Similarity
+
+10
+
+1.5. Scientific advice
+
+10
+
+1.6. Steps taken for the assessment of the product
+
+10
+
+2. Scientific discussion
+
+11
+
+2.1. Introduction
+
+11
+
+2.2. Quality aspects.
+
+12
+
+2.2.1. Introduction
+
+12
+
+2.2.2. Active substance
+
+12
+
+General information
+
+12
+
+Manufacture, characterisation and process controls
+
+13
+
+Specification
+
+16
+
+Stability
+
+18
+
+2.2.3. Finished medicinal product
+
+18
+
+Description of the product and Pharmaceutical development
+
+18
+
+Manufacture of the product and process controls
+
+23
+
+Product specification.
+
+26
+
+Stability of the product
+
+28
+
+Adventitious agents
+
+29
+
+2.2.4. Discussion on chemical, and pharmaceutical aspects.
+
+30
+
+2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects
+
+30
+
+2.2.6. Recommendation for future quality development .
+
+30
+
+2.3. Non-clinical aspects
+
+30
+
+2.3.1. Introduction
+
+30
+
+2.3.2. Ecotoxicity/environmental risk assessment
+
+31
+
+2.3.3. Discussion on non-clinical aspects
+
+31
+
+2.3.4. Conclusion on the non-clinical aspects
+
+31
+
+2.4. Clinical aspects
+
+31
+
+2.4.1. Introduction
+
+31
+
+2.4.2. Clinical pharmacology
+
+36
+
+2.4.3. Discussion on clinical aspects.
+
+63
+
+2.4.4. Conclusions on clinical aspects.
+
+65
+
+2.5. Risk Management Plan
+
+65
+
+2.5.1. Safety concerns
+
+65
+
+2.5.2. Pharmacovigilance plan
+
+66
+
+2.5.3. Risk minimisation measures
+
+66
+
+2.5.4. Conclusion
+
+71
+
+2.6. Pharmacovigilance
+
+71
+
+2.6.1. Pharmacovigilance system
+
+71
+
+2.6.2. Periodic Safety Update Reports submission requirements
+
+71
+
+Assessment report EMA/182457/2023
+
+Page 4/56
+
+2.7. Product information
+
+71
+
+2.7.1. User consultation 71
+
+3. Benefit-risk balance
+
+71
+
+4. Recommendations
+
+72
+
+Assessment report EMA/182457/2023
+
+Page 5/56
+
+List of abbreviations
+
+AI
+
+Acceptable Intake
+
+Alu
+
+Aluminium
+
+ASMF Active Substance Master File = Drug Master File BSE Bovine Spongiform Encephalopathy
+
+CHMP Committee for Medicinal Products for Human use
+
+EC European Commission
+
+EU European Union
+
+GC
+
+Gas Chromatography
+
+GMP
+
+Good Manufacturing Practice
+
+HDPE High performance liquid chromatography
+
+HPLC ICH Pharmaceuticals for Human Use
+
+ICP-MS Inductively coupled plasma mass spectrometry IR Infrared
+
+KF Karl Fischer titration
+
+LC-MS Liquid chromatography mass spectrometry
+
+LDPE
+
+Low Density Polyethylene
+
+MA Marketing Authorisation
+
+MAH Marketing Authorisation holder MS Mass Spectrometry
+
+NMR
+
+Nuclear Magnetic Resonance
+
+NMT
+
+Not more than
+
+OPA
+
+Oriented Polyamide
+
+PDE Permitted Daily Exposure PE Polyethylene
+
+PET Polyester
+
+Ph. Eur.
+
+European Pharmacopoeia
+
+PP Polypropylene PPI Proton Pump Inhibitor PSD Particle Size Distribution QC
+
+QWP Quality Control
+
+RH Relative Humidity
+
+SmPC Summary of Product Characteristics
+
+TGA Thermo-Gravimetric Analysis
+
+TSE Transmissible Spongiform Encephalopathy
+
+UV Ultraviolet
+
+XR(P)D X-Ray (Powder) Diffraction
+
+High Density Polyethylene
+
+International Conference on Harmonisation of Technical Requirements for Registration of
+
+Quality Working Party
+
+Assessment report EMA/182457/2023
+
+Page 6/56
+
+1. Background information on the procedure
+
+1.1. Submission of the dossier
+
+The applicant Accord Healthcare S.L.U. submitted on 29 June 2020 an application for marketing authorisation to the European Medicines Agency (EMA) for Dabigatran Etexilate Accord, through the centralised procedure under Article 3 (3) of Regulation (EC) No. 726/2004- 'Generic of a Centrally authorised product'. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 30 April 2020.
+
+The application concerns a generic medicinal product as defined in Article 10(2)(b) of Directive 2001/83/EC and refers to a reference product, as defined in Article 10 (2)(a) of Directive 2001/83/EC, for which a marketing authorisation is or has been granted in the Union on the basis of a complete dossier in accordance with Article 8(3) of Directive 2001/83/EC.
+
+The applicant applied for the following indications:
+
+Dabigatran Etexilate Accord 75 mg hard capsules
+
+Primary prevention of venous thromboembolic events in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+Dabigatran Etexilate Accord 110 mg hard capsules
+
+Primary prevention of venous thromboembolic events in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age > 75 years; heart failure (NYHA Class > II); diabetes mellitus; hypertension.
+
+Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+
+Dabigatran Etexilate Accord 150 mg hard capsules
+
+Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age > 75 years; heart failure (NYHA Class > II); diabetes mellitus; hypertension.
+
+Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+
+1.2. Legal basis, dossier content
+
+The legal basis for this application refers to:
+
+Generic application (Article 10(1) of Directive No 2001/83/EC).
+
+The application submitted is
+
+composed of administrative information, complete quality data and a bioequivalence study with the reference medicinal product Pradaxa instead of non-clinical and clinical unless justified otherwise.
+
+The chosen reference product is:
+
+Assessment report EMA/182457/2023
+
+Page 7/56
+
+Medicinal product which is or has been authorised in accordance with Union provisions in force for not less than 6/8/10 years in the EEA and Medicinal product authorised in the Union /Members State where the application is made or European reference medicinal product:
+
+· Product name, strength, pharmaceutical form: Pradaxa, 75 mg, 110 mg and 150 mg, Hard Capsules
+
+· Marketing authorisation holder: Boehringer Ingelheim International GmbH
+
+· Date of authorisation: 17-03-2008
+
+· Marketing authorisation granted by: Union
+
+· Marketing authorisation number:
+
+- 75 mg:
+
+EU/1/08/442/001
+
+EU/1/08/442/002
+
+EU/1/08/442/003
+
+EU/1/08/442/004
+
+EU/1/08/442/017
+
+- 110 mg
+
+EU/1/08/442/005
+
+EU/1/08/442/006
+
+EU/1/08/442/007
+
+EU/1/08/442/008
+
+EU/1/08/442/014 EU/1/08/442/015 EU/1/08/442/018
+
+- 150 mg
+
+EU/1/08/442/009 EU/1/08/442/010
+
+EU/1/08/442/011 EU/1/08/442/012 EU/1/08/442/013 EU/1/08/442/016
+
+EU/1/08/442/019
+
+Medicinal product which is or has been authorised in accordance with Union provisions in force and to which bioequivalence has been demonstrated by appropriate bioavailability studies:
+
+· Product name, strength, pharmaceutical form: Pradaxa, 75 mg and 150 mg, Hard Capsules
+
+· Marketing authorisation holder: Boehringer Ingelheim International GmbH
+
+· Date of authorisation: 17-03-2008
+
+Assessment report EMA/182457/2023
+
+Page 8/56
+
+· Marketing authorisation granted by: Union
+
+· Marketing authorisation number:
+
+- 75 mg:
+
+EU/1/08/442/001
+
+- 150 mg
+
+EU/1/08/442/011
+
+· Bioavailability study number(s): 605/19(150 mg), 606/19 (150 mg) and 65321 (75 mg)
+
+1.3. Information on paediatric requirements
+
+Not applicable.
+
+1.4. Information relating to orphan market exclusivity
+
+1.4.1. Similarity
+
+Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC) No 847/2000, the applicant did not submit a critical report addressing the possible similarity with authorised orphan medicinal products because there is no authorised orphan medicinal product for a condition related to the proposed indication.
+
+1.5. Scientific advice
+
+The applicant did not seek Scientific advice from the CHMP.
+
+1.6. Steps taken for the assessment of the product
+
+The Rapporteur appointed by the CHMP was:
+
+Rapporteur:
+
+Hrefna Gudmundsdottir
+
+The application was received by the EMA on
+
+29 June 2020
+
+The procedure started on
+
+16 July 2020
+
+The CHMP Rapporteur's first Assessment Report was circulated to all
+
+CHMP and PRAC members on
+
+6 October 2020
+
+The PRAC Rapporteur's first Assessment Report was circulated to all
+
+PRAC and CHMP members on
+
+19 October 2020
+
+The CHMP agreed on the consolidated List of Questions to be sent to
+
+the applicant during the meeting on
+
+12 November 2020
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Questions on
+
+22 December 2021
+
+The CHMP Rapporteur circulated the CHMP and PRAC Rapporteurs Joint
+
+Assessment Report on the applicant's responses to the List of Questions
+
+01 February 2022
+
+Assessment report EMA/182457/2023
+
+Page 9/56
+
+to all CHMP members on
+
+The CHMP agreed on a list of outstanding issues in writing to be sent to
+
+the applicant on
+
+24 February 2022
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Outstanding Issues on
+
+08 June 2022
+
+The CHMP Rapporteur circulated the CHMP and PRAC Rapporteurs Joint
+
+Assessment Report on the responses to the List of Outstanding Issues
+
+to all CHMP and PRAC members on
+
+The CHMP agreed on a 2nd list of outstanding issues in writing to be
+
+sent to the applicant on
+
+23 June 2022
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Outstanding Issues on
+
+16 August 2022
+
+The CHMP Rapporteur circulated the CHMP and PRAC Rapporteurs Joint
+
+Assessment Report on the responses to the List of Outstanding Issues
+
+to all CHMP and PRAC members on
+
+15 September 2022
+
+The CHMP agreed on a 3rd list of outstanding issues in writing to be sent
+
+to the applicant on
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Outstanding Issues on
+
+21 December 2022
+
+The CHMP Rapporteur circulated the CHMP and PRAC Rapporteurs Joint
+
+Assessment Report on the responses to the List of Outstanding Issues
+
+to all CHMP and PRAC members on
+
+The CHMP agreed on a 4th list of outstanding issues in writing to be sent
+
+to the applicant on
+
+26 January 2023
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Outstanding Issues on
+
+14 March 2023
+
+The CHMP Rapporteur circulated the CHMP and PRAC Rapporteurs Joint
+
+Assessment Report on the responses to the List of Outstanding Issues
+
+to all CHMP and PRAC members on
+
+The CHMP, in the light of the overall data submitted and the scientific
+
+discussion within the Committee, issued a positive opinion for granting
+
+a marketing authorisation to Dabigatran Etexilate Accord on
+
+30 March 2023
+
+2. Scientific discussion
+
+2.1. Introduction
+
+24 May 2022
+
+31 August 2022
+
+12 January 2023
+
+28 February 2023
+
+Dabigatran etexilate (DE) is a potent, competitive, rapidly acting oral direct thrombin inhibitor.
+
+DE is the oral pro-drug of the active moiety dabigatran and does not possess anticoagulant activity. After oral administration, dabigatran etexilate is rapidly absorbed and converted to dabigatran by esterase-catalysed hydrolysis in plasma and in the liver.
+
+Assessment report EMA/182457/2023
+
+Page 10/56
+
+
+Since thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of thrombus. Dabigatran inhibits free thrombin, fibrin- bound thrombin and thrombin-induced platelet aggregation.
+
+2.2. Quality aspects
+
+2.2.1. Introduction
+
+The finished product is presented as hard capsules containing dabigatran etexilate mesilate as active substance equivalent to 75 mg, 110 mg and 150 mg of dabigatran etexilate.
+
+Other ingredients are:
+
+Capsule content: tartaric acid (E334), hypromellose (E464), talc (E553b), hydroxypropylcellulose (E463), croscarmellose sodium (E468) and magnesium stearate (E572);
+
+Capsule shell: - titanium dioxide (E171), hypromellose (E464);
+
+Printing ink: shellac (E904), propylene glycol (E1520), iron oxide black (E172), potassium hydroxide (E525)
+
+The product is available in OPA/Alu/desiccant PE-PET/Alu/PE blisters, OPA/Alu/desiccant PE-PET/Alu/PE perforated unit dose blisters or polypropylene bottle with child resistant closure, in multiple pack sizes.
+
+2.2.2. Active substance
+
+General information
+
+The chemical name of dabigatran etexilate mesilate is ß-alanine, N-[[2-[[[4-[[[ (hexyloxy) carbonyl] amino] iminomethyl] phenyl] amino] methyl]-1-methyl-1H-benzimidazol- 5-yl] carbonyl]-N-2- pyridinyl-, ethyl ester methanesulfonate corresponding to the molecular formula C35H45N7OgS. It has a relative molecular mass of 723.86 g/mol and the following structure:
+
+CH3
+
+0
+
+O
+
+CH3
+
+N
+
+N
+
+HN
+
+0
+
+0
+
+N
+
+NH2
+
+CH¿SO3H
+
+N
+
+CH3
+
+Figure 1: Active substance structure
+
+The chemical structure of dabigatran etexilate mesilate was elucidated by a combination of Elemental Analysis, Ultraviolet spectroscopy (UV), Infrared spectroscopy (IR), 1H and 13C Nuclear Magnetic Resonance spectroscopy (NMR) and Mass spectrometry (MS). The solid-state properties of the active substance were measured by X-Ray Diffraction (XRD) and thermal Analysis (TA). The active substance has a non-chiral molecular structure. The key physico-chemical properties relevant for the applied dosage form of the finished product are polymorphic form, particle size and stability of the active substance.
+
+Assessment report EMA/182457/2023
+
+Page 11/56
+
+Dabigatran etexilate mesilate is a yellow-white to yellow non-hygroscopic anhydrous crystalline powder, soluble in pH=1.2 aqueous media, but insoluble in aqueous media above pH=3.
+
+Polymorphism has been observed for dabigatran etexilate mesilate. Form-I is the form that is consistently produced by the active substance manufacturer and it is routinely tested at release and shown to be the stable polymorphic form throughout the re-test period of the active substance.
+
+Manufacture, characterisation and process controls
+
+Detailed information on the manufacturing of the active substance has been provided in the restricted part of the ASMF and it was considered satisfactory.
+
+Dabigatran etexilate mesilate is synthesized in 5 stages of branched synthesis consisting of 9 main steps (8 synthetic and a final purification/salification step), using well defined starting materials with acceptable specifications.
+
+The process comprises of standard chemical transformation steps. The synthesis of the active substance is adequately described. Adequate in-process controls are applied during the synthesis. The specifications and control methods for intermediate products, starting materials and reagents have been presented. The overall control strategy is considered adequate and yields an active substance of an acceptable quality.
+
+The characterisation of the active substance and its impurities is in accordance with the EU guideline on chemistry of active substances. Potential and actual impurities were well discussed with regards to their origin, demonstrating a good understanding of fate, purge and associated process controls in the process.
+
+During the assessment, a Major Objection was raised in order to request a risk evaluation concerning the presence of nitrosamine impurities in the active substance, which was adequately resolved by the Applicant by submission of a risk assessment indicating no risk of nitrosamine formation from the active substance manufacturing process.
+
+Dabigatran etexilate mesilate is packaged in triple low-density polyethylene (LDPE) bags, the outer layer being black, blanketed with nitrogen at each stage and placed inside a triple laminated bag and finally into a high-density polyethylene (HDPE) drum. Silica gel packets are placed with each clear and black bag layer and between the black PE bag and the laminated bag. Suitable specifications and declarations are provided regarding compliance with the EC directive 2002/72/EC and EC 10/2011 as amended, for each relevant packaging material component.
+
+Specification
+
+The active substance specification includes tests for: appearance, solubility (Ph. Eur.), identity (IR, HPLC), water content (KF), methane sulfonic acid content (titration), sulfated ash (Ph. Eur.), impurities (HPLC and LCMS), residual solvents (GC), assay (HPLC), polymorphism (XRD) and particle size distribution (PSD).
+
+The proposed active substance specification includes relevant testing parameters. The specification was established taking into account applicable ICH and EU guidelines and compendial considerations, as well as manufacturing capability, batch analysis data and stability results. Control for impurities at intermediate stages with omission of tests at active substance level is acceptable based on carry over and purge analyses. The control strategy for residual solvents (including potential contaminants) is in line with ICH Q3C guideline. A risk assessment for the potential presence of elemental impurities at the active substance level was conducted according to ICH Q3D and the conclusion that no additional controls are necessary is considered acceptable.
+
+Assessment report EMA/182457/2023
+
+Page 12/56
+
+The analytical methods used have been adequately described and non-compendial methods appropriately validated in accordance with the ICH guidelines. Satisfactory information regarding the reference standards used for assay and impurities testing has been presented.
+
+Batch analysis data are provided for 4 commercial scale batches of which 1 was micronized were provided. Comparison of the micronized and non-micronised batches demonstrates that the polymorphic form remains the same and that there is no increase in the formation of impurities following micronisation. The results are within the specifications and consistent from batch to batch.
+
+Stability
+
+Stability data from 3 micronised and 3 non-micronised active substance batches, from the proposed manufacturer, stored in the intended commercial package, for up to 48 months under long term conditions (25 °C/60% RH) and for up to 6 months under accelerated conditions (40 °C/75% RH) according to the ICH guidelines, were provided. Photostability testing following the ICH guideline Q1B was performed. Results from forced degradation studies under thermal, acidic, basic and oxidative stress were also provided.
+
+The following parameters were tested: description, identification, water, related substances, assay and polymorphic form. The analytical methods used were the same as for release.
+
+All tested parameters were within the specifications. Degradation products increased under accelerated conditions but remained within the specification limits. The photostability testing results show that no degradation was observed under the study conditions. The forced studies results demonstrate that assay and purity HLPC methods are stability indicating and that the active substance is sensitive in thermal treatment and extremely sensitive towards hydrolysis in acidic and basic media.
+
+The stability results indicate that the active substance manufactured by the proposed supplier is sufficiently stable. The stability results justify the proposed retest period of 48 months in the proposed container, with no special storage condition.
+
+2.2.3. Finished medicinal product
+
+Description of the product and Pharmaceutical development
+
+The finished product is an immediate release hard capsule containing 75 mg, 110 mg or 150 mg dabigatran etexilate mesilate, described as follows:
+
+. 75 mg: Size "2" capsule with a white opaque cap imprinted "MD" and white opaque body imprinted "75" with black ink, containing a blend of white to light yellow-coloured pellets and a light-yellow coloured granulate.
+
+· 110 mg: Size "1" capsule having white opaque cap imprinted "MD" and white opaque body imprinted "110" with black ink, containing a blend of white to light yellow-coloured pellets and a light-yellow coloured granulate.
+
+· 150 mg: Size "O" capsule having white opaque cap imprinted "MD" and white opaque body imprinted "150" with black ink, containing a blend of white to light yellow-coloured pellets and a light-yellow coloured granulate.
+
+The composition of the dabigatran etexilate mesilate finished product (including the composition of the hypromellose hard capsules and inscription ink) is adequately presented in the dossier. The compositions of the 75 mg, 110 mg and 150 mg hard capsules are dose proportional.
+
+Assessment report EMA/182457/2023
+
+Page 13/56
+
+The pharmaceutical development objective was to obtain a solid oral dosage form containing dabigatran etexilate mesilate 75 mg, 110 mg and 150 mg per unit, that could be easily manufactured, stable in the proposed container closure system and essentially similar to the originator product (Pradaxa® hard capsules 75 mg, 110 mg and 150 mg, Marketing Authorization Holder Boehringer Ingelheim international GmbH, Germany).
+
+All excipients used for dabigatran etexilate mesilate finished product manufacturing are well known pharmaceutical ingredients and their quality is compliant with Ph. Eur. standards. There are no novel excipients used in the finished product formulation. The chosen excipients are common for this type of dosage form and the selection was based on a study of the reference product inactive ingredients and also formulation development studies, along with excipient compatibility study. The list of excipients is included in section 6.1 of the SmPC and in paragraph 2.1.1 of this report.
+
+The differences in terms of excipients used between the reference and the intended generic products were highlighted by the applicant. The selection of each excipient and the proposed level have been adequately discussed and justified. The compatibility between the active substance and excipients has been demonstrated based on the stability results. The differences in the composition of the test product compared to the reference product do not raise additional concerns with respect to safety and/or efficacy.
+
+Comparative dissolution profiles between the reference and test products were evaluated in 900 mL of 0.01 N hydrochloric acid (pH 2.0), pH 4.5 acetate buffer and pH 6.8 phosphate buffer, using pharmacopoeial basket apparatus for 75 mg and 110 mg strengths and a modified basket apparatus for 150 mg strength, at 100 rpm. Adequate justification for performing the dissolution test at pH 2 instead of the standard pH 1.2 has been provided, based on the fact that dabigatran etexilate is not stable in solution at pH 1.2. The selection of a slightly larger basket apparatus for dabigatran etexilate mesilate 150 mg capsules has been adequately justified by the applicant, based on the variable dissolution results that were observed due to slow disintegration caused by capsules not being able to move freely in the standard pharmacopoeial basket apparatus.
+
+Adequate bioequivalence studies (i.e. both under fasting and under conditions of pre-treatment with a proton pump inhibitor (PPI), in accordance with "Guideline on the Investigation of Bioequivalence" (CPMP/EWP/QWP/1401/98 Rev. 1) and "Dabigatran etexilate hard capsule 75 mg, 110 mg and 150 mg product-specific bioequivalence guidance" (EMA/CHMP/805498/2016)) were performed for the 150 mg capsules. However, as the dissolution profiles in support of the use of biowaivers for the 75 mg and 110 mg strengths did not show similarity under the studied conditions, results obtained in the conducted bioequivalence studies could not be extrapolated to the lower finished product strengths. During the assessment, a Major Objection was raised to request further dissolution and in vivo data. In response to this, the applicant provided an acceptable discussion on the reasons for the discrepancy between the results obtained in the in vitro dissolution studies, as well as additional supporting dissolution data using the same conditions (i.e. modified basket) for all strengths. Moreover, results from an additional bioequivalence study performed with the 75 mg capsules solely under fasting conditions were submitted, the applicant justifying that the study in fasted state in the presence of a proton pump inhibitor (PPI) is the least sensitive (i.e. the dissolution profiles that differ are those at acidic pH (2.0); at pH 4.5 and 6.8 dissolution profiles are similar). This justification was accepted. Based on the totality of available data and in accordance with the EMA "Guideline on the Investigation of Bioequivalence", the Applicant has adequately justified the use of a bracketing approach and, in conclusion, bioequivalence between the test and reference products is considered demonstrated.
+
+The proposed manufacturing process is considered standard, selected based on the physicochemical properties of the active substance and the choice of manufacturing process has been adequately justified. The applicant has demonstrated that the polymorphic form does not change during the
+
+Assessment report EMA/182457/2023
+
+Page 14/56
+
+manufacturing process of the finished product and that finished product XRPD testing on release or during stability is not required.
+
+No overages are used in the manufacturing process of dabigatran etexilate mesilate capsules.
+
+The development of the dissolution method has been described in details and the proposed method is found acceptable. The dissolution method can discriminate changes to formulation and material properties and relevant manufacturing process parameters.
+
+The proposed packaging materials are OPA/Alu/desiccant PE-PET/Alu/PE blisters, OPA/Alu/desiccant PE-PET/Alu/PE perforated unit dose blisters or polypropylene bottles. The materials comply with Ph. Eur. and EC requirements. The choice of the container closure systems has been validated by stability data and is adequate for the intended use of the product.
+
+Manufacture of the product and process controls
+
+The finished product is manufactured, filled, packaged and tested in accordance with GMP.
+
+The manufacturing process is regarded as a standard manufacturing process and consists of the following 4 major steps: preparation of seal coated tartaric acid pellets blend, preparation of dabigatran blend, capsule filling and packaging. A flow diagram and a narrative description of the manufacturing process and in-process controls are provided in the dossier. All finished product strengths are manufactured from the same common blend. Therefore, equipment, processes and proven acceptance ranges are applicable for all capsule strengths.
+
+The batch formula is given for the proposed commercial batch size for each strength.
+
+In-process controls during the finished product manufacture have been established based on the manufacturing process development studies and are considered adequate. Holding time periods have been adequately justified based on data generated using a bracketing approach.
+
+The manufacturing process was validated with 3 commercial scale batches for each capsule strength. The data adequately demonstrates that the proposed manufacturing process is capable of consistently producing batches which are in compliance with the finished product specifications.
+
+Product specification
+
+The finished product release specifications include appropriate tests for this kind of dosage form: appearance (visual inspection), identification (UV, HPLC), identification of coloring agents (in house), average blend fill mass (Ph. Eur.), average mass of filled capsule (Ph. Eur.), uniformity of dosage units (mass variation, Ph. Eur.), water content (Karl Fischer/Ph. Eur.), disintegration time (Ph. Eur.), dissolution (HPLC/Ph. Eur.), assay and degradation products (HPLC/Ph. Eur.), N-nitroso dabigatran impurity (LC-MS/MS) and microbial limits (Ph. Eur.).
+
+The proposed specification tests are in line with ICH Q6A and Ph. Eur. requirements. The parameters included in the specification are found adequate to control the quality of the finished product at release and shelf-life. During the assessment, amendment of release and shelf-life acceptance criteria for appearance, disintegration, dissolution, related substances and shelf-life acceptance criteria for water content and total impurities was requested by CHMP and implemented by the applicant.
+
+The impurities likely to be present in dabigatran etexilate mesilate finished product were adequately discussed by the applicant. The proposed limit for impurities in the specification are justified based on the level seen in the batch analysis and stability studies.
+
+The potential presence of elemental impurities in the finished product has been assessed following a risk-based approach in line with the ICH Q3D Guideline for Elemental Impurities. The risk assessment
+
+Assessment report EMA/182457/2023
+
+Page 15/56
+
+and testing results by ICP-MS revealed that the impurity levels for the elements considered in the finished product are below the control threshold of 30% of the permitted daily exposure (PDE) and, therefore, routine elemental impurities release testing is not conducted. This conclusion is endorsed.
+
+Solvents used during the manufacture of the finished product are tested in applicable steps throughout the manufacturing process, confirming compliance with ICH Q3C. Therefore, no additional residual solvent testing is required for the finished product release testing.
+
+In response to a Major Objection raised during the assessment, a risk assessment concerning the potential presence of nitrosamine impurities in the finished product was performed considering all suspected and actual root causes in line with the "Questions and answers for marketing authorisation holders/applicants on the CHMP Opinion for the Article 5(3) of Regulation (EC) No 726/2004 referral on nitrosamine impurities in human medicinal products" (EMA/409815/2020) and the "Assessment report- Procedure under Article 5(3) of Regulation EC (No) 726/2004 - Nitrosamine impurities in human medicinal products" (EMA/369136/2020). Considering that the active substance is itself a secondary alkylarylamine, it was concluded that there is a potential risk of formation of nitrosamine impurities in the finished product. Confirmatory testing was carried out using an appropriately validated and suitably sensitive LCMS-MS method and the active substance related nitrosamine (N-nitroso dabigatran) was detected in tested finished product batches. Therefore, a limit of NMT 0.03 ppm is included in the finished product specification, corresponding to the acceptable intake of 18 ng/day adopted by CHMP. In addition, to further ensure that the levels of this impurity do not exceed the specification limit in the finished product, an even lower limit of NMT 0.010 ppm for the N-nitroso dabigatran impurity has been added to the active substance specification. The applicant's approach is endorsed. The applicant also provided, upon request, confirmatory testing of all materials in the route of synthesis (from starting material to the final active substance), which might contain possible secondary amines. Results provided indicate that the levels of these potential nitrosamine impurities are below the detection limit and, therefore, no specific control measures are deemed necessary. Nevertheless, one point needs to be clarified regarding suitability of the analytical methods used for confirmatory testing of the finished product batches. Although the risk assessment and provided results indicate that the potential nitrosamine impurities will not be present above 10% of the respective acceptable intake (AI) limits, validation of the methods should be carried out according to the protocol used to validate the N-nitroso dabigatran method. That protocol used placebo capsule solutions spiked with varying levels of the respective N-nitrosamine impurity and should be replicated to validate the other impurity methods for specificity (absence of interference), accuracy and precision. This point is put forward as recommendation for future quality development.
+
+Description of the analytical methods used to control the finished product are adequately presented and, in general, appropriate validation of the non-compendial methods in accordance with EU/ICH validation guidelines has been performed. Satisfactory information regarding the reference standards used for assay and impurities testing has been presented.
+
+Batch analysis results are presented for 10 commercial scale batches of each strength manufactured at the proposed manufacturing site. The results show that the finished product meets the proposed specification limits and confirm batch-to-batch consistency. The finished product is released on the market based on the release specifications, through traditional finished product release testing.
+
+Stability of the product
+
+Stability studies have been carried out on 3 production scale finished product batches of each strength in each packaging configuration (blister packs and bottles), manufactured at the proposed manufacturing site, in line with ICH guidance. Data for up to 36 months under long-term storage conditions (25 °C/60% RH) and for up to 6 months under accelerated storage conditions (40 °C/75%
+
+Assessment report EMA/182457/2023
+
+Page 16/56
+
+RH) were provided. In addition, 3 batches of a single strength per packaging configuration (150 mg strength for the blister pack configuration and 75 mg for the container pack configuration) were also stored under intermediate conditions (30 °C/65% RH) for up to 12 months.
+
+The following parameters were tested during stability studies: appearance, identification, average mass of filled capsule, water content, disintegration time, dissolution, assay and degradation products including N-nitroso dabigatran and microbial limits. The analytical methods used were the same as for release. Forced degradation studies were performed for assay and related substances methods and it was confirmed that the methods are stability indicating.
+
+Similar results are obtained for all capsule strengths and packaging configurations. At all tested conditions, an increase in total impurities and one specified impurity content was observed, however the recorded results remain within specification, except for the specified impurity for which results exceeded the proposed shelf-life limit and so the impacted batches were tested after storage under intermediate conditions. The results demonstrate compliance with the proposed specifications.
+
+A photostability study was carried out in accordance with the ICH Q1B guideline and it was concluded that the dabigatran etexilate mesilate finished product is not sensitive to light. Hence, no special storage conditions are required.
+
+In-use stability studies for up to 120 days were conducted for each finished product strength to evaluate the stability in the multi-dose bottle pack at controlled room temperature (25°C/60% RH). The results showed there is a sharp rise in one specified impurity content, although still within limits at the end of the study. Nevertheless, as a precautionary measure, an in-use shelf-life of 60 days has been proposed by the applicant and is considered acceptable.
+
+Based on available stability data, the proposed shelf-life of 36 months and storage conditions of "store below 30°C" as stated in the SmPC (section 6.3) is acceptable for the product packed in both OPA/Alu/desiccant PE-Alu/PE blister pack and polypropylene bottle pack.
+
+Adventitious agents
+
+No materials derived from animal and/or human origin are used in the manufacture of dabigatran etexilate mesilate 75 mg, 110 mg and 150 mg hard capsules. The corresponding TSE/BSE certificates for the active substance and excipients are provided in Module 3.2.R Regional information.
+
+2.2.4. Discussion on chemical, and pharmaceutical aspects
+
+Information on development, manufacture and control of the active substance and finished product has been presented in a satisfactory manner.
+
+During the procedure, 3 Major Objections were raised, concerning (1) insufficient in vitro and in vivo data in support of the biowaivers requested by the Applicant for demonstrating bioequivalence between the dabigatran etexilate mesilate finished product and the reference medicinal product for the 75 mg and 110 mg presentations; (2) incomplete risk evaluation for the presence of nitrosamine impurities in the active substance; (3) incomplete risk evaluation for the presence of nitrosamine impurities in the finished product. The Major Objections, as well as all the other concerns, have been satisfactorily resolved.
+
+The results of tests carried out indicate consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in clinical use.
+
+Assessment report EMA/182457/2023
+
+Page 17/56
+
+At the time of the CHMP opinion, there was a minor unresolved quality issue having no impact on the Benefit/Risk ratio of the product, which pertain to demonstration of suitability of the analytical methods used for confirmatory testing of N-nitrosamine impurities of the finished product batches. This point is put forward and agreed as recommendation for future quality development.
+
+2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects
+
+The quality of this product is considered to be acceptable when used in accordance with the conditions defined in the SmPC. Physicochemical and biological aspects relevant to the uniform clinical performance of the product have been investigated and are controlled in a satisfactory way.
+
+2.2.6. Recommendation for future quality development
+
+In the context of the obligation of the MAHs to take due account of technical and scientific progress, the CHMP recommends the following point for investigation:
+
+1. The applicant should re-validate the N-nitrosamine impurity methods for selectivity, accuracy and precision using an equivalent protocol to that used to validate the N-nitroso dabigatran method.
+
+2.3. Non-clinical aspects
+
+2.3.1. Introduction
+
+A non-clinical overview on the pharmacology, pharmacokinetics and toxicology has been provided, which is based on up-to-date and adequate scientific literature. The overview justifies why there is no need to generate additional non-clinical pharmacology, pharmacokinetics and toxicology data. The non-clinical aspects of the SmPC are in line with the SmPC of the reference product. The impurity profile has been discussed and was considered acceptable.
+
+Therefore, the CHMP agreed that no further non-clinical studies are required.
+
+2.3.2. Ecotoxicity/environmental risk assessment
+
+No Environmental Risk Assessment studies were submitted. This was justified by the applicant as the introduction of Dabigatran Etexilate Accord manufactured by Accord Healthcare S.L.U. is considered unlikely to result in any significant increase in the combined sales volumes for all dabigatran etexilate containing products and the exposure of the environment to the active substance. Thus, the ERA is expected to be similar.
+
+2.3.3. Discussion on non-clinical aspects
+
+The pharmacodynamic, pharmacokinetic and toxicological properties of dabigatran etexilate (as mesilate) are well known. As dabigatran etexilate is a widely used, well-known active substance, the applicant has not provided additional non-clinical studies and CHMP considered that further studies are not required. The application contains an adequate review of published non-clinical data.
+
+2.3.4. Conclusion on the non-clinical aspects
+
+The non-clinical information provided in this application is considered acceptable by CHMP to support the use of Dabigatran Etexilate Accord in the approved indications.
+
+Assessment report EMA/182457/2023
+
+Page 18/56
+
+2.4. Clinical aspects
+
+2.4.1. Introduction
+
+This is an application for hard capsules containing dabigatran etexilate. To support the marketing authorisation application the applicant conducted three bioequivalence studies with cross-over design under fasting conditions.
+
+No formal scientific advice by the CHMP was given for this medicinal product. For the clinical assessment Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98 Rev.1) in its current version is of particular relevance.
+
+GCP aspect
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the community were carried out in accordance with the ethical standards of Directive 2001/20/EC. Exemption
+
+In vitro dissolution tests in support of biowaiver of strengths
+
+With the initial submission, for this application, a strength based biowaiver was applied, by the applicant, for the additional capsule strengths of 75 mg and 110 mg based on the in vivo results of capsule strength 150 mg.
+
+The request for a strength based biowaiver was justified by the applicant as follows:
+
+- The strengths are manufactured to the same manufacturing process by the same manufacturer.
+
+- The strengths are immediate release formulated as capsule, hard.
+
+- The qualitative composition of the strengths is the same.
+
+- The composition of the strengths is quantitatively proportional.
+
+- The in vitro dissolution profiles of all strengths are similar since f2 is more than 50 in the physiological pH range.
+
+- The active substance exhibits linear pharmacokinetics over the range of 10 mg to 400 mg.
+
+The qualitative and quantitative composition of the additional capsule strengths 75 mg, 110 mg and biobatch capsule strength 150 mg are the same.
+
+The applicant employed a basket method with modified diameter for strength 150 mg and normal baskets for 110 mg and 75 mg. For the biowaiver of strengths conventional dissolution conditions (e.g. basket with normal diameter, 100 rpm, 900 mL, pH 1.2, 4.5 and 6.8, n=12) should be used.
+
+The f2 values provided suggesting similarity for biowaiver of strengths were considered questionable by CHMP considering the tabular in vitro dissolution data. According to the Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98 Rev.1) the following criteria should be fulfilled for f2 calculation:
+
+- A minimum of three time points (zero excluded).
+
+- The time points should be the same for the two formulations.
+
+- Twelve individual values for every time point for each formulation.
+
+Assessment report EMA/182457/2023
+
+Page 19/56
+
+- Not more than one mean value of >85% dissolved for any of the formulations.
+
+- The relative standard deviation or coefficient of variation of any product should be less than 20% for the first time point and less than 10% from the second to last time point.
+
+During the procedure major concerns were raised with respect to the comparison of in vitro dissolution within the drug product series as follows:
+
+-the criteria for the f2 calculations (market in bold) were not fulfilled
+
+-the QC medium (pH 2.0) was chosen over pH 1.2 due to instability of dabigatran Etexilate. For biowaiver purpose the applicant was requested by CHMP to demonstrate that the active substance is similarly recovered within the drug product series i.e. among 75 mg (additional strength) vs. 150 mg (biobatch) and 110 mg (additional strength) vs. 150 mg (biobatch) in pH 1.2 using conventional dissolution conditions (e.g. basket with normal diameter, 100 rpm, 900 mL, pH 1.2, n=12).
+
+To address the CHMP concerns, the applicant submitted a new bioequivalence study with the 75 mg strength, study no. 65321. This study was an addition to the two initially submitted bioequivalence studies with the 150 mg strength of applied product, with the aim to extrapolate the in vivo data of 75 mg to the additional strength 110 mg and thus requesting the 150 mg strength to be a standalone.
+
+The new study submitted with 75 mg was considered acceptable and bioequivalence was shown appropriately between the test product and reference product in subjects under fasting conditions. However, bioequivalence demonstration with the 75 mg strength after pre-treatment of proton-pump inhibitors was still missing and a biowaiver request for the 110 mg strength based solely on the one study with the 75 mg strength was not considered acceptable by CHMP. The applicant was then requested to establish a comparable dissolution between the 150 mg strength and the additional strengths, 75 mg and 110 mg, under same conditions, in order for the biowaiver of strengths to be accepted. Furthermore, considering the submitted studies were conducted with the highest and lowest strengths and that the applied formulation is manufactured by the same manufacturing process, the qualitative composition of the different strengths is the same, the formulation is quantitatively proportional and Dabigatran exhibits liner pharmacokinetics, a bracketing approach could be considered. The applicant was therefore also asked to justify a bracketing approach and to address whether or not a waiver of the study with the 75 mg strength (pre-treatment with PPI under fasting conditions) could be applied based on available knowledge and/or PK data from the studies conducted at the strength tested under both conditions (under fasting and a multiple day pre-treatment with a PPI under fasting conditions).
+
+The CHMP also requested an advice from the Pharmacokinetic working party on the suggested bracketing approach and whether the PPI study under fasting conditions with the additional strength (75 mg) might be waived.
+
+The applicant submitted additional comparative dissolution studies at pH 2.0, pH 4.5 and pH 6.8 performed by using modified baskets for all strengths. Since dabigatran is claimed to be unstable at pH 1.2, dissolution data at this pH were not performed. This approach was considered acceptable by CHMP. In addition, due to the high variability in the dissolution data the 90% CI of expected f2 was obtained by bootstrapping. These calculations were conducted with the software package PhEq.
+
+The comparison between the biobatch high strength of 150 mg and the intermediate strength of 110 mg shows similar dissolution profiles at pH 2.0, 4.5 and 6.8 since the lower boundary of the 90% CI of expected f2 is >50.
+
+The comparison between the biobatch high strength of 150 mg and the low strength of 75 mg shows similar dissolution profiles at 4.5 and 6.8 since the lower boundary of the 90% CI of expected f2 is
+
+Assessment report EMA/182457/2023
+
+Page 20/56
+
+
+>50. However, at pH 2.0 the lower boundary of the 90% CI of expected f2 is <50. Consequently, the applicant applied a bracketing approach.
+
+According to the Guideline on the investigation of bioequivalence, bracketing approach would include, in the present case, four studies: in fasted state and in fasted state with pre-treatment with a PPI for the two strengths most different in dissolution profiles, in this case the 75 mg and 150 mg strengths. However, the Guideline on the investigation of bioequivalence indicates that when 4 studies are needed in a bracketing approach, i.e. two strengths in fasted and fed state, one of the studies can be waived if justified: Waiver of either the fasting or the fed study at the other strength(s) may be justified based on previous knowledge and/or pharmacokinetic data from the study conducted at the strength tested in both fasted and fed state. The condition selected (fasting or fed) to test the other strength(s) should be the one which is most sensitive to detect a difference between products.
+
+Based on the submitted dissolution data, the extremes of the brackets (i.e. the high strength and the low strength) are the strengths differing most in dissolution rate. Furthermore, the applicant has justified that the study under fasting conditions is the most sensitive one as the dissolution profiles that differ the most are the ones under fasting conditions (pH 2.0). The bracketing approach is therefore considered acceptable by CHMP and a biowaiver for the study with 75 mg under fasting conditions with pre-treatment with PPI can be granted.
+
+Tabular overview of clinical studies
+
+To support the application, the applicant has submitted three bioequivalence studies.
+
+Table 1 - Tabular overview of clinical studies
+
+Study 605/19
+
+An open label, balanced, randomized, two-treatment, four-period, two-sequence, single dose, fully replicate crossover, oral bioequivalence study of Dabigatran Etexilate Capsules 150 mg of MSN Laboratories Private Limited, India comparing with that of Pradaxa 150 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions.
+
+Study 606/19 An open label, balanced, randomized, two-treatment, four-period, two-sequence, single dose, fully replicate crossover oral bioavailability study of Dabigatran Etexilate Capsules 150 mg of MSN Laboratories Private Limited, India pre- treatment with Pantoprazole 40mg GR tablets comparing with that of Pradaxa 150 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions.
+
+Study 65321
+
+An open label, balanced, randomized, two-treatment, four-period, two-sequence, single dose, fully replicate crossover, oral bioequivalence study of Dabigatran Etexilate Capsules 75 mg of MSN Laboratories Private Limited, India comparing with that of Pradaxa 75 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions
+
+Since the drug product is formulated as an immediate release dosage form as capsule, hard, a single dose study of subjects in the fasting state was submitted for the demonstration of bioequivalence between the test and reference products (studies no. 605/19).
+
+In accordance with the product-specific bioequivalence guidance (12/2018) for dabigatran etexilate 75 mg, 110 mg, 150 mg, capsule, hard, the single dose study of subjects under fasting conditions is supplemented with an additional single dose study of subjects pre-treated with a proton pump inhibitor under fasting conditions (study 606/19).
+
+Assessment report EMA/182457/2023
+
+Page 21/56
+
+The alternative replicate study design is acceptable to demonstrate bioequivalence between the test product and reference product given the expected high intra-subject CV of Cmax of the latter providing the possibility of widening the acceptance criterion of Cmax.
+
+The studies included with the initial submission (studies 605/19 and 606/19) were conducted with the highest strength in line with general guidance. Additionally, a new study (no. 65321) with the 75 mg strength was submitted during the procedure to address questions raised by CHMP on the biowaiver of strengths.
+
+2.4.2. Clinical pharmacology
+
+2.4.2.1. Pharmacokinetics
+
+Study 605/19: An open label, balanced, randomized, two-treatment, four-period, two- sequence, single dose, fully replicate crossover, oral bioequivalence study of Dabigatran Etexilate Capsules 150 mg of MSN Laboratories Private Limited, India comparing with that of Pradaxa® 150 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions
+
+Methods
+
+· Study design
+
+The study was an open-label, randomised, two-treatment, two-sequence, four-period, fully replicate crossover, single-dose bioavailability study conducted under fasting conditions with a wash out period of 10 days between the four periods. Dabigatran etexilate 150 mg was administered in each period.
+
+The study treatment allocation was as follows:
+
+Treatment sequence
+
+Period-I
+
+Period-II
+
+Period-III
+
+Period-IV
+
+Sequence 1
+
+Sequence 2
+
+Treatment T
+
+(Test)
+
+Treatment R
+
+(Reference)
+
+Treatment R
+
+(Reference)
+
+Treatment T
+
+(Test)
+
+Treatment T
+
+(Test)
+
+Treatment R
+
+(Reference)
+
+Treatment R
+
+(Reference)
+
+Treatment T
+
+(Test)
+
+Each subject number was assigned to one of two sequences (TRTR or RTRT) by the randomisation schedule.
+
+The subject numbers that were assigned the sequence TRTR was administered Test product in period- I, Reference product in period-II, Test product in period-III and Reference product in period-IV.
+
+The subject numbers that were assigned the sequence RTRT was administered Reference product in period-I, Test product in period-II, Reference product in period-III and Test product in period-IV. Starting and end date of the study:
+
+15/7-2019 - 17/8-2019
+
+The study details were as follows:
+
+Assessment report EMA/182457/2023
+
+Page 22/56
+
+Clinical Phase Check-in
+
+Dosing
+
+Check-out
+
+Period-I
+
+15/07-2019
+
+16/07-2019 (40 subjects dosed) 28/07-2019
+
+18/07-2019
+
+Period-II
+
+25/07-2019
+
+26/07-2019 (36 subjects dosed)
+
+Period-III
+
+04/08-2019
+
+05/08-2019 (36 subjects dosed) 07/08-2019
+
+Period-IV
+
+14/08-2019
+
+15/08-2019 (35
+
+subjects dosed)
+
+17/08-2019
+
+Drug intake procedures: Following an overnight fast of 10 hours the subject was administered a single dose of dabigatran etexilate 150 mg of the test product or the reference product in each period.
+
+The oral cavity of the subjects was checked immediately in order to confirm administration of the study product.
+
+Water was restricted from 1 hour pre-dose until 1 hour post-dose except during administration of the study product. Otherwise water was allowed ad libitum. Food was restricted for at least 4 hours post dose. Standardised lunch, snacks, dinner, breakfast, lunch, snacks and dinner were served at about 4.0, 9.0, 13.0, 24.0, 28.0, 32.0 and 36.0 hours post dose, respectively.
+
+Sampling schedule:
+
+Blood samples were collected pre-dose (0.00) and at 0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75, 2.00, 2.25, 2.50, 3.00, 3.33, 3.67, 4.00, 5.00, 6.00, 8.00, 12.00, 16.00, 24.00, 36.00 and 48.00 hours post administration of a single-dose dabigatran etexilate 150 mg with about 240 mL for the analyses of the metabolite dabigatran (free and total) in each period.
+
+· Test and reference products
+
+The detailed information of the test product and reference product is as follows:
+
+Name of product
+
+Expiry date
+
+08/2019
+
+12/2019
+
+Test product Reference product Dabigatran etexilate 150 mg, capsule, hard by MSN Laboratories Private Limited Pradaxa 150 mg, capsule, hard by Boehringer Ingelheim International GmbH
+
+· Population(s) studied
+
+40 healthy male subjects (age: 30.8+5.7 years, BMI: 24.0+2.5 kg/m2) participated in the study. 38 subjects completed the study and were included in the pharmacokinetic analyses. 34 subjects were included in the statistical analyses of reference product vs. reference product and 38 subjects were included in the statistical analyses of test product vs. reference product.
+
+Restrictions on xanthine-containing drinks and foods, grape-fruit products, grape-fruit juice, alcohol, tobacco chewing and flavonoid containing drinks prior to and/or during the study were applied.
+
+Drop-outs:
+
+Assessment report EMA/182457/2023
+
+Page 23/56
+
+One Subject was absent from period-III check-in.
+
+One Subject was absent from period-II, period-III and period-IV and was therefore not included in the pharmacokinetic and statistical analyses of free and total dabigatran (dropped out completely).
+
+One Subject was absent from period-II, period-III and period-IV and was therefore not included in the pharmacokinetic and statistical analyses of free and total dabigatran (dropped out completely).
+
+One Subject was absent from period-II and period-IV check-in.
+
+One Subject was absent from period-III and period-IV check-in.
+
+One Subject was absent from period-II and period-IV check-in.
+
+Protocol deviations:
+
+No major deviations were reported. Three minor deviations were reported with respect to missing samples (2) and housing deviations (1).
+
+· Analytical methods
+
+An analytical method was developed for the determination of dabigatran (free and total) in human plasma and can be summarised as follows:
+
+The study samples were analysed by an LC method with MS/MS detection after liquid-liquid extraction using dabigatran-D4 HCl as internal standard for the detection of free dabigatran and total dabigatran in line with bioanalytical procedures.
+
+The method validation reports have been provided for the methods for free dabigatran and total dabigatran. Both methods were fully and partially validated and followed the same methodology. Minor differences between the methods concerned the calibration concentrations range and concentrations of QC samples as well as the various sample and solution stabilities. The method validations can be collectively summarised as follows:
+
+Free dabigatran
+
+Calibration range: 1.0057-303.03 ng/ml
+
+QC concentrations: 1.0090 ng/ml (LLOQ QC), 2.9247 ng/ml (LQC), 20.032 ng/ml (AQC-II), 40.065 ng/ml (AQC-I), 105.43 ng/ml (MQC), 228.21 ng/ml (HQC)
+
+Total dabigatran
+
+Calibration range: 1.0092-503.11 ng/ml
+
+QC concentrations: 1.0156 ng/ml (LLOQ QC), 2.9352 ng/ml (LQC), 30.260 ng/ml (AQC-II), 75.650 ng/ml (AQC-I), 175.93 ng/ml (MQC), 381.63 ng/ml (HQC)
+
+Pre-study validation
+
+Selectivity, absence of the contribution of interferring components of endogenous plasma components with respect to chromatographic interference with the analyte or internal standard was demonstrated in different lots of blank human plasma (6), haemolysed plasma (1) and lipemic plasma (1) at LLOQ. Selectivity was also demonstrated with respect to various potentially interferring drugs including paracetamol, diclofenac, ondansetron, nicotine, caffeine, ranitidine, norfloxacin, tinidazole, hyoscine butyl bromide, tranexamic acid, tramadol, hydrocortisone, pheniramine maleate, pantoprazole, dexamethasone.
+
+Absence of matrix factor was shown in different lots of blank human plasma (6), haemolysed plasma (1) and lipemic plasma (1) spiked at LQC and HQC levels.
+
+Assessment report EMA/182457/2023
+
+Page 24/56
+
+Linearity was shown within the calibration range for free dabigatran and total dabigatran.
+
+Within run/intra batch and between run/inter batch precision and accuracy of QC samples (LLOQ QC, LQC, AQC-II, AQC-I, MQC, HQC) were demonstrated. Carry-over was adequately assessed immediately after the highest calibration standard in each validation run. The precision and accuracy of dilution integrity was shown 6 times at a concentration of two times the highest standard of the calibration curve diluted 1/3rd and 1/5th
+
+Stability of the analyte at LQC and HQC concentrations was established including long term and short term stability in biological matrix, long term stability in stock and working solutions, freeze-thaw stability (5 cycles), post-preparative stability, in-injector stability of the processed sample in autosampler and re-injection reproducibility.
+
+Within-study validation
+
+The method performance during study sample analysis was demonstrated by acceptable mean precision and accuracy using QC samples (LLOQ QC, LQC, AQC-II, AQC-I, MQC, HQC) of all accepted runs. Back calculated concentrations of the calibration standards were determined to confirm goodness of fit to the calibration range and demonstrate consistent and reliable data for all subjects.
+
+Reanalysis of samples (free dabigatran: 121/3379 samples: 3.6%, total dabigatran: 4/3379 samples: 0.1%) was performed for analytical reasons including inconsistent internal standard response, incomplete analysis, rejected analytical run and above upper limit of quantification.
+
+Incurred sample reanalysis (230/3379 samples: 6.8%) was performed to confirm the reproducibility of the bioanalytical method.
+
+Date of start and finish of the bio-analytical phase:
+
+Analysis start date
+
+Analysis end date
+
+Free dabigatran
+
+19/8-2019
+
+10/9-2019
+
+Total dabigatran
+
+19/8-2019
+
+19/8-2019
+
+The maximum sample storage period from the first blood draw to last analysis was 57 days at - 70+15°C (free dabigatran) and 60 days at -70+15°℃ (total dabigatran). The sample storage periods were supported by long term stability data of the analytes in the matrix (free dabigatran: 101 days at 20+10℃ and -70+15°C, total dabigatran: 107 days at 20+10℃ and -70+15°C) at LQC and HQC concentrations.
+
+Protocol deviations: No SOP deviations occured during method validation or subject sample analysis.
+
+QA authentication: QA statements and assurance for the bioanalytical reports and method validations report have been provided confirming compliance with FDA and EMA guidance, SOPs and applicable sections of GLP.
+
+· Pharmacokinetic variables
+
+Method of assessment of pharmacokinetic parameters:
+
+The pharmacokinetic and statistical evaluations were performed in order to make provisions for missing data and is able to deal with unbalanced designs more properly than the straightforward ANOVA, respectively.
+
+Choice of primary variables and secondary PK variables:
+
+Assessment report EMA/182457/2023
+
+Page 25/56
+
+The parameters calculated were AUCo-t, AUCo-0, AUCt/AUCo., Cmax, tmax, Kel, ty2 el and residual area Primary variables: AUC0-t and Cmax.
+
+· Statistical methods
+
+ANOVA was performed on the In-transformed AUCo-t, AUCo-o and Cmax of free dabigatran and total dabigatran.
+
+The ANOVA model included treatment received, the period at which it was given along with the sequence in which each treatment being received and the subject effect (nested within the sequence). The treatment, period, sequence and subject effects were set as fixed effects (presumably) and tested at 5% level of significance.
+
+Criteria for conclusion of bioequivalence:
+
+Bioequivalence between the test product and reference product is concluded if the 90% confidence intervals for geometric least square mean ratios of ln-transformed Cmax and AUCt of free dabigatran and total dabigatran fall within 80.00-125%. Depending on the intra-subject variability for Cmax of the reference product, a widened acceptance range (for reference) is applied for Cmax as follows:
+
+Within-subject CV (% )
+
+30
+
+35
+
+40
+
+45
+
+≥50
+
+Lower limit 80.00
+
+77.23
+
+74.62
+
+72.15
+
+69.84
+
+Results
+
+Upper limit
+
+125.00
+
+129.48
+
+134.02
+
+138.59
+
+143.19
+
+Table 2 - Pharmacokinetic parameters for free dabigatran (non-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+arithmetic mean
+
+Test
+
+SD
+
++666.668
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+1619.945
+
+AUC(0-0)
+
+(hr*ng/ml)
+
+Cmax (ng/ml)
+
+169.55
+
+Tmax (hr) *
+
+2.25, 1.00-3.33
+
+-
+
+AUC0-t
+
+AUCO-00
+
+Cmax
+
+Tmax time for maximum concentration (*median, range)
+
+1667.880
+
++690.443
+
+Reference
+
+Arithmetic mean
+
+SD
+
+1568.825
+
++707.823
+
+1616.497
+
++728.720
+
++65.894
+
+164.46
+
+2.25, 1.25-3.33
+
+-
+
+area under the plasma concentration-time curve from time zero to t hours area under the plasma concentration-time curve from time zero to infinity maximum plasma concentration
+
++71.678
+
+Table 3 - Pharmacokinetic parameters for total dabigatran (non-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+arithmetic mean
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+1848.923
+
+AUC(0-00)
+
+(hr*ng/mL)
+
+Test
+
+SD
+
+arithmetic mean
+
++731.256
+
+1809.524
+
++786.045
+
+Reference
+
+SD
+
+1904.536
+
++758.051
+
+1864.525
+
++810.435
+
+Assessment report EMA/182457/2023
+
+Page 26/56
+
+Pharmacokinetic
+
+Test
+
+Cmax (ng/ml)
+
+195.41
+
+Tmax (hr) *
+
+2.25, 1.00-3.33
+
+AUC0-t
+
+area under the plasma concentration-time curve from time zero to t hours
+
+area under the plasma concentration-time curve from time zero to infinity
+
+AUC0-00
+
+maximum plasma concentration
+
+Cmax
+
+Tmax
+
+time for maximum concentration (*median, range)
+
+Reference
+
++71.808
+
+191.43
+
+-
+
+2.13, 1.00-3.67
+
+Table 4 - Statistical analysis for free dabigatran (ln-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+108.48
+
+AUC(0-0)
+
+(hr*ng/mL)
+
+Cmax (ng/ml)
+
+108.20
+
+Geometric Mean Ratio
+
+Test/Reference
+
+Confidence Intervals
+
+SWR (%) / SWT (%)*
+
+97.34-120.89
+
+52.65 / 34.22
+
+108.16
+
+97.17-120.40
+
+51.86 / 34.07
+
+96.73-121.02
+
+55.01 / 34.48
+
++78.456
+
+-
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Table 5 - Statistical analysis for total dabigatran (ln-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+107.43
+
+AUC(0-00)
+
+(hr*ng/mL)
+
+107.25
+
+Cmax (ng/mL)
+
+107.15
+
+Geometric Mean Ratio
+
+Test/Reference
+
+Confidence Intervals
+
+SWR (%) / SWT (%)*
+
+96.33-119.81
+
+53.74 / 34.37
+
+96.24-119.51
+
+53.20 / 34.12
+
+95.69-119.98
+
+55.66 / 35.43
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Effects of the statistical ANOVA model (free dabigatran) The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Main effects
+
+LnCmax
+
+Sequence
+
+0.9679
+
+LnAUCt
+
+0.8519
+
+LnAUCinf
+
+0.8289
+
+Period
+
+0.8343
+
+0.9247
+
+0.9269
+
+Treatment
+
+0.2456
+
+0.2154
+
+0.2272
+
+Effects of the statistical ANOVA model (total dabigatran) The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Main effects LnCmax
+
+Sequence
+
+0.9016
+
+LnAUCt
+
+0.9773
+
+LnAUCinf
+
+0.9985
+
+Period
+
+0.6811
+
+0.8773
+
+0.8783
+
+Treatment
+
+0.3133
+
+0.2782
+
+0.2862
+
+Assessment report EMA/182457/2023
+
+Page 27/56
+
+The mean plasma curves (linear-linear and log-linear scale) are presented below:
+
+Free dabigatran (linear-linear plot)
+
+200
+
+150
+
+Mean (ng/ml)
+
+100
+
+50
+
+0-59
+
+0
+
+10
+
+Free dabigatran (log-linear plot)
+
+1000
+
+100
+
+10-10
+
+Log Mean (ng/ml)
+
+1
+
+0.1
+
+0.01
+
+T
+
+0
+
+10
+
+20
+
+30
+
+Time (hr)
+
+20
+
+30
+
+Time (hr)
+
+Total dabigatran (linear-linear plot)
+
+200
+
+150
+
+Mean (ng/ml)
+
+100-
+
+40
+
+50
+
+40
+
+50
+
+-e-R1
+
+-- 4- R, 2
+
+-@ T, 1
+
+-+- T, 2
+
+-e-R1
+
+-4- 1, 2
+
+-e-R1
+
+-- 4- R, 2
+
+50
+
+T, 2
+
+0-
+
+-
+
+0
+
+10
+
+Total dabigatran (log-linear plot)
+
+20
+
+30
+
+Time (hr)
+
+40
+
+50
+
+Assessment report EMA/182457/2023
+
+Page 28/56
+
+1000
+
+100
+
+10-
+
+Log Mean (ng/ml)
+
+1
+
+0.1
+
+-e-R1
+
+-- +- R 2
+
+-DT. 1
+
+-+- T, 2
+
+0.01
+
+0
+
+10
+
+20
+
+30
+
+Time (hr)
+
+40 50
+
+· Safety data
+
+No severe events were reported during the course of the study. A total of 22 post-dose adverse events including itching all over the body (9), headache (3), nausea (2), fever (2), diarrhoea (1), vomiting (1), weakness (1), chills (1), decreased haemoglobin (1), decrease HCT (1) of mild (2) or moderate (20) severity were reported by 13 subjects. 10 adverse events were observed in relation to the test product and 10 adverse events were observed in relation to the reference product. Two adverse events were observed post-study.
+
+Study 606/19: An open label, balanced, randomized, two-treatment, four-period, two- sequence, single dose, fully replicate crossover oral bioavailability study of Dabigatran Etexilate Capsules 150 mg of MSN Laboratories Private Limited, India pre-treatment with Pantoprazole 40mg GR tablets comparing with that of Pradaxa 150 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions.
+
+Methods
+
+· Study design
+
+The study was an open-label, randomised, two-treatment, two-sequence, four-period, fully replicate crossover, single-dose bioavailability study conducted under fasting conditions with a wash out period of 7 days between the four periods. Dabigatran etexilate 150 mg was administered in each period.
+
+The study treatment allocation was as follows:
+
+Treatment sequence
+
+Period-I Period-II
+
+Period-III
+
+Period-IV
+
+Sequence 1
+
+Treatment T
+
+(Test)
+
+Treatment R
+
+(Reference)
+
+Treatment T
+
+(Test)
+
+Treatment R
+
+(Reference)
+
+Sequence 2
+
+Treatment R
+
+(Reference)
+
+Treatment T
+
+(Test)
+
+Treatment R
+
+(Reference)
+
+Treatment T
+
+(Test)
+
+Each subject number was assigned to one of two sequences (TRTR or RTRT) by the randomisation schedule.
+
+Assessment report EMA/182457/2023
+
+Page 29/56
+
+The subject numbers that were assigned the sequence TRTR was administered Test product in period- I, Reference product in period-II, Test product in period-III and Reference product in period-IV.
+
+The subject numbers that were assigned the sequence RTRT was administered Reference product in period-I, Test product in period-II, Reference product in period-III and Test product in period-IV.
+
+In each period 4 days prior to the administration of the investigational products subjects were pre- treated with an oral dose of pantoprazole 40 mg, gastro-resistant tablet twice daily with 12 hours interval. In each period the investigational product was co-administered with pantoprazole 40 mg, gastro-resistant tablet.
+
+Starting and end date of the study: 3/8-2019 - 31/8-2019
+
+The study details were as follows:
+
+Clinical Phase Check-in
+
+Period-I
+
+03/08-2019
+
+Period-II
+
+10/08-2019
+
+Period-III
+
+17/08-2019
+
+Period-IV
+
+24/08-2019
+
+Drug intake procedures:
+
+Dosing
+
+08/08-2019 (40 subjects dosed)
+
+15/08-2019 (40 subjects dosed)
+
+22/08-2019 (40 subjects dosed) 24/08-2019
+
+29/08-2019 (40 subjects dosed)
+
+Check-out
+
+10/08-2019
+
+17/08-2019
+
+31/08-2019
+
+4 days before administration of the investigational products in each period the subjects were administered an oral dose of proton pump inhibitor pantoprazole 40 mg, gastro-resistant tablet twice daily with 12 hours interval. Following an overnight fast of 10 hours the subjects were administered a single dose of dabigatran etexilate 150 mg of the test product or the reference product and co- administered with pantoprazole 40 mg, gastro-resistant tablet in each period.
+
+Subjects were instructed to not chew the capsule and tablet. The oral cavity of the subjects was checked immediately in order to confirm administration of the study product.
+
+Water was restricted from 1 hour pre-dose until 1 hour post-dose except during administration of the study product. Otherwise water was allowed ad libitum.
+
+Food was restricted for at least 4 hours post dose. Standardised lunch, snacks, dinner, breakfast, lunch, snacks and dinner were served at about 4.0, 9.0, 13.0, 24.0, 28.0, 32.0 and 36.0 hours post dose, respectively.
+
+Sampling schedule:
+
+Blood samples were collected pre-dose (0.00) and at 0 at 0.33, 1.00, 1.33, 1.67, 2.00, 2.33, 2.67, 3.00, 3.33, 3.67, 4.00, 4.33, 4.67, 5.00, 5.50, 6.00, 8.00, 12.00, 16.00, 24.00, 36.00 and 48.00 hours post administration of a single-dose dabigatran etexilate 150 mg with about 240 mL for the analyses of the metabolite dabigatran (free and total) in each period.
+
+Assessment report EMA/182457/2023
+
+Page 30/56
+
+
+· Test and reference products
+
+The detailed information of the test product and reference product is as follows:
+
+Name of product
+
+Expiry date 08/2019 12/2019
+
+Test product
+
+Dabigatran etexilate 150 mg, capsule, hard by MSN Laboratories Private Limited
+
+Reference product
+
+Pradaxa 150 mg, capsule, hard by Boehringer Ingelheim International GmbH
+
+· Population(s) studied
+
+40 healthy male subjects (age: 29.2+6.3 years, BMI: 23.4+2.2 kg/m2) participated in the study. 40 subjects completed the study and were included in the pharmacokinetic and statistical analyses of reference product vs. reference product and test product vs. reference product.
+
+Restrictions on xanthine-containing drinks and foods, grape-fruit products, grape-fruit juice, alcohol, tobacco chewing and flavonoid containing drinks prior to and/or during the study were applied.
+
+Drop-outs:
+
+None.
+
+Protocol deviations:
+
+No major deviations were reported. Three minor deviations were reported with respect to vital signs (3).
+
+· Analytical methods
+
+An analytical method was developed for the determination of dabigatran (free and total) in human plasma and can be summarised as follows:
+
+The study samples were analysed by an LC method with MS/MS detection after liquid-liquid extraction using dabigatran-D4 HCl as internal standard for the detection of free dabigatran and total dabigatran in line with bioanalytical procedures.
+
+The method validation reports have been provided for the methods for free dabigatran and total dabigatran. Both methods have been fully and partially validated and followed the same methodology. Minor differences between the methods concerned the calibration concentrations range and concentrations of QC samples as well as the various sample and solution stabilities. The method validations can be collectively summarized as follows:
+
+Free dabigatran
+
+Calibration range: 1.0057-303.03 ng/ml
+
+QC concentrations: 1.0090 ng/ml (LLOQ QC), 2.9247 ng/ml (LQC), 20.032 ng/ml (AQC-II), 40.065 ng/ml (AQC-I), 105.43 ng/ml (MQC), 228.21 ng/ml (HQC)
+
+Total dabigatran
+
+Calibration range: 1.0092-503.11 ng/ml
+
+QC concentrations: 1.0156 ng/ml (LLOQ QC), 2.9352 ng/ml (LQC), 30.260 ng/ml (AQC-II), 75.650 ng/ml (AQC-I), 175.93 ng/ml (MQC), 381.63 ng/ml (HQC)
+
+Pre-study validation
+
+Assessment report EMA/182457/2023
+
+Page 31/56
+
+Selectivity, absence of the contribution of interferring components of endogenous plasma components with respect to chromatographic interference with the analyte or internal standard was demonstrated in different lots of blank human plasma (6), haemolysed plasma (1) and lipemic plasma (1) at LLOQ. Selectivity was also demonstrated with respect to various potentially interferring drugs including paracetamol, diclofenac, ondansetron, nicotine, caffeine, ranitidine, norfloxacin, tinidazole, hyoscine butyl bromide, tranexamic acid, tramadol, hydrocortisone, pheniramine maleate, pantoprazole, dexamethasone.
+
+Absence of matrix factor was shown in different lots of blank human plasma (6), haemolysed plasma (1) and lipemic plasma (1) spiked at LQC and HQC levels.
+
+Linearity was shown within the calibration range for free dabigatran and total dabigatran.
+
+Within run/intra batch and between run/inter batch precision and accuracy of QC samples (LLOQ QC, LOC, AQC-II, AQC-I, MQC, HQC) were demonstrated. Carry-over was adequately assessed immediately after the highest calibration standard in each validation run. The precision and accuracy of dilution integrity was shown 6 times at a concentration of two times the highest standard of the calibration curve diluted 1/3rd and 1/5th
+
+Stability of the analyte at LOC and HQC concentrations was established including long term and short term stability in biological matrix, long term stability in stock and working solutions, freeze-thaw stability (5 cycles), post-preparative stability, in-injector stability of the processed sample in autosampler and re-injection reproducibility.
+
+Within-study validation
+
+The method performance during study sample analysis was demonstrated by acceptable mean precision and accuracy using QC samples (LLOQ QC, LQC, AQC-II, AQC-I, MQC, HQC) of all accepted runs. Back calculated concentrations of the calibration standards were determined to confirm goodness of fit to the calibration range and demonstrate consistent and reliable data for all subjects.
+
+Reanalysis of samples (free dabigatran: 36/3680 samples: 1.0%, total dabigatran: 93/3680 samples: 2.5%) was performed for analytical reasons including inconsistent internal standard response, incomplete analysis, rejected run and above upper limit of quantification.
+
+Incurred sample reanalysis (240/3680 samples: 6.5%) was performed to confirm the reproducibility of the bioanalytical method.
+
+Date of start and finish of the bio-analytical phase:
+
+Analysis start date
+
+Analysis end date
+
+1/10-2019
+
+Free dabigatran
+
+3/9-2019
+
+Total dabigatran
+
+3/9-2019
+
+27/9-2019
+
+The maximum sample storage period from the first blood draw to last analysis was 55 days at - 70+15°C (free dabigatran) and 51 days at -70+15℃ (total dabigatran). The sample storage periods were supported by long term stability data of the analytes in the matrix (free dabigatran: 101 days at 20+10℃ and -70+15°C, total dabigatran: 107 days at 20+10℃ and -70+15°C) at LOC and HQC concentrations.
+
+Assessment report EMA/182457/2023
+
+Page 32/56
+
+Protocol deviations: No SOP deviations occured during method validation or subject sample analysis.
+
+QA authentication: QA statements and assurance for the bioanalytical reports and method validations report have been provided confirming compliance with FDA and EMA guidance, SOPs and applicable sections of GLP.
+
+· Pharmacokinetic variables
+
+Method of assessment of pharmacokinetic parameters:
+
+The pharmacokinetic and statistical evaluations were performed in order to make provisions for missing data and is able to deal with unbalanced designs more properly than the straightforward ANOVA, respectively.
+
+Choice of primary variables and secondary PK variables:
+
+The parameters calculated were AUCo-t, AUCo-co, AUCH/AUC., Cmax, tmax, Kel, ty/2 el and residual area Primary variables: AUC0-t and Cmax.
+
+· Statistical methods
+
+ANOVA was performed on the In-transformed AUCo-t, AUCo-o and Cmax of free dabigatran and total dabigatran.
+
+The ANOVA model included treatment received, the period at which it was given along with the sequence in which each treatment being received and the subject effect (nested within the sequence). The treatment, period, sequence and subject effects were set as fixed effects (presumably) and tested at 5% level of significance.
+
+Criteria for conclusion of bioequivalence:
+
+Bioequivalence between the test product and reference product is concluded if the 90% confidence intervals for geometric least square mean ratios of ln-transformed Cmax and AUCt of free dabigatran and total dabigatran fall within 80.00-125%. Depending on the intra-subject variability for Cmax of the reference product, a widened acceptance range (for reference) is applied for Cmax as follows:
+
+Within-subject CV (% )
+
+30
+
+35
+
+40
+
+45
+
+≥50
+
+Lower limit 80.00
+
+77.23
+
+74.62
+
+72.15
+
+69.84
+
+Upper limit 125.00
+
+129.48
+
+134.02
+
+138.59
+
+143.19
+
+Results
+
+Table 6 - Pharmacokinetic parameters for free dabigatran (non-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+1162.397
+
+AUC(0-0)
+
+(hr*ng/ml)
+
+Cmax (ng/ml)
+
+124.30
+
+Test
+
+arithmetic mean
+
+SD
+
++493.783
+
+Reference
+
+arithmetic mean
+
+SD
+
+1128.395
+
++499.551
+
+1192.538
+
++505.252
+
++54.126
+
+1157.236
+
++507.051
+
+118.81
+
++58.617
+
+Assessment report EMA/182457/2023
+
+Page 33/56
+
+Pharmacokinetic Test
+
+Tmax (hr) *
+
+2.33, 1.00-4.33
+
+AUC0-t
+
+area under the plasma concentration-time curve from time zero to t hours
+
+area under the plasma concentration-time curve from time zero to infinity
+
+AUC0-00
+
+Cmax
+
+maximum plasma concentration
+
+Tmax
+
+time for maximum concentration (*median, range)
+
+Reference
+
+-
+
+2.33, 1.00-4.33
+
+-
+
+Table 7 - Pharmacokinetic parameters for total dabigatran (non-transformed values)
+
+Pharmacokinetic
+
+Test
+
+parameter
+
+arithmetic mean
+
+SD
+
++572.979
+
+Reference
+
+arithmetic mean SD
+
+1294.231
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+1354.439
+
+AUC(0-0) (hr*ng/ml)
+
+Cmax (ng/ml)
+
+143.61
+
+Tmax (hr) *
+
+2.33, 1.00-4.33
+
+-
+
+2.33, 1.00-4.33
+
+-
+
+AUC0-t area under the plasma concentration-time curve from time zero to t hours
+
+AUC0-00
+
+area under the plasma concentration-time curve from time zero to infinity
+
+maximum plasma concentration
+
+Cmax
+
+Tmax
+
+time for maximum concentration (*median, range)
+
+1391.797
+
++589.014
+
+1330.339 +554.520
+
++543.787
+
++62.030
+
+135.86
+
+Table 8 - Statistical analysis for free dabigatran (ln-transformed values)
+
+Pharmacokinetic
+
+Geometric Mean Ratio
+
+Test/Reference
+
+parameter
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+105.09
+
+AUC(0-0) (hr*ng/ml)
+
+Cmax (ng/ml)
+
+107.74
+
+Confidence Intervals
+
+SWR (%) / SWT (%)*
+
+94.42-116.96
+
+45.66 / 36.85
+
+104.84
+
+94.50-116.31
+
+43.81 / 36.37
+
+96.31-120.53
+
+46.30 / 41.40
+
++63.779
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Table 9 - Statistical analysis for total dabigatran (ln-transformed values)
+
+Pharmacokinetic
+
+Geometric Mean Ratio
+
+Test/Reference
+
+parameter
+
+AUC(0-t)
+
+105.45
+
+AUC(0-0)
+
+(hr*ng/ml)
+
+105.32
+
+Cmax (ng/ml)
+
+107.54
+
+Confidence Intervals
+
+44.00 / 39.20
+
+94.80-117.30
+
+94.86-116.93
+
+43.12 / 38.46
+
+96.07-120.38
+
+45.40 / 44.01
+
+SWR (%) / SWT (%)*
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Effects of the statistical ANOVA model (free dabigatran)
+
+The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Assessment report EMA/182457/2023
+
+Page 34/56
+
+Main effects
+
+LnCmax
+
+Sequence
+
+0.1118
+
+Period
+
+0.6634
+
+LnAUCt
+
+0.0612
+
+0.0601
+
+0.6593
+
+0.6321
+
+LnAUCinf
+
+Treatment
+
+0.2729
+
+0.4434
+
+0.4521
+
+Effects of the statistical ANOVA model (total dabigatran)
+
+The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Main effects
+
+LnCmax
+
+Sequence
+
+0.0951
+
+Period
+
+0.7005 0.7215
+
+LnAUCt
+
+0.0638
+
+LnAUCinf
+
+0.0640
+
+0.7117
+
+Treatment
+
+0.2873
+
+0.4099
+
+0.4130
+
+The mean plasma curves (linear-linear and log-linear scale) are presented below:
+
+Free dabigatran (linear-linear plot)
+
+150
+
+100
+
+Mean (ng/ml)
+
+50
+
+-0- R. 1
+
+-- & -. R, 2
+
+S
+
+@ T, 1
+
+-+- T, 2
+
+0
+
+10
+
+20
+
+30
+
+Time (hr)
+
+40
+
+50
+
+Free dabigatran (log-linear plot)
+
+1000
+
+100
+
+Log Mean (ng/mL)
+
+10-
+
+1
+
+-A-R 1
+
+-- 4 -- R, 2
+
+---- @- T, 1
+
+-4- T, 2
+
+0.1
+
+0
+
+10
+
+20
+
+30
+
+Time (hr)
+
+40
+
+50
+
+Assessment report EMA/182457/2023
+
+Page 35/56
+
+Total dabigatran (linear-linear plot)
+
+150
+
+100
+
+Mean (ng/mL)
+
+50
+
+-e- R. 1
+
+R, 2
+
+T, 2
+
+0
+
+10
+
+20
+
+30
+
+Time (hr)
+
+40
+
+50
+
+Total dabigatran (log-linear plot)
+
+1000
+
+100
+
+Log Mean (ng/ml)
+
+10
+
+1
+
+-0- R, 1
+
+-- 4 -- R, 2
+
+--- @- T, 1
+
+-+- T, 2
+
+0.1
+
+0 to
+
+- 20
+
+10
+
+30
+
+40
+
+50
+
+Time (hr)
+
+· Safety data
+
+No severe events were reported during the course of the study. A total of 7 post-dose adverse events including itching all over the body (2), body pain (2), abdominal pain (2) and diarrhoea (1) of moderate (7) severity were reported by 6 subjects. 5 adverse events were observed in relation to the test product and 2 adverse events were observed in relation to the reference product.
+
+Study 65321: An open label, balanced, randomized, two-treatment, four-period, two- sequence, single dose, fully replicate crossover, oral bioequivalence study of Dabigatran Etexilate Capsules 75 mg of MSN Laboratories Private Limited, India comparing with that of Pradaxa® 75 mg hard capsules of Boehringer Ingelheim International GmbH, Germany in healthy, adult, human subjects under fasting conditions
+
+Methods
+
+· Study design
+
+Assessment report EMA/182457/2023
+
+Page 36/56
+
+The study was an open-label, randomised, two-treatment, two-sequence, four-period, fully replicate crossover, single-dose bioavailability study conducted under fasting conditions with a wash out period of 8 days between the four periods. Dabigatran etexilate 75 mg was administered in each period.
+
+The study treatment allocation was as follows:
+
+Treatment sequence
+
+Period-I
+
+Period-II
+
+Period-III
+
+Period-IV
+
+Sequence 1
+
+Treatment T (Test)
+
+Treatment R
+
+(Reference)
+
+Treatment T (Test)
+
+Treatment R
+
+(Reference)
+
+Sequence 2
+
+Treatment R (Reference)
+
+Treatment T (Test)
+
+Treatment R (Reference)
+
+Treatment T (Test)
+
+Each subject number was assigned to one of two sequences (TRTR or RTRT) by the randomisation schedule.
+
+The subject numbers that were assigned the sequence TRTR was administered Test product in period- I, Reference product in period-II, Test product in period-III and Reference product in period-IV.
+
+The subject numbers that were assigned the sequence RTRT was administered Reference product in period-I, Test product in period-II, Reference product in period-III and Test product in period-IV.
+
+Starting and end date of the study: 04/09/2021 - 01/10/2021
+
+The study details were as follows:
+
+Clinical Phase
+
+Check-in
+
+Dosing
+
+Check-out
+
+Period-I
+
+04/09/2021
+
+05/09/2021 (44 subjects dosed)
+
+07/09/2021
+
+Period-II
+
+12/09/2021
+
+13/09/2021 (41 subjects dosed)
+
+15/09/2021
+
+Period-III
+
+20/09/2021
+
+21/09/2021 (42 subjects dosed)
+
+23/09/2021
+
+Period-IV
+
+28/09/2021
+
+29/09/2021 (39 subjects dosed)
+
+01/10/2021
+
+Drug intake procedures:
+
+Following an overnight fast of 10 hours the subject was administered a single dose of dabigatran etexilate 75 mg of the test product or the reference product in each period.
+
+The oral cavity of the subjects was checked immediately in order to confirm administration of the study product.
+
+Assessment report EMA/182457/2023
+
+Page 37/56
+
+Water was restricted from 1 hour pre-dose until 1 hour post-dose except during administration of the study product. Otherwise water was allowed ad libitum. Food was restricted for at least 4 hours post dose. Standardised lunch, snacks, dinner, breakfast, lunch, snacks and dinner were served at about 4.0, 9.0, 13.0, 24.0, 28.0, 32.0, 36.0 and 48.0 hours post dose, respectively.
+
+Sampling schedule:
+
+Blood samples were collected pre-dose (0.00) and at 0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75, 2.00, 2.25, 2.50, 3.00, 3.33, 3.67, 4.00, 5.00, 6.00, 8.00, 12.00, 16.00, 24.00, 36.00 and 48.00 hours post administration of a single-dose dabigatran etexilate 75 mg with about 240 ml of drinking water for the analyses of the metabolite dabigatran (free and total) in each period.
+
+· Test and reference products
+
+The detailed information of the test product and reference product is as follows:
+
+Test product
+
+Reference product
+
+Name of product
+
+Dabigatran Etexilate Capsules 75 mg by
+
+MSN Laboratories Private Limited, India
+
+Pradaxa® 75 mg, capsule, hard by Boehringer Ingelheim International GmbH 11/2022
+
+Expiry date
+
+11/2022
+
+· Population(s) studied
+
+44 healthy male subjects (age: 19-44 years, BMI: 18.5-29.5 kg/m2) participated in the study. 42 subjects completed the study, either all the periods or at least two periods (test once and reference once or reference twice) and were included in the pharmacokinetic and statistical analyses. Two subjects were excluded from the pharmacokinetic and statistical analyses.
+
+Restrictions on xanthine-containing drinks and foods, grape-fruit products, grape-fruit juice, alcohol, tobacco chewing and flavonoid containing drinks prior to and/or during the study were applied.
+
+Drop-outs:
+
+One Subject did not turn up for period-II and period-IV check-in for Test product. One Subject did not turn up for period-II and period-IV check-in for Reference product. One Subject did not turn up for period-IV check-in for Reference product.
+
+One Subject did not turn up for period-III check-in for Reference product. One Subject did not turn up for period-IV check-in for Reference product. One Subject did not turn up for period-II (Test product), period-III (Reference product) and period-IV (Test product) check-in.
+
+Protocol deviations:
+
+No major deviations were reported. 3 minor deviations were reported with respect to deviation in blood sampling collection time beyond +2 minutes of the scheduled in-house time and one sample which was discarded cause the sample was hemolysed darker than 2%.
+
+· Analytical methods
+
+Assessment report EMA/182457/2023
+
+Page 38/56
+
+An analytical method was developed for the determination of dabigatran (free and total) in human plasma and can be summarised as follows:
+
+The study samples were analysed by an LC method with MS/MS detection after liquid-liquid extraction using dabigatran-D4 HCl as internal standard for the detection of free dabigatran and total dabigatran in line with bioanalytical procedures.
+
+The method validation reports have been provided for the methods for free dabigatran and total dabigatran, respectively. Both methods were fully and partially validated and followed the same methodology. Minor differences between the methods concerned the calibration concentrations range and concentrations of QC samples as well as the various sample and solution stabilities. The method validations can be collectively summarised as follows:
+
+Free dabigatran
+
+Calibration range: 1.0057-303.03 ng/ml
+
+QC concentrations: 1.0090 ng/ml (LLOQ QC), 2.9247 ng/ml (LQC), 20.032 ng/ml (AQC-II), 40.065 ng/ml (AQC-I), 105.43 ng/ml (MQC), 228.21 ng/ml (HQC)
+
+Total dabigatran
+
+Calibration range: 1.0092-503.11 ng/ml
+
+QC concentrations: 1.0156 ng/ml (LLOQ QC), 2.9352 ng/mL (LQC), 30.260 ng/ml (AQC-II), 75.650 ng/ml (AQC-I), 175.93 ng/ml (MQC), 381.63 ng/ml (HQC)
+
+Pre-study validation
+
+Selectivity, absence of the contribution of interferring components of endogenous plasma components with respect to chromatographic interference with the analyte or internal standard was demonstrated in different lots of blank human plasma (6), haemolysed plasma (1) and lipemic plasma (1) at LLOQ. Selectivity was also demonstrated with respect to various potentially interferring drugs including paracetamol, diclofenac, ondansetron, nicotine, caffeine, ranitidine, norfloxacin, tinidazole, hyoscine butyl bromide, tranexamic acid, tramadol, hydrocortisone, pheniramine maleate, pantoprazole, dexamethasone.
+
+Absence of matrix factor was shown in different lots of blank human plasma (6), haemolysed plasma
+
+(1) and lipemic plasma (1) spiked at LQC and HQC levels.
+
+Linearity was shown within the calibration range for free dabigatran and total dabigatran.
+
+Within run/intra batch and between run/inter batch precision and accuracy of QC samples (LLOQ QC, LQC, AQC-II, AQC-I, MQC, HQC) were demonstrated. Carry-over was adequately assessed immediately after the highest calibration standard in each validation run. The precision and accuracy of dilution integrity was shown 6 times at a concentration of two times the highest standard of the calibration curve diluted 1/3rd and 1/5th.
+
+Stability of the analyte at LOC and HQC concentrations was established including long term and short term stability in biological matrix, long term stability in stock and working solutions, freeze-thaw stability (5 cycles), post-preparative stability, in-injector stability of the processed sample in autosampler and re-injection reproducibility.
+
+Within-study validation
+
+No significant interferences were observed in the lots of human K2EDTA plasma used for the preparation of calibration standards and quality control samples.
+
+The method performance during study sample analysis was demonstrated by acceptable mean precision and accuracy using QC samples (LQC, AQC-II, AQC-I, MQC, HQC) of all accepted runs. Back calculated concentrations of the calibration standards were determined to confirm goodness of fit to the calibration range and demonstrate consistent and reliable data for all subjects.
+
+Assessment report EMA/182457/2023
+
+Page 39/56
+
+The QC samples are >5% of the number of study samples and are representative of the observed concentration.
+
+For each subject, all periods were analyzed within the same analytical run. Reanalysis of samples (free dabigatran: 7/3817 samples: 0.18%, total dabigatran: 199/3817 samples: 5.2%) was performed for analytical reasons including inconsistent internal standard response, incomplete analysis and rejected analytical run.
+
+Incurred sample reanalysis (249/3817 samples: 6.5% for free dabigatran and total dabigatran, respectively) was performed to confirm the reproducibility of the bioanalytical method. A total of 99.6% (free dabigatran) and 98.4% (total dabigatran) of samples were found to be within a variation of 20% from the mean value, respectively.
+
+Date of start and finish of the bio-analytical phase:
+
+Analysis start date
+
+Analysis end date
+
+Free dabigatran
+
+19/10/2021
+
+05/11/2021
+
+Total dabigatran
+
+04/10/2021
+
+03/11/2021
+
+The maximum sample storage period from the first blood draw to last analysis was 62 days at - 70+15°C (free dabigatran) and 60 days at -70+15℃ (total dabigatran). The sample storage periods were supported by long term stability data of the analytes in the matrix (free dabigatran: 107 days at 20+10℃ and -70+15°C, total dabigatran: 101 days at 20+10℃ and -70+15°C) at LQC and HQC concentrations.
+
+Protocol deviations: No SOP deviations occured during method validation or subject sample analysis.
+
+Laboratory investigation -Total dabigatran: In analytical runs 65321-AR002A (S1) and 65321- AR003A (S2), Dabigatran Acyl Glucuronide peak was observed in all the subject samples which indicated glucuronide was not converted into Dabigatran.
+
+The samples of subject 3 were processed with the samples of subjects 1 and 2 but not analysed when the issue was discovered. A laboratory investigation was conducted to identfy the cause, which concluded that a solution preparation error had occured during the initial analysis of S1, S2 and S3. New solutions were prepared and the repeated results of the subjects did not reveal any glucuronide peak and the results were accepted.
+
+QA authentication: QA statements and assurance for the bioanalytical reports and method validations report have been provided confirming compliance with FDA and EMA guidance, SOPs and applicable sections of GLP.
+
+· Pharmacokinetic variables
+
+The pharmacokinetic parameters were calculated using standard methods and a non-compartmental approach. AUCt was calculated using the linear trapezoidal rule. Actual sampling times were used for calculation of the PK parameters.
+
+Choice of primary variables and secondary PK variables: The parameters calculated were AUCo-t, AUCo-co, AUCH/AUCco, Cmax, tmax, Kel, ty/2 el and residual area
+
+Primary parameters: AUC0-t and Cmax
+
+Assessment report EMA/182457/2023
+
+Page 40/56
+
+
+The pharmacokinetic parameters were calculated using Phoenix® WinNonlin® Software Version 8.3.
+
+· Statistical methods
+
+PROC GLM of SAS Studio 3.6 (Basic edition) was employed for statistical analysis.
+
+ANOVA was performed on the In-transformed AUCo-t, AUCo-o and Cmax of free dabigatran and total dabigatran.
+
+The ANOVA model included treatment received, the period at which it was given along with the sequence in which each treatment being received and the subject effect (nested within the sequence). The treatment, period and sequence were set as fixed effects and tested at 5% level of significance.
+
+The significance of the sequence effect at alpha 0.10 was calculated using the subject nested within the sequence as the error term.
+
+Criteria for conclusion of bioequivalence:
+
+Bioequivalence between the test product and reference product is concluded if the 90% confidence intervals for geometric least square mean ratios of ln-transformed Cmax and AUCt of free dabigatran fall within the bioequivalence range. For AUC0-t acceptance range is 80.00-125.00%. Depending on the intra-subject variability for Cmax of the reference product, a widened acceptance range is applied for Cmax as follows:
+
+Within-subject CV (% )
+
+Lower limit
+
+Upper limit
+
+30
+
+80.00
+
+125.00
+
+35
+
+77.23 129.48
+
+40
+
+74.62 134.02
+
+45
+
+72.15 138.59
+
+≥50
+
+69.84
+
+143.19
+
+The data of total dabigatran (non-conjugated plus conjugated dabigatran after complete alkaline cleavage of dabigatran glucuronides) was provided as a supportive data.
+
+Results
+
+Table 10 - Pharmacokinetic parameters for free dabigatran (non-transformed values)
+
+Pharmacokinetic
+
+parameter
+
+Test
+
+Reference
+
+arithmetic mean
+
+SD
+
+Arithmetic mean
+
+SD
+
+AUC(0-t) (hr*ng/mL)
+
+761.540
+
++314.374
+
+791.665
+
++261.476
+
+AUC(0-0) (hr*ng/ml)
+
+786.609
+
++318.119
+
+815.332 +263.720
+
+Assessment report EMA/182457/2023
+
+Page 41/56
+
+Cmax (ng/ml)
+
+88.087
+
++35.469
+
+90.830
+
+Tmax (hr) *
+
+2.00 (1.00 - 3.33)
+
+- 2.13 (1.25 - 4.00)
+
++28.849
+
+-
+
+AUC0-t
+
+area under the plasma concentration-time curve from time zero to t hours
+
+AUC0-00
+
+area under the plasma concentration-time curve from time zero to infinity
+
+maximum plasma concentration
+
+Cmax
+
+Tmax
+
+time for maximum concentration, *median (range)
+
+Table 11 - Pharmacokinetic parameters for total dabigatran (non-transformed values)
+
+Pharmacokinetic parameter
+
+Test
+
+arithmetic mean
+
++367.029
+
+SD
+
+Reference
+
+arithmetic mean
+
+946.129
+
+AUC(0-t) (hr*ng/ml)
+
+896.586
+
+AUC(0-0) (hr*ng/ml)
+
+924.785
+
++374.149
+
+974.467 +335.465
+
+Cmax (ng/ml)
+
+103.23
+
++40.693
+
+109.31
+
+Tmax (hr) *
+
+2.00 (1.00 - 3.67)
+
+-
+
+SD
+
++327.714
+
++36.533
+
+2.00 (1.00 - 4.00) -
+
+AUC0-t
+
+area under the plasma concentration-time curve from time zero to t hours
+
+AUCO-co area under the plasma concentration-time curve from time zero to infinity maximum plasma concentration
+
+Cmax time for maximum concentration, *median (range)
+
+Tmax
+
+Table 12 - Statistical analysis for free dabigatran (ln-transformed values)
+
+Pharmacokinetic parameter
+
+Geometric Mean Ratio
+
+Test/Reference
+
+Confidence Intervals
+
+AUC(0-t)
+
+(hr*ng/ml)
+
+92.01
+
+83.40-101.51 37.75 / 37.41
+
+AUC(0-0) (hr*ng/ml)
+
+92.31
+
+84.06-101.37
+
+35.41/36.03
+
+Cmax (ng/ml)
+
+93.53
+
+84.86-103.09
+
+37.41/ 36.13
+
+SWR (%) / SWT (%)*
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Table 13 - Statistical analysis for total dabigatran (ln-transformed values)
+
+Pharmacokinetic parameter
+
+Geometric Mean Ratio Test/Reference
+
+Confidence Intervals
+
+AUC(0-t) (hr*ng/mL)
+
+91.26
+
+82.75-100.63 37.76 / 37.38
+
+AUC(0-0) (hr*ng/ml)
+
+91.42
+
+Cmax (ng/ml)
+
+91.58
+
+83.18-100.47 36.02 / 36.60
+
+82.97 - 101.09
+
+38.34 / 37.43
+
+SWR (%) / SWT (%)*
+
+Assessment report EMA/182457/2023
+
+Page 42/56
+
+*within-subject standard deviation of the ln-transformed Values of AUC(0-t) and Cmax of the reference and test products
+
+Effects of the statistical ANOVA model (free dabigatran)
+
+The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Main effects LnCmar
+
+Sequence
+
+0.5611
+
+LnAUC0-t
+
+0.9434
+
+0.9669
+
+LnAUC0-inf
+
+Period
+
+0.2439
+
+0.1651
+
+0.1745
+
+Treatment
+
+0.2566
+
+0.1626
+
+0.1591
+
+Effects of the statistical ANOVA model (total dabigatran)
+
+The test for the effects of the statistical ANOVA model at 5% level of significance can be summarised as follows:
+
+Main effects LnCmar
+
+LnAUC0-t
+
+LnAUCO-inf
+
+Sequence
+
+0.8492
+
+0.7048
+
+0.7357
+
+Period
+
+0.3057
+
+0.1831
+
+0.2050
+
+Treatment
+
+0.1427
+
+0.1236
+
+0.1180
+
+The mean plasma graphs (Linear plot and semi-log plot) are presented below:
+
+Assessment report EMA/182457/2023
+
+Page 43/56
+
+Free dabigatran (linear plot)
+
+100
+
+80-
+
+60
+
+Mean (ng/ml)
+
+40
+
+20-
+
+0
+
+0
+
+10
+
+Free dabigatran (semi-log plot)
+
+100 TIT
+
+10
+
+Log Mean (ng/mL)
+
+1
+
+0.1
+
+0.0
+
+-0
+
+20
+
+30
+
+STime (hr)
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+STime (hr)
+
+-e-RI
+
+-A- R 2
+
+.Đ- T, 1
+
+T, 2
+
+R, 1
+
+-- A- R, 2
+
+... Đ- T, 1
+
+-+- T, 2
+
+Assessment report EMA/182457/2023
+
+Page 44/56
+
+Total dabigatran (linear plot)
+
+150-
+
+100
+
+Mean
+
+50
+
+ORI
+
+-A- R 2
+
+... Đ -- T, 1
+
+-+- T, 2
+
+0
+
+10
+
+20
+
+STime
+
+30
+
+40
+
+50
+
+Total dabigatran (semi-log plot)
+
+1000
+
+THITTT
+
+100
+
+10 =
+
+Log Mean (ng/ml)
+
+1-
+
+0.1-
+
+-e-RI
+
+-A- R 2
+
+-O- T, 1
+
+-+-T, 2
+
+0.01-
+
+0
+
+10
+
+20
+
+30
+
+STime
+
+40
+
+50
+
+· Safety data
+
+A total of 07 post-dose adverse events were reported by 05 of the 44 subjects included in the study. The adverse events included headache (02), itching all over the body (02), gastritis (02) and diarrhoea (01).
+
+Four (04) adverse events were observed in relation to the test product and 03 adverse events were observed in relation to the reference product. All adverse events were considered possibly related to the study drugs and moderate in nature. No serious adverse events or deaths were reported during this study. No subject was withdrawn from the study for safety reasons. All these AE's were resolved.
+
+Overall, the drugs tested were generally safe and well tolerated by the subjects included in this study.
+
+Assessment report EMA/182457/2023
+
+Page 45/56
+
+2.4.2.2. Pharmacodynamics
+
+No new pharmacodynamic studies were presented and no such studies are required for this application. >
+
+2.4.3. Discussion on clinical aspects
+
+The design of the studies is considered acceptable by CHMP and in line with the general guidelines.
+
+A replicate design is acceptable to demonstrate bioequivalence between the test product and reference product given the expected high intra-subject CV of Cmax of the latter providing the possibility of widening the acceptance criterion of Cmax.
+
+The sampling schedules included frequent sampling around the expected Cmax and were adequate to cover the absorption process of dabigatran. The wash out periods were adequate considering the elimination half-lives.
+
+Adequate information on the processing as well as handling of samples from the clinical site to the bioanalytical site have been presented.
+
+The chosen test product is representative in terms of composition, manufacturer, manufacturing process and batch size. Production scale batch sizes are up to 150,000 capsules for each strength. The reference product Pradaxa, 150 mg, capsule, hard is considered adequate (EU reference product). Satisfactory certificates of analysis of the test and reference products have been presented since the assay of the test product does not differ more than 5% from that of the reference product.
+
+The study populations are considered adequate by CHMP. The inclusion and exclusion criteria of the studies have been adequately described. Adequate information on the sample size calculations performed have been presented. Concomitant medication has not affected the outcome of the studies since the analytical methods have been demonstrated to be selective to the analytes.
+
+The analytical methods for free dabigatran and total dabigatran have been adequately validated (pre- study and within study). LLOQ was less than 5% of Cmax for the detection of any pre-dose concentration of free dabigatran and total dabigatran. The QC concentrations sufficiently covered the study sample concentration range of free dabigatran and total dabigatran. The reasons for the reanalysis of samples are acceptable. 20% of the chromatograms of the analysis of study samples have been provided.
+
+The primary pharmacokinetic variables of free dabigatran and total dabigatran are adequate to conclude on bioequivalence. Standard methods were used.
+
+The statistical methods have been adequately described by the applicant.
+
+While the guidance does not specify that data of free and total dabigatran (sum of free and glucuronidated dabigatran) of the test and reference products be used for the assessment of bioequivalence, the sponsor opted for assessment of bioequivalence based on both analytes in initially submitted studies. For the additional study (65321) the assessment of bioequivalence was based on free dabigatran.
+
+All studies confirmed high intra-subject variability of Cmax for the test and reference product for free dabigatran and total dabigatran. Widened acceptance criteria were not necessary as all results fell within the conventional acceptance criteria of 80.00-125.00% for Cmax.
+
+The 90% CI of the ratio for geometric least square means of log-transformed data of AUC0-t and Cmax for free dabigatran and total dabigatran of the test product and reference product fell within the conventional acceptance criterion of 80.00-125.00% for subjects under fasted condition and under
+
+Assessment report EMA/182457/2023
+
+Page 46/56
+
+conditions of pre-treatment with a PPI with the 150 mg strength. Furthermore, the 90% CI of the ratio for geometric least square means of log-transformed data of AUC0-t and Cmax for free dabigatran of the test product and reference product fell within the conventional acceptance criterion of 80.00- 125.00% for subjects under fasted conditions with the 75 mg strength.
+
+CHMP concluded that bioequivalence has been demonstrated in all studies.
+
+The extrapolated AUC was below 20% for all subjects and treatments indicating that the blood sampling was adequately long with respect to free dabigatran and total dabigatran.
+
+No pre-dose concentrations were detected. In study 605/19 no subjects reached tmax at the first sampling point (first point Cmax). For study 606/19 in 3 cases tmax was observed at the first sampling point with quantifiable analyte (regarded as first point Cmax). However, the sampling schedule includes frequent sampling around the expected Cmax to provide a reliable estimate of peak exposure since at least two quantifiable samples are obtained before tmax is reached in the overwhelming majority of cases. For study 65321 No pre-dose concentrations were detected, and no subjects reached tmax at the first sampling point (first point Cmax).
+
+Regarding safety data collected from these studies, the adverse advents have been adequately analysed including incidence by treatment, relation with investigational medicinal product, intensity and time of onset and resolution.
+
+The inspection history of the clinical and bioanalytical sites has been provided. The sites are familiar with inspections as they have been inspected regularly by various inspectorates for the past 10 years. The outcome of the MHRA inspection conducted in 2019 of the sites involved in the studies was provided during the procedure. There are no findings which raise concerns with regards to the integrity of the clinical, analytical and statistical aspects of the bioequivalence studies.
+
+With regards to the biowaiver of strengths, in vitro dissolution among the biobatch of the highest strength (150 mg) and the additional strengths (110 mg and 75 mg) has been submitted in pH 2.0, 4.5 and 6.8 performed under same conditions, i.e. modified baskets at 100 rpm.
+
+Due to degradation of the active substance, dabigatran, the applicant has justified that pH 1.2 is not a suitable condition for dissolution comparison. This is considered acceptable by CHMP.
+
+Due to the high variability in the dissolution data the 90% CI of expected f2 was obtained by bootstrapping and the calculations were conducted with the software package PhEq.
+
+The comparison between the biobatch high strength of 150 mg and the intermediate strength of 110 mg shows similar dissolution profiles at pH 2.0, 4.5 and 6.8 since the lower boundary of the 90% CI of expected f2 is >50.
+
+The comparison between the biobatch high strength of 150 mg and the low strength of 75 mg shows similar dissolution profiles at 4.5 and 6.8 since the lower boundary of the 90% CI of expected f2 is >50. However, at pH 2.0 the lower boundary of the 90% CI of expected f2 is <50. Consequently, the applicant applied a bracketing approach.
+
+According to the Guideline on the investigation of bioequivalence, bracketing approach would include, in the present case, four studies: in fasted state and in fasted state with pre-treatment with a PPI for the two strengths most different in dissolution profiles, in this case the 75 mg and 150 mg strengths. However, the Guideline on the investigation of bioequivalence indicates that when 4 studies are needed in a bracketing approach, i.e. two strengths in fasted and fed state, one of the studies can be waived if justified: Waiver of either the fasting or the fed study at the other strength(s) may be justified based on previous knowledge and/or pharmacokinetic data from the study conducted at the strength tested
+
+Assessment report EMA/182457/2023
+
+Page 47/56
+
+in both fasted and fed state. The condition selected (fasting or fed) to test the other strength(s) should be the one which is most sensitive to detect a difference between products.
+
+Based on the submitted dissolution data, the extremes of the brackets (i.e. the high strength and the low strength) are the strengths differing most in dissolution rate. Furthermore, the applicant has justified that the study under fasting conditions is the most sensitive one as the dissolution profiles that differ the most are the ones under fasting conditions (pH 2.0). The bracketing approach is therefore considered acceptable by CHMP and a biowaiver for the study with 75 mg under fasting conditions with pre-treatment with PPI can be granted.
+
+2.4.4. Conclusions on clinical aspects
+
+CHMP concluded that based on the presented bioequivalence studies Dabigatran Etexilate Accord is considered bioequivalent with Pradaxa.
+
+The results of studies 605/19 and 606/19 with 150 mg formulation can be extrapolated to the middle strength (110 mg), according to conditions presented in the Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98 Rev.1, section 4.1.6.
+
+Furthermore, similarity was demonstrated between the 150 mg strength and 75 mg strength at pH 4.5 and pH 6.8 but due to dissimilarity in dissolution rate between the 150 mg strength and 75 mg strength at pH 2.0 a bracketing approach was necessary. With the additional study conducted with 75 mg strength under fasting condition (study no. 65321), bioequivalence was demonstrated between the test and reference products for the lowest strength under the most sensitive conditions. In addition, the extremes of the brackets (i.e. the high strength and the low strength) are the strengths differing most in dissolution rate, consequently, the bracketing approach is considered acceptable and a biowaiver for the study with 75 mg under fasting conditions with pre-treatment with PPI can be granted.
+
+2.5. Risk Management Plan
+
+2.5.1. Safety concerns
+
+Table SVIII. 1: Summary of safety concerns
+
+Summary of safety concerns
+
+Important identified risks
+
+Haemorrhage
+
+Gastrointestinal disorders
+
+Hypersensitivity Off-label use in patients with prosthetic heart valves Off-label use in patients with severe renal impairment
+
+Important potential risks
+
+Hepatotoxicity
+
+Myocardial infarction
+
+Pulmonary embolism
+
+Assessment report EMA/182457/2023
+
+Page 48/56
+
+Summary of safety concerns
+
+Missing information
+
+Patients with liver impairment (liver enzymes > 2 x upper limit of normal)
+
+Pregnant and lactating women
+
+2.5.2. Pharmacovigilance plan
+
+No additional pharmacovigilance activities.
+
+2.5.3. Risk minimisation measures
+
+Table Part V.3: Summary table of pharmacovigilance activities and risk minimisation activities by safety concern
+
+Safety concern
+
+Risk minimisation measures
+
+Important I dentified Risks
+
+Haemorrhage Sections 4.3, 4.4, 4.5, 4.8, 4.9 and 5.1 of Dabigatran SmPC and corresponding sections of PIL have information on this safety concern.
+
+Other routine risk minimisation measures include; the labelling and the prescription only status of the product. Additional risk minimisation measures:
+
+. Prescriber guide
+
+. Patient alert card
+
+Pharmacovigilance
+
+activities
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file. Additional pharmacovigilance activity:
+
+None
+
+Assessment report EMA/182457/2023
+
+Page 49/56
+
+Safety concern
+
+Gastrointestinal disorders
+
+Sections 4.2, and 4.8 of Dabigatran
+
+SmPC and corresponding sections of
+
+PIL have information on this safety
+
+concern.
+
+Other routine risk minimisation
+
+measures include; the labelling and
+
+the prescription only status of the
+
+product.
+
+Additional risk minimisation
+
+measures:
+
+None
+
+Hypersensitivity
+
+Off-label use in patients with prosthetic heart valves
+
+Risk minimisation measures
+
+Sections 4.3 and 4.8 of Dabigatran SmPC and corresponding sections of PIL have information on this safety concern. Other routine risk minimisation measures include; the labelling and the prescription only status of the product. Additional risk minimisation measures: None
+
+Sections 4.3 and 5.1 of Dabigatran SmPC and corresponding sections of PIL have information on this safety concern.
+
+Other routine risk minimisation measures include; the labelling and the prescription only status of the product. Additional risk minimisation measures:
+
+None
+
+Pharmacovigilance activities
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file.
+
+Additional pharmacovigilance activity:
+
+None
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file.
+
+Additional pharmacovigilance activity:
+
+None
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file.
+
+Additional pharmacovigilance activity:
+
+None
+
+Assessment report EMA/182457/2023
+
+Page 50/56
+
+
+Safety concern
+
+Off-label use in patients
+
+with severe renal
+
+impairment
+
+Sections 4.2, 4.3 and 5.2 of
+
+Dabigatran SmPC and corresponding
+
+sections of PIL have information on
+
+this safety concern.
+
+Other routine risk minimisation
+
+measures include; the labelling and
+
+the prescription only status of the
+
+product.
+
+Additional risk minimisation
+
+measures:
+
+None
+
+Risk minimisation measures
+
+Important Potential Risks
+
+Hepatotoxicity Sections 4.3, 4.4 and 4.8 of Dabigatran SmPC and corresponding sections of PIL has information on this safety concern. Other routine risk minimisation measures include; the labelling and the prescription only status of the product. Additional risk minimisation measures: None
+
+Myocardial infarction
+
+Other routine risk minimisation measures include; the labelling; and the prescription only status of the product.
+
+Additional risk minimisation measures: None
+
+Pharmacovigilance activities
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file.
+
+Additional pharmacovigilance activity: None
+
+Routine pharmacovigilance activity: Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file. Additional pharmacovigilance activity:
+
+None
+
+Routine pharmacovigilance activity: Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file.
+
+Additional pharmacovigilance activity:
+
+None
+
+Assessment report EMA/182457/2023
+
+Page 51/56
+
+Safety concern
+
+Pulmonary embolism
+
+Other routine risk minimisation
+
+measures include; the labelling and
+
+the prescription only status of the
+
+product.
+
+Additional risk minimisation
+
+measures:
+
+None
+
+Missing information
+
+Patients with liver
+
+impairment (liver enzymes
+
+> 2 x upper limit of
+
+normal)
+
+Pregnant and lactating
+
+women
+
+2.5.4. Conclusion
+
+Risk minimisation measures
+
+Sections 4.3 and 4.4 of Dabigatran SmPC and corresponding sections of PIL have information on this safety concern.
+
+Other routine risk minimisation measures include; the labelling and the prescription only status of the product. Additional risk minimisation measures:
+
+None
+
+Section 4.6 of Dabigatran SmPC and corresponding sections of PIL has information on this safety concern.
+
+Other routine risk minimisation measures include; the labelling and the prescription only status of the product.
+
+Additional risk minimisation
+
+measures: None
+
+Pharmacovigilance activities
+
+Routine pharmacovigilance activity: Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file. Additional pharmacovigilance activity: None
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file. Additional pharmacovigilance activity:
+
+None
+
+Routine pharmacovigilance activity:
+
+Routine pharmacovigilance activities including collection and reporting of adverse reactions and signal detection as stated in pharmacovigilance system master file. Additional pharmacovigilance activity:
+
+None
+
+The CHMP and PRAC considered that the risk management plan version 1.2 is acceptable.
+
+Assessment report EMA/182457/2023
+
+Page 52/56
+
+2.6. Pharmacovigilance
+
+2.6.1. Pharmacovigilance system
+
+The CHMP considered that the pharmacovigilance system summary submitted by the applicant fulfils the requirements of Article 8(3) of Directive 2001/83/EC.
+
+2.6.2. Periodic Safety Update Reports submission requirements
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal. >
+
+2.7. Product information
+
+2.7.1. User consultation
+
+No full user consultation with target patient groups on the package leaflet has been performed on the basis of a bridging report making reference to Pradaxa and Moxifloxacin MSN. The bridging report submitted by the applicant has been found acceptable.
+
+3. Benefit-risk balance
+
+This application concerns a generic version of dabigatran etexilate, hard capsules. The reference product Pradaxa is indicated for:
+
+Pradaxa 75 mg hard capsules:
+
+- Primary prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+- Treatment of VTE and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+Pradaxa 110 mg hard capsules:
+
+- Primary prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+- Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+- Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+
+- Treatment of VTE and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+Pradaxa 150 mg hard capsules:
+
+Assessment report EMA/182457/2023
+
+Page 53/56
+
+- Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+- Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults
+
+- Treatment of venous thromboembolic events (VTE) and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+No nonclinical studies have been provided for this application but an adequate summary of the available nonclinical information for the active substance was presented and considered sufficient. From a clinical perspective, this application does not contain new data on the pharmacokinetics and pharmacodynamics as well as the efficacy and safety of the active substance; the applicant's clinical overview on these clinical aspects based on information from published literature was considered sufficient.
+
+Bioequivalence has been demonstrated with the 150 mg strength between the test product and reference product in subjects under fasting conditions (study 605/19) and in subjects pre-treated with a proton inhibitor under fasting conditions (study 606/19) in line with the product-specific bioequivalence guidance (12/2018) for dabigatran etexilate 75 mg, 110 mg, 150 mg, capsule, hard. Moreover, bioequivalence has been shown appropriately with 75 mg strength between the test product and reference product in subjects under fasting conditions (study 65321). Therefore, CHMP considered the bracketing approach acceptable and the biowaiver of strengths is granted.
+
+A benefit/risk ratio comparable to the reference product can therefore be concluded.
+
+4. Recommendations
+
+Outcome
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus that the benefit-risk balance of Dabigatran Etexilate Accord is favourable in the following indications:
+
+Dabigatran Etexilate Accord 75 mg hard capsules:
+
+- Primary prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+- Treatment of VTE and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+Dabigatran Etexilate Accord 110 mg hard capsules:
+
+- Primary prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+
+- Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+- Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+
+Assessment report EMA/182457/2023
+
+Page 54/56
+
+- Treatment of VTE and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+Dabigatran Etexilate Accord 150 mg hard capsules:
+
+- Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
+
+- Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults
+
+- Treatment of venous thromboembolic events (VTE) and prevention of recurrent VTE in paediatric patients from birth to less than 18 years of age.
+
+The CHMP therefore recommends the granting of the marketing authorisation subject to the following conditions:
+
+Conditions or restrictions regarding supply and use
+
+Medicinal product subject to medical prescription.
+
+Other conditions and requirements of the marketing authorisation
+
+· Periodic Safety Update Reports
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+Conditions or restrictions with regard to the safe and effective use of the medicinal product
+
+· Risk Management Plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+. At the request of the European Medicines Agency;
+
+. Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+· Additional risk minimisation measures
+
+The MAH shall provide an educational pack for each therapeutic indication, targeting all physicians who are expected to prescribe/use Dabigatran etexilate Accord. This educational pack is aimed at increasing awareness about the potential risk of bleeding during treatment with Dabigatran etexilate Accord and providing guidance on how to manage that risk.
+
+The MAH must agree the content and format of the educational material, together with a communication plan, with the national competent authority prior to distribution of the educational pack. The educational pack must be available for distribution for all therapeutic indications prior to
+
+Assessment report EMA/182457/2023
+
+Page 55/56
+
+launch) in the Member State.
+
+The physician educational pack should contain:
+
+. The Summary of Product Characteristics
+
+· Prescriber Guide
+
+· Patient Alert Cards
+
+The Prescriber Guide should contain the following key safety messages:
+
+· Details of populations potentially at higher risk of bleeding
+
+· Information on medicinal products that are contraindicated or which should be used with caution due to an increased risk of bleeding and/or increased dabigatran exposure
+
+· Contraindication for patients with prosthetic heart valves requiring anticoagulant treatment
+
+· Dosing tables for the different dose forms (only for paediatric VTE)
+
+· Recommendation for kidney function measurement
+
+· Recommendations for dose reduction in at risk populations (only for adult indications)
+
+· Management of overdose situations
+
+. The use of coagulation tests and their interpretation
+
+. That all patients should be provided with a Patient alert card and be counselled about:
+
+" Signs or symptoms of bleeding and when to seek attention from a health care provider.
+
+· Importance of treatment compliance
+
+. Necessity to carry the Patient alert card with them at all times
+
+. The need to inform Health Care Professionals about all medicines they are currently taking
+
+. The need to inform Health Care Professionals that they are taking Dabigatran etexilate Accord if they need to have any surgery or invasive procedure.
+
+· An instruction how to take Dabigatran etexilate Accord
+
+The MAH shall also provide a patient alert card in each pack of the medicinal product, the text of which is included in Annex III.
+
+Assessment report EMA/182457/2023
+
+Page 56/56
+

@@ -1,0 +1,18588 @@
+# EU-1-21-1572_public-assessment-report_20210908_20210908_byooviz-epar-public-assessment-report.pdf
+
+EUROPEAN MEDICINES AGENCY SCIENCE MEDICINES HEALTH
+
+24 June 2021 EMA/446448/2021 Committee for Medicinal Products for Human Use (CHMP)
+
+Assessment report
+
+Byooviz International non-proprietary name: ranibizumab
+
+Procedure No. EMEA/H/C/005545/0000
+
+Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+Official address Domenico Scarlattilaan 6 . 1083 HS Amsterdam . The Netherlands Address for visits and deliveries Refer to www.ema.europa.eu/how-to-find-us Send us a question Go to www.ema.europa.eu/contact Telephone +31 (0)88 781 6000
+
+An agency of the European Union
+
+C European Medicines Agency, 2021. Reproduction is authorised provided the source is acknowledged.
+
+Table of contents
+
+1. Background information on the procedure
+
+8
+
+1.1. Submission of the dossier.
+
+8
+
+2. Scientific discussion
+
+10
+
+2.1. Quality aspects
+
+11
+
+2.1.1. Introduction
+
+11
+
+2.1.2. Active substance
+
+11
+
+2.1.3. Finished medicinal product.
+
+17
+
+2.1.4. Discussion on chemical, and pharmaceutical aspects
+
+25
+
+2.1.5. Conclusions on the chemical, pharmaceutical and biological aspects
+
+26
+
+2.1.6. Recommendation(s) for future quality development
+
+26
+
+2.2. Non-clinical aspects
+
+27
+
+2.2.1. Introduction
+
+27
+
+2.2.2. Pharmacology
+
+27
+
+2.2.3. Pharmacokinetics
+
+27
+
+2.2.4. Toxicology
+
+28
+
+2.2.5. Ecotoxicity/environmental risk assessment
+
+28
+
+2.2.6. Discussion on non-clinical aspects.
+
+28
+
+2.2.7. Conclusion on the non-clinical aspects
+
+28
+
+2.3. Clinical aspects
+
+29
+
+2.3.1. Introduction
+
+29
+
+2.3.2. Pharmacokinetics
+
+29
+
+2.3.3. Pharmacodynamics
+
+41
+
+2.3.4. Discussion on clinical pharmacology
+
+41
+
+2.3.5. Conclusions on clinical pharmacology
+
+44
+
+2.4. Clinical efficacy
+
+44
+
+2.4.1. Main study.
+
+44
+
+2.4.2. Discussion on clinical efficacy
+
+84
+
+2.4.3. Conclusions on the clinical efficacy
+
+89
+
+2.5. Clinical safety
+
+89
+
+2.5.1. Discussion on clinical safety
+
+132
+
+2.5.2. Conclusions on the clinical safety
+
+135
+
+2.6. Risk Management Plan
+
+135
+
+2.7. Pharmacovigilance
+
+138
+
+2.8. Product information
+
+139
+
+2.8.1. User consultation
+
+139
+
+2.8.2. Additional monitoring
+
+139
+
+2.8.3. Third party intervention during the evaluation of Byooviz
+
+139
+
+3. Biosimilarity assessment
+
+139
+
+3.1. Comparability exercise and indications claimed
+
+139
+
+3.2. Results supporting biosimilarity
+
+140
+
+3.3. Uncertainties and limitations about biosimilarity
+
+143
+
+3.4. Discussion on biosimilarity
+
+144
+
+3.5. Extrapolation of safety and efficacy
+
+145
+
+Assessment report EMA/446448/2021
+
+Page 2/146
+
+3.6. Conclusions on biosimilarity and benefit risk balance
+
+145
+
+4. Recommendations
+
+145
+
+Assessment report EMA/446448/2021
+
+Page 3/146
+
+List of abbreviations
+
+Quality
+
+CD
+
+circular dichroism
+
+CE-SDS
+
+capillary electrophoresis sodium dodecyl sulfate
+
+CEX-HPLC
+
+cation exchange high performance liquid chromatography
+
+CQA
+
+critical quality attribute
+
+DLS dynamic light scattering
+
+DSC differential scanning calorimetry
+
+ELISA
+
+enzyme-linked immunosorbent assay
+
+E. coli Escherichia Coli
+
+EoPCB
+
+end of production cell bank
+
+FTIR fourier-transform-infrared spectroscopy
+
+GMP good manufacturing practice
+
+ICH
+
+The International Council for Harmonisation of Technical Requirements for
+
+Pharmaceuticals for Human Use
+
+icIEF imaged capillary isoelectric focusing
+
+ITF intrinsic tryptophan fluorescence
+
+H/DX-MS hydrogen deuterium exchange mass spectrometry
+
+KDR
+
+kinase insert domain receptor
+
+LC-ESI-MS/MS liquid chromatography- electrospray ionisation-mass spectrometry/mass spectrometry
+
+MCB master cell bank
+
+MFI
+
+micro flow-imaging
+
+PPQ process performance qualification
+
+QC
+
+quality control
+
+RP-UPLC
+
+reversed-phase ultra-performance liquid chromatography
+
+SE-HPLC
+
+size-exclusion high performance liquid chromatography
+
+SEC-MALS
+
+size exclusion chromatography - multiangle light scattering
+
+SPR
+
+surface plasmon resonance
+
+SV-AUC
+
+sedimentation velocity analytical ultracentrifugation
+
+UPLC
+
+ultra-performance liquid chromatography
+
+UV
+
+ultraviolet
+
+VEGF
+
+vascular endothelial growth factor
+
+VEGFR
+
+vascular endothelial growth factor receptor
+
+Assessment report EMA/446448/2021
+
+Page 4/146
+
+WCB
+
+working cell bank
+
+Non-Clinical
+
+ADA Anti-drug antibody
+
+AR Assessment Report
+
+CNV Choroidal neovascularisation
+
+CTD Common technical document
+
+DME Diabetic macular edema
+
+EMA European Medicines Agency
+
+EU European Union
+
+FDA Food and Drug Administration
+
+GLP Good Laboratory Practice
+
+IOP Intraocular pressure
+
+ITV Intravitreal
+
+mg Milligram
+
+ug Microgram
+
+mL Milliliter
+
+UL Microliter
+
+mmHg Milimeter of mercury
+
+No. Number
+
+PD Pharmacodynamic(s)
+
+PK Pharmacokinetic(s)
+
+PT Prothrombin time
+
+SmPC Summary of product characteristics
+
+VEGF Vascular endothelial growth factor
+
+Clinical
+
+ADA Anti-Drug Antibody
+
+AE Adverse Event
+
+AESI Adverse Event of Special Interest
+
+ALP Alkaline phosphatase
+
+AMD Age-related Macular Degeneration
+
+ANCOVA
+
+Analysis of Covariance
+
+BCVA Best Corrected Visual Acuity
+
+BLQ Below the limit of quantification
+
+BMI Body Mass Index
+
+CI Confidence Interval
+
+Assessment report
+
+EMA/446448/2021
+
+Page 5/146
+
+Cmax
+
+Maximum Serum Concentration
+
+CMH Cochran-Mantel-Haenszel
+
+CNV Choroidal Neovascularisation
+
+CPT Central Point Thickness
+
+CRLT Central Retinal Lesion Thickness
+
+CRO Contract Research Organisation
+
+CSR Clinical Study Report
+
+CST Central Subfield Thickness
+
+CV Coefficient of Variation
+
+DA Disc Area
+
+dL Deciliter
+
+DME Diabetic Macular Edema
+
+DR Diabetic Retinopathy
+
+EMA European Medicines Agency
+
+EOS End of Study
+
+ET Early Termination
+
+ETDRS Early Treatment Diabetic Retinopathy Study
+
+EU European Union
+
+FA Fluorescein Angiography
+
+FAS Full Analysis Set
+
+FDA Food and Drug Administration
+
+FP Fundus Photography
+
+GCP Good Clinical Practice
+
+ICH International Council for Harmonisation
+
+IOI Intraocular inflammation
+
+IOP Intraocular Pressure
+
+IP Investigational Product
+
+ITV Intravitreal
+
+ITT Intention-to-treat
+
+LOCF Last Observation Carried Forward
+
+LS Least Squares
+
+MAR Missing-At-Random
+
+mCNV Myopic Choroidal Neovascularisation
+
+MedDRA Medical Dictionary for Regulatory Activities
+
+MI Multiple Imputation
+
+MNAR Missing-Not-At-Random
+
+MSD Meso Scale Discovery Assay
+
+NAb Neutralizing Antibody
+
+NEI VFQ-25 National Eye Institute 25-Item Visual Function Questionnaire
+
+Assessment report EMA/446448/2021
+
+Page 6/146
+
+OCT Optical Coherence Tomography
+
+PDR Proliferative Diabetic Retinopathy
+
+PK Pharmacokinetic(s)
+
+PKS Pharmacokinetic Analysis Set
+
+PPS Per-Protocol Set
+
+PT Preferred Term
+
+RDTS
+
+Repeated-dose toxicity study
+
+ROP
+
+Retinopathy of Prematurity
+
+RVO Retinal Vein Occlusion
+
+SAE Serious Adverse Event
+
+SD Standard Deviation
+
+SE Standard Error
+
+SOC System Organ Class
+
+TEAE
+
+Treatment-Emergent Adverse Event
+
+US United States
+
+VA Visual Acuity
+
+VEGF-A Vascular Endothelial Growth Factor-A
+
+Assessment report EMA/446448/2021
+
+Page 7/146
+
+1. Background information on the procedure
+
+1.1. Submission of the dossier
+
+The applicant Samsung Bioepis NL B.V. submitted on 10 September 2020 an application for marketing authorisation to the European Medicines Agency (EMA) for Byooviz, through the centralised procedure falling within the Article 3(1) and point 1 of Annex of Regulation (EC) No 726/2004. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 30 January 2020.
+
+The applicant applied for the following indication:
+
+"In adults for:
+
+• The treatment of neovascular (wet) age-related macular degeneration (AMD)
+
+• The treatment of visual impairment due to diabetic macular oedema (DME)
+
+• The treatment of proliferative diabetic retinopathy (PDR)
+
+• The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
+
+• The treatment of visual impairment due to choroidal neovascularisation (CNV)"
+
+The legal basis for this application refers to:
+
+Article 10(4) of Directive 2001/83/EC - relating to applications for a biosimilar medicinal product.
+
+The application submitted is composed of administrative information, complete quality data, appropriate non-clinical and clinical data for a similar biological medicinal product.
+
+The chosen reference product is a Medicinal product which is authorised in accordance with Union provisions in force and to which biosimilarity has been demonstrated by appropriate studies:
+
+• Product name, strength, pharmaceutical form: Lucentis 10 mg/ml solution for injection
+
+• Marketing authorisation holder: Novartis Europharm Limited
+
+• Date of authorisation: 22-01-2007
+
+• Marketing authorisation granted by: Union
+
+Information on Paediatric requirements
+
+Not applicable.
+
+Information relating to orphan market exclusivity
+
+Similarity
+
+Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC) No 847/2000, the applicant did not submit a critical report addressing the possible similarity with authorised orphan medicinal products because there is no authorised orphan medicinal product for a condition related to the proposed indication.
+
+Scientific advice
+
+The applicant received the following Scientific advice on the development relevant for the indication subject to the present application:
+
+Assessment report EMA/446448/2021
+
+Page 8/146
+
+Date
+
+23 June 2016
+
+Reference
+
+SAWP co-ordinators
+
+EMEA/H/SA/3335/1/2016/III
+
+Prof. Dieter Deforce, Mr Christian
+
+Gartner
+
+13 October 2016
+
+EMEA/H/SA/3335/1/FU/1/2016/II
+
+Mr Christian Gartner, Dr Kerstin
+
+Wickström
+
+23 February 2017 EMEA/H/SA/3335/1/FU/2/2017/III
+
+Dr Jens Reinhardt, Mr Christian Gartner
+
+The Scientific advice pertained to the following quality, non-clinical, and clinical aspects:
+
+• Quality
+
+o battery of quality similarity tests/assessments and in vitro studies to demonstrate similarity between SB11 and EU Lucentis
+
+o acceptability of submitting a biosimilar MAA with a specific fill-volume in a single-use vial
+
+• Non-clinical
+
+o plan for in vivo pharmacodynamic and a 4-week toxicology study to support similarity assessment
+
+• Clinical
+
+o intent not to conduct Phase I PK studies in healthy volunteers
+
+o Phase 3 study design elements supportive to the demonstration of similarity in efficacy, safety and immunogenicity between Byooviz and Lucentis
+
+o extrapolation of efficacy and safety between Byooviz and Lucentis in other patient populations
+
+Steps taken for the assessment of the product
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur: Andrea Laslop
+
+Co-Rapporteur: Christophe Focke
+
+The application was received by the EMA on
+
+The procedure started on
+
+The Rapporteur's first Assessment Report was circulated to all CHMP
+
+members on
+
+The Co-Rapporteur's first Assessment Report was circulated to all CHMP
+
+members on
+
+21 December 2020
+
+The PRAC Rapporteur's first Assessment Report was circulated to all
+
+PRAC members on
+
+4 January 2021
+
+The CHMP agreed on the consolidated List of Questions to be sent to
+
+the applicant during the meeting on
+
+28 January 2021
+
+10 September 2020
+
+1 October 2020
+
+21 December 2020
+
+Assessment report EMA/446448/2021
+
+Page 9/146
+
+The applicant submitted the responses to the CHMP consolidated List of
+
+Questions on
+
+18 March 2021
+
+The Rapporteurs circulated the Joint Assessment Report on the
+
+responses to the List of Questions to all CHMP members on
+
+26 April 2021
+
+The CHMP agreed on a list of outstanding issues in writing to be sent to
+
+the applicant on
+
+20 May 2021
+
+The applicant submitted the responses to the CHMP List of Outstanding
+
+Issues on
+
+27 May 2021
+
+The Rapporteurs circulated the Joint Assessment Report on the
+
+responses to the List of Outstanding Issues to all CHMP members on
+
+24 June 2021
+
+The CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a marketing authorisation to Byooviz on
+
+A revised opinion was adopted by the CHMP in order to incorporate updated conclusion on the acceptability of the name and the update of the packaging design, on 9 August 2021
+
+2. Scientific discussion
+
+About the product
+
+10 June 2021
+
+Ranibizumab, the active substance of Byooviz and of its reference product Lucentis, is a recombinant humanised monoclonal antibody fragment composed of a light chain linked by a disulfide bond at its C- terminus to the N-terminal segment of the heavy chain that binds to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF-A165. VEGF-A has been shown to cause neovascularisation and leakage in models of ocular angiogenesis and vascular occlusion, and is thought to contribute to pathophysiology of neovascular (wet) age-related macular degeneration (AMD), visual impairment due to diabetic macular oedema (DME), proliferative diabetic retinopathy (PDR), visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO), visual impairment due to choroidal neovascularisation (CNV), and retinopathy of prematurity (ROP). The binding of ranibizumab to VEGF-A prevents the interaction of VEGF-A with its receptors (VEGFR-1 and VEGFR-2) on the surface of endothelial cells, reducing endothelial cell proliferation, vascular leakage, and new blood vessel formation.
+
+The claimed therapeutic indications are:
+
+• The treatment of neovascular (wet) age-related macular degeneration (AMD)
+
+• The treatment of visual impairment due to diabetic macular oedema (DME)
+
+• The treatment of proliferative diabetic retinopathy (PDR)
+
+• The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
+
+• The treatment of visual impairment due to choroidal neovascularisation (CNV)
+
+The indication for the treatment of retinopathy of prematurity (ROP) in preterm infants - granted to Lucentis - is not claimed.
+
+Assessment report EMA/446448/2021
+
+Page 10/146
+
+
+Type of Application and aspects on development
+
+This application concerns a centralised procedure for marketing authorisation of Byooviz (also referred to as "SB11"), as a biosimilar product to the European reference product Lucentis (ranibizumab).
+
+A comparability exercise has been performed in a stepwise approach to assess the similarity between Byooviz and the reference product.
+
+2.1. Quality aspects
+
+2.1.1. Introduction
+
+Byooviz has been developed as biosimilar to the reference medicinal product Lucentis (EMA product number EMEA/H/C/000715). The Byooviz finished product is presented as a solution for injection containing 2.3 mg of ranibizumab (company code SB11) as active substance.
+
+Other ingredients are: a,a-trehalose dihydrate, histidine hydrochloride monohydrate, histidine, Polysorbate 20, and water for injections.
+
+The product is available in a Type I borosilicate glass vial with a chlorobutyl rubber stopper sealed with an aluminium/polypropylene flip-off cap, containing 2.3 mg of ranibizumab in 0.23 mL solution. The presentation also contains 1 blunt filter needle (18G x 11/2", 1.2 mm x 40 mm, 5 um), and 1 injection needle (30G x 1/2", 0.3 mm x 13 mm).
+
+2.1.2. Active substance
+
+General information
+
+SB11 is a recombinant humanised IgG1K isotype monoclonal antibody fragment composed of one light chain (214 amino acid residues) linked by a disulfide bond at its C-terminus to the 231-residue N- terminal segment of the heavy chain with a total molecular weight of approximately 48 kDa.
+
+The mechanism of action of ranibizumab is to bind to vascular endothelial growth factor A (VEGF-A), the key driver of vasculogenesis and angiogenesis, thereby inhibiting the binding of VEGF-A to its receptors, Flt-1 (VEGFR-1) and kinase insert domain receptor (KDR) (VEGFR-2), on the surface of endothelial cells. Ranibizumab neutralizes the biological function of VEGF-A by inhibiting its binding with both VEGFR-1 and VEGFR-2. Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular (wet) form of AMD, one of the leading causes of legal blindness.
+
+Manufacture, process controls and characterisation
+
+The sites employed in the manufacture of the active substance are detailed in the dossier.
+
+The manufacturer of the active substance is: Wacker Biotech GmbH Hans-Knoll-Straße 3 07745 Jena Germany
+
+Assessment report EMA/446448/2021
+
+Page 11/146
+
+SB11 active substance is manufactured, packaged, stability tested, and quality-control tested in accordance with good manufacturing practice (GMP).
+
+Description of manufacturing process and process controls
+
+The SB11 active substance manufacturing process has been adequately described.
+
+The number of WCB vials used to produce one discrete batch of active substance is presented in the dossier. A typical batch size of SB11 active substance is adequately defined. One batch of active substance is filled into multiple bottles.
+
+The manufacturing process involves a cell culture process and a purification process.
+
+The active substance manufacturing process starts with thawing of a vial of the working cell bank which is an E. coli strain transfected with SB11 expression vector. After thawing of the working cell bank (WCB) vial, the culture is serially expanded in cell mass and volume for inoculation into the production fermenter. The cell culture fluid is subsequently purified through a series of chromatographic steps and filtration steps.
+
+The description of the manufacturing process steps includes flow charts, which comprised the manufacturing phase, description of the process step, critical parameters for the manufacturing process of SB11 and the validated maximum hold times for the different process steps.
+
+The ranges of critical process parameters and the routine in-process controls along with acceptance criteria, including controls for microbial purity and endotoxin, are described for specified steps. There are no reprocessing steps during the manufacture of SB11 active substance.
+
+The container closure system for SB11 active substance consists of plastic bottles. Adequate specifications have been proposed for the container closure system.
+
+The active substance manufacturing process is considered acceptable.
+
+Assessment report EMA/446448/2021
+
+Page 12/146
+
+Control of materials
+
+Sufficient information on raw materials used in the active substance manufacturing process has been submitted. Compendial raw materials are tested in accordance with the corresponding monograph, while specifications (including test methods) for non-compendial raw materials are presented. No materials of human or animal origin were used from cell banking up to the manufacturing process of SB11 active substance and finished product. In-house specifications are in place for non-compendial raw materials.
+
+Host cell line used as expression system and production cell line is well described. A two-tiered cell bank system was generated and characterised in accordance with ICH Guidelines Q5A and Q5D. Cell bank expiry is assigned. An End of production cell bank (EoPCB) was manufactured from an active substance process performance qualification (PPQ) batch and was further tested for characterisation. The limit of in vitro cell age was defined. Incubation duration for different culture step is controlled with pre-defined action range or operating/expected range. The different cell cultures are sufficiently controlled.
+
+Control of critical steps and intermediates
+
+A comprehensive overview of critical in-process controls and critical in-process tests performed throughout the SB11 active substance manufacturing process is given. Acceptable information has been provided on the control system in place to monitor and control the active substance process with regard to critical, as well as non-critical operational parameters and in-process tests.
+
+For the control of the SB11 active substance manufacturing process, the process controls are divided into controlled parameters (process inputs) and performance parameters (process outputs). For the input parameters, critical-, key- and non-key control parameters have been defined for each step in the process as well as the outputs, critical and process consistency in-process controls and in-process tests. The criticality is associated with impact on the defined critical quality attribute of the SB11 active substance.
+
+Controlled parameters are input variables or conditions of the manufacturing process used to control the manufacturing process. The input parameters have defined limits and operating ranges.
+
+Performance parameters are measured outputs from the process. Performance parameters indicate whether the process performed as expected. Outputs from one process step can be inputs to the next step. For the output parameters, in-process controls / tests and in-process specifications are applied. The definitions for the limits have been described. Specifications for all critical in-process tests of SB11 active substance manufacturing process have been established.
+
+Process validation
+
+Process validation has been carried out on either commercial scale batches and/or suitable models. PPQ studies were conducted on consecutive active substance batches for verification of the process controls. All pre-defined acceptance criteria for process parameters and in-process controls were met. The additional in-process measurements conducted during the validation runs further support the claim for batch to batch consistency. No manufacturing deviations were encountered during the validation runs. The process consistency validation studies demonstrate that the commercial manufacturing process can produce an active substance of consistent quality.
+
+Clearance validation studies for chromatography resin leachate and process-related impurities were performed.
+
+The maximum number of resin cycles defined for each chromatography column were determined. The protocol for column performance and integrity verification at commercial scale was also provided.
+
+Assessment report EMA/446448/2021
+
+Page 13/146
+
+A very brief summary of a shipping qualification of the active substance was submitted. Shipping system with the product can maintain product temperature while maintaining product integrity during the transportation.
+
+Manufacturing process development
+
+The development of the manufacturing process has been adequately described. ICH Q11 principles have been followed for identifying active substance CQAs and linking them to the relevant process inputs and operating ranges. The manufacturing process and control parameters for clinical campaign were developed based on the initial process development studies. After clinical manufacturing, CQAs were identified for product risk assessments.
+
+For better understanding of the impact of each process parameter on quality attributes and process consistency, process parameters were selected through process risk assessment, and process characterisation studies were performed for selected parameters. Parameter classifications and operating conditions for manufacturing process were established. After validation of the control strategy through process performance qualifications (PPQs), manufacturing process that ensures process consistency and product quality was established.
+
+The clinical data have been generated with material derived from a certain scale process whereas process validation has been conducted with another scale manufacturing process, which is also the intended commercial manufacturing scale. However, the introduced changes during upscaling are considered as low risk or in a few cases as medium risk, and include in most cases a tightening of certain process parameters. As comparability between materials derived from the different scales could be demonstrated, the fact that the manufacturing process of clinical material is not exactly the same as the manufacturing process of PPQ and commercial batches is of no major concern.
+
+Comparability between SB11 clinical and PPQ batches was adequately assessed. The comparability exercise to compare pilot, clinical and PPQ active substance batches has been conducted in accordance with the ICH Q5E and the results derived thereof indicate a comparable quality profile of SB11 active substance material produced via the different process versions.
+
+Characterisation
+
+Structural and functional characteristics of the ranibizumab molecule SB11 have been elucidated by a comprehensive battery of physicochemical and biological tests using sensitive and orthogonal state-of- the art qualified analytical methods in accordance with the guideline "Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products" (ICH Q6B). The characterisation studies of the structures (primary, secondary, and higher order), purity/impurities, charge variants, cellular potency, and binding activity. Generally, the same panel of analytics as used for the biosimilarity evaluation has been applied for elucidation of structural and functional characteristics.
+
+For most of the assays the applicant analysed several active substance batches from PPQ runs and several finished product batches. Since active substance and finished product have identical active ingredients, the characterisation data with the finished product can be considered to be equivalent. For a number of test items both, active substance as well as finished product batches have been used. All submitted data were perfectly consistent for both, all active substance and all finished product batches. This confirms batch to batch consistency of all investigated parameters. Also, data from active substance correlated with results from finished product, except for the amount of particles, which was lower in finished product batches. There was no significant difference regarding the experimental outcome between orthogonal methods.
+
+Assessment report EMA/446448/2021
+
+Page 14/146
+
+Experimentally found molecular weights of heavy and light chains fit exactly with calculated ones, and the mass for whole protein with the sum of both, considering correct disulphide-bridge formation. Sequence identity was confirmed by the coverage of identified peptides and the expected sequence for active substance and finished product. Molecular weight and charge distribution of SB11 samples was assessed by at least two orthogonal methods each, which confirmed the experimental outcome. The applicant also applied a broadly used combination of methods to get insight into higher order structure like secondary and tertiary structure of the protein and conformational stability. This methodological portfolio is of importance not only to compare batch to batch consistency but also biosimilarity in comparison to originator. No relevant differences between active substance and finished product batches have been observed.
+
+Biological function
+
+Binding to and inhibition of VEGF-A induced signalling via VEGF-R has been defined as the main mechanism of action of SB11. Since SB11 is a Fab fragment, there might not be any other moiety of the molecule interacting with specific receptors and influencing its biological activity and pharmacological properties. VEGF-A molecules VEGF-A121, VEGF-A138, VEGF-A145, VEGF-A162, VEGF-A165, VEGF-A165b, VEGF-A189 and VEGF-A206 are biologically relevant in humans. It was shown that SB11 binds to VEGF-A165 and other isotypes, in comparison to a reference standard. An appropriate method was also applied to study the interaction with VEGF-A165, also in comparison to a reference standard.
+
+Potency of SB11 was analysed using an appropriate assay. Data show the same potency for active substance and finished product, when compared to a reference standard. The combination of used assays covers target-recognition and binding, target-neutralisation and inhibition of signalling through target-receptors as well as inhibition of cell proliferation as overall biological mechanism of action. The mechanism of action of SB11 was satisfactorily studied and gives insight into its biological function.
+
+The assays were properly setup and showed acceptable reproducibility and intermediate precision. All data were consistent for both, all active substance and all finished product batches which confirms batch to batch consistency. Also, data from active substance correlated with results from finished product.
+
+Although for a number of methods the description of the analytical method principle or details on the qualification status of the applied methods were not presented in the characterisation section, relevant information is included as part of the biosimilarity documentation.
+
+Process-related impurities from the upstream and downstream parts of the production process were assessed. Their potential impact on the patient was analysed based on reported toxicity and safety limits, which were the basis for the acceptance criteria proposed by the applicant. Impurity levels were assessed for the most important intermediates and for final products of several clinical finished product batches and several manufacturing consistency batches (PPQ runs). The batch results assessed by state-of-the-art assays demonstrated that the levels of process-related impurities are sufficiently low to ensure patient safety. They were consistent among active substance and clinical batches, manufactured by the proposed commercial manufacturing process. In addition, clearance validation studies have been performed to demonstrate that the SB11 manufacturing process provides adequate clearance of such impurities. Control and clearance strategy of process-related impurities is acceptable.
+
+Specification
+
+The specification for the active substance complies with the provisions of ICH Guideline Q6B (Specifications: Tests Procedures and Acceptance Criteria for Biotechnological / Biological Products)
+
+Assessment report EMA/446448/2021
+
+Page 15/146
+
+and include the following aspects: general test, identity, quantity, biological activity, purity and impurity, and safety.
+
+During the assessment, the active substance acceptance criteria for several quality attributes were tightened. The requested revisions were deemed appropriate, but the applicant is recommended to re- evaluate the active substance acceptance criteria for VEGF neutralisation assay and %HMW once a larger number of batches are manufactured (Recommendation). The control strategy for charge variants was adequately justified. Effective and reliable removal of all process-related impurities has been adequately demonstrated.
+
+Acceptance criteria of SB11 as biosimilar were established based on the combination of clinical scale and commercial scale active substance batch release and stability data, manufacturing capability and variability, analytical procedure capability and variability, results from PPQ studies, impact on finished product manufacturing and quality, developmental studies, compendial requirements, regulatory guidelines, and certificate of analysis (CoA) of Lucentis. Since the acceptance criteria of Lucentis have been established based on sufficient clinical trials experience, and since Lucentis has been used on patients for 14 years, these have been clinically justified.
+
+Analytical methods
+
+The analytical methods have been adequately described and non-compendial methods appropriately validated in accordance with ICH guidelines. Validation summaries as well as detailed validation reports have been in submitted for those methods, which are not conducted according to the Ph. Eur. Compendial methods are performed according to the respective Ph. Eur. monographs. The provided validation results indicate that the analytical methods for active substance release control are suitable for their intended use.
+
+Batch analysis
+
+Batch analyses data from pilot scale batches, clinical batches and PPQ active substance batches are presented. Overall, batches complied with the specifications set at the time of testing and thus support the conclusion of the applicant, that the active substance manufacturing process can perform effectively and reproducibly active substance material. The results are within the specifications and confirm consistency of the manufacturing process.
+
+Reference materials
+
+Different reference standards are established on the basis of the development stage. Sufficient information about the qualification of reference standards and the protocol for qualification of future reference standards was submitted. Updated acceptance criteria for the qualification of future reference standards, as well as for reference standards stability programme, have been provided.
+
+Stability
+
+The bottle used for stability studies is composed of the same material as that used for the commercial product. Stability testing is identical to release testing, except for some quality attributes not required to be monitored during stability. Long term stability data are provided generated with pilot, clinical, as well as PPQ batches. All these active substance batches were manufactured at Wacker Biotech GmbH in Jena, Germany.
+
+In addition, supportive stability data are presented for active substance batches stored under accelerated storage conditions. No stability trends were found for the tested parameters.
+
+Assessment report EMA/446448/2021
+
+Page 16/146
+
+In line with the requirements of ICH Q5C guideline, the finally agreeable shelf life for the active substance depends on the long-term, real-time, real-condition stability data available from the tested clinical and PPQ batches. The clinical manufacturing process is representative of the proposed commercial manufacturing process and the comparability between clinical and PPQ batches was demonstrated. Hence, clinical active substance batches are considered representative to be used for shelf-life claim. A stability programme based on PPQ batches is still ongoing, but long-term stability data of pilot and clinical active substance batches support the shelf life claim.
+
+In conclusion, the stability results indicate that the active substance is sufficiently stable and justify the proposed shelf life in the proposed container.
+
+2.1.3. Finished medicinal product
+
+Description of the product and Pharmaceutical development
+
+Byooviz finished product (FP) is a clear to slightly opalescent, colourless to pale yellow, sterile and preservative-free solution and presented as a single-use vial containing 10 mg/ml of ranibizumab for intravitreal injection. The detailed composition of SB11 finished product is provided in the dossier.
+
+The finished product is a combination of the vial (primary container) and two medical devices, 1 blunt filter needle (18G x 11/2", 1.2 mm x 40 mm, 5 um), and 1 injection needle (30G x 1/2", 0.3 mm x 13 mm).
+
+The vials are filled with a target extractable volume, which secures the required dose amount (0.05 mL) with potential variability as safety margin. There are no overages in the SB11 finished product formulation.
+
+A formulation comparison of Lucentis and Byooviz finished product was shown. The excipients and formulation of both finished product and the reference product Lucentis contain 10 mg/mL ranibizumab in histidine buffer, a,a-trehalose dihydrate, and polysorbate 20. All excipients are well known pharmaceutical ingredients and their quality is compliant with Ph. Eur. standards. There are no novel excipients used in the finished product formulation.
+
+Process changes between clinical and PPQ batches are sufficiently summarised. Process characterisation studies and engineering runs with engineering batches were performed to show the potential impact of these changes. Process characterisation studies are described in detail and are considered acceptable. Comparability of SB11 finished product between clinical and PPQ batches has been confirmed by extensive comparability studies, as discussed in the active substance section.
+
+Engineer run studies for finished product manufacturing steps were performed and detailed information was submitted. Overall, the submitted studies with engineering batches showed that the Byooviz finished product manufacturing steps are capable to consistent filling, stoppering and crimping performances for the primary packaging components (vials, stoppers and seals) to be used for the Byooviz vial.
+
+Container closure system
+
+The primary container closure system (Type I glass vial, a rubber stopper and an aluminium flip-off cap) is adequately described. All product-contacting materials comply with relevant pharmacopoeial requirements. Further details for the container closure system are submitted regarding the supplier and sterilisation method. A list of specifications for the finished product container closure system components was submitted. Certification for the sites performing sterilisation of the packed vials in accordance with the ISO standard has been provided.
+
+Assessment report EMA/446448/2021
+
+Page 17/146
+
+The secondary packaging consists of two needles that are provided within the vial pack: a filter needle and an injection needle. Declarations of Conformity for these medical devices are provided and considered adequate.
+
+Container closure integrity has been studied during development of SB11 finished product. In order to assess the suitability of the finished product container closure system, extractables and leachables studies were conducted. The findings of the leachables study up to date identified no non-volatile leachables, no volatile leachables and no metallic impurities. The leachable study for the container closure system of SB11 finished product was not completed at the time of submission of the dossier. The remaining results from the leachables study should be presented when these data become available (Recommendation).
+
+Manufacture of the product and process controls
+
+Byooviz finished product is manufactured, packaged, stability tested, and quality control tested in accordance with good manufacturing practice (GMP).
+
+The manufacturer responsible for the batch release of the finished product is: Samsung Bioepis NL B.V. Olof Palmestraat 10, DELFT, 2616LR, Netherlands
+
+The final composition of SB11 finished product is identical to that of SB11 active substance, no further compounding or dilution is performed during the finished product manufacturing process. The finished product batch size is adequately presented in the dossier.
+
+The manufacture of Byooviz finished product includes active substance thawing, bioburden reduction filtration and active substance pooling/mixing, sterile filtration, aseptic filling/stoppering/crimping, visual inspection, secondary packaging and storage.
+
+There are no intermediates in the Byooviz manufacturing process. The finished product manufacturing process and process controls are detailed. The same principles for input and output definitions applied for active substance are also applied for finished product process controls. For the input parameters, critical-, key- and non-key control parameters have been defined for each step in the process as well as the outputs; critical and process consistency in-process controls and in-process tests. The criticality is associated with impact on the defined critical quality attributes of the Byooviz finished product. The input parameters have defined limits and operating ranges. For the output parameters, in-process controls/tests and in-process specifications are applied. The definitions for the limits have been described.
+
+The finished product manufacturing process has been validated and involves the following studies: a) process validation of the complete manufacturing process from thawing of active substance to visual inspection of the final prefilled syringes, b) sterile filter validation, c) media fill qualification, d) shipping qualification. Deviations have been described and justified. All other PPQ batches met all prospective acceptance criteria and in-process controls, consistently meeting all established predetermined specifications. Critical process parameters and critical quality attributes were taken into account and validated in each step. Overall, results confirm that the process is considered well under control to reproducibly manufacture Byooviz finished product complying with the established specifications. Sterile filter validation was submitted. All acceptance criteria were met in the conducted studies. The results from shipping qualification studies show shipping container/system
+
+Assessment report EMA/446448/2021
+
+Page 18/146
+
+with the product can maintain product temperature while maintaining product integrity during the transportation.
+
+It has been demonstrated that the manufacturing process is capable of producing the finished product of intended quality in a reproducible manner. The in-process controls are adequate.
+
+Product specification
+
+The specification for routine control of finished product includes tests for identity, purity and impurities, biological activity and other general tests.
+
+Polysorbate 20 is an essential excipient for stabilisation of the active substance. Besides specific and/or unspecific binding to surfaces during processing and storage, Polysorbate loss can also occur due to oxidative degradation (Hvattum et al., 2012) or enzymatic hydrolysis (Dvivedi at al., 2018). The degradation products are mainly fatty acids, which may show reduced solubility in antibody formulations, and may contribute to the formation of particles. The company's strategy for the control of Polysorbate 20 content in the finished product was updated during the assessment and is considered acceptable.
+
+Finished product quantitative release specifications have been justified based on tolerance intervals calculated from batch data of SB11 clinical and commercial finished product batches, or, for some quality attributes, based on acceptance criteria for the Lucentis RMP. For some quality attributes, this resulted in too wide limits compared to the data measured in SB11 finished product batches. Additional justification or revision was requested. The requested revisions were deemed appropriate, but the applicant is recommended to re-calculate the finished product acceptance limits for VEGF neutralisation assay and %HMW after having processed a larger number of finished product batches (Recommendation) In addition, revised stability acceptance criteria for %Acidic and %Main were proposed and justified However, the applicant is recommended to revise the finished product stability acceptance criteria when data from a larger number of finished product batches are available (Recommendation).
+
+No new product-related impurities are seen in the Byooviz finished product. As there are no new excipients added during the manufacture of Byooviz finished product, the impurities present or potentially present in Byooviz finished product are considered the same as those identified and controlled in Byooviz active substance.
+
+The potential presence of elemental impurities in the finished product has been assessed on a risk- based approach in line with the ICH Q3D Guideline for Elemental Impurities.
+
+Initially, no information about the risk evaluation concerning the presence of nitrosamine impurities in the finished product was presented and this was raised as a Major Objection. The applicant's response stated that the risk evaluation was performed considering all suspected and actual root causes in line with the "Questions and answers for marketing authorisation holders/applicants on the CHMP Opinion for the Article 5(3) of Regulation (EC) No 726/2004 referral on nitrosamine impurities in human medicinal products" (EMA/409815/2020) and the "Assessment report- Procedure under Article 5(3) of Regulation EC (No) 726/2004- Nitrosamine impurities in human medicinal products" (EMA/369136/2020). Based on the information provided it is accepted that no risk was identified on the possible presence of nitrosamine impurities in the active substance or the related finished product. Therefore, no additional control measures are deemed necessary for Byooviz.
+
+Assessment report EMA/446448/2021
+
+Page 19/146
+
+Analytical methods
+
+The analytical methods used have been adequately described and (non-compendial methods) appropriately validated in accordance with ICH guidelines.
+
+The analytical procedures used for release and shelf-life testing of both Byooviz active substance and finished product are provided in the respective active substance section. Concerning the establishment of acceptance criteria reference is given to the respective part in the active substance section. The analytical procedures that are specific for the Byooviz finished product are extractable volume, container closure integrity and sterility, endotoxin, particulate matter. The analytical procedures used are compendial or were properly validated.
+
+Batch analysis
+
+Batch analysis data have been presented for Byooviz finished product batches. Batch analysis results were within the specifications and confirm consistency of the manufacturing process.
+
+Reference materials
+
+See active substance section on Refence materials.
+
+Stability of the product
+
+Based on available stability data, the shelf-life for Byooviz finished product of 30 months and storage conditions (Store in a refrigerator (2ºC - 8℃). Do not freeze. Keep the vial in the outer carton in order to protect from light) as stated in the SmPC are acceptable.
+
+Stability studies are conducted in accordance with ICH Guidelines Q1A (R2) Stability Testing of New Drug Substance and Products and Q5C Quality of Biotechnological Products: Stability Testing of Biotechnological/Biological Products Stability. The container closure system used for the stability studies is identical to that used for the commercial product.
+
+Real time/real condition stability data for pilot, clinical GMP, and PPQ batches have been provided. Based on demonstration of comparability between clinical and PPQ lots, the clinical lots can be considered representative of the future commercial finished product and, hence, can be used for the shelf-life claim. Furthermore, accelerated stability studies and Stress stability studies were completed for Byooviz finished product batches.
+
+The parameters tested are the same as for release, except for some quality attributes not required to be monitored during stability. Degradation over time was observed for some quality attributes under stress condition. Based on these studies, it can be concluded that Byooviz is sensitive to exposure to high temperatures (40°℃).
+
+Comparability assessment between clinical/PPQ finished product batches was conducted by comparing stability results and trends. The stability trends of finished product batches are considered comparable if the long-term stability study results meet the acceptance criteria available at the time of testing. In addition, the trends from finished product long-term, accelerated, and stress stability studies were compared.
+
+Photostability testing was performed in line with ICH Q1B "Photostability testing of new active substances and medicinal products" (CPMP/ICH/279/95). Based on the study results, it can be concluded that Byooviz should be stored protected from light.
+
+Two temperature cycling studies were performed to evaluate the Byooviz finished product stability in the immediate pack when exposed to the extreme temperature cycling conditions for different
+
+Assessment report EMA/446448/2021
+
+Page 20/146
+
+
+exposure times. All quality attributes met the acceptance criteria over the supply chain cycled period and showed no significant changes.
+
+Additionally, a room temperature stability study was performed using aged finished product samples stored at long-term condition for up to the shelf-life. Analytical results within this storage time support storage at 30 + 2ºC for one months after 30 months storage at 2 - 8℃.
+
+Taken together, the provided stability data indicate that Byooviz finished product is stable when stored for up to 30 months at the intended storage conditions (i.e. 2 - 8℃, protected from light).
+
+The applicant committed to complete all ongoing stability studies of Byooviz finished product at long- term storage conditions according to the test protocol.
+
+Additionally, container closure integrity testing by dye penetration is performed to demonstrate that the primary packaging of Byooviz finished product prevents microbial contamination of the sterile medicinal product. The container closure integrity test was appropriate validated. Submitted data are acceptable.
+
+Furthermore, the annual post-approval stability testing of one batch of Byooviz finished product per year will be performed according to GMP requirements (unless none is produced). The provided annual post-approval stability protocol is considered adequate. In accordance with EU GMP guidelines1, any confirmed out-of-specification result, or significant negative trend, should be reported to the Rapporteur and EMA.
+
+Adventitious agents
+
+A comprehensive strategy including raw material sourcing and testing, and facility controls, is used to ensure that the Byooviz active substance, and the resulting finished product, are free of adventitious agents. Detection of bacterial and fungal contaminants were performed on the MCB, WCB, and EoPCB. No contamination of the cell banks was detected. The unprocessed bulk at the end of the main culture is tested for bacterial and fungal contamination. The results demonstrate that no bacterial and fungal contamination is detected in the unprocessed bulks. Further, the sterility analysis of the finished product has been established to ensure no microbial growth results.
+
+Byooviz is produced from a genetically engineered strain of Escherichia coli (E. coli). Since bacterial E. coli cells do not support the replication of mammalian viruses, there is no risk from adventitious animal viruses during the production of the active substance. MCB as well as WCB have been adequately characterised and qualified to "Derivation and Characterisation of Cell Substrates Used for Production of Biotechnological/Biological Products" (ICH Q5D) with respect to identity, purity and safety of the cell substrate. For such processes, "Viral Safety Evaluation of Biotechnology Products Derived from Cell Lines of Human or Animal Origin" (ICH Q5A) does not apply. The used E. coli cell line is well characterised and poses no risk of viral contamination. The microbiology control is considered adequate.
+
+No raw materials of animal origin are used in the manufacturing of MCB and WCB. In addition, no animal origin material is used during the active substance and finished product manufacturing. Therefore, the presence of bovine spongiform encephalopathy (BSE) and TSE-like agents can be excluded.
+
+1 6.32 of Vol. 4 Part I of the Rules Governing Medicinal products in the European Union
+
+Assessment report EMA/446448/2021
+
+Page 21/146
+
+GMO
+
+Not applicable.
+
+Biosimilarity
+
+A comprehensive biosimilarity evaluation for demonstration of a comparable quality profile of Byooviz and its reference medicinal product (RMP) Lucentis has been conducted. The biosimilarity evaluation started with a comprehensive characterisation of EU- and US-sourced Lucentis lots. As US-sourced Lucentis has been used as the sole comparator in the phase 3 clinical trial, a sound and robust scientific bridge of EU- to US-sourced Lucentis at quality level is necessary. For this reason, a three- way comparison was performed between Byooviz, EU Lucentis, and US Lucentis. Byooviz batches were evaluated against similarity range based on EU Lucentis as a reference product, and similarity range based on US Lucentis as a clinical comparator. In addition, the comparability between EU and US Lucentis was demonstrated as US Lucentis lots were within the similarity range of EU Lucentis. This strategy is in line with the EMA Guideline on similar biological medicinal products, CHMP/437/04 Rev 1.
+
+EU- and US-sourced Lucentis lots have been characterised with respect to the key quality attributes. Tabulated summaries of the Lucentis lots including the lot numbers, source market, manufacturer and the expiry date of each single lot was given. The expiry dates of the characterised EU- and US-sourced Lucentis lots span a period of more than 3 years.
+
+Data derived from this characterisation work have been the basis for establishment of the biosimilarity ranges: A tolerance interval approach has been used for setting of the similarity ranges. The use of statistics for spanning the ranges in the context of a biosimilarity exercise is welcomed; the choice of the used statistical method has been discussed and justified. The advantages and limitations of several statistical tools have pointed out, the principles discussed in the draft Reflection paper on statistical methodology for the comparative assessment of quality attributes in drug development (EMA/CHMP/138502/2017) and the related meeting report of the workshop on the reflection paper (`EMA/CHMP/579441/2018') have been taken into account. At this point it should be noted that the raw data themselves (without any statistical analysis) have been included in the dossier as appendix to the biosimilarity section and clearly indicate biosimilarity.
+
+In a second step a side-by-side comparability study has been conducted including a subset of Lucentis lots. These lots have been compared against active substance batches (clinical and PPQ batches) and finished product batches (clinical & PPQ batches) of Byooviz. Batch information of the Lucentis lots as well as of the active substance and finished product batches used in the side-by-side comparability study is provided. Selection of the reference medicinal product lots into the confirmatory side-by-side comparison is based on expiry date until the completion of characterisation studies and sufficient quantity to cover all methods in the characterisation study.
+
+A large panel of standard and state-of-the-art methods has been used to characterize and compare the most relevant physicochemical and biological quality attributes of the SB11 molecule (Table 1).
+
+Table 1: Summary of analytical similarity assessment between SB11 and EU/US Lucentis
+
+Molecular parameter Attribute
+
+Primary
+
+structure
+
+N-terminal sequence
+
+Molecular Weight
+
+Amino acid sequencing / Primary
+
+sequence
+
+C-terminal sequence
+
+Methods for
+
+control and
+
+characterisation
+
+LC-MS
+
+Key findings
+
+LC-ESI-MS/MS
+
+LC-ESI-MS/MS
+
+Similar
+
+Primary sequences across SB11, EU and US
+
+Lucentis are identical
+
+Similar
+
+Similar
+
+Assessment report EMA/446448/2021
+
+Page 22/146
+
+Molecular
+
+parameter
+
+Attribute
+
+Purity and Impurities
+
+Charge Variants
+
+Peptide mapping
+
+Oxidation
+
+Deamidation
+
+Acetylation and glycation
+
+Disulfide Bond
+
+Free Sulfhydryl Non-canonical Amino Acid
+
+Extinction Coefficient
+
+% Monomers
+
+%High Molecular Weights (HMW)
+
+species
+
+% Main species
+
+% Main1 species
+
+%Main2 species
+
+%Acidic Similar
+
+% Main
+
+icIEF
+
+% Basic
+
+%Acidic Similar
+
+% Main CEX-HPLC Similar
+
+% Basic Similar
+
+% Pre-main
+
+Hydrophobicity%Main
+
+RP-UPLC
+
+% Post-main
+
+CD spectrometry Similar
+
+Methods for control and
+
+Key findings
+
+characterisation
+
+Similar
+
+Slight differences in level of oxidation and deamidation between SB11 and Lucentis but contents of oxidation and deamidation in SB11 very low and no statistically significant difference in VEGF-A binding activity was observed across SB11 and Lucentis. Similar
+
+Similar
+
+Thiol-assay
+
+Similar
+
+JUPLC
+
+Similar
+
+SEC-MALS
+
+Similar
+
+%Monomer of one SB11 clinical finished product was slightly lower than EU/US similarity ranges, and %HMW of the same clinical finished product was slightly higher than the EU/US similarity ranges. However, slight difference was not considered significant since SE-HPLC results of the batch were within EU/US similarity ranges at the time of 1 month from the manufacturing date and the biological activities of the batch were similar to those of Lucentis. In addition, the relative contents of monomer and HMW for all lots of US Lucentis were within the EU similarity range. %Main of one SB11 clinical finished product was slightly lower than the EU/US similarity ranges but not considered significant since the %Main result of batch was within EU and US similarity ranges at the time of 1 month from the manufacturing date and the biological activities of the batch were similar to those of Lucentis®. In addition, the %Main results for all lots of US Lucentis® were within the EU similarity range.
+
+SE-HPLC
+
+Non-reducing CE-
+
+SDS
+
+Reducing CE-SDS Similar
+
+Similar
+
+Similar
+
+Similar
+
+Similar
+
+Similar
+
+Similar
+
+Secondary and tertiary structure -
+
+CD spectra
+
+Secondary structure
+
+FTIR
+
+Higher Order
+
+Structure
+
+Protein Folding
+
+Thermal stability / Heat-induced
+
+protein denaturation pattern
+
+DSC
+
+Aggregates characteristics / Size
+
+and shape of macromolecules
+
+SV-AUC
+
+(far-UV, near-UV)
+
+Similar
+
+ITF
+
+Similar
+
+Similar
+
+Similar
+
+Assessment report EMA/446448/2021
+
+Page 23/146
+
+Molecular parameter Attribute
+
+Methods for
+
+control and
+
+Key findings
+
+characterisation
+
+Similar
+
+Quantity
+
+Aggregates characteristics / Size
+
+and shape of macromolecules
+
+Protein size characterisation
+
+Subvisible particles
+
+MFI
+
+Protein tertiary structure /
+
+Conformation and conformational
+
+dynamics
+
+H/DX-MS
+
+Similar
+
+Protein concentration
+
+UV/Vis at A280
+
+SEC-MALS
+
+DLS
+
+Similar
+
+Similar
+
+Protein concentrations for all SB11 batches within EU similarity range except for one SB11 active substance batch while one SB11 active substance batch and one SB11 finished product batch were out of US similarity range. Two batches were out of the EU and/or US similarity ranges but slight difference was not considered significant as result met CoA requirement of Lucentis. Protein concentrations for all lots of US Lucentis were within the EU similarity range.
+
+anti-proliferation
+
+assay
+
+Similar
+
+Biological Properties
+
+HUVEC Anti-proliferation
+
+VEGF-A 165 and other VEGF- isoform Neutralisation VEGF-A 165 and other VEGF- isoforms Binding
+
+VEGF-A 165 Binding
+
+SPR
+
+VEGF Family Binding
+
+neutralisation assay Similar
+
+ELISA Similar
+
+Investigated physicochemical quality attributes include
+
+Similar
+
+Similar
+
+# ) primary structure: Molecular weight by LC-MS; amino acid sequencing, N-terminal and C-terminal sequencing, peptide mapping, oxidation and deamidation, acetylation, glycation and disulfide bond analysis - all by LC-ESI-MS/MS; free sulfhydryl group quantification by a thiol assay; non-canonical amino acid analysis by UPLC; and extinction coefficient analysis by SEC-MALS,
+
+# ) purity and impurities: %monomer and high molecular weight variants by SEC-MALS; %main peak by reducing and non-reducing CE-SDS,
+
+# ) charged variants: %main, acidic and basic variants by icIEF and CEX-HPLC
+
+# ) hydrophobicity: %pre-main, main and post-main fraction by RP-HPLC,
+
+#) higher order structure: Protein secondary and tertiary structure analysis by CD (Far- and Near-UV); protein secondary structure analysis by FTIR spectroscopy; protein folding analysis by ITF; thermal stability analysis by DSC; aggregates characterisation analysis by SV-AUC and SEC-MALS; protein size characterisation analysis by DLS; subvisible particles analysis by MFI; and protein tertiary structure analysis by H/DX-MS), and
+
+# ) quantity by protein concentration by UV/Vis at A280
+
+Overall, the presented data on the physicochemical comparison indicate that Byooviz is structurally similar to its RMP Lucentis. A few minor differences seen in the SE-HPLC, non-reducing CE-SDS and in the quantity (in the mentioned analysis one of the included Byooviz batches was slightly outside of the EU similarity ranges) could be sufficiently justified and do not jeopardize the biosimilarity claim.
+
+The most relevant mode of action associated biological quality attributes include:
+
+Assessment report EMA/446448/2021
+
+Page 24/146
+
+#) a VEGF-A 165 and other VEGF-isoforms binding assay by ELISA and
+
+#) a VEGF-A 165 and other VEGF-isoforms neutralisation assay Furthermore, additional biological properties have been compared:
+
+#) VEGF-165 Binding and other VEGF family binding specificity using SPR
+
+Conclusion on similarity was done through the observation of meaningful differences based on the mean value and the distribution of the individual results. It is agreed that, for each additional biological property, no meaningful difference was observed based on the visual comparison of mean value and distribution of the individual results between SB11 and Lucentis.
+
+Finally, for the binding assays relative binding activity values as well as the EC50 and KD (M) values for the binding assays with their standard errors to further substantiate the conclusion that there is no difference between the biological activity of Byooviz and Lucentis are provided.
+
+In summary, also for biological activity the data available indicate a similar behaviour of Byooviz and Lucentis.
+
+Concerning the methods used for biosimilarity evaluation, tabulated summaries of the conducted qualification for biological assays were supplied including ELISA assays, SPR assays, HUVEC anti- proliferation assay, VEGF-165 and other VEGF-isoform neutralisation assay. Concerning the VEGF family binding system suitability was evaluated by using appropriate positive controls and negative control. In summary, the provided qualification data support the conclusion of the applicant that each analytical method is suitable for the intended use to sensitively detect and quantitate potential differences in quality attributes among SB11, EU Lucentis and US Lucentis.
+
+As last step of the overall biosimilarity exercise, comparative stability studies have been conducted to compare the degradation profiles of Byooviz finished product with those of Lucentis. The stability studies include comparative stability studies under heat stress, basic stress, acidic stress, oxidative stress conditions and comparative photostability studies in immediate packaging. In summary, these comparative stress testing support the conclusion that Byooviz and Lucentis show similar degradation profiles supporting similarity across Byooviz, EU and US Lucentis.
+
+In conclusion, biosimilarity between Byooviz and the reference product Lucentis is considered demonstrated. In addition, EU-sourced Lucentis has a comparable quality profile with US-sourced Lucentis which is based on a scientifically bridge.
+
+2.1.4. Discussion on chemical, and pharmaceutical aspects
+
+A well-designed Module 3 within the marketing authorisation application has been presented for Byooviz as a biosimilar development to its reference product Lucentis.
+
+The manufacturing process has been described in sufficient detail. All raw and starting materials including the cell banks used in the manufacture of Byooviz are identified and adequate information on the quality and control of these materials has been provided. Also, all excipients used for the finished product formulation comply with the Ph. Eur. requirement. An adequate process control system, consisting of process input and process output parameters, is in place which ensures a consistent routine manufacture of Byooviz. Process validation supports the conclusion that the manufacturing process for active substance as well as for finished product can perform effectively and reproducibly to produce active substance respectively finished product meeting its predetermined specifications and quality attributes. The provided active substance and finished product batch analyses data support this conclusion. Comparability of the clinical Byooviz batches used in the clinical studies and the process
+
+Assessment report EMA/446448/2021
+
+Page 25/146
+
+validation batches has been demonstrated. An appropriate control strategy ensures that material of sufficiently high quality will enter the market.
+
+Regarding the biosimilarity part, a well-established and comprehensive similarity exercise has been conducted. As US-sourced Lucentis has been used as the sole comparator in the phase 3 clinical trial, a sound and robust scientific bridge of EU- to US-sourced Lucentis at quality level is necessary. For this reason, a three-way comparison was performed between Byooviz, EU Lucentis, and US Lucentis. A large panel of standard and state-of-the-art methods has been used to characterize and compare the most relevant physicochemical and biological quality attributes of the ranibizumab SB11 molecule. The presented data on the physicochemical comparison indicate that Byooviz is structurally similar to its reference medicinal product Lucentis. A few minor differences could be sufficiently justified and do not jeopardize the biosimilarity claim. Also, for biological activity the data indicate a similar behaviour of Byooviz and Lucentis.
+
+In conclusion, Byooviz can be considered:
+
+a) biosimilar to the RMP Lucentis at quality level, and
+
+b) the conclusion that EU-sourced Lucentis has a comparable quality profile with US-sourced Lucentis can be agreed.
+
+Overall, Module 3 of the Byooviz MA dossier is of adequate quality. The initially raised Major Objection concerning the omission of a risk evaluation concerning the presence of nitrosamine impurities in the product as well as the other concerns have been satisfactorily resolved.
+
+In summary from a quality point of view a positive CHMP opinion of the quality part can be recommended to the CHMP.
+
+At the time of the CHMP opinion, there were a number of minor unresolved quality issues having no impact on the Benefit/Risk ratio of the product, which pertain to re-evaluation of the active substance and finished product acceptance criteria for VEGF neutralisation assay, re-evaluation of the active substance and finished product acceptance criteria for %HMW, re-evaluation of the finished product stability acceptance criteria for %Acidic and %Main, and submission of remaining results under long- term storage conditions from the finished product container closure system leachables/extractables study. These points are put forward and agreed as recommendations for future quality development.
+
+2.1.5. Conclusions on the chemical, pharmaceutical and biological aspects
+
+The quality of this product is considered to be acceptable when used in accordance with the conditions defined in the SmPC. Physicochemical and biological aspects relevant to the uniform clinical performance of the product have been investigated and are controlled in a satisfactory way. Data has been presented to give reassurance on viral/TSE safety.
+
+2.1.6. Recommendation(s) for future quality development
+
+In the context of the obligation of the MAHs to take due account of technical and scientific progress, the CHMP recommends the following points for investigation and has already received a letter of commitment from the applicant in this regard:
+
+#1: The applicant should re-evaluate the active substance and finished product acceptance criteria for VEGF neutralisation assay once a larger number of batches are manufactured.
+
+#2: The applicant should re-evaluate the active substance and finished product acceptance criteria for %HMW once a larger number of batches are available.
+
+Assessment report EMA/446448/2021
+
+Page 26/146
+
+#3: The applicant should re-evaluate the finished product stability acceptance criteria for %Acidic and %Main when data from a larger number of finished product batches are available.
+
+#4: The applicant should submit the remaining results under long-term storage conditions from the finished product container closure system leachables/extractables study.
+
+2.2. Non-clinical aspects
+
+2.2.1. Introduction
+
+SB11 has been developed as a similar biological medicinal product (biosimilar) to the reference medicinal product Lucentis (Novartis Europharm Limited) having ranibizumab as the active substance, and belongs to the pharmacotherapeutic group "monoclonal antibodies".
+
+A battery of receptor-binding studies was provided as a part of the comparability exercise in order to assess if any differences in reactivity are present. The existing functionality in vitro assays cover all the relevant modes of action claimed in the indications. Assessment and discussion on these data are equally provided in the Quality section of this MAA.
+
+No in vivo PD animal studies have been performed in order to provide complementary information on biosimilarity in addition to the totality of data obtained (including quality, in vitro and clinical data). However, comparative in vivo studies of pharmacodynamic effects are generally not required for biosimilarity assessment.
+
+2.2.2. Pharmacology
+
+The non-clinical programme for SB11 followed the EMA "Guideline on Similar Biological Medicinal Products Containing Monoclonal Antibodies: Non-clinical and Clinical Issues" (EMA/CHMP/BMWP/403543/2010). After extensive quality similarity studies, a series of in vitro non- clinical studies including VEGF binding assay and cell-based assays were performed to demonstrate similarity in the in vitro behaviour between SB11 and EU Lucentis. There were no significant differences between SB11 and EU Lucentis in binding and cell-based activities.
+
+Details, results and discussion of the adequacy (state of the art) of the in vitro assays used, with particular attention to sensitivity, specificity and ability to provide evidence, that observed differences in performance in the in vitro assays are clinically not relevant, are all provided in the Quality section. Same applies for the concentration range used and the number of batches (of the reference product and of the biosimilar representative of the material) intended for clinical/commercial use.
+
+The applicant's approach to perform comparative characterisation studies is appreciated and the methods chosen are state of the art. The results provided in Module 3 on similarity of structural, physicochemical and biological attributes between SB11 and Lucentis have been assessed in the quality part of this marketing authorisation application.
+
+2.2.3. Pharmacokinetics
+
+Data on the absorption, organ distribution, metabolism, excretion, pharmacokinetic drug interactions, and other pharmacokinetic data of a proposed biosimilar product are not required according to the relevant EMA guidance for biosimilars.
+
+Assessment report EMA/446448/2021
+
+Page 27/146
+
+2.2.4. Toxicology
+
+During the Scientific Advice [EMA/CHMP/SAWP/403022/2016, Jun 23, 2016] it was agreed upon with the EMA that in vivo pharmacodynamic studies and in vivo toxicity studies for SB11 would not be required if the quality comparability exercise and the in vitro non-clinical studies should be considered satisfactory and no critical issues are identified
+
+Whenever biosimilarity is supported by the quality and the in-vitro comparison, in vivo studies are not required in the EU. In vivo studies are not considered sensitive enough to demonstrate differences between the originator and the biosimilar product in case they would exist.
+
+However, the applicant provided a GLP-compliant 4-week repeat-dose toxicity study using cynomolgus monkeys, to demonstrate the similarity in the toxicity profiles of SB11 and US Lucentis in support of the non-clinical development programme of SB11 in the context of a global authorisation (FDA requirements). SB11 and US Lucentis were well tolerated at dose level of 500 ug/eye to female cynomolgus monkeys when intermittently administered by ITV injection (both eyes) once every 2 weeks for 4 weeks. Though the very limited number of animals used in the provided RDTS cannot be considered reassuring in the context of detecting slight differences, the toxicity data can be regarded as supportive for the comparability development of SB11.
+
+Studies regarding reproduction toxicology, mutagenicity and carcinogenicity were not provided for this MAA, as they are not required for similar biological medicinal products.
+
+2.2.5. Ecotoxicity/environmental risk assessment
+
+Considering the expected exposure, the nature of the product and the concessions of current guidelines, the absence of formal environmental risk assessment studies for SB11 is considered justified.
+
+Ranibizumab is not expected to pose a risk to the environment.
+
+2.2.6. Discussion on non-clinical aspects
+
+A satisfactory degree of similarity has been demonstrated for the relevant functional attributes (including various orthogonal in vitro functional assays).
+
+The relevance of the toxicity in vivo study providing complementary information on biosimilarity, in view of the totality of data obtained (including quality, in vitro and clinical data), is limited due to the insensitivity of the animal models and the setup, used for such in vivo studies.
+
+2.2.7. Conclusion on the non-clinical aspects
+
+Overall, non-clinical in vitro studies demonstrated the similarity in pharmacodynamics activity (for further details and assessment, please refer to the quality part of the AR). Though the data from the in vivo toxicity study are not required for the MAA, the toxicity profile between SB11 and Lucentis was evaluated and presented as supportive information, in line with the EMA's Guideline on Similar Biological Medicinal Products containing Monoclonal Antibodies - Non-clinical and Clinical issues (EMA/CHMP/BMWP/403543/2010).
+
+Assessment report EMA/446448/2021
+
+Page 28/146
+
+2.3. Clinical aspects
+
+2.3.1. Introduction
+
+GCP
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the Community were carried out in accordance with the ethical standards of Directive 2001/20/EC.
+
+Table 2: Tabular overview of clinical studies
+
+Type of Study
+
+Study Identifier
+
+Objective of the Study
+
+Study Design and
+
+Type of Control
+
+Dosage Regimen
+
+Number of Subjects
+
+Phase III SB11-G31- AMD
+
+(Comparative
+
+efficacy, safety,
+
+(EudraCT
+
+No. 2017-
+
+Either 0.5 N
+
+Test Subjects
+
+Patients
+
+pharmacokinetics, and
+
+immunogenicity)
+
+000422-36)
+
+Primary objective:
+
+Randomised,
+
+double- mg SB11 or randomised
+
+To demonstrate masked,
+
+the equivalence of
+
+parallel
+
+efficacy of SB11
+
+group,
+
+to in patients with
+
+multicenter
+
+neovascular age- related macular degeneration
+
+study Active d in to the
+
+Control/
+
+Comparator
+
+(AMD), in terms of the change
+
+from baseline in central subfield
+
+thickness (CST) at Week 4 and
+
+the change from baseline in best corrected visual acuity (BCVA) at Week 8
+
+2.3.2. Pharmacokinetics
+
+0.5 mg
+
+= 705
+
+Lucentis
+
+was
+
+351;
+
+administere
+
+Lucentis:
+
+354)
+
+study eye
+
+via
+
+intravitreal
+
+(ITV) route
+
+every 4
+
+weeks up to
+
+Week 48
+
+with
+
+neovascular (SB11:
+
+AMD
+
+Duration of Study
+
+48 weeks of
+
+treatment
+
+(Last
+
+assessment
+
+was done at
+
+Week 52.)
+
+Ranibizumab has a PK profile that is compatible with its clinical use as an intraocular agent. The collected PK data indicate that systemic exposure of ranibizumab following ITV administration is generally low (below 3 ng/ml) but quantifiable in most subjects.
+
+A clinical Phase I PK study was not conducted for this application, which was endorsed by the EMA through SA [EMA/CHMP/SAWP/403022/2016, Jun 23, 2016]. Public information of Lucentis shows that the serum concentrations of ranibizumab following intravitreal injection are low due to elimination on reaching systemic circulation from the vitreous. In this context, it is judged not meaningful to base biosimilarity on a dedicated PK comparison of systemic exposure due to the negligible and variable systemic exposure after ITV administration observed with Lucentis treatment. In addition, the conduct of such a study in healthy volunteers seems difficult for obvious ethical and practical reasons (invasiveness of intravitreal injection).
+
+Therefore, PK profiles between the two products were compared in the clinical Phase III Study SB11- G31-AMD in a sub-set of patients with neovascular AMD, which is considered the most representative and relevant patient population. At the time, 50 patients per treatment arm were proposed to be investigated and the proposed approach was found to be acceptable on a high level (EMEA/H/SA/3335/1/2016/III).
+
+Assessment report EMA/446448/2021
+
+Page 29/146
+
+The PK profiles of ranibizumab have been characterised in the clinical studies. The results from the current population PK analysis have demonstrated that the systemic exposure of ranibizumab are comparable in RVO, DME, and AMD patients. The PK parameter estimates were comparable across all indications with moderate numerical difference [Zhang et al., 2014].
+
+No other clinical pharmacology studies (i.e., drug interaction studies, or studies in patients with hepatic or renal impairment) were conducted as these are not required for biosimilars [EMA/CHMP/BMWP/403543/2010].
+
+Table 3: Overview of the Clinical Development Plan for Evaluation of Pharmacokinetic (PK) and Immunogenicity Similarity/Comparability
+
+Study ID, (Country)
+
+SB11-G31-AMD Phase III
+
+Study Objective
+
+Comparative efficacy, safety,
+
+Patients
+
+Study Design
+
+Treatments/Duration
+
+PK/Immunogenicity Endpoint(s)
+
+Patients with neovascular age-related macular degeneration (AMD)
+
+pharmacokinetics
+
+(PK), and
+
+immunogenicity
+
+(Czech Republic, Germany,
+
+Hungary, India,
+
+Poland, Republic of Korea, Russia, United Kingdom, and US)
+
+Randomized: N=705 patients
+
+(SB11: 351; Lucentis®: 354)
+
+Safety Set: N=704 patients (SB11: 350; Lucentis®: 354)
+
+Pharmacokinetic Analysis Set:
+
+N= 54 patients (SB11: 25; Lucentis®: 29)
+
+2.3.2.1. Methods
+
+Bioanalytical methods
+
+Pharmacokinetics assays
+
+Randomized, double-masked,
+
+parallel group, multicenter study
+
+SB11 or Lucentis® was administered at a dose of 0.5 mg to the study eye via intravitreal (ITV) route every 4 weeks up to week 48. (Last assessment was done at Week 52.)
+
+PK
+
+· Systemic exposure measured pre- dose (trough serum concentration [Ctrough ]) and 24 to 72 hours post- dose (close to maximum serum concentration [Cmax])
+
+Immunogenicity
+
+· Incidence of anti-drug antibodies (ADAs) to ranibizumab
+
+. Incidence of neutralizing antibodies (NAbs) to ranibizumab
+
+A bioanalytical method for the analysis of ranibizumab (SB11 and Lucentis) in human serum has been developed and validated with the aim to determine the concentration of ranibizumab (SB11 and Lucentis) in approximately 560 human serum samples from Samsung Bioepis Protocol Number SB11- G31-AMD.
+
+The detection method to quantify the concentration of SB11 and Lucentis in human serum samples has been validated according to the validated bioanalytical reports and the addendums. Results obtained for all parameters evaluated during the pre-study validation indicate that the performance of the assay is acceptable for the intended purpose of concentration analysis. The analyses were within the pre- defined run acceptance criteria and in accordance with the current Guideline on bioanalytical method validation (EMEA/CHMP/EWP/192217/2009 Rev. 1 Corr. 2 ** ).
+
+Five quality control (QC) samples were used to assess accuracy and precision of the method. Inter-and intra-precision and accuracy of calibration standards and QC samples were within the criteria.
+
+There was no effect from lipemia on the quantification of SB11 and Lucentis and no effect from haemolysis on the quantitation of SB11 and Lucentis at haemolysis levels up to 500-600 mg/dL. Samples demonstrating haemolysis higher than 600 mg/dL will not be analyzed due to possible interference. No hook effect was observed at ranibizumab concentrations up to 800000 pg/mL. No effect was observed on the quantitation of Lucentis and SB11 at concentrations up to 10.00 ng/ml of VEGF (target interference), which is considered acceptable given the usual VEFG concentrations observed in patients with age-related macular degeneration.
+
+Assessment report EMA/446448/2021
+
+Page 30/146
+
+
+With regard to dilutional linearity, the ability to dilute samples originally above the upper limit of the calibration range was evaluated by analyzing three replicate QCs containing 800,000 pg/mL SB11 as 64-, 256-, and 1024-fold dilutions. After some issues with two pools, data met the acceptance criteria.
+
+As a part of validation, sample short-term stability (freeze-thaw and room temperature) were tested. Low- and high-level QCs were evaluated stored in a cryofreezer (-80 ℃ + 10 ℃) and a freezer (-25 ℃ # 10 °C). The ranibizumab concentration in human serum was stable for up to six freezing (-80℃) / thawing (RT) cycles and 24 hours at room temperature. In the method validation report Addendum 2, the long-term stability of ranibizumab in SB11 and US Lucentis has been investigated at -25℃ and - 80ºC and stability is demonstrated for up to 367 days at -25℃ and acceptable for up to 553 days at - 80°C.
+
+Analysis of human serum samples began on 08 August 2018 and was completed on 31 December 2019. Samples were stored for a maximum of 426 days between sample collection and analysis. All samples were analyzed within the 553 days demonstrating long-term storage stability in human serum at -80 °C.
+
+Parallelism was not tested, but was evaluated using the dilution linearity and selectivity as surrogate parameters during pre-study validation.
+
+The incurred sample analysis is applicable to ligand binding assays and has been correctly carried out. To demonstrate reproducible quantitation of incurred subject samples, approximately 10% of the project samples were re-assayed (9.63%) and the results of the incurred sample repeats met the acceptance criteria (total % ISR samples pass: 100%). The concentrations obtained for the initial analysis and the concentration obtained by reanalysis are therefore within 30% of their mean for at least 67% of the repeats (100%) as required in the guideline on bioanalytical method validation. These results indicate that the method is suitable for use.
+
+In summary, the method is judged applicable to quantitation of ranibizumab (SB11 and Lucentis) within a nominal concentration range. The PK assay is a validated, reliable, and sufficiently sensitive bioanalytical method to be able to detect picogram/mL concentrations of ranibizumab in serum. The validation of this assay has been conducted in accordance with the EMA Guideline on bioanalytical method validation, EMEA/CHMP/EWP/192217/2009 Rev1 Corr. 2, and consists of a core validation and additionally conducted validation studies for analyte stability, selectivity, and target interference. The results derived from these validation activities principally support the conclusion that the assay is reliable and suitable for measuring SB11 and Lucentis concentration in human serum samples. A few minor concerns related to the additionally conducted validation could be solved; consequently, the PK assay is considered suitable for analysis of ranibizumab (SB11 and Lucentis) in human serum.
+
+Immunogenicity assays
+
+Validity of analytical portfolio
+
+The applicant presented a "one-assay" format, MSD-ECL based multi-tiered approach for detection and characterisation of anti-drug antibodies in human plasma matrix. After a screening assay, positive samples were confirmed in a competition assay, and then investigated for neutralizing properties and titers. Both screening and confirmation assays are bridge assays: they take advantage of IgG bivalent structure, where the immune response links the biotinylated drug as capture reagent to its sulfo- labelled version as detection reagent. Advantages of this commonly accepted assay format are its sensitivity and its wide dynamic range. Furthermore, both the originator and the biosimilar can be used and investigated head to head, with exactly the same reagents. This reduces bias and complexity. On the other hand, in this assay format IgG4 subclass antibodies might get under-, and IgM's over- represented.
+
+Assessment report EMA/446448/2021
+
+Page 31/146
+
+It should be noted that the application scheme of SB11 is an immunogenic one, and consists of up to 6 monthly applications. On the other hand, SB11's originator showed a low immunogenic potential, and the risk of an induced immune response is rather low (low risk of anaphylaxis since applied doses are low (0.5 mg per dose), and SB11 not being an endogenous essential protein). The major risk of ADAs might be neutralisation of the active compound.
+
+Assay setup: The applicant used the most authentically matrix of 50 individual serum samples from drug naïve AMD patients. 6 experimental runs were assessed by 2 operators at three days (6 independent panels (=individual measurements)). The same lot of negative control (NC) pool was used for validation and for the sample analysis study. Method establishment was done based on a "balanced experimental design" for key assay variables. The applicant evaluated the minimal required dilutions for the screening assay and for the neutralisation assay. He set up assay cut points of 5% false positive error rates in the screening assay, and 1% in the confirmatory assay. Choice of controls, dilutions of serum samples, number of samples to setup and validate the method, and setting of cut points were done appropriately. This approach is aligned with respective guidance documents and is acceptable.
+
+A ligand-based assay to analyze neutralizing properties of ADAs was developed instead of a cellular assay. Ranibizumab binds VEGF-A and inhibits its interaction with cellular receptors, and thereby prevents signalling of receptors. The biological/therapeutical function of the API does not require direct interaction with immune- or other effector cells. ADAs having neutralizing properties will bind the API in a way hindering it to interact with VEGF. The applicant proposed to measure this biological effect by assessing - in a non-cell based competitive ligand binding assay - the ADA mediated quenching of a signal induced labelled VEGF. This approach seems acceptable for assessing neutralizing potential of SB11 specific ADA's.
+
+Cut points: For screening and neutralisation assays, a floating cut point was set, based on signal to noise ratios (SNR). This was justified, based on different means of assay specific SNR's between experimental runs, but comparable variances. The approach is acceptable.
+
+Cut point for the confirmation assay was defined as the ratio of signal inhibition in presence of SB11. Taken together, false positive rates were about 10% for both, pre-dose and treatment samples. These rates are conservatives, and within the acceptable range. The applicant also compared signal to noise ratios from inhibited samples from validation (cut-point) runs to inhibited clinical pre-dose samples. Means and variances were comparable, and below the screening cut point (with 2 exception). This seems to confirm that confirmatory cut-point was set appropriately. Determination of cut points was performed according to recommendations published in Shankar et al. (2008) for both assays. This approach is acceptable.
+
+Assay sensitivities were within the lower double-digit ng/ml range for screening and confirmation assay, and about the low three-digit ng/ml range for the ADA qualification assay. The screening assay sensitivity (definitely far below 100 ng/ml) seems to ensure patient's safety, especially for the intended application of the API: Induced ADAs of the originator (1) did not occur frequently and (2) did not cross-react with an essential endogenous protein. Higher sensitivity of the ADA-qualification assay nevertheless would have been advantageous for comparison of the rather low levels of ADAs raised by SB11 and its originator. Nonetheless, the approach is acceptable.
+
+Inter- and intra-assay precision were below 20% for all assays. This is acceptable for bioassays.
+
+System suitability controls: Negative controls consisted of pooled human serum samples of low reactivity. Three positive controls (low, middle, high) were generated by spiking polyclonal, affinity purified SB11 specific immunoglobulins raised in non-human primates, into respective negative control matrix. These controls have been carefully selected and seem to be acceptable in terms of quality
+
+Assessment report EMA/446448/2021
+
+Page 32/146
+
+(species) and quantities (concentrations were chosen according to the sensitivity of the respective assay) to control the performance of the assay.
+
+Selectivity and interferences: No prozone effect was observed, up to an ADA level of 50 ug/ml. This concentration seems acceptable, since levels of ADAs induced by Ranibizumab were rather low. Presence of up to 100 and 50 ng/ml SB11 or Lucentis was tolerated in screening/confirmation and Nab binding assay, respectively. This qualifies the method for its intended use based on PK results (amounts of systemic SB11 below 5 ng/ml). No interference of haemolytic and lipaemic samples was observed.
+
+VEGF was tolerated up to 50 and 10 ng/ml, respectively in both assays. It apparently interferes with both assays and needs to be removed. This is done for the ADA-assay by low pH-dissociation of antibodies.
+
+Stability: Storage of samples at room temperature for 24h as well as repeated freeze/thaw cycles did not affect experimental outcome. This is an expected result for serum samples, which usually are rather stable. It qualifies this assay as applicable for the intended use.
+
+The ADA titration/quantification assays basically share the same experimental procedure with the screening assay, and the validation data of screening assay justified the applicability of the titration assay.
+
+Of the 5394 samples reported, 551 samples produced potential positive results equal to or above the assay cut point during the screening assay, 108 of which confirmed positive in Tier 2. Of these 108 samples, 12 produced positive results in the Nab-assay. This correlates well with previously identified ADA levels in patients treated with Lucentis.
+
+# Assessment of antigenic equivalence
+
+The applicant assessed drug tolerance of the ADA screening assay by spiking 0 to 10 ug/ml SB11 or Lucentis into ADA samples containing SB11 specific monkey IgG, to compete with labelled SB11. Analysis of %CV between both drugs showed nearly overlapping results. Response units of three ADA dose levels were plotted against increasing levels of SB11 or Lucentis, respectively. The readout of the assay was directly dependent on magnitude of ADA levels, and SB11 as well as Lucentis showed mostly overlapping curves. Increasing levels of spiked drug triggered the expected competitive effect, within the assessed dose range of up to 10 ug/ml.
+
+The applicant used clinical samples to compare SB11 and Lucentis as competitors for labelled SB11 in the ADA confirmation assay. Means and distributions of %inhibition of both APIs were not statistically different. This seems to (1) justify the assay format and (2) qualifies the assay to assess immunogenicity of ADAs.
+
+In a second setting the applicant applied the neutralizing assay to compare antigenic potential of SB11 and its originator Lucentis, by spiking 0 to 10 ug/ml SB11 and Lucentis into anti-SB11 monkey immune sera. No significant difference of NAb responses was observed (expressed as %CV of signal to noise) for SB11 compared to Lucentis. Signal to noise levels of increasing ADA levels were plotted against increasing drug levels. There was a direct proportional dependency of signal quenching and ADA levels. This quenching was inhibited identically by addition of the competitor SB11 or Lucentis. The applicant used as target in the assay the VEGF165 isoform, which is considered as the most optimal isoform to represent mode of action of ranibizumab in physiological environment. The low positive control (LPC) has been set and justified. The same lot of negative control (NC) pool was used for validation and for the sample analysis study. Specificity of the assay was considered valid for the intended application. ADA titration assay
+
+Assessment report EMA/446448/2021
+
+Page 33/146
+
+ADA screening-, confirmation and qualification assays were setup properly. They were fully validated according to relevant guidelines. Sensitivities were considerably improved in comparison to ADA assays developed for the originator Lucentis. Taken together, ADA assay portfolio proposed by the applicant appears appropriate for assessing induced anti-drug antibodies in AMD patients, and for assessing neutralizing properties of induced ADAs. ADA titration assay basically shares the same experimental procedure with the screening assay, thus the validation data of screening assay can represent the parameter of titration assay. Antigenic equivalence of SB11 and Lucentis were confirmed.
+
+Statistical methods
+
+Pharmacokinetic Analysis Set (PKS) consists of all subjects in the SAF who participate in PK evaluation at PK Investigational sites (PK subjects) and have at least one PK sample analysed.
+
+Initially, 120 patients (60 per treatment) were to be evaluated as per protocol. This was changed to approximately 40 subjects participating in PK evaluation (20 subjects per treatment group) per protocol amendment 1 of Sep 01, 2017, based on FDA comments. On Oct 01, 2018 there has been a memorandum for the enrolment of additional patients participating in pharmacokinetics subgroup analysis. After the sponsor stopped enrolment of patients participating in PK subgroup analysis on Jun 04, 2018 as the enrolment had reached its capping value i.e. approximately 40 patients globally, it has been found that some PK samples were not collected due to patients not coming back to the sites or some of the PK samples taken from those patients were unable to be analysed due to haemolysis, or confirm its collection time/date due to insufficient source documents. Due to these issues and/or protocol deviations, those PK samples could not be included in the PK analysis. Therefore, the applicant had finally decided to enrol additional patients who participate in PK evaluation. It was clarified that, overall, 126 samples were reported to be excluded from the PK analysis and corresponding reasons were provided. PK sampling was not done in 53 samples due to early study termination or missing blood sampling and done in further 73 samples, but excluded from the PK analysis due to fellow eye treatment, deviation from the sampling window, lost samples, haemolysis, insufficient sample volume or quality of sample, or expired sample kits. In addition, it was clarified that initially (June 2018), 48 patients were assigned to the PKS. Further six patients were enrolled in November 2018 in the PK analysis set (n=2 for Lucentis and n= 4 for SB11).
+
+Of note, the individual PK curves that were provided in the CSR seem to include all analysed data points, including the one with deviations from sampling window and fellow eye treatment. Additional summary statistics were provided where these data (36 and 8 samples corresponding to fellow eye treatment and deviation from the sampling window, respectively) were included with no large discrepancies from the initial analysis.
+
+Individual PK blood sampling time and serum concentrations are listed for the PK population.
+
+Serum concentrations are summarised descriptively at each scheduled sampling time for each treatment group (number of subjects (n), arithmetic mean, standard deviation (SD), coefficient variation (CV%), geometric mean, geometric SD, geometric CV%, median, minimum, and maximum). Below the limit of quantification (BLQ) concentrations are set to zero for the computation of descriptive statistics, except for geometric mean, geometric SD, and geometric CV%, for which they are excluded. If serum concentration is not collected within sampling window, it is excluded from summary statistics, but it is to be listed.
+
+The following objectives were determined with respect to comparative PK assessments of SB11 and Lucentis:
+
+Assessment report EMA/446448/2021
+
+Page 34/146
+
+Systemic exposure measured pre-dose (trough serum concentration [Ctrough]) and 24-72 hours post- dose (postulated close to maximum serum concentration [Cmax]) measured at week 0, 1, 4, 8, 16, 24 and 36 (and at week 52; but pre-dose only)
+
+2.3.2.2. Study results
+
+Of the 705 patients randomised, 54 (7.7%) patients (25 [7.1%] patients in the SB11 and 29 [8.2%] patients in the Lucentis treatment groups) were included in Pharmacokinetic Analysis Set (PKS).
+
+The baseline characteristics of the patients in the PKS (BCVA; central subfield thickness, central point thickness, central retinal lesion thickness, total lesion area, area of CNV, lesion type, years since first diagnosis of nAMD, IOP) were comparable between the two treatment groups included in the PKS (data not shown). Other baseline characteristics were not provided.
+
+The mean (+ standard deviation [SD]) serum concentration profiles by treatment are presented in Figure 1 below.
+
+Throughout all post-dose timepoints, arithmetic mean concentrations ranged between 1,346.5 pg/mL and 1,952.2 pg/mL for SB11 and 771.2 pg/mL and 1,298.0 pg/mL for Lucentis. The observed variability (CV%) ranged between 63.61% and 96.03% for SB11 and between 39.39% and 97.73% for Lucentis for post-dose timepoints and error bars for both treatments overlapped. Post-dose concentrations were in a similar range across all timepoints up to Week 52, but with a tendency of an overexposure of SB11 compared to Lucentis, in particular at steady state (see also discussion below). Pre-dose concentrations were non-quantifiable in the majority of subjects at all visits.
+
+The observed median values of serum concentration of SB11 and Lucentis are consistent with the model-based predicted median steady-state serum ranibizumab concentrations (0.22 ng/ml) [Xu et al., 2013].
+
+It is notable that the analysis PK set was not complete at any time point.
+
+Assessment report EMA/446448/2021
+
+Page 35/146
+
+.. . SB11 (N=25) ** * Lucentis (N=29)
+
+Figure 1
+
+3600
+
+3300
+
+3 000
+
+2 700
+
+2 400
+
+2100
+
+Nean Concentration (pg/mL)
+
+1800
+
+1500
+
+1200
+
+900
+
+600
+
+*
+
+300
+
+0
+
+Week 0
+
+Week 1
+
+Wook 4
+
+Week 16 week 8
+
+Week 24
+
+Week 36
+
+week 52
+
+Tire (Veek)
+
+Figure 11-7 Mean + SD Serum Concentrations Profiles by Treatment Up to Week 52 (Pharmacokinetic Analysis Set)
+
+Assessment report EMA/446448/2021
+
+Page 36/146
+
+Table 4
+
+Table 1 (Page 1 of 7) Summary Statistics for Serum Concentration (pg/ml) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Week 0 (BL] Scheduled Tine
+
+Timepoint
+
+pre-dose
+
+Statistics
+
+1-07-08
+
+post-dose
+
+Mean
+
+SD
+
+90% CI for Mean
+
+Median
+
+Min, Max
+
+CVI
+
+Goo. Mean
+
+Geo. 5D
+
+Geo. CVB
+
+90% CI for Geo. Mean
+
+Mean
+
+SB11 N=25
+
+20
+
+41.2
+
+184.25 30.04. 1232 91.94 2081-87
+
+447.21
+
+824.0
+
+NO
+
+NC
+
+20
+
+1660.9
+
+[ SAMSUNG BIOEPIS ] jh52.han /
+
+SD
+
+90% CI for Mean
+
+Median
+
+Min, Max
+
+CVS
+
+90% CI for Geo. Mean
+
+1265.90
+
+1171.44, 2150.36
+
+1470.0
+
+0,4740
+
+76.22
+
+1674.3
+
+1.78
+
+62.58
+
+1312.58, 2135.74 1261.57, 1736.15
+
+Zucentis N=29
+
+22
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+27
+
+1246.9
+
+868.01
+
+961.93, 1531.77
+
+1230.0
+
+0,2590
+
+69.62
+
+1480.0
+
+SAMSU'
+
+1.53
+
+44.40
+
+Source: Listing 16.2.5-2.1
+
+- BL: Baseline; Pre-dose: Before IP Injection: Post-dose: After IP injection: Max: Maximum; Min: Minimum.
+
+- Geo: Geometric: SD: Standard deviation: CV#: Coefficient of variation.
+
+- BLQ: Below lower limit of quantitation
+
+: NC = not calculated.
+
+- n: Total number of subjects with available data.
+
+- Sample not collected within sampling window was excluded in the summary.
+
+- Subject with quantifiable concentrations at pre-dose Week O was also included in summary statistics.
+
+Assessment report EMA/446448/2021
+
+Page 37/146
+
+Table 5
+
+Table 1 (Page 2 of 7) Summary Statistics for Serum Concentration (pg/mL) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Week 1 Scheduled Tine
+
+Week 4
+
+Table 6
+
+Timepoint
+
+pre-dose
+
+Statistics
+
+Mean
+
+SD
+
+90% CI for Mean
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean 820.06, 1191.10
+
+Mean
+
+SD 90% CI for Mean
+
+Median
+
+Min, Max
+
+CVS
+
+Geo. Mean
+
+Goo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean
+
+SB11 N=25
+
+20
+
+687.3
+
+613.81 485.95
+
+449.97, 924.63 302.97, 621.99 Median 686.5 636.0 Min, Max
+
+0,1730
+
+0,1320
+
+CVI
+
+89.31 105.07
+
+988.3 863.5
+
+1.46
+
+39.14
+
+21
+
+143.8
+
+659.02
+
+-104.22, 391.84
+
+0.0
+
+0,3020
+
+458.26
+
+3020.0
+
+NC
+
+NC
+
+NC
+
+Lucentis N=29
+
+27 462.5
+
+1.30
+
+26.39
+
+763.69, 976.28
+
+25
+
+57.2
+
+286.00
+
+-40.66, 155.06
+
+0.0
+
+0,1430
+
+500.00
+
+1430.0
+
+NC
+
+NC
+
+NC
+
+Table 1 (Page 3 of 7) Summary Statistics for Serum Concentration (pg/mL) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Scheduled Tine
+
+Week 4
+
+Timepoint post-dose
+
+Week 8
+
+pre-dose
+
+Assessment report EMA/446448/2021
+
+Statistics
+
+Mean
+
+SD 1039.91 753.63
+
+90% CI for Mean 990.18, 1753.19
+
+Median
+
+1560.0
+
+Min, Max
+
+0,3700
+
+0,2210
+
+CVS
+
+Geo. Mean 1608.2 1126.5
+
+Geo. SD
+
+Geo. CVk
+
+90% CI for Geo. Mean
+
+Mean 0.0
+
+SD
+
+90% CI for Mean NC
+
+Median
+
+Min, Max
+
+CVS
+
+Geo. Mean
+
+Geo. 5D
+
+Geo. CVk NC 90% CI for Geo. Mean NO
+
+SB11 N=25
+
+22
+
+1371.7
+
+75.81 97.73
+
+1.60
+
+49.35
+
+1319.71, 1959.72
+
+22
+
+0.00
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+Lucentis N=29
+
+24 771.2
+
+507.52, 1034.82
+
+769.0
+
+1.54
+
+45.41
+
+925.12, 1371.65 25
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0, 0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Page 38/146
+
+Table 7
+
+Table 1 (Page 4 of 7) Summary Statistics for Serum Concentration (pg/ml) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Scheduled Tine
+
+Week 8
+
+Week 16 pre-dose n
+
+Table 8
+
+Timepoint
+
+post-dose
+
+Statistics
+
+n
+
+Mean
+
+SD
+
+90% CI for Mean 832.10, 1860.96 826.76, 1433.61
+
+Median.
+
+1390.0
+
+Min, Max
+
+CVS
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean 1342.67, 2239.50
+
+Mean
+
+SD 90% CI for Mean NC
+
+Median
+
+Min, Max
+
+CVS
+
+Geo. Mean
+
+Geo. 5D
+
+Geo. CVI
+
+90% CI for Geo. Mean
+
+SB11
+
+N=25
+
+19
+
+1346.5
+
+1293.12
+
+0,4560
+
+96.03
+
+1734.0
+
+1.68
+
+55.41
+
+24
+
+0.0
+
+0.00
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Lucentis N=29
+
+22 1130.2
+
+827.08
+
+1230.0
+
+0,2780
+
+73.18
+
+1328.4
+
+1.60
+
+49.91
+
+1087.92, 1621.97
+
+26
+
+56.5
+
+288.29
+
+-40.04, 153.11 0.0
+
+0,1470 509.90
+
+1470.0
+
+NC
+
+NC
+
+NC
+
+Table 1 (Page 5 of 7) Summary Statistics for Serum Concentration (pg/ml) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Scheduled Tine
+
+Week 16
+
+Week 24
+
+pre-dose
+
+Timepoint
+
+post-dose
+
+Assessment report EMA/446448/2021
+
+Statistics
+
+n 22 Mean 1688.1
+
+SD 1073.85
+
+908 CI for Mean 1294.13, 2082.05 802.70, 1311.22
+
+Median 1490.0 956.0
+
+Min, Max 0,4350
+
+CV
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI
+
+90% CI for Goo. Mean n
+
+Mean
+
+SD
+
+90% CI for Mean NC
+
+Median
+
+Min, Max
+
+CVI
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI 908 CI for Geo. Mean
+
+SB11
+
+N=25
+
+63.61
+
+1647.4 1172.8
+
+1.65
+
+53.26
+
+1357.93, 1998.51
+
+23
+
+0.0
+
+0.00
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Lucentis N=29
+
+23 1057.0
+
+710.13
+
+0,2590
+
+67.19
+
+1.53
+
+44.52
+
+990.29, 1389.03
+
+24
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC NC
+
+Page 39/146
+
+Table 9
+
+Table 1 (Page 6 of 7) Summary Statistics for Serum Concentration (pg/mL) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Scheduled Time
+
+Week 24
+
+Week 36 pre-dose
+
+Table 10
+
+Timepoint Statistics post-dose n Mean
+
+SD
+
+90% CI for Mean
+
+Median
+
+Min, Max
+
+CVS
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean n
+
+Mean
+
+SD 90% CI for Mean
+
+Median
+
+Min, Max
+
+CVI
+
+Geo. Mean
+
+Geo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean
+
+SB11
+
+N-25
+
+23
+
+1952.2
+
+1351.15
+
+1468.44, 2436.00 990.66, 1501.00
+
+1650.0
+
+0,6670
+
+69.21
+
+1767.8
+
+1.69
+
+55.99
+
+1459.60, 2141.07
+
+21
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Lucentis N-29
+
+23
+
+1245.8
+
+712.67
+
+1350.0
+
+0,2300
+
+57.20
+
+1320.1
+
+1.54
+
+45.19
+
+1117.38, 1559.49
+
+24
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Table 1 (Page 7 of 7) Summary Statistics for Serum Concentration (pg/mL) by Scheduled Time and Treatment Group Pharmacokinetic Set
+
+Scheduled Tine
+
+Neck 36
+
+Timepoint post-dose
+
+Week 52
+
+Statistics
+
+n
+
+Mean
+
+SD
+
+90% CI for Mean 1456.67, 2437.33
+
+Median 1580.0 1270.0
+
+Min, Max 0,4760 615,2270
+
+CV
+
+Geo. Mean
+
+Geo. 5D
+
+Geo. CVI
+
+90% CI for Geo. Mean
+
+n
+
+Mean
+
+SD
+
+90% CI for Mean
+
+SB11 N=25
+
+20
+
+1947.0
+
+1268.17 511.24
+
+65.13
+
+1788.5
+
+1.67
+
+54.54
+
+1459.90, 2191.09
+
+20
+
+0.0
+
+0.00
+
+NC
+
+Median
+
+0.0
+
+Min, Max
+
+CVI
+
+Goo. Mean
+
+Goo. SD
+
+Geo. CVI
+
+90% CI for Geo. Mean
+
+Impact of immunogenicity on pharmacokinetics
+
+Assessment report EMA/446448/2021
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Lucentis N=29
+
+21
+
+1298.0
+
+1105.64, 1490.46
+
+39.39
+
+1203.5
+
+1.50
+
+41.91
+
+1034.38, 1400.21
+
+20
+
+0.0
+
+0.00
+
+NC
+
+0.0
+
+0,0
+
+NC
+
+NC
+
+NC
+
+NC
+
+NC
+
+Page 40/146
+
+
+Only 3 subjects in the PK subset had positive ADA results (2 subjects in SB11 group at Week 52, and 1 subject in Lucentis group at Week 36), therefore the impact of immunogenicity on PK cannot be assessed.
+
+2.3.3. Pharmacodynamics
+
+Neovascular Age-Related Macular Degeneration (nAMD) is characterised by abnormal growth of new blood vessels under the retinal pigment epithelium or subretinal space from the subjacent choroid, termed choroidal neovascularisation (CNV). Subjects with nAMD have elevated ocular concentrations of vascular endothelial growth factor (VEGF), which is thought to play a key role in the neovascularisation process. Anti-VEGF treatments, such as ranibizumab and aflibercept, inhibit VEGF signalling pathways and have been shown to halt the growth of neovascular lesions and resolve retinal oedema.
+
+Pharmacodynamically, ranibizumab is a humanised recombinant monoclonal antibody fragment that specifically recognizes and binds with high affinity to the vascular endothelial growth factor A (VEGF-A) isoforms (e.g. VEGF110, VEGF121 and VEGF165). Ranibizumab exerts its inhibitory effects on angiogenesis and cell proliferation by selectively binding to VEGF-A and preventing the interaction of VEGF to its VEGF receptor tyrosine kinases on the surface of endothelial cells [Lucentis SmPC; Pandey AN, 2013].In the Study SB11-G31-AMD, retinal thickness (e.g., central subfield thickness [CST], central retinal lesion thickness [CRLT], central point thickness [CPT]), which well addresses the PD aspects of ranibizumab, was assessed by optical coherence tomography (OCT) and lesion characteristics such as CNV size and presence of leakage or haemorrhage were evaluated using fundus photography (FP) and/or fluorescein angiography (FA).
+
+2.3.4. Discussion on clinical pharmacology
+
+Pharmacokinetics
+
+The PK profiles of SB11 and US-Lucentis were compared in the clinical Phase III study (SB11-G31- AMD) to support a comparative evaluation between two products.
+
+Based on the comprehensive quality- and non-clinical bridging exercise, the use of an US-approved reference product is accepted.
+
+The assay format employed by the applicant for the measurement of ranibizumab serum concentrations is considered acceptable.
+
+A standard multi-tiered approach was employed including screening, confirmatory and titer assays to evaluate anti-drug antibodies in accordance with EMA Guideline on Immunogenicity assessment of therapeutic proteins (EMEA/CHMP/BMWP/14327/2006 Rev 1). A single-antigen approach using labelled SB11 has been applied for both the ADA assay and the NAb assay. Antigenic equivalence results, confirmatory results and drug tolerance results for both the biosimilar and the originator support the use of the one-assay approach. A bridging ligand-binding ADA assay with two pre-treatment steps (an acid dissociation and a VEGF depletion steps) and a competitive ligand binding NAb assay have been validated in several successive phases mainly to comply with the FDA Guidance for Industry released in 2019 with regards to the establishment of the assay cut points at the same CRO. These assays have been adequately validated and are deemed suitable for their intended purpose.
+
+Statistical methods and analysis plan: Although it was considered acceptable to compare pharmacokinetics in a subset of patients only (see EMA SA EMEA/H/SA/3335/1/2016/III), the sample size for the PK analysis set seems to be arbitrarily chosen, based on FDA requirements. The applicant also argued that the 20 patients per group would be in line with the sample sizes used for previous
+
+Assessment report EMA/446448/2021
+
+Page 41/146
+
+studies, which compared the PK of ranibizumab, aflibercept and bevacizumab (e.g. Avery et al., 2014). This sample size, though on the lower limit, can be accepted to provide sufficient reassurance that no significant differences in terms of PK between both products may be assumed (see also below).
+
+Pre-dose Ctrough levels and post-dose (24 to 72 hours) concentration levels were summarised using descriptive statistics at pre-specified time points (baseline, week 1, 4, 8, 16, 24, 36 and pre-baseline only for week 52). This approach is acceptable. The 90% CIs for the means and geometric means were presented as part of an ad-hoc analysis. Although 95% CIs would have been preferred, the 90%CIs can be accepted because they are smaller than the 95% CIs making them less likely to overlap. The treatment groups were shown to be comparable in the following baseline characteristics: age, body weight, sex, ethnic origin, height.
+
+Study results: Pre-dose concentrations were not quantifiable for both treatment groups at all time points except for Week 4 where they both seem similar. This includes the pre-dose concentration levels of those subjects with highest concentration levels post dose.
+
+The mean post-dose concentrations of SB11 (24-72 hours post dose and at week 1) seem to be higher than the mean concentrations of Lucentis for all time-points, hinting at an overexposure of SB11 in comparison to Lucentis. The difference in mean serum concentrations seem to increase until week 36 with the mean of SB11 lying outside the mean plus the standard deviation of Lucentis in the end.
+
+The variability also seems to be higher for SB11. Looking at the 90% CIs, it can be seen that the post- dose mean concentration from SB11 was not within the 90% CI from Lucentis at Week 0, 1, 4, 16, 24 and 36 (i.e., all post-dose measurement time-points except for Week 8). At Week 4, 16, 24 and Week 36 also the post-dose mean concentration of Lucentis was outside the 90% CI from SB11 (which is additionally true for the geometric mean at Week 8). The 90% CIs for the mean were always overlapping although at Week 4 and Week 36 only by a small amount. When looking at the GM, the 90%CIs were not overlapping at Week 36.
+
+The overexposure of SB11 cannot be attributed to a difference in ADAs because only 3 subjects in the PK subset had positive ADA results (2 subjects in SB11 group at Week 52, and 1 subject in Lucentis group at Week 36). Given the low number of patients included in the PK subset with positive ADA results, the impact of immunogenicity on PK cannot be assessed.
+
+For SB11, four patients had particularly high concentration levels over time when compared with Lucentis-treated patients, where e.g. a value of 2000 pg/mL was exceeded only in a few patients at some time points and concentration levels were never higher than 2780 pg/mL. In contrast, the maximum levels that were reached in SB11-treated patients ranged up to 6670 pg/mL. The maximally observed serum concentrations are higher than expected (i.e., exceed 3 ng/mL in several SB11- treated patients). It is acknowledged that the maximum concentrations of both the treatment groups up to Week 52 were still below the concentration range of ranibizumab (11-27 ng/ml) that was necessary to inhibit the biological activity of vascular endothelial growth factor-A by 50% (reported for an HUVEC proliferation assay at the time of Lucentis approval). However, it is higher than 2901 pg/ml, which was a reported half-maximal inhibitory concentration (IC50) for VEGF inhibition of bovine microvascular endothelial cells proliferation (0.060 nM) [Avery et al., 2014; Yu et al., 2011]. Of note, no concern arises based on the review of quality data that might potentially have an impact on the pharmacokinetics of ranibizumab. To explore whether observed difference in certain adverse events (AEs) as observed throughout the study may be attributable to increased exposure levels, the applicant analysed the AEs in the pharmacokinetic (PK) subgroup, but no meaningful conclusion can be drawn based on this analysis due to the small sample size per group. The applicant further specifically reviewed AEs from those six subjects that had post-dose serum concentrations higher than 2901 pg/ml. Among these, non-ocular adverse events ('Nasopharyngitis', 'Rhinitis', and 'Headache') were reported in two patients, which were all mild in intensity and assessed as not-related by the
+
+Assessment report EMA/446448/2021
+
+Page 42/146
+
+Investigator. In addition, in all these subjects, pre-dose concentrations fell below the BLQ at each time point when high post-dose concentration was observed. A tabulated comparative summary of AEs that may be associated with systemic VEGF inhibition did not show a pattern of a systematic difference between both treatment groups. In summary, the observed overexposure that was observed in the present study does not seem to translate into an increased incidence of AEs that could potentially be related to systemic VEGF inhibition. Although, overall, a slightly more unfavourable safety profile is noted with SB11 compared to Lucentis treatment, this trend is derived from a small number of events and must therefore be cautiously interpreted. No further evaluation can be made (see also safety discussion).
+
+During the review process, the large sampling window was questioned to accurately capture Cmax, based on available information on PK data of ranibizumab (Lucentis EPAR- Scientific discussion; Avery et al. 2014 doi:10.1136/bjophthalmol-2014-30525), indicating that Cmax is expected to occur at 0.5 to 0.9 days post injection. The applicant argued that these studies would need to be interpreted with caution regarding the accuracy of the reported Tmax values and Cmax values, as no intensive post dose blood sampling has been conducted in these studies and that the large window in their study was chosen to account for variability in the ranibizumab exposure. This is acknowledged. Nevertheless, since the sampling time points were shown to be distributed over the whole time period in the present study (with the mean ranging from around 37 and 52 hours at the different visits) and only one sample being collected per subject and visit, the reported concentration levels cannot be robustly referred to as 'close to Cmax' levels and may ultimately be underestimated, if the true Cmax was actually earlier or closer to the time point of 24 hours, as reported in the literature for Lucentis. Reassuringly, however, no imbalance in sampling time points between both treatment groups seems to have occurred based on additionally provided data. As regards the criticism that a substantial part of patients (n=23/54; 42.6%; 10 and 13 patients for SB11 and Lucentis, respectively) had at least one post-dose zero/non- measurable concentration level, while two subjects never reached any measurable concentration levels at any time point (one per treatment group, see graphs above), the applicant argued that the systemic exposure of ranibizumab in previous clinical studies for population PK analysis was so low that approximately 70% of samples collected were below the lower limit of quantitation (BLQ, 0.3 ng/ml) [Xu et al., 2013]. Meanwhile, in Study SB11- G31-AMD, among the measurable 288 post-dose samples (except Week 1 and Week 52), only 50 (17%) samples from 24 patients in various time points were reported as BLQ, which would be an adequate lower limit of quantification to capture serum exposure of ranibizumab to assess safety. No further concern is raised in this regard.
+
+Below the limit of quantification (BLQ) concentrations were set to zero for the computation of descriptive statistics, except for geometric mean, geometric SD, and geometric CV%, for which they are excluded. An update of the descriptive statistics (together with the 90% confidence intervals of the geometric mean) was provided, excluding the concerned patients at specific time points. The resulting concentration values were higher when patients with BLQ values are not set to zero. The 90% CIs are however not overlapping, except for week 36, as has also been observed with the previously provided summary statistics. The applicant argues that this is expected based on the four SB11 outliers with very high concentration levels. This is acknowledged, but due to the consistent overexposure observed at all time points, attribution to chance finding alone seems less plausible. It is concluded, however, that these differences are not expected to be translated into clinically relevant differences, based on what is known for the originator as well as on the observed comparability between both products in terms of safety.
+
+Pharmacodynamics
+
+No dedicated, comparative PD investigations have been performed as part of the clinical biosimilarity exercise. This is accepted, as there appear to be no laboratory PD markers that, alone, could be
+
+Assessment report EMA/446448/2021
+
+Page 43/146
+
+regarded as specific surrogates for clinical efficacy and safety of ranibizumab. PD aspects were sufficiently addressed in the clinical phase III study SB11-G31-AMD.
+
+2.3.5. Conclusions on clinical pharmacology
+
+The mean post-dose concentrations of SB11 seem to be higher than the mean concentrations of Lucentis for all time-points, hinting at an overexposure of SB11 in comparison to US-Lucentis. These differences are however not expected to translate into clinically relevant differences. From a PD perspective, the mechanism of action of ranibizumab is sufficiently described by the applicant and no concerns are raised given the absence of obvious PD biomarkers.
+
+The use of a non-EEA reference product is accepted as a sufficient quality bridge of the non-EEA comparator product with the EEA reference product has been established.
+
+2.4. Clinical efficacy
+
+2.4.1. Main study
+
+SB11-G31-AMD
+
+A Phase III Randomised, Double-masked, Parallel Group, Multicentre Study to Compare the Efficacy, Safety, Pharmacokinetics, and Immunogenicity between SB11 (proposed ranibizumab biosimilar) and Lucentis in Subjects with Neovascular Age-related Macular Degeneration.
+
+Figure 2
+
+V
+
+2Screening
+
+Study Period
+
+1
+
+SB11 0.5 mg/ITV injection every 4 weeks (n = 352)
+
+R
+
+Lucentis® 0.5 mg/ITV injection every 4 weeks (n = 352)
+
+.
+
+.
+
+1ICF
+
+Week W-3 to 0
+
+wow1W4 W8 W12 W16 W20
+
+W24 W28
+
+W36 W40 W44 W48 W52 W32
+
+· OCT assessment
+
+BCVA examination
+
+* Primary endpoint assessments
+
+Blood sampling for immunogenicity and PK
+
+Dosing (SB11 or Lucentis®)
+
+Figure 2: Graphical Study Design (Study SB11-G31-AMD)
+
+BCVA = best corrected visual acuity; D = day; ICF = informed consent form; ITV = intravitreal; n = number of patients; OCT = optical coherence tomography; PK = pharmacokinetics; R = randomization; W = week 1 Written informed consent was obtained from the patient prior to any study related procedures. 2 Screening was done within 21 days prior to randomization.
+
+Source: Figure 1 in Section 2.7.3 Summary of Clinical Efficacy
+
+Please note that the patient numbers in the figure above are not correct, instead 351 patients were randomised to the SB11 group and 354 to the Lucentis arm.
+
+Assessment report EMA/446448/2021
+
+Page 44/146
+
+Methods
+
+Study Participants
+
+Main Inclusion Criteria
+
+1. Aged ≥ 50 years at Screening
+
+2. Newly diagnosed *active sub-foveal choroidal neovascularisation (CNV) lesion secondary to AMD in the study eye (*active CNV indicated presence of leakage and intra- or sub-retinal fluid which was confirmed by central reading centre during Screening)
+
+3. The area of CNV had to occupy at least 50% of total lesion in the study eye (confirmed by central reading centre (CRC) during Screening)
+
+4. A total lesion area of ≤ 9.0 disc areas (DA) in size (including blood, scars, and neovascularisation) in the study eye (confirmed by CRC)
+
+5. A BCVA of 20/40 to 20/200 (letter score of 73 to 34) at Screening and at Week 0 (Day 1) prior to randomisation
+
+6. Non-childbearing potential female/ childbearing potential female subjects or male subjects with their partners who agreed to use at least 2 forms of appropriate contraception method that achieved a failure rate of < 1% per year from Screening until 3 months after the last ITV injection of IP
+
+7. Written informed consent form was obtained from the subject prior to any study related procedure (if the subject was legally blind or illiterate, an impartial witness was present during the entire informed consent discussion)
+
+8. Willingness and ability to undertake all scheduled visits and assessments
+
+Exclusion Criteria
+
+Subjects meeting any of the following criteria were not eligible for the study:
+
+1. Sub- or intra-retinal haemorrhage that comprised > 50% of the entire lesion in the study eye, or presence of sub-foveal blood ≥ 1 DA in size (confirmed by CRC)
+
+2. Scar, fibrosis, or atrophy which involved the centre of the fovea in the study eye (confirmed by CRC)
+
+3. Presence of CNV in either eye due to other causes, such as ocular histoplasmosis, trauma, multifocal choroiditis, angioid streaks, history of choroidal rupture or pathologic myopia (confirmed by CRC)
+
+4. Presence of retinal pigment epithelial tears or rips which involved the macula in the study eye (confirmed by CRC)
+
+5. Presence of macular hole at any stage in the study eye (confirmed by CRC)
+
+6. Any concurrent macular abnormality other than AMD in the study eye (confirmed by CRC)
+
+7. History of vitrectomy surgery, trabeculectomy or other filtration surgery or sub-macular surgery or other surgical intervention for AMD in the study eye
+
+10. Any other intraocular surgery (incl. cataract surgery) or periocular surgery in the study eye within 90 days prior to randomisation, except for lid surgery, which may not have taken place within 30 days prior to randomisation
+
+11. Any previous ITV anti-VEGF treatment (e.g., bevacizumab, aflibercept, ranibizumab) to treat neovascular AMD in either eye
+
+Assessment report EMA/446448/2021
+
+Page 45/146
+
+12. Any previous systemic anti-VEGF treatment, within 90 days prior to randomisation, and which was not allowed during the study period
+
+13. Any systemic treatment or therapy (including prescribed herbal medication) to treat neovascular AMD within 30 days prior to randomisation, and which was not allowed during the study period (dietary supplements, vitamins, or minerals were allowed).
+
+14. Any ITV injection of corticosteroid (e.g., triamcinolone acetonide) or ITV corticosteroid implant in the study eye within 180 days prior to randomisation, and which was not allowed during the study period
+
+15. Topical ocular corticosteroids administered for ≥ 30 consecutive days in the study eye within 90 days prior to randomisation
+
+16. Spherical equivalent of the refractive error in the study eye demonstrated > 8 dioptres of myopia. For subjects who underwent previous refractive or cataract surgery in the study eye, the preoperative refractive error in the study eye was not to exceed 8 dioptres of myopia
+
+17. Aphakia or absence of the posterior capsule in the study eye (unless it occurred as a result of an Yttrium Aluminum Garnet posterior capsulotomy in association with prior posterior chamber intraocular lens implantation)
+
+18. Presence of scleromalacia in either eye
+
+19. Current vitreous haemorrhage in the study eye
+
+20. Active or recent (within 28 days prior to randomisation) intraocular, extraocular, and periocular inflammation or infection in either eye
+
+21. History of idiopathic or autoimmune uveitis, retinal detachment, full-thickness macular hole or corneal transplantation surgery in either eye
+
+25. Presence of advanced glaucoma or optic neuropathy that affected or threatened the central visual field in the study eye
+
+26. Uncontrolled ocular hypertension (defined as intraocular pressure [IOP] ≥ 25 mmHg despite treatment with antiglaucoma medication) in the study eye
+
+27. History of allergy to the fluorescein sodium for injection in angiography
+
+28. Previous participation in clinical studies of ocular IPs to treat neovascular AMD in either eye or systemic IPs to treat neovascular AMD, and which were not allowed during the study period
+
+29. Previous participation in any studies of ocular or systemic IPs (excluding dietary supplements, vitamins, and minerals) to treat ocular or systemic disease other than neovascular AMD within 90 days prior to randomisation, and which were not allowed during the study period even if the IP was dietary supplements, vitamins, or minerals
+
+30. History or clinical evidence of diabetic retinopathy (except for mild non-proliferative diabetic retinopathy) or diabetic macular oedema in either eye
+
+31. Any concurrent ocular condition in the study eye which would either increase the risk to the subject safety or which otherwise would interfere with evaluation of efficacy or safety including, but not limited to ocular media opacities such as corneal opacity or cataract that did not allow proper fundus visualisation and fundus imaging, and ocular surface abnormalities which prevented applanation tonometry during the study period after randomisation
+
+Assessment report EMA/446448/2021
+
+Page 46/146
+
+32. History of other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding that contraindicated the use of an IP in the opinion of the Investigator
+
+33. Pregnant or lactating women
+
+34. Employees of investigational sites, individuals directly involved with the conduct of the study, or immediate family members thereof, prisoners, and persons who were legally institutionalised
+
+35. Stroke, transient ischemic attacks, or myocardial infarction within 90 days prior to randomisation 36. History of recurrent significant infections and/or current treatment for active systemic infection
+
+37. Known allergic reactions and/or hypersensitivity to ranibizumab or to any ingredients of the IP
+
+38. Prior treatment involving macula with photodynamic therapy with verteporfin, transpupillary thermotherapy, radiation therapy, or retinal laser treatment (e.g., focal laser photocoagulation) in the study eye, and which were not allowed during the study period
+
+39. Prior treatment with pan-retinal photocoagulation in the study eye, and which were not allowed during the study period
+
+40. Current use of systemic medications known to be toxic to the lens, retina, or optic nerve, including deferoxamine, chloroquine/hydroxychloroquine, tamoxifen, phenothiazines, vigabatrin, and ethambutol, which were not allowed during the study period
+
+Selection of the study eye
+
+Only 1 eye was designated as the study eye. For subjects who met eligibility criteria in both eyes, the eye with the worse visual acuity (VA) was selected as the study eye. If both eyes had equal VA, the eye with a better visual prognosis (e.g., clearer lens and ocular media, and less amount of sub-foveal scar or geographic atrophy) was selected at the Investigator's discretion. If there was no objective basis for selecting the study eye, factors such as ocular dominance, other ocular pathology, and subject preference were considered.
+
+In conclusion, inclusion and exclusion criteria are in line with those in the clinical trials performed with Lucentis and are deemed acceptable.
+
+Treatments
+
+· SB11 (test, ranibizumab biosimilar drug)
+
+· Lucentis (reference, sourced from the US)
+
+Objectives
+
+Primary Objective
+
+To demonstrate the equivalence of efficacy of SB11 to Lucentis in subjects with neovascular AMD
+
+Secondary Objectives
+
+· To evaluate the safety of SB11 and Lucentis
+
+· To evaluate the immunogenicity of SB11 and Lucentis
+
+· To evaluate the systemic exposure of SB11 and Lucentis in subjects participating in PK evaluation
+
+Assessment report EMA/446448/2021
+
+Page 47/146
+
+Outcomes/endpoints
+
+Primary Endpoint
+
+· For EMA or other regulatory agencies who were in favour of the anatomical parameter, the primary endpoint was change from baseline in CST at Week 4.
+
+· For US FDA, Korea Ministry of Food and Drug Safety, or other regulatory agencies who were in favour of the VA, the primary endpoint was change from baseline in BCVA at Week 8.
+
+Secondary Endpoints
+
+The secondary endpoints were as follows:
+
+. Change from baseline in CST and CRLT at Week 24 and Week 52 (based on assessment by central reading centre)
+
+. Change from baseline in BCVA over time up to Week 24 and Week 52
+
+. Proportion of patients who lost fewer than 15 letters in BCVA compared with baseline at Week 24 and Week 52
+
+. Proportion of patients who gained 15 letters or more in BCVA compared with baseline at Week 24 and Week 52
+
+· Change from baseline in total CNV size (area of CNV) at Week 24 and Week 52 (based on assessment by central reading centre)
+
+· Proportion of patients with active CNV leakage at Week 24 and Week 52 (based on assessment by central reading centre)
+
+Exploratory Endpoints
+
+· Proportion of patients without intra- or sub-retinal fluid at Week 24 and Week 52 (based on assessment by central reading centre)
+
+· Change from baseline in subscale scores and composite score of national eye institute 25-item visual function questionnaire (NEI VFQ-25) at Week 24 and Week 52
+
+VA was assessed in both the study eye and fellow eye (FE) at Screening and prior to ITV injection of IP at each visit until Week 48. The VA was also assessed in both the study eye and FE at any time during the visit at Week 52 (EOS Visit) or ET Visit.
+
+Sample size
+
+For the calculation of the equivalence margin for BCVA, the mean changes in VA were referred from two studies of Lucentis in subjects with neovascular AMD. In MARINA study, the mean change of VA at Week 24 (SD) were -6.6 (13.31) letters and 6.5 (12.00) letters for placebo and 0.5 mg Lucentis treatment groups, respectively. In FOCUS study, the mean change (SD) of VA at Week 24 were -5.0 (16.14) letters and 4.0 (14.41) letters for placebo and 0.5 mg Lucentis treatment groups, respectively.
+
+A fixed-effect meta-analysis of the above two studies estimates a weighted mean change in VA of 12.41 letters with a 95% CI [10.34 letters; 14.48 letters]. The derived equivalence limit from meta- analysis is 4.9 letters at Week 24, but by the agency recommendation the equivalence limit at Week 8 will be 3 letters for the comparison with the 90% CI of mean difference between treatment groups. With the given equivalence margin of [-3 letters, 3 letters], 334 subjects per treatment groups was calculated with the assumptions of the mean difference of 0.5 letters and pooled standard deviation
+
+Assessment report EMA/446448/2021
+
+Page 48/146
+
+(SD) of 12.5 letters at the overall 5% significance level. Assuming a 5% loss from randomised subjects after 8 weeks, a sample size of 352 subjects per treatment groups (overall sample size of 704) will give 334 completers per treatment group after 8 weeks, which is estimated to give 80% power to detect the equivalence within the margin of 3 letters.
+
+For the calculation of the equivalence margin for CST, the mean changes in CST were referred from two studies of Lucentis in subjects with neovascular AMD. In MARINA study, the mean change of CST at Week 4 (SD) was 8.1 (58.1) um and -106 (122.5) um for placebo and 0.5 mg Lucentis treatment groups, respectively. In PIER study, the mean change (SD) of CST at Week 4 were 15 (94.9) um and -90 (140.9) um for placebo and 0.5 mg Lucentis treatment groups, respectively.
+
+A fixed-effect meta-analysis of the above two studies estimates a weighted mean change in CST of -109.6 um with a 95% CI [-146.45 um; - 72.65 um]. The derived equivalence limit from meta- analysis is 36 um at Week 4. With the given equivalence margin of [-36 um, 36 um], 290 subjects per treatment group was calculated with the assumptions of the mean difference of 0 between treatment groups, common SD of 133.3 um at the overall 5% significance level. Assuming a 10% loss from FAS, a sample size of 323 per arm (overall sample size of 646) will give 80% power to detect the equivalence within the pre-defined margin.
+
+Therefore, the sample size of 704 allows enough power to detect the equivalence between treatment groups in both situations.
+
+Randomisation and masking
+
+Randomisation:
+
+Patients with neovascular AMD were allocated to the SB11 treatment group or Lucentis treatment group in a 1:1 ratio to receive either SB11 or 0.5 mg Lucentis.
+
+In multicentre trials, blocked randomisation was performed with fixed block size. No further stratification factors were considered.
+
+Masking:
+
+The study was double-masked. Subjects, Investigators, and other study personnel remained masked to the treatment group assignment throughout the study period after randomisation. To ensure the masking of the treatment group assignment, 1 carton would contain only 1 IP vial (SB11 or Lucentis). The carton and IP vial were packed and labelled in identical appearance. The IP remained masked throughout the study period except staffs designated for unmasking after the interim analysis.
+
+Unmasking:
+
+In general, unmasking of subjects during the conduct of the clinical study was not allowed unless there were compelling medical or safety reasons to do so, which was performed by the Investigator through the IWRS system.
+
+If the treatment group assigned to the subject was unmasked, Investigator promptly documented and explained to the Sponsor about any premature unmasking (e.g., accidental unmasking, unmasking due to a serious adverse event [SAE]) of the IP(s) which was treated to the subject. Pertinent information regarding the circumstances of unmasking of a subject's treatment group was documented in the subject's source documents. This included who performed the unmasking, the subject(s) affected, the reason for the unmasking, the date of the unmasking, and the relevant IP information. After
+
+Assessment report EMA/446448/2021
+
+Page 49/146
+
+unmasking (except unmasking for the purpose of pre-planned regulatory reporting), subjects were discontinued from the IP.
+
+After all subjects completed the procedures at Week 24, or its corresponding visit, the randomisation code was broken only for a limited number of identified individuals of the Sponsor and/or CRO for the purpose of reporting of the interim analyses to the regulatory agency. The code was only broken once all appropriate clinical data had been entered onto the database, all data queries had been resolved, and the assignment of those subjects to the analysis sets had been completed. Available efficacy, safety, PK, and immunogenicity data were analysed and reported in the main clinical study report (CSR) dated Oct 21, 2019. Generally, blinding was maintained after the efficacy measurement at week 24.
+
+After the last subject completed the procedures at Week 52 (End of Study [EOS] Visit) or the corresponding visit and the database was locked, the treatment group assignment was unmasked, and all study data was analysed and reported in this final CSR.
+
+Measures to mask patients and study personnel from treatment allocation appear to be appropriate, as long as it has been ensured that the ITV injection administered cannot be distinguished, and that the blind was maintained throughout the whole trial.
+
+Statistical methods
+
+Analysis sets
+
+Randomised Set (RAN) consists of all patients who received a randomisation number at the randomisation visit.
+
+Full Analysis Set (FAS) consists of all patients who were randomised at the randomisation visit. Following the intent-to-treat principle, patients were analysed according to the treatment group they were assigned to at randomisation. However, patients who did not qualify for randomisation and were inadvertently randomised into the study were excluded from the FAS, provided these patients did not receive IP during the study period. The FAS was the primary analysis set for BCVA.
+
+Per-protocol Set for BCVA (PPS-BCVA) consists of all FAS patients who had received first two IP injections and completed the procedures at Week 8 without any major PDs that had an impact on the BCVA assessment. Major PDs that would lead to exclusion from this set were pre-defined prior to unmasking the treatment codes for analyses.
+
+Per-protocol Set for CST (PPS-CST) consists of all FAS patients who had received the first IP injection at Week 0 (Day 1) and completed the procedures at Week 4 without any major PDs that had an impact on the CST assessment. This PPS-CST was the primary analysis set for CST. Major PDs that would lead to exclusion from this set were pre-defined prior to unmasking the treatment codes for analyses.
+
+Safety Analysis Set consists of all patients who received at least 1 IP during the study period after randomisation. Patients were analyzed according to the IP received.
+
+The primary endpoint is the `Change from baseline in CST at Week 4' in the per-protocol-set (PPS) population. The full-analysis-set (FAS) population was used as a supportive population by the applicant for evaluation of the sensitivity of the main analysis, but from a regulatory perspective in an equivalence setting, the FAS has equal importance and for a robust interpretation should lead to similar results. The FAS included all subjects who were randomised at the randomisation visit save for patients who were not qualified for randomisation but were erroneously randomised into the study, provided these patients did not receive investigational product (IP) during the study period. This could
+
+Assessment report EMA/446448/2021
+
+Page 50/146
+
+
+be seen as a deviation from the ITT principle, but due to the very limited extent of the issue (only one subject was excluded for this reason) no concern is raised.
+
+Primary Efficacy Analysis
+
+For EMA, the primary efficacy analysis was performed for the Per-protocol Set for CST (PPS-CST) with the change from baseline in CST at Week 4 using an analysis of covariance (ANCOVA) model with the baseline CST as a covariate and region (country) and treatment groups as factors. The equivalence in CST was declared if the two-sided 95% confidence interval (CI) of the difference of the CST least squares mean (LS mean) change from baseline in Week 4 between SB11 and Lucentis lies within the pre-defined equivalence margin of [-36 um, 36 um].
+
+For US FDA, the primary efficacy analysis of BCVA was performed for the Full Analysis Set (FAS) with the change from baseline in BCVA at Week 8 using ANCOVA model with the baseline BCVA as a covariate and region (country) and treatment group as factors. The equivalence in BCVA was declared if the two-sided 90% CI of the difference in terms of BCVA LS mean change from baseline at Week 8 between SB11 and Lucentis lies within the pre-defined equivalence margin of [-3 letters, 3 letters].
+
+For the primary analysis of CST for the PPS-CST, no missing data was imputed. For the primary analysis of BCVA for the FAS, missing data was imputed for patients who withdrew the study prior to the primary analysis timepoint. For the components of BCVA, the missing letter was imputed by multiple imputation (MI) under missing-at-random (MAR) approach with the assumption of monotone missing pattern and regression method.
+
+In equivalence trials the result of the FAS analysis set is generally not conservative because subjects who withdraw or drop out of the treatment group or the comparator group will tend to have a lack of response, and hence the results of using the full analysis set depending on the imputation method may be biased toward demonstrating equivalence (ICH E9 Statistical principals for Clinical Trials CPMP/ICH/363/96). Also the exclusion of a substantial proportion of subjects from the per protocol (PP) analysis may bias the results for the overall population. Therefore, the FAS and the per protocol set (PPS) have equal importance and for a robust interpretation have to lead to similar results (Points to consider on switching between superiority and non-inferiority CPMP/EWP/482/99).
+
+No formal adjustment of Type I error rates was needed for the primary endpoint and no multiplicity correction was done to control the multiple type I error rate for the secondary endpoints tested.
+
+Sensitivity Analyses of Primary Efficacy Endpoints
+
+To explore the robustness of the change from baseline in CST at Week 4 for the PPS-CST, the same analysis was performed for the FAS. The change from baseline in CST at Week 4 was analysed by using available case, MI under the missing-at-random (MI-MAR), and MI under the missing-not-at- random (MI-MNAR) approaches.
+
+To explore the robustness of the change from baseline in BCVA at Week 8 for the FAS, the same analysis was also performed for the Per-protocol Set for BCVA (PPS-BCVA). In addition, the change from baseline in BCVA at Week 8 was analysed for the FAS by using available case, last observation carried forward (LOCF), and MI-MNAR approaches.
+
+For the BCVA, available case analysis was performed for PPS-BCVA and FAS, and last observation carried forward (LOCF) was performed for FAS. If there were any subjects who dropped out from the study because of the reason 'AE', their missing values were imputed by MI under the missing-not-at- random (MNAR) approach. These subjects were assumed to have had, on average, their change worsened by 20% compared with similar subjects. The 20% worsening was implied from the mean difference between Lucentis and placebo from historical studies.
+
+Assessment report EMA/446448/2021
+
+Page 51/146
+
+For BCVA components at Week 8: Imputed value = Imputed value - (Imputed value x 0.2)
+
+For the CST, available case analysis and MI analysis under MAR were performed for FAS. If there were any subjects who dropped out from the study because of the reason 'AE', their missing values were imputed by MI under the MNAR approach. These subjects were assumed to have had, on average, their change worsened by 50% compared with similar subjects. The 50% worsening was implied from the mean difference between Lucentis and placebo from historical studies.
+
+For the CST at Week 4: Imputed value = Imputed value + (Imputed value x 0.5)
+
+Secondary Efficacy Analyses
+
+The following analyses were performed for the secondary efficacy endpoints:
+
+· Analysis of change from baseline in continuous outcome measure: The secondary efficacy variable was analysed similar to the primary analysis.
+
+· Analysis of difference in proportion of patients: The adjusted risk difference between the 2 treatment groups were calculated using a stratified Cochran-Mantel-Haenszel (CMH) test and 95% CIs were presented for FAS. The stratification factor for CMH test was region (country).
+
+All analyses of the secondary efficacy variables were based on available data. No missing data was imputed. The analyses for CST at Week 24 and Week 52 and BCVA at Week 24 and Week 52 were done on the PPS-CST respectively PPS-BCVA and FAS whereas for all other secondary endpoints the FAS was used.
+
+Subscale scores (general health, general vision, ocular pain, near activities, distance activities, vision- specific social functioning, vision-specific mental health, vision-specific role difficulties, vision-specific dependency, driving, colour vision, and peripheral vision) and the composite score, which represent overall visual function, were calculated, and the change from baseline were summarised by treatment group and visit for the FAS.
+
+The subscale scores and composite score of NEI VFQ-25 were summarised without subjects who received Lucentis in the fellow eye due to AMD during the study period after randomisation.
+
+Subgroup analyses
+
+The Primary efficacy variable BCVA is summarised and analysed by the following prognostic factors at baseline or immunogenicity (8-week ADA result was defined as an overall ADA result up to week 8) results for exploratory purpose:
+
+- Summary of change from baseline in BCVA by overall ADA result up to week 8 for FAS
+
+- Subgroup analysis of change from baseline in BCVA at week 8 by overall ADA result up to week 8 for FAS
+
+- Subgroup analysis of change from baseline in BCVA at week 8 by lesion type at baseline for FAS
+
+- Subgroup analysis of change from baseline in BCVA at week 8 by total lesion area (≤4DA vs. >4DA) at baseline for FAS
+
+- Subgroup analysis of change from baseline in BCVA at week 8 by country for FAS
+
+The Primary efficacy variable CST is summarised and analysed by the following prognostic factors at baseline or immunogenicity (4-week ADA result was defined as an overall ADA result up to week 4) results for exploratory purpose:
+
+- Summary of change from baseline in CST by overall ADA result up to week 4 for PPS-CST
+
+Assessment report EMA/446448/2021
+
+Page 52/146
+
+- Subgroup analysis of change from baseline in CST at week 4 by overall ADA result up to week 4 for PPS-CST
+
+- Subgroup analysis of change from baseline in CST at week 4 by total lesion area (≤4DA vs. >4DA) at baseline for PPS-CST
+
+- Subgroup analysis of change from baseline in CST at week 4 by lesion type at baseline for PPS-CST
+
+- Subgroup analysis of change from baseline in CST at week 4 by country for PPS-CST
+
+Ad-hoc analyses
+
+For the change from baseline in BCVA also the 95% CIs were calculated which were not specified in the protocol (for Week 8 for PPS and FAS under MI-MAR and for Week 24 and Week 52 for the FAS on available cases). Taking a two-sided 90% CI as primary instead of a two-sided 95% CI for change from baseline in BCVA at Week 8 is not allowed because this would increase the two-sided type I error rate to 10%. Two-sided 95% confidence intervals are to be used for all clinical trials (except for PK analyses where 90% CIs have been established) regardless of their objective, i.e. superiority testing, non- inferiority testing or equivalence testing (CPMP/EWP/482/99).
+
+Results
+
+Participant flow
+
+Assessment report EMA/446448/2021
+
+Page 53/146
+
+Table 11
+
+Table 10-1 Subject Disposition by Treatment Group (Enrolled Set)
+
+Number of Subjects
+
+Screened
+
+SB11 n (%)
+
+Lucentis® n (%)
+
+Total n (%)
+
+1,095
+
+Screening failures
+
+390
+
+Reasons for screening failures
+
+Does not meet eligibility criteria
+
+Consent withdrawal
+
+Lost to follow-up
+
+Other
+
+Randomized*
+
+Completed at Week 24*
+
+Subject discontinuation from IP before Week 24*
+
+16 (4.6)
+
+Main reasons for IP discontinuation
+
+Consent withdrawal by subject
+
+Adverse event
+
+Intraocular surgery
+
+Protocol deviations
+
+Lost to follow-up
+
+IP non-compliance
+
+Decision by Sponsor
+
+351 (100.0)
+
+335 (95.4)
+
+5 (1.4)
+
+4 (1.1)
+
+0 (0.0)
+
+3 (0.9)
+
+1 (0.3)
+
+2 (0.6)
+
+0 (0.0)
+
+354 (100.0)
+
+337 (95.2)
+
+17 (4.8)
+
+5 (1.4)
+
+4 (1.1)
+
+0 (0.0)
+
+2 (0.6)
+
+2 (0.6)
+
+1 (0.3)
+
+0 (0.0)
+
+353 (90.5)
+
+25 (6.4)
+
+2 (0.5)
+
+10 (2.6)
+
+705 (100.0)
+
+672 (95.3)
+
+33 (4.7)
+
+10 (1.4)
+
+8 (1.1)
+
+0 (0.0)
+
+5 (0.7)
+
+3 (0.4)
+
+3 (0.4)
+
+0 (0.0)
+
+Assessment report EMA/446448/2021
+
+Page 54/146
+
+Number of Subjects
+
+Unmasking (except unmasking for the purpose of regulatory reporting)
+
+Pregnancy
+
+Death
+
+Other
+
+Completed at Week 52*
+
+Subject discontinuation from IP before Week 52*
+
+Main reasons for IP discontinuation
+
+Consent withdrawal by subject 16 (4.6)
+
+Adverse event
+
+Intraocular surgery
+
+Protocol deviations
+
+Lost to follow-up
+
+IP non-compliance
+
+Decision by Sponsor
+
+Unmasking (except unmasking for the purpose of regulatory reporting)
+
+Pregnancy
+
+Death
+
+Other
+
+SB11 n (%) 0 (0.0)
+
+0 (0.0)
+
+1 (0.3)
+
+0 (0.0)
+
+307 (87.5)
+
+44 (12.5)
+
+7 (2.0)
+
+0 (0.0)
+
+4 (1.1)
+
+3 (0.9)
+
+9 (2.6)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+2 (0.6)
+
+3 (0.9)
+
+Lucentis® n (%) 0 (0.0)
+
+0 (0.0)
+
+2 (0.6)
+
+1 (0.3)
+
+327 (92.4)
+
+27 (7.6)
+
+9 (2.5)
+
+6 (1.7)
+
+0 (0.0)
+
+3 (0.8)
+
+3 (0.8)
+
+1 (0.3)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+3 (0.8)
+
+2 (0.6)
+
+- IP, Investigational product; n, Number of subjects.
+
+- Percentages of Screening failure reasons were based on number of Screening failures.
+
+-*: Percentages were based on the number of randomized subjects.
+
+Total n (%)
+
+0 (0.0)
+
+0 (0.0)
+
+3 (0.4)
+
+1 (0.1)
+
+634 (89.9)
+
+71 (10.1)
+
+25 (3.5)
+
+13 (1.8)
+
+0 (0.0)
+
+7 (1.0)
+
+6 (0.9)
+
+10 (1.4)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+5 (0.7)
+
+5 (0.7)
+
+In the SB11 treatment group, a higher number of patients dropped out of the study. Table 12 lists the patients who discontinued prior to Week 52. For 6 out of 25 patients, the reason for consent withdrawal was identified and is acceptable. For the remaining 19 patients, no reason for discontinuation is known, but this is acknowledged since patients may refuse to give a reason for withdrawing consent.
+
+Assessment report EMA/446448/2021
+
+Page 55/146
+
+Table 12
+
+Table 34: Summary of Patients who Discontinued the Study Prior to Week 52 and Possible Reasons (Randomized Set, Study SB11-G31-AMD)
+
+SB11 N=351
+
+n (%)
+
+Patient who completed 52 weeks of study
+
+307 (87.5)
+
+Patient who discontinued prior to Week 52
+
+44 (12.5)
+
+Patients with consent withdrawal
+
+16 (4.6)
+
+Adverse event
+
+2 (0.6)
+
+Health condition
+
+0 (0.0)
+
+Other safety reason2
+
+1 (0.3)
+
+Other reasonb
+
+2 (0.6)
+
+Unknown
+
+11 (2.6) 8 (2.3)
+
+Patients with IP non-compliancee
+
+9 (2.6) 1 (0.3)
+
+Adverse event
+
+0 (0.0)
+
+3 (0.9)
+
+Clinically related to adverse eventd
+
+3 (0.9)
+
+0 (0.0)
+
+Other safety reasonª
+
+2 (0.6)
+
+0 (0.0)
+
+Other reasonb
+
+1 (0.3)
+
+Unknown
+
+0 (0.0)
+
+1 (0.3)
+
+IP = Investigational Product; N = number of patients in Randomized Set; n = number of patients
+
+Percentages were based on N.
+
+US Lucentis® N=354
+
+n (%)
+
+327 (92.4)
+
+27 (7.6)
+
+9 (2.5)
+
+0 (0.0)
+
+1 (0.3)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+ª Other safety reason was applied to the case when injection was not performed at the discretion of investigator for patient's safety.
+
+b Other reason was applied to the case when the reason was not related to patient's health or safety.
+
+"IP non-compliance is defined as missed IP of any of the first 2 doses (Intravitreal [ITV] injection of IP at Week 0 [Day 1] and Week 4) after randomization or missed IP of consecutive doses during the study period after randomization d Clinically related to adverse event is defined as the case in which adverse event is clinically considered as the cause of IP injection skip.
+
+Source: Section 5.3.5.1 Final CSR Study SB11-G31-AMD Table 14.1-1.1
+
+Study discontinuations due to IMP non-compliance occurred in 9 patients from the SB11 group and only in 1 patient from the Lucentis group. 6 of 9 patients discontinued due to adverse events, but these were assessed by the investigator as not IMP-related. 2 patients had safety reasons and one discontinuation was due to patient refusal. No information is available on discontinuation from the Lucentis arm, however as only one patient is involved, this is considered negligible.
+
+Assessment report EMA/446448/2021
+
+Page 56/146
+
+Protocol Deviations:
+
+Table 13
+
+Table 10-2 Summary of Protocol Deviation by Treatment Group (Randomized Set)
+
+Any protocol deviations
+
+With at least one major protocol deviation 131 (37.3)
+
+Excluded from PPS-BCVA 13 (3.7)
+
+Exclusion criteria
+
+IP compliance
+
+Inclusion criteria
+
+Study procedure
+
+Withdrawal criteria
+
+Excluded from PPS-CST
+
+Exclusion criteria
+
+IP compliance
+
+Inclusion criteria
+
+Study procedure
+
+Withdrawal criteria
+
+Others
+
+Concomitant medication criteria
+
+IP compliance
+
+Study procedure
+
+Withdrawal criteria
+
+With at least one minor protocol deviation
+
+IP compliance
+
+Study procedure
+
+SB11
+
+N = 351 n (%)
+
+248 (70.7)
+
+3 (0.9)
+
+2 (0.6)
+
+0 (0.0)
+
+8 (2.3)
+
+2 (0.6)
+
+8 (2.3)
+
+3 (0.9)
+
+1 (0.3)
+
+0 (0.0)
+
+4 (1.1)
+
+1 (0.3)
+
+127 (36.2)
+
+1 (0.3)
+
+44 (12.5)
+
+96 (27.4)
+
+2 (0.6)
+
+218 (62.1)
+
+1 (0.3)
+
+218 (62.1)
+
+Lucentis® N = 354 n (%)
+
+264 (74.6)
+
+142 (40.1)
+
+18 (5.1)
+
+4 (1.1)
+
+1 (0.3)
+
+1 (0.3)
+
+12 (3.4)
+
+0 (0.0)
+
+14 (4.0)
+
+4 (1.1)
+
+1 (0.3)
+
+1 (0.3)
+
+8 (2.3)
+
+0 (0.0)
+
+131 (37.0)
+
+1 (0.3)
+
+41 (11.6)
+
+105 (29.7)
+
+1 (0.3)
+
+225 (63.6)
+
+1 (0.3)
+
+225 (63.6)
+
+Total N = 705 n (%)
+
+512 (72.6)
+
+273 (38.7)
+
+31 (4.4)
+
+7 (1.0)
+
+3 (0.4)
+
+1 (0.1)
+
+20 (2.8)
+
+2 (0.3)
+
+22 (3.1)
+
+7 (1.0)
+
+2 (0.3)
+
+1 (0.1)
+
+12 (1.7)
+
+1 (0.1)
+
+258 (36.6)
+
+2 (0.3)
+
+85 (12.1)
+
+201 (28.5)
+
+3 (0.4)
+
+443 (62.8)
+
+2 (0.3)
+
+443 (62.8)
+
+- BCVA, Best corrected visual acuity; CST, Central subfield thickness; IP, Investigational product; N, Total number of subjects; n, Number of subjects; PPS-BCVA, Per-protocol set for BCVA; PPS-CST, Per-protocol set for CST.
+
+- Percentages were based on the number of subjects in the Randomized Set.
+
+- Source: Table 14.1-1.3.
+
+The major PDs were higher for Lucentis than for SB11 with 14 (4.0%) versus 8 (2.3%) for PPS-CST with the largest difference for "study procedure" with 4 (1.1%) versus 8 (2.3%), respectively. Most
+
+Assessment report EMA/446448/2021
+
+Page 57/146
+
+major PDs seem to happen later on in the trial after Week 8 because there are 273 subjects with at least one major PD, but in the PPS-BCVA only 31 subjects were excluded.
+
+Baseline data
+
+Table 14
+
+Table 11-2 Demographic Characteristics by Treatment Group (Randomized Set)
+
+Characteristics
+
+Age (years)
+
+n
+
+SB11
+
+N=351
+
+351
+
+Mean
+
+74.4
+
+Lucentis" N =354
+
+354
+
+Total N = 705
+
+705
+
+73.8
+
+74.1
+
+SD 8.00
+
+8.92
+
+8.48
+
+Median
+
+Min, Max
+
+51,96
+
+Gender, n (%)
+
+Male
+
+Female
+
+Race, n (%)
+
+American Indian or Alaska Native
+
+0 (0.0)
+
+Asian
+
+Black or African American
+
+0 (0.0)
+
+Native Hawaiian or Other Pacific Islander 1 (0.3)
+
+White
+
+297 (84.6)
+
+Other
+
+2 (0.6)
+
+Ethnicity, n (%)
+
+Hispanic or Latino
+
+6 (1.7)
+
+Indian (Indian Subcontinent)
+
+10 (2.8)
+
+Chinese
+
+0 (0.0)
+
+Japanese
+
+1 (0.3)
+
+Mixed Ethnicity
+
+Other
+
+Country, n (%)
+
+Czech Republic
+
+Germany
+
+Hungary
+
+71 (20.1)
+
+142 (20.1)
+
+India
+
+21 (3.0)
+
+Korea
+
+Poland
+
+96 (13.6)
+
+75.0
+
+149 (42.5)
+
+202 (57.5)
+
+51 (14.5)
+
+14 (4.0)
+
+320 (91.2) 319 (90.1)
+
+82 (23.4)
+
+14 (4.0)
+
+71 (20.2)
+
+10 (2.8) 11 (3.1)
+
+40 (11.4) 40 (11.3)
+
+47 (13.4) 49 (13.8)
+
+75.0
+
+51, 94
+
+153 (43.2)
+
+201 (56.8)
+
+0 (0.0)
+
+52 (14.7)
+
+0 (0.0)
+
+0 (0.0)
+
+300 (84.7)
+
+2 (0.6)
+
+4 (1.1)
+
+11 (3.1)
+
+0 (0.0)
+
+0 (0.0)
+
+20 (5.6)
+
+77 (21.8)
+
+17 (4.8)
+
+75.0
+
+51,96
+
+302 (42.8)
+
+403 (57.2)
+
+0 (0.0)
+
+103 (14.6)
+
+0 (0.0)
+
+1 (0.1)
+
+597 (84.7)
+
+4 (0.6)
+
+10 (1.4)
+
+21 (3.0)
+
+0 (0.0)
+
+1 (0.1)
+
+34 (4.8)
+
+639 (90.6)
+
+159 (22.6)
+
+31 (4.4)
+
+80 (11.3)
+
+Assessment report EMA/446448/2021
+
+Page 58/146
+
+Characteristics
+
+Russia
+
+United Kingdom
+
+11 (3.1)
+
+US
+
+Region, n (%)
+
+EU
+
+US
+
+Others
+
+Weight (kg)
+
+n
+
+Mean
+
+SD
+
+SB11 N=351 21 (6.0)
+
+55 (15.7)
+
+214 (61.0)
+
+55 (15.7)
+
+82 (23.4)
+
+351
+
+75.95
+
+16.273
+
+Median
+
+75.00
+
+Lucentis® N =354 21 (5.9)
+
+10 (2.8) 58 (16.4)
+
+214 (60.5)
+
+58 (16.4)
+
+82 (23.2)
+
+353
+
+75.95
+
+16.671
+
+Total N = 705 42 (6.0)
+
+21 (3.0)
+
+113 (16.0)
+
+428 (60.7)
+
+113 (16.0)
+
+164 (23.3)
+
+704
+
+75.95
+
+16.462
+
+75.00
+
+75.00
+
+Min, Max
+
+43.9, 143.3
+
+40.7, 149.6
+
+40.7, 149.6
+
+Height (cm)
+
+n
+
+351
+
+353
+
+704
+
+Mean
+
+SD
+
+Median
+
+Min, Max
+
+BMI (kg/m2)
+
+164.90
+
+9.899
+
+165.00
+
+132.1, 196.0
+
+n
+
+351
+
+165.40
+
+9.457
+
+165.60
+
+140.0, 198.1
+
+165.15
+
+9.676
+
+165.00
+
+132.1, 198.1
+
+353
+
+704
+
+Mean
+
+27.80
+
+27.65
+
+27.72
+
+SD
+
+Median
+
+4.740
+
+27.30
+
+5.151
+
+26.90
+
+4.948
+
+27.00
+
+Min, Max
+
+16.2, 45.6
+
+18.0, 54.3
+
+16.2, 54.3
+
+- BMI, Body mass index; EU, European Union; N, Total number of subjects; n, Number of subjects; SD, Standard deviation; US, United States.
+
+- Age was calculated as the difference in years between the date of birth and the date of informed consent obtained.
+
+- Body mass index (BMI; kg/m2) was calculated using weight and height at Screening.
+
+- Percentages were based on the number of subjects in the Randomized Set.
+
+Assessment report EMA/446448/2021
+
+Page 59/146
+
+Table 15
+
+Table 11-3 Baseline Characteristics by Treatment Group (Randomized Set)
+
+Characteristics
+
+BCVA (ETDRS letter score)
+
+N
+
+Mean
+
+SB11 N =351
+
+351 58.7
+
+SD
+
+10.42
+
+Lucentis® N= 354
+
+354
+
+57.9
+
+Total N = 705
+
+705
+
+58.3
+
+10.82
+
+10.62
+
+Median
+
+60.0
+
+59.0
+
+60.0
+
+Min, Max
+
+CST (microns)
+
+N
+
+Mean
+
+SD 113.806
+
+Median
+
+390.00
+
+Min, Max
+
+CPT (microns)
+
+N
+
+Mean
+
+SD
+
+Median
+
+Min, Max
+
+CRLT (microns)
+
+34, 73
+
+351 403.55
+
+166.0, 843.0
+
+351
+
+312.91
+
+135.142
+
+282.50
+
+89.5, 908.0
+
+n
+
+351
+
+33, 73
+
+354
+
+411.65
+
+121.307
+
+396.00
+
+143.0, 830.0
+
+354
+
+324.68
+
+142.142
+
+294.75
+
+26.5, 847.5
+
+33, 73
+
+705
+
+407.62
+
+117.619
+
+392.00
+
+143.0, 843.0
+
+705
+
+318.82
+
+138.728
+
+289.50
+
+26.5, 908.0
+
+354
+
+705
+
+Mean
+
+SD
+
+Median 319.00 329.25 324.00
+
+348.38 137.133
+
+360.08 143.915
+
+354.26
+
+140.601
+
+Assessment report EMA/446448/2021
+
+Page 60/146
+
+
+Characteristics
+
+Min, Max
+
+Total lesion area (mm2)
+
+1
+
+SB11 N =351 112.5, 975.5
+
+351
+
+Lucentis" N= 354 42.0, 887.0
+
+354
+
+Total N = 705 42.0, 975.5
+
+705
+
+Mean
+
+8.212
+
+8.326
+
+8.269
+
+SD 4.9763
+
+Median
+
+7.510
+
+Min, Max
+
+Area of CNV (mm2)
+
+n
+
+0.03, 21.40
+
+351
+
+5.4720
+
+7.345
+
+0.00, 22.66
+
+354
+
+5.2277
+
+7.430
+
+0.00, 22.66
+
+705
+
+Mean
+
+SD 4.8455
+
+Median
+
+Min, Max
+
+Lesion type, n (%)
+
+No CNV
+
+0 (0.0)
+
+Classic CNV
+
+28 (8.0)
+
+Classic and Occult
+
+Occult
+
+Disciform Scar
+
+Years since first diagnosis of neovascular AMD
+
+n
+
+7.988
+
+7.390
+
+0.03, 21.40
+
+115 (32.8)
+
+208 (59.3)
+
+0 (0.0)
+
+351
+
+8.135
+
+5.3760
+
+7.175
+
+0.00, 22.66
+
+1 (0.3)
+
+27 (7.6)
+
+124 (35.0)
+
+202 (57.1)
+
+0 (0.0)
+
+354
+
+8.062
+
+5.1156
+
+7.280
+
+0.00, 22.66
+
+1 (0.1)
+
+55 (7.8)
+
+239 (33.9)
+
+410 (58.2)
+
+0 (0.0)
+
+705
+
+Mean
+
+0.21
+
+0.13
+
+0.17
+
+SD
+
+0.557
+
+0.411
+
+0.490
+
+Median
+
+Min, Max
+
+IOP (mmHg)
+
+n
+
+0.10
+
+0.0, 4.5
+
+351
+
+0.10
+
+0.0, 7.0
+
+354
+
+0.10
+
+0.0, 7.0
+
+705
+
+Mean
+
+15.28
+
+15.16
+
+15.22
+
+SD
+
+2.754
+
+2.665 2.708
+
+Median
+
+15.00
+
+15.00
+
+15.00
+
+Min, Max
+
+8.0, 22.0
+
+7.0, 24.0
+
+7.0, 24.0
+
+- AMD, Age-related macular degeneration; BCVA, Best corrected visual acuity; CNV, Choroidal neovascularization; CPT, Central point thickness; CRLT, Central retinal lesion thickness; CST, Central subfield thickness; ETDRS, Early treatment diabetic retinopathy study; IOP, Intraocular pressure; N, Total number of subjects; n, Number of subjects; SD, Standard deviation
+
+- Percentages were based on the number of subjects in the Randomized Set.
+
+- Source: Table 14.1-4.1
+
+It is noted that the mean CST, CPT and CRLT was slightly lower in the SB11 treatment arm (403.55 um, 312.91 um and 348.38 um, respectively) rather than in the Lucentis treatment arm (411.65 um, 324.68 um and 360.08 um, respectively). However, the size (total lesion area) was well balanced across the arms (8.212 mm2 in the SB11 and 8.326 mm2 in the Lucentis arm) and also the mean area of CNV (7.988 mm2 in SB11 and 8.135 mm2 in Lucentis).
+
+Assessment report EMA/446448/2021
+
+Page 61/146
+
+The most common lesion type was 'occult' in both study arms, followed by 'classic and occult'. The most common lesion types in the Originator's ANCHOR study were predominantly classical lesions and in the case of the MARINA study the lesion types were predominantly minimally classical or occult CNV. Although the study arms of the trial SB11-G31-AMD are comparable (also in other baseline characteristics), it cannot be completely excluded that due to a different set of lesion types the same sensitivity prevails as in the originator studies.
+
+The mean interval since first diagnosis of neovascular AMD at baseline was slightly later with 0.21 years in the SB11 compared to 0.13 years in the Lucentis treatment groups. The mean IOP was comparable with 15.28 mmHg in the SB11 and 15.16 mmHg in the Lucentis treatment groups.
+
+In general, the population studied in the SB11-G31-AMD trial is considered sensitive enough to show similarity and the baseline characteristics seem comparable between the study arms.
+
+Medical/ surgical history:
+
+Overall, a comparable number of patients in the SB11 and Lucentis treatment groups had an ocular medical/surgical history in SOC (285 [81.2%] patients in SB11 and 290 [81.9%] patients in the Lucentis treatment groups) and the number of patients who had a non-ocular medical/surgical history in SOC (319 [90.9%] patients in SB11 and 316 [89.3%] patients in the Lucentis treatment groups) was also comparable.
+
+Numbers analysed
+
+Table 16
+
+Table 1: Data Sets Analyzed (Randomized Set, Study SB11-G31-AMD)
+
+SB11
+
+US Lucentis®
+
+Total
+
+n
+
+(%)
+
+Randomized Analysis Set1
+
+351
+
+(100.0)
+
+Full Analysis Set2
+
+351
+
+(100.0)
+
+Per-protocol Set for BCVA3
+
+336
+
+(95.7)
+
+Per-protocol Set for CST4
+
+342
+
+(97.4)
+
+Safety Analysis Set5
+
+350b
+
+(99.7)
+
+Pharmacokinetic Analysis Set6
+
+25
+
+(7.1)
+
+n
+
+354
+
+353ª
+
+333
+
+338
+
+354a,b
+
+29
+
+(%)
+
+n
+
+(100.0)
+
+705
+
+(99.7)
+
+704
+
+(94.1)
+
+669 (94.9)
+
+(95.5)
+
+680
+
+(100.0)
+
+704
+
+(8.2)
+
+54
+
+(%)
+
+(100.0)
+
+(99.9)
+
+(96.5)
+
+(99.9)
+
+(7.7)
+
+BCVA = best corrected visual acuity; CST = central subfield thickness; n = number of patients in the respective analysis set Percentages were based on the number of randomized patients.
+
+a One patient was excluded from both Full Analysis Set and Safety Analysis Set, because this patient was mis-randomized and discontinued from the study before first IP dosing.
+
+b One patient was initially randomized to receive SB11 (IP) but the IP was incorrectly injected to the fellow eye and Lucentis® (non-IP) was injected to the study eye instead until Week 20 (Study day 141) of the study. The patient was discontinued from the study (Study day 164) primarily due to protocol deviation. The patient was later included in the Lucentis® treatment group in the Safety Analysis Set.
+
+Safety Analysis Set corresponds to Safety Set (SAF).
+
+Source: Table 3 in Section 2.7.3 Summary of Clinical Efficacy
+
+The patient numbers analysed are balanced between the two treatment arms SB11 and Lucentis.
+
+Outcomes and estimation
+
+Primary endpoint analysis
+
+Assessment report EMA/446448/2021
+
+Page 62/146
+
+Change from Baseline in CST at Week 4 was based on the Per-Protocol set. The equivalence in CST was declared if the two-sided 95% CI of the difference of the CST LS mean change from baseline in Week 4 between SB11 and Lucentis lies within the pre-defined equivalence margin of [-36 um, 36 um].
+
+Table 17
+
+Table 10: Analysis of Change from Baseline in CST at Week 4 (Per-protocol Set for CST, Study SB11-G31-AMD)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint Treatment n LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+SB11 (N = 342) 342
+
+-108.40 (4.65)
+
+Week 4
+
+-8.35
+
+(5.65)
+
+[-19.446, 2.747]
+
+US Lucentis® (N = 338) 338 -100.05 (4.64)
+
+CI = confidence interval; CST = central subfield thickness (microns); LS mean = least squares mean; N = total number of patients; n = total number of patients with available data at Week 4; SE = standard error
+
+Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+For the CST, therapeutic equivalence is declared if the 2-sided 95% CI of the difference of CST LS mean changes from baseline at Week 4 between SB11 and Lucentis® lies within the pre-defined equivalence margin of [-36 um, 36 um]. Source: Table 6 in Section 2.7.3 Summary of Clinical Efficacy
+
+In the PPS, the LS mean observed for change from baseline in CST at Week 4 was -108.40 um in the SB11 and -100.05 um in the Lucentis arm. The adjusted treatment difference in CST of the change from baseline between SB11 and Lucentis at Week 4 was -8.35 um, and the 95% CI of the adjusted treatment difference was [-19.446, 2.747], which was completely contained within the pre-defined equivalence margin of [-36 um, 36 um].
+
+Assessment report EMA/446448/2021
+
+Page 63/146
+
+Table 18
+
+Table 11-10 Analysis of Change from Baseline in CST at Week 4 (Full Analysis Set)
+
+Timepoint
+
+Treatment
+
+n
+
+Least Squares Mean (SE)
+
+Difference (SB11 - Lucentis®)
+
+Mean
+
+(SE)
+
+95% CI
+
+Imputation Method: None (Available Case)
+
+350
+
+348
+
+Imputation Method: MI-MAR
+
+Week 4
+
+SB11 (N= 351)
+
+Lucentis®
+
+(N= 353)
+
+Week 4
+
+SB11
+
+(N= 351)
+
+351
+
+Lucentis®
+
+(N= 353)
+
+-108.73 (4.56)
+
+-100.55 (4.53)
+
+-108.17 (4.58) -7.90
+
+353
+
+-100.27 (4.55)
+
+Imputation Method: MI-MNAR
+
+Week 4
+
+SB11 (N= 351) 351
+
+Lucentis®
+
+353
+
+(N= 353)
+
+-108.17 (4.58)
+
+-100.27 (4.55)
+
+-8.18
+
+-7.90
+
+(-19.054, 2.699)
+
+(5.54)
+
+(-18.776,
+
+(5.56)
+
+2.984)
+
+(-18.776,
+
+(5.56)
+
+2.984)
+
+- CI, Confidence interval; CST, Central subfield thickness (microns); LS mean, Least squares mean; MAR, Missing-at-random; MI, Multiple imputation; MNAR, Missing-not-at-random; N, Total number of subjects;
+
+n, Total number of subjects with available data at Week 4; SE, Standard error.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment as fixed factors.
+
+- For the CST, the missing value was imputed by MI method with the assumption of monotone missing pattern and regression method or pattern mixture analysis using MI.
+
+- For the CST, therapeutic equivalence is declared if the 2-sided 95% CI of the difference of CST LS mean changes from baseline at Week 4 between SB11 and Lucentis® lies within the pre-defined equivalence margin of [-36 μm, 36 μm].
+
+- Source: Table 14.2-2.2.2
+
+Using FAS, the results performed on available cases showed that the LS mean observed for change from baseline in CST at Week 4 was -108.73 um in the SB11 and -100.55 um in the Lucentis arm. The difference between SB11 and Lucentis was -8.18 with a 95% CI [-19.054, 2.699] which was completely contained within the pre-defined equivalence margin of [-36 um, 36 um].
+
+Sensitivity analyses based on the primary endpoint for the FAS analysis population using multiple imputation technique for all subjects with missing data who dropped out for the study prior to the primary analysis time point were performed as supporting evidence. The difference of the CST LS mean was -7.90 [95% CI: - 18.776, 2.984] and -7.90 [95% CI: - 18.776, 2.984] for MI-MAR and MI- MNAR, respectively. By using the imputation methods, both 95% CIs lie within the bioequivalence margin set by the EMA [-36 um, 36 um].
+
+Assessment report EMA/446448/2021
+
+Page 64/146
+
+Table 19
+
+Table 16: Sensitivity Analysis of Change from Baseline in CST at Week 4 (Per- Protocol Set for CST, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+Least Squares Mean (SE) -107.94 (4.86)
+
+Difference (SB11-Lucentis®)
+
+Timepoint
+
+Treatment n
+
+Mean
+
+(SE)
+
+[95% CI]
+
+SB11 (N=342) 317
+
+Week 4
+
+-9.38
+
+(5.97)
+
+[-21.100, 2.341]
+
+US Lucentis® (N=338) 310
+
+-98.56 (4.85)
+
+CI = Confidence Interval; CST = Central Subfield Thickness (microns); n = Total number of patients with available data at Week 4; SE = Standard Error
+
+Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+A total of 53 patients (25 patients in the SB11 and 28 patients in the Lucentis® treatment groups) who received fellow eye treatment at least once prior to Week 4 were excluded from the analysis.
+
+At the time of the primary endpoint change in CST at Week 4 from baseline, a total of 53 patients received fellow eye treatment. A total of 317 of 342 (92.7%) patients in the SB11 and 310 (91.7%) of 338 patients in the Lucentis treatment groups did not receive Lucentis treatment in their fellow eye until Week 4. The applicant performed ad-hoc analysis of the change from baseline in CST at Week 4 excluding patients who had received fellow eye (Lucentis) treatment at least once prior to Week 4. The mean difference was -9.38 um with the 95% CI of [-21.100 um, 2.341 um]. The result is comparable to the results of the primary analysis (-8.35 um [95% CI: - 19.446 um, 2.747 um]). Treatment of the fellow eye does not seem to affect efficacy of the study eye.
+
+Assessment report EMA/446448/2021
+
+Page 65/146
+
+Secondary endpoint analysis
+
+Change from Baseline in BCVA at Week 8 (primary EP for FDA)
+
+Table 20
+
+Table 11-6 Analysis of Change from Baseline in BCVA at Week 8 (Full Analysis Set)
+
+Timepoint
+
+Week 8
+
+Treatment n
+
+SB11
+
+(N= 351)
+
+Least Squares Mean (SE)
+
+6.18
+
+351
+
+(0.52)
+
+Lucentis®
+
+6.99
+
+353
+
+(N= 353)
+
+(0.51)
+
+Difference (SB11 - Lucentis®)
+
+Mean
+
+(SE)
+
+90% CI
+
+-0.80
+
+(0.62)
+
+(-1.827, 0.219)
+
+The LS mean observed for change from baseline in BCVA at Week 8 for FAS was 6.18 letters in the SB11 and 6.99 letters in the Lucentis arm. The adjusted treatment difference was -0.80 letters and the 90% CI [-1.827, 0.219] of the difference lies entirely within the pre-defined equivalence margin of +3 letters. The ad-hoc results of the 95% CI for FAS under MI-MAR: [-2.023, 0.415] is naturally a bit wider than the 90% CIs but still within the margin of [-3 letters, 3 letters], thus supporting the requirements of the EU authorities.
+
+Table 21
+
+Table 11-7 Analysis of Change from Baseline in BCVA at Week 8 (Per-Protocol Set for
+
+BCVA)
+
+Timepoint
+
+Week 8
+
+Treatment
+
+SB11
+
+(N= 336)
+
+Lucentis®
+
+(N= 333)
+
+Least Squares
+
+n
+
+Mean (SE)
+
+336
+
+6.39 (0.52)
+
+333
+
+7.15 (0.52)
+
+Difference (SB11 - Lucentis®)
+
+Mean
+
+(SE)
+
+90% CI
+
+-0.76
+
+(-1.808,
+
+(0.64)
+
+0.286)
+
+For the PPS, the treatment difference between SB11 and Lucentis was -0.76 and the 90% CI of the adjusted treatment difference of SB11 and Lucentis was [-1.808, 0.286] and the ad-hoc 95% CI of the adjusted treatment difference was [-2.010, 0.487], both were completely contained within the pre-defined equivalence margin of [-3 letters, 3 letters].
+
+Assessment report EMA/446448/2021
+
+Page 66/146
+
+Table 22
+
+Table 12: Analysis of Change from Baseline in BCVA at Week 8 (Full Analysis Set, Study SB11-G31-AMD) (Ad-hoc analysis)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint Treatment n
+
+LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+Imputation Method: None (Available Case)
+
+SB11 (N= 351)
+
+346 6.26 (0.51)
+
+Week 8
+
+-0.82 (0.62)
+
+[-2.046, 0.398]
+
+US Lucentis® (N = 353)
+
+348
+
+7.08 (0.51)
+
+Imputation Method: LOCFa SB11 (N= 351)
+
+351
+
+6.12 (0.52)
+
+Week 8
+
+US Lucentis® (N = 353)
+
+-0.83 (0.63)
+
+[-2.064, 0.397]
+
+353
+
+6.96 (0.51)
+
+Imputation Method: MI-MNARb SB11 (N= 351)
+
+351
+
+6.16 (0.52)
+
+Week 8
+
+-0.77
+
+(0.63)
+
+[-1.998, 0.451]
+
+US Lucentis® (N = 353)
+
+353
+
+6.93 (0.51)
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; ETDRS = early treatment diabetic retinopathy study; LOCF = last observation carried forward; LS = least square; MI = multiple imputation; MNAR = missing- not-at-random; N = total number of patients; n = total number of patients with available data at Week 8; SE = standard error. ª For BCVA, the total BCVA letter scores were imputed by LOCF
+
+৳ For the BCVA, BCVA letter scores at 4 meter and 1 meter were imputed by multiple imputation method with the assumption of monotone missing pattern and regression method under the MNAR.
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region (country) and treatment as fixed factors.
+
+Therapeutic equivalence is declared if the two-sided 95% CI of the difference of BCVA least squares mean changes from baseline at Week 8 between SB11 and Lucentis® lies within the pre-defined equivalence margin of [-3 letters, 3 letters].
+
+Sensitivity analyses performed on FAS on available case showed a difference of -0.82 letters between SB11 and Lucentis [95% CI: - 2.046, 0.398]. Analysis on the FAS using LOCF demonstrated a difference of -0.83 letters [95% CI: - 2.064, 0.397] and using MI-MNAR showed a difference of -0.77 letters [95% CI: - 1.998, 0.451]. In all analyses the 95% CIs were within the bioequivalence margin set by the FDA (and also accepted by EMA) [-3 letters, 3 letters].
+
+The results of the sensitivity analysis were comparable to the results from the primary analysis and therefore supporting the robustness of the equivalence between SB11 and Lucentis also in the endpoint BCVA.
+
+Assessment report EMA/446448/2021
+
+Page 67/146
+
+Change from Baseline in Central Point Thickness (CPT) at Week 4
+
+Table 23
+
+Table 17: Analysis of Change from Baseline in CPT at Week 4 (Per-protocol Set for CST, Study SB11-G31-AMD)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint
+
+Treatment n
+
+LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+SB11 (N= 342)
+
+342
+
+-122.70 (5.16)
+
+Week 4
+
+-12.10
+
+(6.26)
+
+[-24.389, 0.194]
+
+US Lucentis® (N = 338) 338
+
+-110.60 (5.13)
+
+CI = confidence interval; CPT = central point thickness (um); LS mean = least squares mean; N = total number of patients; n = total number of patients with available data at Week 4; SE = standard error
+
+Inferential statistics were based on analysis of covariance model with the baseline CPT as a covariate and region (country) and treatment group as fixed factors.
+
+Source: Table 13 in Section 2.7.3 Summary of Clinical Efficacy
+
+Table 24
+
+Table 14.2-6.1.2 (Page 1 of 1) Analysis of Change from Baseline in CPT at Week 4 Full Analysis set
+
+Timepoint Treatment
+
+n
+
+Least squares mean (SE)
+
+Mean
+
+Difference (SB11 - Lucentis)
+
+(SE)
+
+95% CI
+
+Week 4
+
+SB11 (N=351) 350
+
+-123.27 (5.05)
+
+-11.52
+
+(6.13)
+
+(-23.554, 0.520)
+
+Lucentis (N=353) 348 -111.75 (5.01)
+
+Source: Listing 16.2.6-1.4
+
+- CPT: Central Point Thickness (microns) ; CI: Confidence Interval; SE: standard Error.
+
+- n: Total number of subjects with available data at Week 4.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CPT at Week 4 as a covariate and region (country) and treatment group as fixed factors.
+
+The analysis of change from baseline in CPT at Week 4 using available cases indicated that the adjusted treatment difference between SB11 and the originator Lucentis was -12.10 with a 95% CI of [-24.389, 0.194] for the PPS-CST and -11.52 um with a 95% CI of [-23.554, 0.520] for the FAS on available data. This analysis further confirmed the results of the primary analysis.
+
+Analysis of Change from Baseline in CST at Week 24 and Week 52
+
+Table 25
+
+Table 18: Analysis of Change from Baseline in CST at Week 24 and Week 52 (Per- protocol Set for CST, Study SB11-G31-AMD)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint
+
+Treatment
+
+n
+
+LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+Week 24
+
+SB11 (N= 342)
+
+US Lucentis® (N = 338)
+
+324
+
+323
+
+-135.68 (4.09)
+
+-126.09 (4.00)
+
+-9.59
+
+(4.84)
+
+[-19.095,
+
+-0.091]
+
+SB11 (N= 342)
+
+304
+
+-139.55 (4.57)
+
+(5.36)
+
+[-25.617, -4.563]
+
+Week 52
+
+-15.09
+
+US Lucentis® (N = 338)
+
+317
+
+-124.46 (4.43)
+
+CI = confidence interval; CST = central subfield thickness (um); LS mean = least square mean; N = total number of patients; n = total number of patients with available data at Week 24 or Week 52; SE = standard error Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Source: Table 14 in Section 2.7.3 Summary of Clinical Efficacy
+
+Assessment report EMA/446448/2021
+
+Page 68/146
+
+The secondary endpoints "change from baseline in CST at Week 24" and "change from baseline in CST at Week 52" showed statistically significant differences between SB11 and Lucentis, although the 95% CIs were within the +36 um equivalence margin, which was calculated for CST at Week 4. For the PPS, the point estimate at Week 24 was -9.59 um [95% CI: - 19.095, -0.091] and at Week 52 it was -15.09 um [95% CI: - 25.617, -4.563].
+
+Table 26
+
+Table 14.2-4.2.2 (Page 1 of 1) Analysis of Change from Baseline in CST at Week 24 and Week 52 Full Analysis Set
+
+Timepoint Treatment n
+
+Week 24 SB11 (N=351) 328
+
+Week 52
+
+Least squares mean (SE)
+
+-135.88 (4.05)
+
+Lucentis (N=353) 335
+
+-126.39 (3.93)
+
+SB11 (N=351)
+
+308
+
+-139.96 (4.52)
+
+Lucentis (N=353) 327 -125.05 (4.35)
+
+Difference (SB11 - Lucentis)
+
+95% CI
+
+Mean (SE)
+
+-9.50
+
+(4.76) (-18.850, -0.142)
+
+-14.91 (5.28) (-25.272, -4.548)
+
+Source: Listing 16.2.6-1.4
+
+- CST: Central Subfield Thickness (microns) ; CI: Confidence Interval; SE: Standard Error.
+
+- n: number of subjects with available assessment results at Week 24 or Week 52 respectively.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+The point estimate for the difference in the FAS population was -9.50 with a 95% CI of [-18.850, -0.142] at Week 24 and -14.91 with a 95% CI of [-25.272, -4.548] at Week 52 based on available cases.
+
+Analysis of Change from Baseline in CRLT at Week 24 and Week 52
+
+Table 27
+
+Table 19:
+
+Analysis of Change from Baseline in CRLT at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD)
+
+Timepoint
+
+Week 24
+
+Treatment SB11 (N=351)
+
+n
+
+LS Mean (SE) -147.67 (5.07)
+
+328
+
+US Lucentis® (N = 353)
+
+SB11 (N= 351)
+
+335 -138.41 (4.92)
+
+Difference (SB11 - US Lucentis®)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+-9.27
+
+(5.96)
+
+[-20.969, 2.439]
+
+308
+
+-161.00 (5.10)
+
+Week 52
+
+-11.53 -149.46 (4.90)
+
+(5.95)
+
+[-23.211, 0.418]
+
+US Lucentis® (N = 353)
+
+327
+
+CI = confidence interval; CRLT = central retinal lesion thickness (um); LS mean = least squares mean; N = total number of patients; n = total number of patients with available data at Week 24 or Week 52; SE = standard error Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Source: Table 15 in Section 2.7.3 Summary of Clinical Efficacy
+
+The change from baseline in CRLT at Week 24 and Week 52 for the FAS on available cases were also comparable between the 2 treatment groups (SB11: - 147.67 um, Lucentis: - 138.41 um at Week 24; SB11: - 161.00 um, Lucentis: - 149.46 um at Week 52). The difference between SB11 and Lucentis was -9.27 um at Week 24 with a 95% CI of [-20.969, 2.439] and -11.53 um at Week 52 with a 95% CI of [-23.211, 0.418] showing a non-significant lower reduction for Lucentis.
+
+Assessment report EMA/446448/2021
+
+Page 69/146
+
+Change from Baseline in BCVA Over Time up to Week 24 and Week 52
+
+Table 28
+
+Table 13:
+
+Analysis of Change from Baseline in BCVA at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint Treatment n
+
+LS Mean (SE)
+
+Imputation Method: Available Case
+
+SB11 (N= 351) 333 8.52 (0.65)
+
+Week 24
+
+US Lucentis® (N = 353) 338
+
+9.33 (0.64)
+
+SB11 (N= 351)
+
+309 9.79 (0.76)
+
+Week 52
+
+US Lucentis® (N = 353) 327
+
+10.41 (0.74)
+
+Imputation Method: LOCFa
+
+SB11 (N= 351)
+
+351 8.01 (0.65)
+
+Week 24
+
+US Lucentis® (N = 353) 353 8.74 (0.64)
+
+SB11 (N= 351)
+
+351
+
+8.87 (0.75)
+
+Week 52
+
+US Lucentis® (N = 353) 353
+
+9.81 (0.74)
+
+Imputation Method: MI-MARS
+
+351 8.36 (0.64)
+
+Week 24
+
+US Lucentis® (N = 353) SB11 (N= 351)
+
+353
+
+8.97 (0.63)
+
+SB11 (N= 351)
+
+351
+
+9.40 (0.75)
+
+Week 52
+
+US Lucentis® (N = 353)
+
+353
+
+10.15 (0.74)
+
+Imputation Method: MI-MNARe
+
+SB11 (N= 351)
+
+351
+
+7.97 (0.65)
+
+Week 24
+
+US Lucentis® (N = 353)
+
+353
+
+8.57 (0.64)
+
+SB11 (N= 351)
+
+351
+
+8.51 (0.76)
+
+Week 52
+
+US Lucentis® (N = 353)
+
+353
+
+9.35 (0.75)
+
+Mean
+
+-0.80 (0.77)
+
+-0.62 (0.90)
+
+-0.73
+
+-0.94
+
+-0.61 (0.77)
+
+-0.75
+
+-0.60
+
+-0.85
+
+(SE)
+
+(0.79)
+
+(0.90)
+
+(0.90)
+
+(0.78)
+
+(0.92)
+
+[95% CI]
+
+[-2.314, 0.705]
+
+[-2.375, 1.140]
+
+[-2.275, 0.809]
+
+[-2.712, 0.836]
+
+[-2.108, 0.882]
+
+[-2.480, 0.977]
+
+[-2.123, 0.919]
+
+[-2.619, 0.929]
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; ETDRS = early treatment diabetic retinopathy study; LOCF = last observation carries forward; LS = least square; MI = multiple imputation; MAR= missing-at- random; MNAR = missing-not-at-random; N = total number of patients; n = total number of patients with available data at Week 24 or Week 52; SE = standard error.
+
+ª For the BCVA, the total BCVA letter scores were imputed by LOCF
+
+b For the BCVA, BCVA letter scores at 4 meter and 1 meter were imputed by multiple imputation method with the assumption of monotone missing pattern and regression method under the MAR
+
+"For the BCVA, BCVA letter scores at 4 meter and 1 meter were imputed by multiple imputation method with the assumption of monotone missing pattern and regression method under the MNAR.
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region (country) and treatment as fixed factors.
+
+The changes from baseline in BCVA at Week 24 for the FAS were 8.52 letters in the SB11 and 9.33 letters in the Lucentis treatment groups. The adjusted treatment difference of change from baseline in BCVA between the SB11 and Lucentis at Week 24 was -0.80 letters with a 95% CI of [-2.314, 0.705] (available case). Whereas the change from baseline in BCVA at EOS (Week 52) was 9.79 letters in the SB11 and 10.41 letters in the Lucentis treatment groups and the adjusted treatment difference at Week 52 was -0.62 letters with a 95% CI of [-2.375, 1.140] (available case). The ad-hoc 95% CIs for the FAS using LOCF, MI-MAR, and MI-MNAR at Week 24 and at Week 52 were also comparable.
+
+Assessment report EMA/446448/2021
+
+Page 70/146
+
+
+Table 29
+
+Table 14: Analysis of Change from Baseline in BCVA at Week 24 and Week 52 (Per- protocol Set for BCVA, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint Treatment n
+
+LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+SB11 (N = 351)
+
+324 8.40 (0.66)
+
+Week 24
+
+-0.97
+
+(0.79)
+
+[-2.517, 0.581]
+
+US Lucentis® (N = 353) 324 9.37 (0.65)
+
+SB11 (N = 336)
+
+300
+
+9.82 (0.78)
+
+Week 52
+
+-0.57
+
+(0.92)
+
+[-2.374, 1.236]
+
+US Lucentis® (N = 333)
+
+314
+
+10.39 (0.76)
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; ETDRS = early treatment diabetic retinopathy study; LS = least square; n = total number of patients with available data at Week 24 or Week 52; SE = standard error.
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region (country) and treatment as fixed factors.
+
+The change from baseline in BCVA at Week 24 for the PPS was 8.40 letters in the SB11 and 9.37 letters in the Lucentis treatment groups. At the EOS, the change from baseline was 9.82 letters in the SB11 and 10.39 letters in the Lucentis treatment groups. The adjusted treatment difference of the changes from baseline in BCVA between SB11 and Lucentis at Week 24 was -0.97 letters [95% CI: -2.517, 0.581] and at Week 52 the difference was -0.57 letters [95% CI: - 2.374, 1.236].
+
+Proportion of Patients Who Lost Fewer than 15 Letters in BCVA Compared with Baseline at Week 24 and Week 52
+
+The proportion of patients who lost fewer than 15 letters in BCVA at Week 24 for the FAS was 97.9% (326/333 patients) in the SB11 and 99.4% (336/338 patients) in the Lucentis treatment groups. At Week 52, the proportion of patients who lost fewer than 15 letters in BCVA was 96.8% (299/309 patients) in the SB11 and 97.9% (320/327 patients) in the Lucentis treatment groups.
+
+Table 30
+
+Table 21: Analysis of Difference in Proportion of Patients who Lost Fewer than 15 Letters in BCVA Compared to Baseline at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD)
+
+Responder
+
+Difference (SB11 - US Lucentis®)
+
+Adjusted Difference (%)
+
+Timepoint
+
+Treatment n' SB11 (N= 351) 333
+
+n
+
+(%)
+
+[95% CI]
+
+326
+
+97.9
+
+Week 24
+
+-1.54
+
+[-3.279, 0.206]
+
+US Lucentis® (N = 353) 338 336
+
+99.4
+
+SB11 (N=351)
+
+309
+
+299
+
+96.8
+
+Week 52
+
+-1.24
+
+[-3.764, 1.275]
+
+US Lucentis® (N = 353)
+
+327
+
+320
+
+97.9
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; ETDRS = early treatment diabetic retinopathy study; N = total number of patients; n' = total number of patients with available data at Week 24 or Week 52 Percentages were based on n'.
+
+The adjusted difference and its 95% CI were analyzed by a stratified Cochran Mantel Haenszel (CMH) test with region (country) as a factor.
+
+Source: Table 18 in Section 2.7.3 Summary of Clinical Efficacy
+
+The adjusted treatment difference between SB11 and Lucentis at Week 24 was -1.54 with a 95% CI of [-3.279, 0.206] and at Week 52 the adjusted differences was -1.24 with a 95% CI of [-3.764, 1.275].
+
+Assessment report EMA/446448/2021
+
+Page 71/146
+
+Proportion of Patients Who Gained 15 Letters or More in BCVA Compared with Baseline at Week 24 and Week 52
+
+The proportion of patients who gained 15 letters or more in BCVA to Week 24 for the FAS was 25.5% (85/333 patients) in the SB11 and 27.2% (92/338 patients) in the Lucentis treatment groups and 34.6% [107/309 patients] in the SB11 and 37.6% [123/327 patients] in the Lucentis treatment groups at Week 52.
+
+Table 31
+
+Table 22: Analysis of Difference in Proportion of Patients Gained 15 Letters or More in BCVA Compared to Baseline at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD)
+
+Responder
+
+Difference (SB11 - US Lucentis®)
+
+Adjusted
+
+Timepoint
+
+Treatment
+
+n
+
+n
+
+(%)
+
+Difference (%)
+
+[95% CI]
+
+SB11 (N= 351) 333
+
+85
+
+25.5
+
+Week 24
+
+-1.91
+
+[-8.554, 4.730]
+
+US Lucentis® (N = 353) SB11 (N= 351)
+
+338
+
+92
+
+27.2
+
+309
+
+107
+
+34.6
+
+Week 52
+
+-3.17
+
+[-10.509, 4.163]
+
+US Lucentis® (N = 353)
+
+327
+
+123
+
+37.6
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; ETDRS = early treatment diabetic retinopathy study; N = total number of patients; n' = total number of patients with available data at Week 24 or Week 52 Percentages were based on n'.
+
+The adjusted difference and its 95% CI were analyzed by a stratified Cochran Mantel Haenszel (CMH) test with region (country) as a factor.
+
+Source: Table 19 in Section 2.7.3 Summary of Clinical Efficacy
+
+The adjusted treatment difference between SB11 and Lucentis at Week 24 was -1.91 with a 95% CI of [-8.554, 4.730] and at Week 52 the treatment difference was -3.17 with a 95% CI of [-10.509, 4.163].
+
+Additionally, the proportion of patients who gained and lost 5 and 10 letters or more in BCVA compared with baseline at Week 24 and Week 52 were comparable between the 2 treatment groups.
+
+Change from Baseline in Total CNV Size (Area of CNV) at Week 24 and Week 52
+
+Table 32
+
+Table 23: Analysis of Change from Baseline in Area of CNV at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD)
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint
+
+Treatment
+
+n
+
+LS Mean (SE)
+
+Mean
+
+(SE)
+
+[95% CI]
+
+SB11 (N= 351)
+
+325
+
+-3.98 (0.27)
+
+Week 24
+
+-0.07
+
+(0.33)
+
+[-0.711, 0.572]
+
+US Lucentis® (N = 353) 329 -3.91 (0.27)
+
+SB11 (N= 351)
+
+303
+
+-5.17 (0.28)
+
+Week 52
+
+-0.55
+
+(0.33)
+
+[-1.200, 0.105]
+
+US Lucentis® (N = 353) 313
+
+-4.62 (0.27)
+
+CI = confidence interval; CNV = choroidal neovascularization (area of CNV: mm2); LS mean = least squares mean; N = total number of patients; n = total number of patients with available data at Week 24 or Week 52; SE = standard error Inferential statistics were based on analysis of covariance model with the baseline area of CNV as a covariate and region (country) and treatment group as fixed factors.
+
+Source: Table 20 in Section 2.7.3 Summary of Clinical Efficacy
+
+Assessment report EMA/446448/2021
+
+Page 72/146
+
+Results revealed that the size was well comparable across the SB11 and Lucentis treatment arms (SB11: - 3.98 mm2, Lucentis: - 3.91 mm2 at Week 24; SB11: - 5.17 mm2, Lucentis: - 4.62 mm2 at Week 52). The adjusted treatment difference between SB11 and Lucentis at Week 24 was -0.07 mm2 with a 95% CI of [-0.711, 0.572] and at Week 52 was -0.55 mm2 with a 95% CI of [-1.200, 0.105].
+
+Figure 3
+
+Proportion of Patients with Active CNV Leakage at Week 24 and Week 52
+
+100 -
+
+90 -
+
+.
+
+SB11 I Lucentis
+
+80
+
+70 -
+
+60 -
+
+%
+
+50
+
+64.6%(210/325) 66.3%(218/329)
+
+59.1%(185/313)
+
+52.1%(158/303)
+
+40 -
+
+30 -
+
+20
+
+10 -
+
+0
+
+Week 24
+
+Week 52
+
+Figure 11-6 Proportion of Subjects with Active CNV Leakage at Week 24 and Week 52 - CNV: Choroidal neovascularization
+
+- Source: Figure 14.2-4.1
+
+The proportion of patients with active choroidal neovascularisation leakage at Week 24 for the FAS was 64.6% (210/325 patients) in the SB11 and 66.3% (218/329 patients) in the Lucentis treatment groups. The proportion of patients with active CNV leakage at Week 52 was 52.1% (158/303 patients) in the SB11 and 59.1% (185/313 patients) in the Lucentis arm.
+
+Table 33
+
+Table 24: Analysis of Difference in Proportion of Patients with Active CNV Leakage at Week 24 and Week 52 (Full Analysis Set, Study SB11-G31-AMD)
+
+Responder
+
+Difference (SB11 - US Lucentis®)
+
+Timepoint
+
+Week 24
+
+Treatment
+
+n
+
+SB11 (N= 351)
+
+325
+
+US Lucentis® (N = 353)
+
+329
+
+n
+
+(%)
+
+210
+
+64.6
+
+218
+
+66.3
+
+Adjusted Difference (%)
+
+-1.80
+
+[95% CI]
+
+[-8.972, 5.364]
+
+SB11 (N= 351)
+
+303
+
+158
+
+52.1
+
+Week 52
+
+-7.36
+
+[-14.959, 0.243]
+
+US Lucentis® (N = 353)
+
+313
+
+185
+
+59.1
+
+CI = confidence interval; CMH = Cochran Mantel Haenszel; CNV = choroidal neovascularization; LS mean = least squares mean; N = total number of patients; n' = total number of patients with available assessment results at each timepoint Percentages were based on n'.
+
+Assessment report EMA/446448/2021
+
+Page 73/146
+
+Active CNV leakage at Week 24 was comparable between the treatments (64.6% versus 66.3% in the SB11 and Lucentis arm, respectively) and the adjusted treatment difference between SB11 and Lucentis at Week 24 was -1.80 [95% CI: - 8.972, 5.364] for the FAS. However, at the end of the study (Week 52), the proportion of patients with active CNV leakage was higher when treated with Lucentis than when treated with SB11 (52.1% versus 59.1% in the SB11 and Lucentis arm, respectively with a treatment difference of -7.36 letters [95% CI: - 14.959, 0.243]).
+
+Exploratory Efficacy Results
+
+Proportion of Patients without Intra- or Sub-retinal Fluid at Week 24 and Week 52
+
+In the FAS on available cases, the proportion of subjects without intra- or sub-retinal fluid increased over time, with a minimum of subjects without intra- or sub-retinal fluid at Week 0 (SB11: 26.2% [92/351], Lucentis: 24.6% [87/353] subjects) and higher proportion at Week 24 and Week 52 (SB11: 76.2% [250/328], Lucentis: 80.9% [271/335] subjects at Week 24; SB11: 84.4% [260/308], Lucentis: 81.0% [265/327] subjects at Week 52). It was shown that the proportion of patients without intra- or subretinal fluid increased to a similar extent in both study arms over the 52-week period without showing a consistent higher improvement in one of the arms.
+
+Change from baseline Composite Score of NEI VFQ-25 at Week 24 and Week 52
+
+An increase in the NEI VFQ-25 composite score in the FAS using available cases was observed at Week 24 and Week 52 in both treatment groups (SB11: 79.29, Lucentis: 82.57 at Week 24; SB11: 80.54, Lucentis: 84.03 at Week 52).
+
+Overall, the mean change in the NEI VFQ-25 composite score in Lucentis-treated eyes improved slightly more at both 24- and 52-week visits compared to SB11 treatment. However, the mean change between the two treatment groups is not considered clinically meaningful (SB11: 3.80, Lucentis: 4.98 at Week 24; SB11: 4.54, Lucentis: 6.47 at Week 52).
+
+Ancillary analyses
+
+Subgroup Analyses of Change from Baseline in CST
+
+Change from Baseline in CST at Week 4 by Overall ADA Result up to Week 4
+
+Table 34
+
+Table 14.2-2.2.3 (Page 1 of 1) Subgroup Analysis of Change from Baseline in CST at Week 4 by Overall ADA up to Week 4 Per-Protocol Set for CST
+
+Subgroup
+
+Treatment
+
+n
+
+Least squares mean (SE)
+
+Mean
+
+Difference (SB11 - Lucentis) (SE) 95% CI
+
+Positive SB11 (N=7)
+
+7 -73.72 (12.74)
+
+-53.53
+
+(22.39)
+
+(-111.076, 4.021)
+
+Lucentis (N=5) 5 -20.20 (19.43)
+
+Negative
+
+SB11 (N=313) 313 -110.38 (4.86)
+
+-10.44
+
+(6.01) (-22.251, 1.373)
+
+Lucentis (N=306)
+
+306 -99.94 (4.85)
+
+Inconclusive
+
+SB11 (N=4)
+
+4
+
+-47.53 (0.00)
+
+-27.29 (-)
+
+(-, -)
+
+Lucentis (N=2)
+
+2 -20.24 (0.00)
+
+Source: Listing 16.2.6-1.4
+
+- CST: Central Subfield Thickness (microns) ; ADA: Anti-Drug Antibody; CI: Confidence Interval; SE: Standard Error. - n: Total number of subjects with available data at Week 4.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Assessment report EMA/446448/2021
+
+Page 74/146
+
+Change from Baseline in CST at Week 4 by Total Lesion Area ($ 4 DA vs > 4 DA) at Baseline
+
+Table 35
+
+Table 14.2-2.2.4 (Page 1 of 1) Subgroup Analysis of Change from Baseline in CST at Week 4 by Total Lesion Area at Baseline Per-Protocol Set for CST
+
+Subgroup Treatment n
+
+<= 4DA
+
+> 4DA
+
+SB11 (N=229) 229
+
+Lucentis (N=230) 230 -98.61 (5.25)
+
+SB11 (N=113) 113
+
+Lucentis (N=108) 108
+
+Least squares mean (SE)
+
+-106.05 (5.24)
+
+-116.99 (9.72)
+
+-106.67 (9.50)
+
+Mean (SE) 95% CI
+
+-7.44
+
+-10.32 (12.04) (-34.055, 13.410)
+
+Difference (SB11 - Lucentis)
+
+(6.20) (-19.620, 4.738)
+
+Source: Listing 16.2.6-1.4
+
+- CST: Central Subfield Thickness (microns) ; CI: Confidence Interval; SE: Standard Error.
+
+- n: Total number of subjects with available data at Week 4.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Assessment report EMA/446448/2021
+
+Page 75/146
+
+Change from Baseline in CST at Week 4 by Lesion Type at Baseline
+
+Table 36
+
+Table 14.2-2.2.5 (Page 1 of 1) Subgroup Analysis of Change from Baseline in CST at Week 4 by Lesion Type at Baseline Per-Protocol Set for CST
+
+Subgroup Treatment n
+
+No CNV
+
+SB11 (N=0) 0 No data to display
+
+Lucentis (N=0) 0
+
+Classic CNV SB11 (N=27) 27
+
+Lucentis (N=25)
+
+25
+
+Classic & Occult SB11 (N=112)
+
+112
+
+Occult SB11 (N=203) 203 -100.06 (6.98)
+
+Disciform Scar
+
+Lucentis (N=119) 119 -109.02 (7.71)
+
+Lucentis (N=194) 194
+
+SB11 (N=0) 0 No data to display
+
+-124.24 (13.30)
+
+-113.77 (13.69)
+
+-125.60 (7.87)
+
+-93.50 (7.03)
+
+Lucentis (N=0) 0
+
+Mean Least squares mean (SE)
+
+Difference (SB11 - Lucentis)
+
+(SE)
+
+95% CI
+
+-10.47
+
+(17.65) (-46.119, 25.182)
+
+-16.57
+
+(10.11) (-36.506, 3.358)
+
+-6.56
+
+(7.40) (-21.109, 7.985)
+
+Source: Listing 16.2.6-1.4
+
+- CST: Central Subfield Thickness (microns) ; CNV: Choroidal Neovascularization; CI: Confidence Interval; SE: Standard Error.
+
+- n: Total number of subjects with available data at Week 4.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Change from Baseline in CST at Week 4 by Country
+
+Table 37
+
+Table 14.2-2.2.6 (Page 1 of 2) Subgroup Analysis of Change from Baseline in CST at Week 4 by Country Per-Protocol Set for CST
+
+Subgroup
+
+Treatment
+
+Czech Republic
+
+Germany
+
+Hungary
+
+India
+
+Korea
+
+Poland SB11 (N=46) 46
+
+Russia
+
+United Kingdom SB11 (N=10) 10
+
+United States
+
+SB11 (N=80) 80
+
+Lucentis (N=73) 73
+
+SB11 (N=14) 14 -139.00 (22.20)
+
+Lucentis (N=15) 15 -127.00 (21.44)
+
+SB11 (N=68) 68 -116.04 (8.31)
+
+Lucentis (N=66) 66 -120.66 (8.44)
+
+SB11 (N=10) 10 -136.74 (18.52)
+
+Lucentis (N=11) 11 -84.42 (17.65)
+
+SB11 (N=38) 38 -86.40 (7.26)
+
+Lucentis (N=39) 39 -76.33 (7.17)
+
+Lucentis (N=47) 47 -91.35 (9.68)
+
+SB11 (N=21) 21
+
+Lucentis (N=20) 20
+
+Lucentis (N=10) 10 -76.21 (24.67)
+
+SB11 (N=55) 55
+
+Lucentis (N=57) 57 -123.51 (9.20)
+
+n
+
+Least squares mean (SE)
+
+-83.78 (10.56)
+
+-93.37 (9.78)
+
+-103.39 (19.40)
+
+-87.59 (19.88)
+
+-92.19 (24.67)
+
+-123.30 (9.37)
+
+Mean -101.16 (10.09)
+
+Difference (SB11 - Lucentis) (SE) 95% CI
+
+-17.38
+
+(14.61)
+
+(-46.248, 11.493)
+
+-12.01
+
+(30.97)
+
+(-75.668, 51.649)
+
+4.62
+
+(11.88)
+
+(-18.886, 28.132)
+
+-52.31
+
+(25.70)
+
+(-106.305, 1.680)
+
+-10.07
+
+(10.21)
+
+(-30.414, 10.275)
+
+-2.02
+
+(13.76) (-29.358, 25.309)
+
+-15.81
+
+(27.82) (-72.135, 40.522)
+
+-15.99
+
+(35.17) (-90.198, 58.225)
+
+0.21
+
+(13.15)
+
+(-25.849, 26.278)
+
+Source: Listing 16.2.6-1.4
+
+- CST: Central Subfield Thickness (microns) ; CI: Confidence Interval; SE: Standard Error.
+
+- n: Total number of subjects with available data at Week 4.
+
+- Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Assessment report EMA/446448/2021
+
+Page 76/146
+
+In general, the subgroup analyses of the efficacy variable CST were comparable regarding prognostic factors (total lesion area, lesion type, country). A difference in efficacy in terms of mean change in CST from baseline up at Week 4 was observed in ADA positive subjects between the treatments (-73.72 um and -20.20 um for the SB11 arm and the Lucentis arm, respectively). The difference (SB11- Lucentis) in mean change in CST from baseline up to Week 4 is -53.53 with 95% CI (-111.076, 4.021) for ADA positive patients which does not lie within the 95% CI (-22.251, 1.373) of the ADA negative subgroup, but the 95% CIs overlap and the overall point estimate of -8.35 um lies within both 95% CIs (possible differences in the subgroup analyses in CST at week 4 and BCVA at week 8 by overall ADA result up to Week 52 are discussed in more detail below).
+
+Overall, some heterogeneity were observed in the Indian subgroup (mean difference: - 52.31; 95% CI: - 106.305, 1.68), but this is attributed to low sample sizes in these groups and the magnitude is not to an extent that affects the overall conclusion on consistency in treatment effect across subgroups. The 95% CIs of the difference in change from baseline in CST for all subgroups seem to cover the overall point estimate of -8.35 um.
+
+For better comparability the applicant provided forest plots for the different subgroups:
+
+Figure 4
+
+Subgroup
+
+N
+
+SB11
+
+n LSmeans (SE)
+
+Overall ADA up to Week 4
+
+Positive 12 7 -73.72 (12.74) Negative 619 313 -110.38 (4.86) Inconclusive 6 4 -47.53 (0.00)
+
+Total Lesion Area at Baseline
+
+<= 4DA 459 229 -106.05 (5.24) 230 -98.61 (5.25)
+
+> 4DA
+
+221
+
+Lesion Type at Baseline
+
+No CNV 0 No data
+
+Classic CNV 52 27 -124.24 (13.30) 25 -113.77 (13.69) -10.47 (-46.12, 25.18)
+
+Classic & Occult 231 112 -125.60 (7.87) 119 -109.02 (7.71) -16.57 (-36.51, 3.36)
+
+Occult
+
+397
+
+Disciform Scar 0
+
+Country
+
+Czech Republic 153 80 -101.16 (10.09) 73 -83.78 (10.56) -17.38 (-46.25, 11.49)
+
+Germany 29 14 -139.00 (22.20)
+
+Hungary 134 68 -116.04 (8.31)
+
+India
+
+21 10 -136.74 (18.52)
+
+Korea
+
+77 38 -86.40 (7.26)
+
+Poland
+
+93 46 -93.37 (9.78)
+
+Russia 41 21 -103.39 (19.40)
+
+United Kingdom
+
+20 10 -92.19 (24.67)
+
+United States 112 55 -123.30 (9.37)
+
+113 -116.99 (9.72) 108 -106.67 (9.50)
+
+203 -100.06 (6.98)
+
+No data
+
+Lucentis
+
+n LSmeans (SE)
+
+5 -20.20 (19.43)
+
+306 -99.94 (4.85)
+
+2 -20.24 (0.00)
+
+194 -93.50 (7.03)
+
+15 -127.00 (21.44) -12.01 (-75.67, 51.65)
+
+66 -120.66 (8.44)
+
+11 -84.42 (17.65)
+
+39 -76.33 (7.17)
+
+47 -91.35 (9.68) -2.02 (-29.36, 25.31)
+
+20 -87.59 (19.88) -15.81 (-72.14, 40.52)
+
+10 -76.21 (24.67) -15.99 (-90.20, 58.22)
+
+57 -123.51 (9.20)
+
+SB11-Lucentis
+
+Difference (95% CI)
+
+-53.53 (-111.08, 4.02) -10.44 (-22.25, 1.37)
+
+-27.29 ( -: - )
+
+-7.44 (-19.62, 4.74)
+
+-10.32 (-34.06, 13.41)
+
+-6.56 (-21.11, 7.99)
+
+4.62 (-18.89, 28.13)
+
+-52.31 (-106.31, 1.68)
+
+-10.07 (-30.41, 10.28)
+
+0.21 (-25.85, 26.28)
+
+-36
+
+0
+
+36
+
+Difference (SB11 - Lucentis)
+
+Figure 1: Forest Plot for Change from Baseline in CST at Week 4 (Per-protocol Set for CST, Study SB11-G31-AMD)
+
+ADA = anti-drug antibody; CI = confidence Interval; CNV = choroidal neovascularization; CST = central subfield thickness (microns); DA = disc area; LS = least square; n = total number of patients with available data at Week 4; SE = standard error. Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Listing 16.2.6-1.4
+
+Subgroup Analyses of change from baseline in BCVA
+
+Forest plots for the difference in mean change from baseline in BCVA at Week 8 in the FAS using available case, last observation carried forward (LOCF), multiple imputation under missing-at-random (MI-MAR), and multiple imputation under missing-not-at-random (MI-MNAR) approaches were provided for better comparability between subgroups (Figure 5 shows the analysis for available cases as example). Regardless of the imputation methods used for the FAS, the patterns observed in the forest plots for the difference in mean change from baseline in BCVA at Week 8 of the subgroup analyses were similar.
+
+Assessment report EMA/446448/2021
+
+Page 77/146
+
+Figure 5
+
+Subgroup
+
+N
+
+SB11
+
+n LSmeans (SE)
+
+Overall ADA up to Week 8
+
+Positive 15 8 1.29 (4.60) Negative 636 313 6.57 (0.52) Inconclusive 6 4 17.31 (-)
+
+Total Lesion Area at Baseline <= 4DA 478 235 7.22 (0.62)
+
+> 4DA
+
+226 111 4.06 (0.94) 110 5.84 (0.91)
+
+Lesion Type at Baseline No CNV 1 No data
+
+Classic CNV 55 27 13.54 (1.76) 27 6.06 (1.78) 7.49 (2.84, 12.14) Classic & Occult 239 114 6.64 (0.93) -1.51 (-3.87, 0.85)
+
+Occult 409 205 4.82 (0.69)
+
+Disciform Scar 0 No data
+
+Country
+
+Czech Republic 159 82 8.14 (0.86)
+
+Germany 31 14 3.41 (2.01)
+
+Hungary 142 70 6.50 (0.96)
+
+India 21 10 7.65 (2.38)
+
+Korea
+
+79
+
+40 6.57 (0.98)
+
+Poland 96 46 4.19 (1.32)
+
+Russia 42 21 5.90 (1.67)
+
+United Kingdom
+
+21 10 2.89 (3.13)
+
+United States 113 53 7.93 (1.31)
+
+Lucentis
+
+n LSmeans (SE)
+
+7 4.77 (4.77)
+
+314 7.07 (0.52)
+
+2 -9.57 (-)
+
+238 7.43 (0.62) -0.20 (-1.63, 1.22) -1.78 (-4.06, 0.50)
+
+120 8.15 (0.91)
+
+200 6.18 (0.69) -1.36 (-2.80, 0.08)
+
+77 8.70 (0.89)
+
+16 5.08 (1.87)
+
+69 5.71 (0.96)
+
+11 7.68 (2.27)
+
+39 7.45 (0.99)
+
+48 7.63 (1.30)
+
+21 7.96 (1.67)
+
+10 10.11 (3.13)
+
+SB11-Lucentis
+
+Difference (95% CI)
+
+-3.48 (-20.32, 13.35) -0.51 (-1.77, 0.76) 26.89 (-)
+
+-0.56 (-3.01, 1.89) -1.66 (-7.32, 3.99)
+
+0.78 (-1.91, 3.48)
+
+-0.02 (-7.10, 7.05)
+
+-0.88 (-3.64, 1.88)
+
+-3.43 (-7.11, 0.25)
+
+-2.06 (-6.83, 2.72)
+
+-7.21 (-16.62, 2.19) 57 7.03 (1.26)
+
+0.90 (-2.70, 4.51)
+
+I
+
+IT
+
+-3 3
+
+Difference (SB11 - Lucentis)
+
+Figure 2 Forest Plot for Change from Baseline in BCVA at Week 8 (Full Analysis Set, Study SB11-G31-AMD) (Available
+
+Case)
+
+ADA = anti-drug antibody; BCVA= best corrected visual acuity (ETDRS letter score); CI = confidence interval; CNV = choroidal neovascularization; DA = disc area; LS = least square; n = total number of patients with available data at Week 8; SE = standard error.
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region(country) and treatment group as fixed factors.
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Listing 16.2.6-1.1
+
+The subgroup of "classic CNV" containing 27 subjects with available cases per treatment arm showed a marked difference in treatment effect compared to the overall population, i.e. it had a mean difference of 7.49 letters in mean change from baseline in BCVA at Week 8 with 95% CI: [2.84, 12.14] in the FAS using available cases which does not include the overall treatment effect of -0.8 letters. The applicant has identified possible demographic reasons (slight imbalance in total lesion/CNV area and central retinal lesion thickness) where larger baseline CNV lesion size was observed in the Lucentis treatment arm. According to the retrospective subgroup analysis of 12-month data from the ANCHOR study but also other trial results, CNV lesion size was a predictor of the VA outcome. Accordingly, a less advanced disease (including a lower baseline VA score and a smaller baseline CNV lesion size) was associated with greater gain in letters with ranibizumab treatment. It can be assumed that the baseline imbalances and the relatively small sample sizes led to the difference of the classic CNV subgroup.
+
+For the subgroup of patients with "occult CNV" containing 201/208 (under LOCF imputation) the mean difference in BCVA at Week 8 was -1.53 with 95% CI [-3.00, -0.06] and does not include 0 (whereas all other imputation methods included 0), but the overall treatment effect of -0.8 letters was covered in the 95% CI.
+
+For the ADA positive and the ADA negative subgroups the 95% CIs of the change from baseline in BCVA at Week 8 included 0 with all imputation methods. As the number of ADA positive patients (8 in the SB11 and 7 in the Lucentis group) is quite small, the corresponding 95% CIs are wide and not within the equivalence margins.
+
+The other BCVA analyses in the subgroups according to prognostic factors at baseline (total lesion area, lesion type, country) or immunogenicity results showed consistency of the treatment effect across subgroups.
+
+Subgroup Analyses of Change from Baseline in CST at Week 4 and BCVA at Week 8 by Overall ADA Result up to Week 52
+
+Assessment report EMA/446448/2021
+
+Page 78/146
+
+Table 38
+
+Table 18: Subgroup Analysis of Change from Baseline in CST at Week 4 by Overall ADA Result up to Week 52 (Per-Protocol Set for CST, Study SB11-G31- AMD) (Ad-hoc Analysis)
+
+Subgroup
+
+Positive
+
+SB11 (N=13)
+
+Positive Lucentis® (N=18) 18 -49.49 (12.37)
+
+Negative SB11 (N=307)
+
+Negative Lucentis® (N=294) 294
+
+Inconclusive SB11 (N=4)
+
+Inconclusive Lucentis® (N=1)
+
+Table 39
+
+Table 19: Subgroup Analysis of Change from Baseline in BCVA at Week 8 by Overall ADA Result up to Week 52 (Full Analysis Set, Study SB11-G31- AMD) (Available Case) (Ad-hoc Analysis)
+
+Subgroup
+
+Difference (SB11 - US Lucentis®)
+
+Mean (SE)
+
+95% CI
+
+Treatment n
+
+13 -66.89 (11.62)
+
+Least squares
+
+mean (SE)
+
+-17.39
+
+(16.01)
+
+[-50.696, 15.910]
+
+307 -111.84 (4.97)
+
+-11.08 -100.76 (4.97)
+
+(6.16)
+
+[-23.186, 1.029]
+
+4
+
+1
+
+Non-est (-)
+
+- -
+
+Non-est (-)
+
+Difference (SB11 - US Lucentis®)
+
+Treatment
+
+Least squares
+
+n
+
+mean (SE)
+
+Mean (SE)
+
+90% CI
+
+Positive
+
+SB11 (N=14)
+
+14 1.53 (2.09)
+
+-3.03
+
+(2.95)
+
+[-8.105, 2.036]
+
+Positive Lucentis® (N=18) 18 4.57 (2.53)
+
+Negative SB11 (N=312)
+
+307 6.62 (0.53)
+
+-0.50
+
+(0.66) [-1.581, 0.584]
+
+Negative Lucentis® (N=308) 304 7.12 (0.53)
+
+Inconclusive
+
+SB11 (N=4) 4
+
+Non-est (-)
+
+Inconclusive
+
+Lucentis® (N=1)
+
+1
+
+Non-est (-)
+
+ADA: anti-drug antibody; BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; n = total number of patients with available data at Week 8; Non-est = non-estimable; SE = standard error
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region (country) and treatment as fixed factors.
+
+ADA = anti-drug antibody; CI = confidence interval; CST = central subfield thickness (microns); n = total number of patients with available data at Week 4; Non-est = non-estimable; SE = standard error
+
+Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+For subjects with positive ADA status, the mean difference of change from baseline in CST at week 4 between both treatment arms was -17.39um with 95% CI [-50.696, 15.910] using the PPS. Contrary, the mean change from baseline in BCVA at week 8 between the treatment arms was -3.03 letters with 90% CI [-8.105, 2.036] using available cases in the FAS. This difference can also be followed over time (Week 24 and Week 52 analysis). The applicant explains this difference, by the small sample size and a more complex relationship between BCVA and retinal thickness in nAMD. This can be followed.
+
+The number of ADA-positive patients remained constant from week 4 (8), 24 to 52 but was always slightly higher in the originator arm Lucentis. Titer levels were not measured during the NAb assessment. As the number of subjects with positive NAbs up to week 52 was quite low and, consequently, the variability high, it is difficult to see any pattern.
+
+Assessment report EMA/446448/2021
+
+Page 79/146
+
+Table 40
+
+Table 25: Subgroup Analysis of Change from Baseline in CST at Week 52 by Overall NAb Result up to Week 52 (Per-protocol Set for CST, Study SB11-G31- AMD) (Ad-hoc Analysis)
+
+Subgroup
+
+Positive
+
+Treatment
+
+Least squares
+
+n
+
+mean (SE)
+
+Difference (SB11 - US Lucentis®)
+
+Mean
+
+(SE)
+
+95% CI
+
+SB11 (N=4) 3 -(-)
+
+Lucentis® (N=3) 3 - (-)
+
+-
+
+-
+
+(-)
+
+(-)
+
+(-)
+
+SB11 (N=13) 11
+
+-62.86 (16.63)
+
+Negative
+
+1.02 22.59
+
+[-46.429, 48.473]
+
+Lucentis® (N=16) 15
+
+-63.88 (16.45)
+
+CI = confidence interval; CST: central subfield thickness (microns); NAb = neutralizing antibody; N = number of patients with available data at Week 52; SE = standard error.
+
+Overall NAb results (up to the relevant timepoints) were determined as positive when a patient had at least one positive result among all available NAb test results up to the relevant timepoints.
+
+Inferential statistics were based on analysis of covariance model with the baseline CST as a covariate and region (country) and treatment group as fixed factors.
+
+Table 41
+
+Table 26: Subgroup Analysis of Change from Baseline in BCVA at Week 52 by Overall NAb Result up to Week 52 (Full Analysis Set, Study SB11-G31- AMD) (Available Case) (Ad-hoc Analysis)
+
+Subgroup
+
+Treatment n
+
+Least squares
+
+Difference (SB11 - Lucentis®)
+
+mean (SE)
+
+Mean
+
+(SE)
+
+90% CI
+
+SB11 (N=4) 3 -(-)
+
+(-)
+
+(-)
+
+Positive
+
+Lucentis (N=3)
+
+3
+
+-(-)
+
+(-)
+
+(-)
+
+SB11 (N=14)
+
+12
+
+11.65 (2.38)
+
+Negative
+
+3.18
+
+3.24
+
+[-2.424, 8.790]
+
+Lucentis (N=16) 15
+
+8.47 (2.42)
+
+BCVA = best corrected visual acuity (ETDRS letter score); CI = confidence interval; n = number of patients with available data at Week 52; NAb = neutralizing antibody; SE = standard error.
+
+Overall NAb results (up to the relevant timepoints) were determined as positive when a patient had at least one positive result among all available NAb test results up to the relevant timepoints.
+
+Inferential statistics were based on analysis of covariance model with the baseline BCVA as a covariate and region (country) and treatment group as fixed factors.
+
+Overall, the limited number of actual ADA-positive subjects, as well as the fact that an opposite outcome was seen between the EMA- and FDA-facing primary endpoint (CST and BCVA, respectively), whereby the outcome of CST was in favor of SB11 and the change of BCVA was in favor of Lucentis, make it not possible to infer clinical meaning from these findings and it is entirely possible that this represents a chance finding.
+
+Summary of main study(ies)
+
+The following tables summarise the efficacy results from the main studies supporting the present application. These summaries should be read in conjunction with the discussion on clinical efficacy as well as the biosimilarity assessment (see later sections).
+
+Assessment report EMA/446448/2021
+
+Page 80/146
+
+
+Table 42: Summary of Efficacy for trial SB11-G31-AMD
+
+Title: A Phase III Randomised, Double-masked, Parallel Group, Multicentre Study to Compare the Efficacy, Safety, Pharmacokinetics, and Immunogenicity between SB11 (proposed ranibizumab biosimilar) and Lucentis in Subjects with Neovascular Age-related Macular Degeneration.
+
+Study identifier
+
+EudraCT number: 2017-000422-36
+
+US IND Number: 130331
+
+Design
+
+Randomised, double-masked, parallel group, multicenter study to evaluate the
+
+efficacy, safety, PK, and immunogenicity of SB11 compared with Lucentis in
+
+subjects with neovascular AMD. After Screening, eligible subjects were
+
+randomly allocated in a 1:1 ratio to receive either SB11 or Lucentis.
+
+Hypothesis
+
+Treatments groups
+
+Endpoints and
+
+definitions
+
+Duration of main phase:
+
+Duration of Run-in phase:
+
+Duration of Extension phase:
+
+Equivalence
+
+SB11 (biosimilar
+
+candidate)
+
+US-Lucentis
+
+Primary
+
+endpoint
+
+Change from baseline in CST at Week 4
+
+Mar 14, 2018 - Dec 09, 2019
+
+not applicable
+
+not applicable
+
+0.5 mg SB11 via ITV route every 4 weeks up to Week 48 (13 doses in total) 0.5 mg SB11 via ITV route every 4 weeks up to Week 48 (13 doses in total)
+
+The equivalence in CST was declared if the two- sided 95% CI of the difference of the CST LS mean change from baseline in Week 4 lies within the pre-defined margin of [-36 um, 36 um]
+
+Secondary
+
+endpoints
+
+8
+
+Change from The equivalence in BCVA was declared if the baseline in two-sided 90% CI of the difference in terms of BCVA at Week BCVA LS mean change from baseline at Week 8 lies within the pre-defined margin of [-3 letters, 3 letters].
+
+Change from baseline in CST/ CRLT at Week 24 and Week 52
+
+Change from baseline in BCVA over time up to Week 24 and Week 52
+
+Database lock
+
+Feb 03, 2020
+
+Proportion of patients who lost fewer than 15 letters in BCVA compared with baseline at Week 24 and Week 52
+
+Proportion of patients who gained 15 letters or more in BCVA compared with baseline at Week 24 and Week 52
+
+Change from baseline in total CNV size (area of CNV) at Week 24 and Week 52
+
+Proportion of patients with active CNV leakage at Week 24 and Week 52
+
+Results and Analysis
+
+Analysis description
+
+Analysis population
+
+Primary Analysis Full analysis set (FAS) and Per protocol (PPS)
+
+Assessment report EMA/446448/2021
+
+Page 81/146
+
+and time point
+
+description
+
+Descriptive statistics and estimate variability
+
+PEP evaluation by w4, sec. EP evaluation by w8, 24, 52
+
+Primary endpoint
+
+Treatment group
+
+SB11
+
+Number of
+
+subject
+
+342
+
+Change from
+
+Baseline in CST at
+
+Week 4
+
+Mean (SE) (um)
+
+-108.40 (4.65)
+
+-100.05 (4.64)
+
+(PPS)
+
+Mean Difference (SE) [95% CI]
+
+Change from
+
+Baseline in CST at
+
+Week 4
+
+(n)
+
+(350)
+
+-108.73 (4.56)
+
+Mean (SE) (um)
+
+(FAS, available cases) Mean Difference (SE) [95% CI] Change from Baseline in CST at Week 4 (351) -108.17 (4.58)
+
+(n) Mean (SE) (um) (FAS, MI-MAR) Mean Difference (SE)
+
+US-Lucentis
+
+338
+
+-8.35 (5.65)
+
+[-19.446, 2.747]
+
+(348)
+
+-100.55 (4.53)
+
+-8.18 (5.54) [-19.054, 2.699]
+
+(353) -100.27 (4.55)
+
+-7.90 (5.56) [-18.776, 2.984]
+
+Change from
+
+Baseline in CST at
+
+(351)
+
+-108.17 (4.58)
+
+Week 4 (n) Mean (SE) (um) (FAS, MI-MNAR) Mean Difference (SE)
+
+(353)
+
+-100.27 (4.55)
+
+-7.90 (5.56) [-18.776, 2.984]
+
+Effect estimate per
+
+comparison
+
+Secondary endpoint Change from baseline in BCVA at Week 8
+
+Mean (SE) (letters)
+
+(FAS, available case) Mean Difference (SE)
+
+SB11
+
+6.18 (0.52) 6.99 (0.51)
+
+US-Lucentis
+
+-0.82 (0.62) [-2.046, 0.398]
+
+[95% CI]
+
+(PPS) Mean Difference [(SE) [-1.808, 0.286] [-2.010, 0.487]
+
+[90% CI],
+
+[95% CI]
+
+-0.76 (0.64)
+
+Analysis description
+
+Secondary analysis
+
+Assessment report EMA/446448/2021
+
+Page 82/146
+
+Change from Baseline in CPT at Week 4 (PPS) LS Mean (SE) um Mean Difference (SE) [95% CI]
+
+Change from Baseline
+
+in CPT at Week 4
+
+(FAS)
+
+LS Mean (SE) um
+
+Mean Difference (SE)
+
+[95% CI]
+
+Change from baseline
+
+in CST at Week 24
+
+w24: - 135.68 (4.09)
+
+w52: - 139.55 (4.57)
+
+and Week 52 (PPS) LS Mean (SE) um Mean Difference (SE) [95% CI]
+
+Change from baseline
+
+in CST at Week 24
+
+w24: - 135.88 (4.05)
+
+-126.39 (3.93)
+
+and Week 52 (FAS, available cases) LS Mean (SE) um Mean Difference (SE) [95% CI]
+
+Change from baseline
+
+in CRLT at Week 24
+
+w24: - 147.67 (5.07)
+
+-138.41 (4.92)
+
+and Week 52 (FAS, available cases) LS Mean (SE) um Mean Difference (SE) [95% CI]
+
+Change from baseline
+
+in BCVA at Week 24
+
+and Week 52
+
+(FAS, available case)
+
+(FAS, LOCF) (FAS, MAR) (FAS, MNAR) w24: - 0.73 (0.79) [-2.275, 0.809] w52: - 0.94 (0.90) [-2.712, 0.836]
+
+LS Mean (SE) letters
+
+Mean Difference (SE)
+
+[95% CI]
+
+Change from baseline
+
+in BCVA at Week 24
+
+and Week 52 (PPS)
+
+LS Mean (SE) letters
+
+Mean Difference (SE)
+
+[95% CI]
+
+-122.70 (5.16)
+
+-12.10 (6.26)
+
+[-24.389, 0.194]
+
+-110.60 (5.13)
+
+-123.27 (5.05)
+
+-11.52 (6.13)
+
+[-23.554, 0.520]
+
+-111.75 (5.01)
+
+-126.09 (4.00)
+
+-124.46 (4.43)
+
+w24: - 9.59 (4.84) [-19.095, 0.091]
+
+w52: - 15.09 (5.36) [-25.617, 4.563]
+
+w52: - 139.96 (4.52)
+
+-125.05 (4.35)
+
+w24: - 9.50 (4.76) [-18.850, -0.142]
+
+w52: - 14.91 (5.28) [-25.272, -4.548]
+
+w52: - 161.00 (5.10) -149.46 (4.90)
+
+w24: - 9.27 (5.96) [-20.969, 2.439]
+
+w52: - 11.53 (5.95) [-23.211, 0.418]
+
+w24: 8.52 (0.65)
+
+w52: 9.79 (0.76)
+
+9.33 (0.64)
+
+10.41 (0.74)
+
+w24: - 0.80 (0.77) [-2.314, 0.705]
+
+w52: - 0.62 (0.90) [-2.375, 1.140]
+
+w24: - 0.61 (0.77) [-2.108, 0.882]
+
+w52: - 0.75 (0.90) [-2.480, 0.977]
+
+w24: - 0.60 (0.78) [-2.123, 0.919]
+
+w52: - 0.85 (0.92) [-2.619, 0.929]
+
+w24: 8.40 (0.66)
+
+w52: 9.82 (0.78)
+
+9.37 (0.65)
+
+10.39 (0.76)
+
+w24: - 0.97 (0.79) [-2.517, 0.581] w52: - 0.57 (0.92) [-2.374, 1.236]
+
+Assessment report EMA/446448/2021
+
+Page 83/146
+
+Proportion of Patients
+
+Who Lost Fewer than
+
+15 Letters in BCVA
+
+w24: 97.9% (326/333)
+
+w52: 96.8% (299/309)
+
+Compared with Baseline at Week 24 and Week 52 (FAS, available cases) (patients)
+
+Proportion of Patients
+
+Who Gained 15
+
+Letters or More in
+
+w24: 25.5% (85/333)
+
+w52: 34.6% (107/309)
+
+BCVA Compared with
+
+Baseline at Week 24
+
+and Week 52 (FAS,
+
+available cases)
+
+(patients)
+
+Change from Baseline in Total CNV Size (Area of CNV) at Week 24 and Week 52 (FAS, available cases) LS Mean (SE) mm2
+
+Mean Difference (SE) [95% CI]
+
+w24: - 3.98 (0.27)
+
+-3.91 (0.27)
+
+-4.62 (0.27)
+
+w52: - 5.17 (0.28)
+
+99.4% (336/338) 97.9% (320/327)
+
+27.2% (92/338)
+
+37.6% (123/327)
+
+w24: - 0.07 (0.33) [-0.711, 0.572]
+
+w52: - 0.55 (0.33) [-1.200, 0.105]
+
+Proportion of Patients with Active CNV Leakage at Week 24 and Week 52 (FAS, available cases) LS Mean (SE) patients
+
+w24: 64.6% (210/325)
+
+w52: 52.1% (158/303)
+
+66.3% (218/329) 59.1% (185/313)
+
+w24: - 1.80 [-8.972, 5.364 w52: - 7.36 [-14.959, 0.243]
+
+adjusted Difference (SE) [95% CI]
+
+2.4.2. Discussion on clinical efficacy
+
+Design and conduct of clinical studies
+
+The clinical development programme to demonstrate biosimilarity regarding efficacy between SB11 and US-Lucentis is based on one single pivotal Phase III trial. SB11-G31-AMD was a multinational, multicentre, 2-armed, randomised, double-blind, parallel group study in patients with neovascular age- related macular degeneration. It is accepted that no further clinical studies have been conducted to demonstrate similarities in efficacy between SB11 and Lucentis in other indications approved for EU Lucentis. The selected patient population is considered a relevant and sensitive population for the detection of potential differences between SB11 and the reference product and was endorsed by the EMA. The applicant used the US Lucentis as the sole comparator in the Phase III study, which can be sufficient for submission of MAA as an acceptable bridging could be demonstrated on analytical level.
+
+705 patients were 1:1 randomised to receive either SB11 or US-Lucentis. Blocked randomisation was performed with fixed block size. No further stratification factors were considered. However, assigning only whole blocks to centres essentially stratifies treatment assignment by centre. This is considered adequate. The study was conducted in 9 countries and 75 study centres worldwide, including the four EU Member States Czech Republic, Germany, Hungary, and Poland. The applicant stated that the study
+
+Assessment report EMA/446448/2021
+
+Page 84/146
+
+was conducted in accordance with the ethical principles of the Declaration of Helsinki and were consistent with ICH Guidance and the applicable local regulatory requirements and laws. No issues regarding GCP have been identified.
+
+Eligible randomised patients received either SB11 or US Lucentis on Day 1 every 4 weeks into the study eye. Treatment was repeated up to Week 48 for a total of 13 doses of IP.
+
+The unblinding for a limited number of identified individuals of the Sponsor and/or CRO for the purpose of reporting of the interim analyses to the regulatory agency has been reported for the main clinical study report (CSR) at week 24 dated Oct 21, 2019. Blinding was maintained after the week 24 efficacy readout.
+
+Overall, the design of the Phase III study was adequate and generally in line with previous EMA- scientific advices. The selection criteria were globally consistent with the target population, and morphological criteria related to AMD were reasonable. The used treatment regimens for ranibizumab was in line with the Lucentis labelling. In- and exclusion criteria are based on those of the EU-Lucentis reference trial that led to approval and are considered appropriate. The most common reasons for patient discontinuation were consent withdrawal and adverse events. Slightly fewer patients completed study at Week 52 compared to patients of the originator arm Lucentis (87.5% in the SB11 and 92.4% in the Lucentis treatment group). Prior to 52 weeks, 12.5% in the SB11 and 7.6% in the Lucentis treatment groups discontinued treatment with the IP and the main reason was due to consent withdrawal.
+
+Study discontinuations due to IMP non-compliance occurred in 9 patients from the SB11 group and only in 1 patient from the Lucentis group. 6 of 9 patients discontinued due to adverse events, but these were assessed by the investigator as not IMP-related. 2 patients had safety reasons and one discontinuation was due to patient refusal. There is no information on discontinuation from the Lucentis arm, but as only one patient was affected, this is considered negligible.
+
+The MARINA and the PIER trial were used as the sole sources for the meta-analysis for the derivation of the equivalence margin. The two studies are the only studies that evaluate the effect of the comparator product compared to placebo. The equivalence margin of [-36 um, 36 um] preserves 50% of the upper 95% CI limit of the estimate of treatment effect size of the reference product over placebo. The Agency has noted in a SA that based on the anti-VEGF agents clinical data, at least 50 um difference would represent a change in retinal thickness that is deemed clinically relevant.
+
+Efficacy endpoints
+
+The primary endpoint is the 'Change from baseline in CST at Week 4' in the per-protocol-set (PPS) population. The full-analysis-set (FAS) population was used as a supportive population by the applicant for evaluation of the sensitivity of the main analysis, but from a regulatory perspective in an equivalence setting, the FAS has equal importance and for a robust interpretation should lead to similar results. The FAS included all subjects who were randomised at the randomisation visit save for patients who were not qualified for randomisation but were erroneously randomised into the study, provided these patients did not receive investigational product (IP) during the study period. This could be seen as a deviation from the ITT principle, but due to the very limited extent of the issue (only one subject was excluded for this reason) no concern is raised.
+
+The between group difference in the change from baseline CST was evaluated using an ANCOVA model with the baseline CST as a covariate and region (country) and treatment groups as factors. The applicant used several approaches to impute missing values, taking into account a variety of assumptions about the missing data process.
+
+Assessment report EMA/446448/2021
+
+Page 85/146
+
+Other endpoints include the `Change from baseline in BCVA at Week 8', which was of primary interest for MA in the US (FDA) and Korea (MFDS).
+
+Additionally, to VA, anatomical parameters (changes in CRLT, CNV area and leakage as well as retinal fluids) and Quality of Life were explored as secondary endpoints. Secondary time points for CST and BCVA at Week 24 and Week 52 allowed investigation of the comparability of the maintenance of a comparable benefit over the time. FP/FA and OCT were suitable for anatomical parameters, whereas ETDRS procedure was appropriate to assess BCVA assessment.
+
+The primary and secondary endpoints were in line with the recommendation in the scientific advice and biosimilar guidelines (CHMP/437/04 Rev.1, EMEA/CHMP/BMWP/42832/2005 Rev.1 and EMEA/CHMP/BMWP/403543/2010).
+
+In general, the applicant's development programme to demonstrate similarity between SB11 and US- Lucentis with respect to efficacy is considered adequate to support this application. The study design, study population, inclusion/exclusion criteria, and dose regimen were performed in line with the guidance on similar biological products and were in compliance with scientific advice obtained from the EMA.
+
+Efficacy data and additional analyses
+
+The primary endpoint change from baseline in CST at Week 4 demonstrated a LS mean of -108.40 um in the SB11 and -100.05 um in the Lucentis arm, in the PPS. The point estimate for the adjusted treatment difference in CST of the change from baseline between SB11 and Lucentis was -8.35 um [95% CI: - 19.446, 2.747]. The two-sided 95% CI was completely contained within the pre-defined equivalence margin of [-36 um, 36 um]. The difference in the FAS population using available cases was -8.18 um [95% CI: - 19.054, 2.699], and the two-sided 95% CI was contained within the pre- specified equivalence margin. Therefore, formal similarity of efficacy with regard to the primary efficacy endpoint could be demonstrated.
+
+Sensitivity analyses based on the primary endpoint for the FAS analysis population using multiple imputation (MI) for all subjects with missing data who dropped out from the study prior to the primary analysis time point were performed under MAR and MNAR assumptions as supporting evidence. The difference of the CST LS mean was -7.90 [95% CI: - 18.776, 2.984] and -7.90 [95% CI: - 18.776, 2.984] for MI-MAR and MI-MNAR, respectively. By using the imputation methods, both 95% CIs lie within the pre-defined margin set by the EMA [-36 um, 36 um]. Results from both MI methods were similar to the results from the primary analysis.
+
+At the time of the primary endpoint change in CST at Week 4 from baseline, a total of 11 patients received fellow eye treatment (Lucentis). A total of 317 of 342 (92.7%) patients in the SB11 and 310 (91.7%) of 338 patients in the Lucentis treatment groups did not receive Lucentis treatment in their fellow eye until Week 4. The applicant performed ad-hoc analysis of the change from baseline in CST at Week 4 excluding patients who had received fellow eye treatment at least once prior to Week 4. The mean difference was -9.38 um with the 95% CI of [-21.100 um, 2.341 um]. The result is comparable to the results of the primary analysis of -8.35 um [95% CI: - 19.446 um, 2.747 um]. Treatment of the fellow eye does not seem to affect efficacy of the study eye.
+
+The LS mean observed for change from baseline in BCVA at Week 8 for FAS using MAR was 6.18 letters in the SB11 and 6.99 letters in the Lucentis arm. The adjusted treatment difference was -0.80 letters and the 95% CI [-2.023, 0.415] of the difference lie entirely within the pre-defined equivalence margin of [-3 letters, 3 letters]. In addition, the point estimate for the difference in the PPS population was -0.76 letters [95% CI: - 2.010, 0.487], thus supporting the requirements of the EU authorities.
+
+Assessment report EMA/446448/2021
+
+Page 86/146
+
+Sensitivity analyses performed in the FAS using LOCF demonstrated a difference of -0.83 letters [95% CI: - 2.064, 0.397]. An analysis performed in the FAS using MI-MNAR showed a difference of -0.77 letters [95% CI: - 1.998, 0.451]. The analysis performed in the FAS using available cases showed a difference of -0.82 letters [95% CI: - 2.046, 0.398]. In all analyses the 95% CIs were within the pre- defined margin set by the FDA [-3 letters, 3 letters]. The results of the sensitivity analysis were comparable to the results from the primary analysis and therefore support the robustness of the comparability between SB11 and Lucentis also in the VA.
+
+An improvement in BCVA from baseline was observed over a period of time in the FAS population using available cases and demonstrated higher point estimates for Lucentis. Results were generally comparable between the 2 treatment groups at Week 24 and Week 52 as 90% and ad-hoc 95% CIs lie within the equivalence margins (Week 24: - 0.80; 90% CI of [-2.071, 0.462], 95% CI of [-2.314, 0.705] and Week 52: - 0.62; 90% CI of [-2.092, 0.857], 95% CI of [-2.375, 1.140]), however the trial was not powered for these comparisons and the margins not discussed in this regard. The change from baseline in BCVA at Week 24 and Week 52 for the FAS using available cases were comparable in the SB11 and Lucentis treatment groups (SB11: 8.52 letters, Lucentis: 9.33 letters at Week 24; SB11: 9.79 letters, Lucentis: 10.41 letters at Week 52). The difference in PPS was -0.97 (95% CI: - 2.517, 0.581) at Week 24 and -0.57 (95% CI: - 2.374, 1.236) at Week 52.
+
+The change from baseline in CST at Week 24 and Week 52 for the PPS were comparable between the 2 treatment groups (SB11: - 135.68 um, Lucentis: - 126.09 um at Week 24; SB11: - 139.55 um, Lucentis: - 124.46 um at Week 52). The point estimate for the difference in change from baseline in CST at Week 24 was -9.59 um [95% CI: - 19.095, -0.091] and at Week 52 it was -15.09 um [95% CI: - 25.617, -4.563]. The point estimate for the difference in the FAS population using available cases was -9.50 with a 95% CI of [-18.850, -0.142] at Week 24 and -14.91 with a 95% CI of [-25.272, -4.548] at Week 52. Although, the 95% CIs were within the proposed #36 um, the upper bound of the margin for equivalence does not cover "0" indicating a statistically significant difference for the comparisons of CST over time. The applicant provided evidence of other clinical studies, indicating similar estimates in (DME-) patients where a change in thickness above 38 um (or 11% for relative retinal thickness) is likely to be clinically meaningful. It was indicated that the absolute treatment difference [95% CI] in change from baseline in CST at Week 24 and Week 52 were all smaller than 38 um or percent change of 11% (i.e., 44.9 um which is 11% of baseline CST of 407.95 um). Hence, the observed increase in the difference in change from baseline on CST at week 24 and week 52, and the absolute treatment difference at week 24 and week 52, were well below the clinically significant threshold for change in retinal thickness.
+
+The change from baseline in CRLT at Week 24 and Week 52 for the FAS using available cases were also comparable between the 2 treatment groups (SB11: - 147.67 um, Lucentis: - 138.41 um at Week 24; SB11: - 161.00 um, Lucentis: - 149.46 um at Week 52). The difference between SB11 and Lucentis was -9.27 um at Week 24 with a 95% CI of [-20.969, 2.439] and -11.53 um at Week 52 with a 95% CI of [-23.211, 0.148] showing a non-significant lower reduction for Lucentis.
+
+The proportion of patients who lost fewer than 15/10/5 letters but also gained 5/10/15 letters or more in BCVA at Week 24 and Week 52 in the FAS using available cases was comparable between the two treatment arms SB11 and US-Lucentis.
+
+The change from baseline in total CNV size (area of CNV) at Week 24 and Week 52 for the FAS using available cases were comparable in the SB11 and Lucentis treatment groups (SB11: - 3.98 mm2, Lucentis: - 3.91 mm2 at Week 24; SB11: - 5.17 mm2, Lucentis: - 4.62 mm2 at Week 52) and the proportion of subjects with active CNV leakage at Week 24 and Week 52 for the FAS were found to be decreased compared with baseline and comparable between the 2 treatment groups (SB11: 64.6% [210/325], Lucentis: 66.3% [218/329] subjects at Week 24). The proportion of patients with active
+
+Assessment report EMA/446448/2021
+
+Page 87/146
+
+CNV leakage was higher when treated with Lucentis than when treated with SB11 (SB11: 52.1% [158/303], Lucentis: 59.1% [185/313] subjects) at Week 52.
+
+In the FAS on available cases, the proportion of subjects without intra- or sub-retinal fluid increased over time, with a minimum of subjects without intra- or sub-retinal fluid at Week 0 (SB11: 26.2% [92/351], Lucentis: 24.6% [87/353] subjects) and higher proportion at Week 24 and Week 52 (SB11: 76.2% [250/328], Lucentis: 80.9% [271/335] subjects at Week 24; SB11: 84.4% [260/308], Lucentis: 81.0% [265/327] subjects at Week 52). It was shown that the proportion of patients without intra- or subretinal fluid increased equally in both study arms over the 52-week period without showing a consistently higher improvement in one of the arms.
+
+An increase in the NEI VFQ-25 composite score in the FAS using available cases was observed at Week 24 and Week 52 in both the SB11 and the Lucentis treatment groups (SB11: 79.29, Lucentis: 82.57 at Week 24; SB11: 80.54, Lucentis: 84.03 at Week 52). Overall, the mean change in the NEI VFQ-25 composite score in Lucentis-treated eyes improved slightly more at both 24- and 52-week visits compared to SB11 treatment. However, the mean change still seems comparable between the two treatment groups (SB11: 3.80, Lucentis: 4.98 at Week 24; SB11: 4.54, Lucentis: 6.47 at Week 52).
+
+Although the 95% CIs of the investigated secondary endpoints are not significant, data indicate that Lucentis seems to be slightly more effective than SB11.
+
+Subgroup analysis for overall ADA result (Positive, Negative, Inconclusive), lesion type at baseline (No CNV, Classic CNV, Classic and Occult, Occult, Disciform Scar), total lesion area (≤4DA vs. >4DA) at baseline and country were performed. In general, the subgroup analyses of the efficacy variables CST and BCVA were comparable regarding prognostic factors (total lesion area, lesion type, country) and immunogenicity results in terms of BCVA.
+
+A difference in efficacy in terms of mean change in CST from baseline up at Week 4 was observed in ADA positive subjects between the treatments (-73.72 um and -20.20 um for the SB11 arm and the Lucentis arm, respectively). The difference (SB11-Lucentis) in mean change in CST from baseline up to Week 4 is -53.53 with 95% CI (-111.076, 4.021) for ADA positive patients, which does not lie within the 95% CI (-22.251, 1.373) of the ADA negative subgroup, but the 95% CIs overlap and the overall point estimate of -8.35 um lies within both 95% CIs. Overall, the limited number of actual ADA- positive subjects, as well as the fact that an opposite outcome was seen between the EMA- and FDA- facing primary endpoint (CST and BCVA, respectively), whereby the outcome of CST was in favor of SB11 and the change of BCVA was in favor of Lucentis, make it not possible to infer clinical meaning from these findings and it is entirely possible that this represents a chance finding. Another difference in mean change in CST from baseline up at Week 4 was observed in the Indian subgroup (mean difference: - 52.31; 95% CI: - 106.305, 1.68), but this is also likely to be attributed to low sample sizes in these groups and the magnitude is not to an extent that affects the overall conclusion on consistency in treatment effect across subgroups. The 95% CIs of the difference in change from baseline in CST for all subgroups seem to cover the overall point estimate of -8.35 um. For the subgroup of patients with "occult CNV" containing 201/208 (under LOCF imputation) the mean difference in BCVA at Week 8 was -1.53 with 95% CI [-3.00, -0.06] and does not include 0 (whereas all other imputation methods included 0), but the overall treatment effect of -0.8 letters was covered in the 95% CI.
+
+The subgroup of "classic CNV" containing 27 patients per treatment arm showed a marked difference in terms of mean change from baseline in BCVA at Week 8 compared to the overall population, i.e. it had a mean difference of 7.49 letters in mean change from baseline in BCVA at Week 8 with 95% CI: [3.613, 11.365], which does not include the overall treatment effect of -0.8 letters. The applicant has identified possible demographic reasons (slight imbalance in total lesion/CNV area and central retinal lesion thickness) where larger baseline CNV lesion size was observed in the Lucentis treatment arm. According to the retrospective subgroup analysis of 12-month data from the ANCHOR study but also
+
+Assessment report EMA/446448/2021
+
+Page 88/146
+
+other trial results, CNV lesion size was a predictor of the VA outcome. Accordingly, a less advanced disease (including a lower baseline VA score and a smaller baseline CNV lesion size) was associated with greater gain in letters with ranibizumab treatment. It can be assumed that the baseline imbalances and the relatively small sample sizes led to the difference of the classic CNV subgroup.
+
+2.4.3. Conclusions on the clinical efficacy
+
+From an efficacy perspective, clinical biosimilarity between SB11 and Lucentis is demonstrated.
+
+2.5. Clinical safety
+
+Introduction
+
+Adverse event profile reported for reference product Lucentis
+
+The majority of AEs reported following administration of Lucentis are related to the intravitreal injection procedure. The most frequently reported ocular adverse reactions following injection of Lucentis are: eye pain, ocular hyperaemia, increased intraocular pressure, vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, increased lacrimation, blepharitis, dry eye and eye pruritus. The most frequently reported non-ocular adverse reactions are headache, nasopharyngitis and arthralgia. Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (refer to SmPC Lucentis 2020).
+
+Class effects known to be observed with systemic VEGF inhibition are hypertension, arterial thromboembolism, cardiac ischemia, haemorrhages, proteinuria/nephrotic syndrome, delayed wound healing and intestinal perforation.
+
+Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events (ATEs), defined as nonfatal stroke, nonfatal myocardial infarction (MI), or vascular death (including death of unknown cause), have been reported following ITV injection of VEGF inhibitors, as ranibizumab binds with high affinity to the VEGF-A isoforms (e.g., VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2. Although a low incidence rate of ATEs was observed in Lucentis clinical trials and there were no major differences between the ranibizumab treatment group and the control group, there is a potential risk of ATEs following ITV use of VEGF inhibitors [Lucentis SmPC, Lucentis US PI, Triantafylla et al., 2014].
+
+ITV injections, including those with ranibizumab, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear, and iatrogenic traumatic cataract. Transient increases in intraocular pressure (IOP) have been seen within 60minutes of injection of Lucentis. Sustained IOP increases have also been identified [Lucentis SmPC, Section 4.8].
+
+As with all therapeutic proteins, there is potential for an immune response in patients treated with Lucentis. As for the immune response of ranibizumab across all indications, the pretreatment incidence of immunoreactivity to Lucentis was 0-5% across AMD, DME, PDR, and RVO. After monthly dosing with Lucentis for 6-24 months, antibodies to Lucentis were detected in approximately 1-9% of patients [Lucentis US PI]. Intraocular inflammations that increase in severity may be a clinical sign attributable to intraocular antibody formation.
+
+Clinical development: Phase III Study SB11-G31-AMD
+
+Assessment report EMA/446448/2021
+
+Page 89/146
+
+Safety of SB11 was assessed by monitoring treatment-emergent adverse events (TEAEs, ocular/non- ocular), serious adverse events (SAEs, ocular/non-ocular), adverse events of special interest (AESI), clinical laboratory evaluations, ophthalmic assessments, and as well as immunogenicity. The adverse events (AEs) were coded using Medical Dictionary for Regulatory Activities (MedDRA, version 20.1).
+
+The safety endpoints in the clinical Phase III study SB11-G31-AMD were:
+
+• Incidence of ocular AEs or serious ocular AEs
+
+• Incidence of non-ocular AEs or serious non-ocular AEs
+
+• Adverse event of special interest (AESI)
+
+• Clinical laboratory tests including haematology, biochemistry, and urinalysis
+
+• Vital signs
+
+Patient exposure
+
+Comparative safety data from the pivotal phase III study (SB11-G31-AMD) involved 704 randomised patients (SB11 n=350, Lucentis n=354), most of whom (n=634, 89.9%) completed the proposed study period (48 weeks of treatment, last assessment at 52 weeks).
+
+Table 43
+
+Table 3: Summary of Exposure to Investigational Product (Safety Set, Study SB11- G31-AMD)
+
+SB11 N=350
+
+US Lucentis® N = 354
+
+Total N = 704
+
+Exposure
+
+Number of IP administration
+
+n
+
+350
+
+354
+
+704
+
+Mean
+
+12.2
+
+12.4
+
+12.3
+
+Assessment report EMA/446448/2021
+
+Page 90/146
+
+
+Exposure
+
+SD 2.24
+
+Median 13.0
+
+Min, Max
+
+1, 13
+
+Duration of exposure to study drug (days)
+
+n
+
+Mean 317.9
+
+SD 61.84
+
+Median 337.0
+
+Min, Max
+
+Duration of exposure to study drug, n (%)
+
+≥ 1 Day 350 (100.0)
+
+≥ 29 Days 348 (99.4)
+
+≥ 57 Days 346 (98.9)
+
+≥ 85 Days 342 (97.7)
+
+≥ 113 Days 341 (97.4)
+
+≥ 141 Days 337 (96.3)
+
+≥ 169 Days 330 (94.3) 337 (95.2) 667 (94.7)
+
+≥ 197 Days
+
+≥ 225 Days
+
+≥ 253 Days 318 (90.9)
+
+≥ 281 Days
+
+≥ 309 Days 309 (88.3)
+
+≥ 337Days 213 (60.9)
+
+SB11
+
+N=350
+
+350
+
+1, 358
+
+326 (93.1)
+
+322 (92.0)
+
+314 (89.7)
+
+US Lucentis®
+
+N = 354
+
+2.07
+
+13.0
+
+1,13
+
+354
+
+323.2
+
+57.93
+
+337.0
+
+1, 361
+
+354 (100.0)
+
+349 (98.6) 697 (99.0)
+
+349 (98.6)
+
+347 (98.0)
+
+346 (97.7)
+
+340 (96.0) 677 (96.2)
+
+335 (94.6) 661 (93.9)
+
+334 (94.4) 656 (93.2)
+
+333 (94.1) 651 (92.5)
+
+329 (92.9) 643 (91.3)
+
+328 (92.7) 637 (90.5)
+
+241 (68.1)
+
+Total
+
+N = 704
+
+2.16
+
+13.0
+
+1, 13
+
+704
+
+320.6
+
+59.92
+
+337.0
+
+1, 361
+
+704 (100.0)
+
+695 (98.7)
+
+689 (97.9)
+
+687 (97.6)
+
+454 (64.5)
+
+IP = investigational product; Max = maximum; Min = minimum; N = total number of patients; n = number of patients; SD = standard deviations
+
+Percentage were based on number of patients in the Safety Set. Exposure duration (days) were calculated as follows:
+
+If last IP administration date was known: (last IP injection date - first IP injection date) + 1
+
+If last IP administration date was unknown: (last visit date - first IP injection date) + 1
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-1, Table 14.3-1.1
+
+Overall exposure to treatment was comparable between treatment groups, but tended to drift apart in the higher exposure duration bands (309 days and onward).
+
+For demographic and baseline characteristics, please refer to Results of Clinical Efficacy. Overall, baseline characteristics were well balanced between treatment arms, and the population that was investigated was sufficiently sensitive for the evaluation of similarity from a safety (and efficacy) perspective.
+
+Assessment report EMA/446448/2021
+
+Page 91/146
+
+Adverse events
+
+TEAEs overall
+
+Adverse Events Overview
+
+A total of 512 (72.7%) subjects experienced at least 1 AE during the study (study or fellow eye; non- ocular). A total of 511 (72.6%) patients reported 1807 treatment-emergent adverse events (TEAEs) at any time after the first dose of the IP until the End of Study (EOS). The nature, incidence and severity of the reported TEAEs were generally comparable between the SB11 and Lucentis treatment groups, with some numerical imbalances for certain TEAEs, severe ocular adverse events and TEAES that were considered 'related' to IP, favouring the Lucentis treatment arm.
+
+Ocular TEAEs - study eye
+
+The majority of the ocular TEAEs in the study eye were mild or moderate in severity. A total of 10 ocular TEAEs in the study eye reported in 7 (2.0%) patients in the SB11 treatment group and 5 ocular TEAEs in the study eye reported in 4 (1.1%) patients in the Lucentis treatment group were severe.
+
+Including the ad hoc analysis on IP-related TEAES by SOC and PT with an incidence of ≥0.5%, 23 patients (6.6%) reported 29 'related'-considered AEs for SB11 and 16 patients (4.5%) reported 29 `related' AEs for Lucentis.
+
+Ocular TEAEs - fellow eye
+
+The majority of the ocular TEAEs in the fellow eye were mild or moderate in severity. A total of 6 ocular TEAEs in the fellow eye reported in 4 (1.1%) patients in the SB11 treatment group and 2 ocular TEAEs in the fellow eye reported in 2 (0.6%) patients in the Lucentis treatment group were severe. None were considered related.
+
+Non-ocular TEAEs
+
+The majority of the non-ocular TEAEs were mild or moderate in severity. A total of 30 non-ocular TEAEs reported in 22 (6.3%) patients in the SB11 treatment group and 22 non-ocular TEAEs reported in 22 (6.2%) patients in the Lucentis treatment group were severe.
+
+Two patients (0.6%) reported overall two 'related' AEs in the SB11 arm and three patients (0.4% reported overall 6 'related' AEs in the Lucentis arm.
+
+Table 44: Summary of All Adverse Events (Safety Set, Study SB11-G31-AMD) (Ad- hoc Analysis)
+
+Number of Patients Experiencing
+
+No AEs 94
+
+AEs
+
+Pre-AEs
+
+TEAEs
+
+TEAE severity
+
+Mild
+
+SB11
+
+N=350
+
+n
+
+(%)
+
+E
+
+(26.9)
+
+-
+
+256
+
+(73.1) 946
+
+27
+
+(7.7)
+
+36
+
+255
+
+(72.9)
+
+910 256
+
+117
+
+(33.4)
+
+567
+
+US Lucentis N=354
+
+n
+
+98
+
+256
+
+28
+
+(%)
+
+(27.7)
+
+(72.3) 945
+
+(7.9)
+
+(72.3) 897
+
+E
+
+n
+
+- 192 (27.3)
+
+512
+
+48 55
+
+511
+
+122
+
+(34.5)
+
+592 239 (33.9) 1159
+
+Total N=704
+
+(%)
+
+E
+
+-
+
+(72.7)
+
+1891
+
+(7.8)
+
+84
+
+(72.6)
+
+1807
+
+Assessment report EMA/446448/2021
+
+Page 92/146
+
+Moderate
+
+Severe
+
+TEAE causality
+
+Related
+
+Not related
+
+228
+
+Ocular TEAEs in the study eye 112
+
+Ocular TEAE severity (study eye)
+
+Mild
+
+Moderate
+
+28
+
+Severe
+
+106 32
+
+(30.3)
+
+297
+
+107
+
+(30.2)
+
+276
+
+213
+
+(30.3)
+
+573
+
+(9.1)
+
+46
+
+27
+
+(7.6) 29
+
+59
+
+(8.4)
+
+75
+
+27
+
+(7.7)
+
+35
+
+16
+
+(4.5)
+
+33
+
+43
+
+(6.1)
+
+68
+
+(65.1)
+
+875
+
+240
+
+(67.8) 864
+
+468
+
+(66.5)
+
+1739
+
+(32.0)
+
+202
+
+105 (29.7)
+
+228 217
+
+(30.8)
+
+430
+
+77
+
+(22.0)
+
+139
+
+72 (20.3)
+
+165
+
+149
+
+(21.2)
+
+304
+
+(8.0)
+
+53
+
+29 (8.2)
+
+58
+
+57
+
+(8.1)
+
+111
+
+7
+
+(2.0)
+
+10
+
+4
+
+(1.1)
+
+5
+
+11
+
+(1.6)
+
+15
+
+Ocular TEAE causality (study eye)
+
+Related 23
+
+Not related
+
+Ocular TEAEs in the fellow eye
+
+92
+
+(6.6)
+
+31
+
+15
+
+(4.2)
+
+29
+
+38
+
+(5.4)
+
+60
+
+89
+
+(25.4)
+
+171
+
+90
+
+(25.4)
+
+199 179
+
+(25.4)
+
+370
+
+(26.3)
+
+118 77
+
+(21.8)
+
+117
+
+169
+
+(24.0)
+
+235
+
+Number of Patients Experiencing
+
+n
+
+Ocular TEAE severity (fellow eye)
+
+Mild
+
+62
+
+Moderate
+
+26
+
+Severe 4
+
+Ocular TEAE causality (fellow eye)
+
+Related
+
+0
+
+Non-related
+
+92
+
+Non-ocular TEAEs
+
+194
+
+Non-ocular TEAE severity
+
+Mild
+
+91
+
+Moderate
+
+81
+
+Severe
+
+22
+
+Non-ocular TEAE causality
+
+Related
+
+4
+
+Non-related
+
+190
+
+AESI
+
+8
+
+AESI category
+
+Category 1
+
+0
+
+Category 2 3
+
+SB1
+
+1
+
+N=3
+
+50
+
+(%)
+
+E
+
+(17.7)
+
+81
+
+(7.4)
+
+31
+
+(1.1)
+
+6
+
+(0.0)
+
+0
+
+(26.3)
+
+118
+
+(55.4)
+
+590
+
+(26.0) 347
+
+(23.1)
+
+213
+
+(6.3)
+
+30
+
+(1.1)
+
+4
+
+(54.3)
+
+586
+
+(2.3)
+
+13
+
+(0.0)
+
+0
+
+(0.9)
+
+4
+
+US Lucentis
+
+N=354
+
+n
+
+(%)
+
+E
+
+n
+
+49
+
+(13.8)
+
+26
+
+(7.3)
+
+2
+
+(0.6)
+
+84
+
+111
+
+31
+
+52 (7.4)
+
+2
+
+6 (0.9)
+
+0
+
+(0.0)
+
+0
+
+0 (0.0)
+
+77
+
+(21.8)
+
+117 169
+
+(57.9) 205
+
+552
+
+399
+
+101
+
+(28.5) 343
+
+192
+
+82
+
+(23.2)
+
+187
+
+163
+
+22
+
+(6.2)
+
+22
+
+44
+
+1
+
+(0.3)
+
+204
+
+(57.6)
+
+8
+
+(2.3)
+
+4
+
+5 (0.7)
+
+548
+
+394
+
+16
+
+16
+
+3
+
+(0.8)
+
+3
+
+(0.8)
+
+3
+
+3
+
+11
+
+6 (0.9)
+
+Tota l
+
+N=7
+
+04 (%)
+
+E
+
+(15.8)
+
+165
+
+62
+
+8
+
+0
+
+(24.0)
+
+235
+
+(56.7)
+
+1142
+
+(27.3)
+
+690
+
+(23.2)
+
+400
+
+(6.3)
+
+52
+
+8
+
+(56.0)
+
+1134
+
+(2.3)
+
+29
+
+(0.4)
+
+3
+
+15
+
+Assessment report EMA/446448/2021
+
+Page 93/146
+
+Category 3
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0 2
+
+(0.3)
+
+2
+
+Category 4
+
+4
+
+(1.1)
+
+6
+
+0
+
+0 (0.0)
+
+4 (0.6)
+
+6
+
+Category 5
+
+0
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+0
+
+0 (0.0)
+
+0
+
+Category 6 1
+
+(0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3 (0.4)
+
+3
+
+Intraocular inflammation TEAEs
+
+4
+
+(1.1)
+
+6
+
+0
+
+(0.0)
+
+0
+
+4
+
+(0.6)
+
+6
+
+Intraocular inflammation TEAEs in
+
+the study eye
+
+4
+
+(1.1)
+
+6
+
+0
+
+(0.0)
+
+0
+
+4
+
+(0.6)
+
+6
+
+Intraocular inflammation TEAEs in
+
+the fellow eye
+
+0
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+0
+
+0 (0.0)
+
+0
+
+TEAEs leading to IP discontinuation
+
+9
+
+(2.6)
+
+12
+
+5
+
+(1.4)
+
+8
+
+14
+
+(2.0) 20
+
+Ocular TEAEs leading to IP discontinuation in the study eye
+
+7
+
+(2.0)
+
+9
+
+4
+
+(1.1)
+
+6
+
+11 (1.6) 15
+
+Ocular TEAEs leading to IP discontinuation in the fellow eye
+
+0
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+0
+
+0 (0.0)
+
+0
+
+Number of Patients Experiencing
+
+n
+
+Non-ocular TEAEs leading to IP
+
+discontinuation
+
+2
+
+SAEs
+
+52
+
+SAE causality
+
+SB1
+
+1
+
+N=3
+
+50
+
+(%)
+
+E
+
+(0.6)
+
+3
+
+(14.9)
+
+71
+
+US Lucentis N=354
+
+n
+
+(%)
+
+E
+
+n
+
+1
+
+(0.3)
+
+2
+
+3
+
+52
+
+(14.7)
+
+65
+
+104
+
+Tota l
+
+N=7
+
+04
+
+(%)
+
+E
+
+(0.4)
+
+5
+
+(14.8)
+
+136
+
+Related
+
+8
+
+(2.3)
+
+10
+
+3
+
+(0.8)
+
+3
+
+11
+
+(1.6)
+
+13
+
+Not related
+
+44
+
+(12.6)
+
+61
+
+49 (13.8)
+
+62
+
+93 (13.2)
+
+123
+
+Ocular SAEs in the study eye
+
+10
+
+(2.9)
+
+14
+
+8
+
+(2.3)
+
+8
+
+18
+
+(2.6)
+
+22
+
+Ocular SAE causality (study eye)
+
+Related
+
+4
+
+(1.1)
+
+6
+
+3
+
+(0.8)
+
+3
+
+7
+
+(1.0)
+
+9
+
+Not related
+
+6
+
+(1.7)
+
+8
+
+5
+
+(1.4)
+
+5
+
+11
+
+(1.6)
+
+13
+
+Ocular SAEs in the fellow eye
+
+3
+
+(0.9)
+
+5
+
+2
+
+(0.6)
+
+2
+
+5
+
+(0.7)
+
+7
+
+Ocular SAE causality (fellow eye)
+
+Related
+
+0 (0.0)
+
+0
+
+0
+
+(0.0)
+
+0
+
+0 (0.0)
+
+0
+
+Not related
+
+3
+
+(0.9)
+
+5
+
+2
+
+(0.6)
+
+2
+
+5
+
+(0.7)
+
+7
+
+Non-ocular SAEs
+
+41
+
+(11.7)
+
+52
+
+42
+
+(11.9)
+
+55
+
+83
+
+(11.8)
+
+107
+
+Non-ocular SAE causality
+
+Related
+
+4
+
+Not related
+
+Serious TEAEs
+
+50
+
+(1.1) 4
+
+(10.6) 37
+
+48
+
+(14.3)
+
+69
+
+0
+
+(0.0)
+
+42
+
+(11.9)
+
+51
+
+(14.4)
+
+0
+
+4 (0.6)
+
+55
+
+79 (11.2)
+
+62 101
+
+4
+
+103
+
+(14.3)
+
+131
+
+Serious TEAEs causality
+
+Assessment report EMA/446448/2021
+
+Page 94/146
+
+Related
+
+8
+
+Not related
+
+42
+
+(2.3) (12.0)
+
+10
+
+59
+
+3
+
+(0.8)
+
+48 (13.6)
+
+3
+
+11 (1.6)
+
+59
+
+90
+
+13
+
+(12.8)
+
+118
+
+Ocular serious TEAEs in the study
+
+eye
+
+10
+
+(2.9)
+
+14
+
+8
+
+(2.3)
+
+8 18
+
+(2.6)
+
+22
+
+Ocular serious TEAEs in the fellow
+
+eye
+
+3
+
+(0.9)
+
+5
+
+2
+
+(0.6)
+
+2
+
+5 (0.7)
+
+7
+
+Non-ocular serious TEAEs
+
+39
+
+(11.1)
+
+50
+
+41
+
+(11.6)
+
+52
+
+80
+
+(11.4)
+
+102
+
+TEAEs leading to death
+
+2
+
+(0.6)
+
+2
+
+4
+
+(1.1)
+
+4
+
+6
+
+(0.9)
+
+6
+
+AE = adverse event; AESI = adverse event of special interest; E = frequency of events; IP = investigational product;
+
+IOP = intraocular pressure; ITV = intravitreal; MedDRA = Medical Dictionary for Regulatory Activities; N = total number of patients; n = number of patients with events; SAE = serious adverse event; TEAE = treatment-emergent adverse event
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA version 20.1 coding dictionary. Percentages were based on number of patients in the Safety Set. If a patient had the multiple conditions with different severity (or causality), then the patient was counted only once at the worst severity (or worst causality, i.e. related). AESI category
+
+Category 1: Any case of new onset IOP of > 21 mmHg that does not respond to treatment, except the transient pressure rise observed within an hour after ITV injection of IP;
+
+Note that the initial table has been updated throughout the procedure with regard to the causality assessment only (ad-hoc analysis).
+
+Table 45
+
+Table 4: Summary of IP-related TEAEs by SOC and by PT with Incidence ≥ 0.5% in Any Treatment Group After Updating the Causality Assessments (Safety Set, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+System Organ Class
+
+Preferred Term
+
+n
+
+SB11
+
+N=350
+
+E
+
+Cardiac disorders
+
+1
+
+0.3 1
+
+Eye disorders
+
+16 4.6
+
+21
+
+SB11
+
+System Organ Class
+
+Preferred Term
+
+n
+
+N=350
+
+US Lucentis®
+
+N=354
+
+n
+
+%
+
+E
+
+n
+
+Total N=704
+
+%
+
+E
+
+0
+
+0.0
+
+0
+
+1
+
+0.1
+
+1
+
+9
+
+2.5
+
+14
+
+25
+
+3.6
+
+35
+
+US Lucentis® N=354
+
+Total N=704
+
+%
+
+E
+
+n %
+
+Visual acuity reduced
+
+4
+
+1.1
+
+4
+
+Conjunctival haemorrhage
+
+3
+
+0.9
+
+3
+
+Eye pain
+
+2
+
+Iridocyclitis
+
+2
+
+0.6
+
+2
+
+0.6
+
+2
+
+Ocular hypertension
+
+0 0.0
+
+Gastrointestinal disorders
+
+0 0.0
+
+0
+
+0
+
+E
+
+n
+
+%
+
+E
+
+1
+
+0.3
+
+1
+
+5
+
+0.7
+
+5
+
+1
+
+0.3
+
+1
+
+4
+
+0.6
+
+4
+
+0
+
+0.0
+
+0
+
+2 0.3 2
+
+0 0.0
+
+0
+
+2
+
+0.3
+
+2
+
+2
+
+0.6
+
+3
+
+2
+
+0.3
+
+3
+
+1
+
+0.3
+
+4
+
+1
+
+0.1
+
+4
+
+Investigations
+
+7
+
+2.0
+
+8
+
+7
+
+2.0
+
+15
+
+14
+
+2.0 23
+
+Intraocular pressure increased
+
+7
+
+(2.0)
+
+8
+
+7
+
+(2.0)
+
+15
+
+14
+
+(2.0)
+
+23
+
+Nervous system disorders
+
+1
+
+0.3
+
+1
+
+0
+
+0.0
+
+0
+
+1
+
+0.1
+
+1
+
+n = number of patients with event; E = frequency of events.
+
+Percentages were based on the number of patients in the Safety Set.
+
+If a patient had multiple events with different causality, then the patient was counted only once at the worst causality (i.e., related) for the number of patients (n).
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each System Organ Class in descending order of patient frequency of SB11. If the frequency of the preferred terms were tied, the preferred terms were ordered alphabetically.
+
+Source: Response to Day 120 List of Questions, Question 86, Attachment 86-1
+
+Assessment report EMA/446448/2021
+
+Page 95/146
+
+Note that the table above is incorrect in that causality assessment was further updated for the following SOC/PT (with relationship to treatment):
+
+Eye disorders: SB11: n= 18 (5.1%, E=23) and Lucentis: n= 9 (2.5%, E=14) Iridocyclitis: SB11: n=3 (0.9%, E=3) and Lucentis n=0 (0.0%, E=0)
+
+Ocular TEAEs in the Study Eye
+
+The ocular TEAEs in the study eye occurring ≥ 5% of patients in any treatment group by Preferred Term (PT) are provided in Table 46.
+
+Table 46
+
+Table 10: Ocular TEAEs in the Study Eye with Incidence ≥ 5% of Patients in Any Treatment Group by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+SB11
+
+System Organ Class
+
+N=350
+
+Preferred Term
+
+n
+
+(%)
+
+E
+
+Any ocular TEAEs in the study eye
+
+112
+
+(32.0)
+
+202
+
+Any ocular TEAEs with incidence ≥ 5% of patients in the study eyea
+
+38
+
+(10.9)
+
+59
+
+Eye disorders
+
+16
+
+(4.6)
+
+19
+
+Conjunctival haemorrhage
+
+16
+
+(4.6)
+
+19
+
+Investigations
+
+23
+
+(6.6)
+
+40
+
+Intraocular pressure increased
+
+23
+
+(6.6)
+
+40
+
+US Lucentis®
+
+N = 354
+
+n
+
+(%)
+
+E
+
+n
+
+105
+
+(29.7)
+
+228 217
+
+38
+
+(10.7)
+
+87
+
+76
+
+18
+
+(5.1)
+
+20
+
+34
+
+18
+
+(5.1)
+
+20
+
+34
+
+26
+
+(7.3)
+
+67 49
+
+26
+
+(7.3)
+
+67
+
+49
+
+Total
+
+N = 704
+
+(%)
+
+E
+
+(30.8)
+
+430
+
+(10.8)
+
+146
+
+(4.8)
+
+39
+
+(4.8)
+
+39
+
+(7.0)
+
+107
+
+(7.0)
+
+107
+
+E = frequency of events; MedDRA = Medical Dictionary for Regulatory Activities; N = total number of patients; n = number
+
+of patients with event; TEAE = treatment-emergent adverse event
+
+Percentages were based on number of patient in the Safety Set.
+
+Ocular TEAE was coded using MedDRA version 20.1 coding dictionary
+
+a The incidence of ocular TEAEs in the study eye reported > 5% in either treatment group was based on Preferred Term. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-3, Table 14.3.1-1.3.2
+
+The table below presents the reported eye disorders by PT and any other AEs that occurred with incidence of at least 2%.
+
+Ocular TEAEs in the Study Eye by SOC and PT (only eye disorders and other AEs with incidence ≥2% of Safety Set)
+
+Assessment report EMA/446448/2021
+
+Page 96/146
+
+Table 47
+
+System organ class Preferred term
+
+Any ocular TEAE in the study eye
+
+Eye disorders
+
+Conjunctival haemorrhage
+
+Visual acuity reduced Cataract
+
+Vitreous detachment
+
+Posterior capsule opacification 6 ( 1.7) 6 1 ( 0.3)
+
+Eye pain
+
+Corneal erosion Dry eye
+
+Iridocyclitis Ocular hypertension 3 ( 0.9) 5 Retinal haemorrhage 3 ( 0.9) 3
+
+Vitreous floaters 3 ( 0.9) 3 6 ( 1.7)
+
+Borderline glaucoma
+
+Conjunctival irritation 2 ( 0.6) 2 0 ( 0.0)
+
+Eye irritation 2 ( 0.6) 2 2 ( 0.6)
+
+Macular degeneration
+
+Punctate keratitis Retinal cyst
+
+Retinal degeneration
+
+Retinal pigment epithelial tear
+
+Visual impairment Arcus lipoides 1 ( 0.3) 1 2 ( 0.6) 2
+
+Blepharitis
+
+Infections and infestations 7 ( 2.0) 7
+
+Conjunctivitis
+
+Endophthalmitis Adenoviral conjunctivitis
+
+Conjunctivitis bacterial
+
+Investigations
+
+Intraocular pressure increased
+
+SB11 N=350
+
+n (%) E
+
+112 (32.0) 202
+
+93 (26.6) 143
+
+16 ( 4.6)
+
+19 18 ( 5.1) 20 34 ( 4.8)
+
+15 ( 4.3)
+
+20 10 ( 2.8) 11 25 ( 3.6)
+
+10 ( 2.9) 10 5 ( 1.4) 6 15 ( 2.1)
+
+8 ( 2.3) 8 5 ( 1.4)
+
+5 ( 1.4) 9
+
+4 ( 1.1) 6 2 ( 0.6)
+
+4 ( 1.1) 4 7 ( 2.0)
+
+3 ( 0.9) 3
+
+2 ( 0.6) 2
+
+2 ( 0.6) 2
+
+2 ( 0.6) 3
+
+2 ( 0.6) 2
+
+2 ( 0.6) 2 1 ( 0.3) 2 3 ( 0.4) 4
+
+2 ( 0.6) 2 2 ( 0.6) 2 4 ( 0.6)
+
+1 ( 0.3) 1
+
+3 ( 0.9)
+
+3
+
+2 ( 0.6) 2 0 ( 0.0) 0 2 ( 0.3) 2
+
+1 ( 0.3) 1
+
+1 ( 0.3)
+
+1
+
+23 ( 6.6) 40
+
+23 ( 6.6) 40
+
+Lucentis N=354
+
+n (%) E
+
+105 (29.7) 228
+
+89 (25.1) 149
+
+5 13 ( 1.8) 13
+
+1 7 ( 1.0)
+
+3 ( 0.8)
+
+3 8 ( 1.1) 12
+
+2 6 ( 0.9) 8
+
+( 0.0)
+
+8 ( 2.3)
+
+7 11 ( 1.6)
+
+0 3 ( 0.4)
+
+14 11 ( 1.6)
+
+4 ( 1.1)
+
+4 7 ( 1.0) 7
+
+6 9 ( 1.3) 9
+
+0 ( 0.0)
+
+0 2 ( 0.3) 2
+
+0 2 ( 0.3) 2
+
+2 4 ( 0.6) 4
+
+8 ( 2.3)
+
+8 10 ( 1.4) 10
+
+3 ( 0.8)
+
+3 5 ( 0.7) 6
+
+0 2 ( 0.3) 2
+
+0 ( 0.0)
+
+10 ( 2.8) 12
+
+0 ( 0.0) 0
+
+2 ( 0.6) 2
+
+4 ( 1.1) 4 11 ( 1.6)
+
+2 ( 0.6) 2 5 ( 0.7) 5
+
+0 ( 0.0) 0 1 ( 0.1) 1
+
+2 ( 0.6)
+
+2
+
+26 ( 7.3) 67
+
+26 ( 7.3) 67
+
+All severe TEAEs by SOC and PT in the study eye are provided in the table below.
+
+Table 48
+
+Table 7: Severe TEAEs in the Study Eye by SOC and PT (Safety Set, Study SB11- G31-AMD) (Ad-hoc Analysis)
+
+System Organ Class
+
+Preferred Term
+
+n
+
+Any TEAE 7 (2.0)
+
+Eye disorders 6 (1.7)
+
+Visual acuity reduced
+
+1
+
+Cataract 2
+
+Iridocyclitis
+
+1
+
+Retinal haemorrhage
+
+1
+
+Macular degeneration
+
+0
+
+Corneal epithelium defect
+
+1
+
+Macular oedema
+
+1
+
+Uveitis 1
+
+Macular fibrosis
+
+0
+
+Retinal artery occlusion
+
+0
+
+Infections and infestations
+
+1
+
+Endophthalmitis
+
+1
+
+Investigations
+
+1
+
+Intraocular pressure increased
+
+1
+
+SB11
+
+N= 350
+
+(%) E
+
+10
+
+8
+
+(0.3) 1
+
+(0.6) 2
+
+(0.3) 1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+US Lucentis® N = 354
+
+n
+
+(%)
+
+E
+
+n
+
+4 (1.1)
+
+5
+
+11 (1.6)
+
+4 (1.1)
+
+5
+
+10
+
+0
+
+(0.0)
+
+0
+
+1
+
+1
+
+(0.3)
+
+1
+
+3 (0.4)
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+0
+
+(0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+2 (0.3)
+
+1
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+Total N = 704
+
+(%)
+
+E
+
+15
+
+(1.4)
+
+13
+
+(0.1)
+
+1
+
+3
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.1) 1
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+N = number of patients; n = number of patients with event; E = frequency of events. Percentages were based on the number of patients in the Safety Set.
+
+Assessment report EMA/446448/2021
+
+Total N=704 n (%) E
+
+217 (30.8) 430
+
+182 (25.9) 292
+
+39
+
+31
+
+16
+
+7
+
+11
+
+3
+
+19
+
+4
+
+12 ( 1.7) 1 ( 0.1)
+
+14
+
+1
+
+3 ( 0.4)
+
+3
+
+11
+
+3 ( 0.4) 3
+
+49 ( 7.0) 107
+
+49 ( 7.0) 107
+
+Page 97/146
+
+Ocular TEAEs in the Fellow Eye
+
+Ocular TEAEs in the fellow eye occurring ≥ 5% of the patients in any treatment group by PT are provided in the table below.
+
+Table 49
+
+Table 11: Ocular TEAEs in the Fellow Eye with Incidence ≥ 5% of Patients in Any Treatment Group by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+SB11
+
+US Lucentis®
+
+Total
+
+System Organ Class
+
+N= 350
+
+N = 354
+
+N = 704
+
+Preferred Term
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Any ocular TEAEs in the fellow eye
+
+92
+
+(26.3)
+
+118
+
+77
+
+(21.8)
+
+117
+
+169
+
+(24.0)
+
+235
+
+Any ocular TEAEs with incidence ≥ 5% of patients in the fellow eyea
+
+25
+
+(7.1)
+
+25
+
+22
+
+(6.2)
+
+22
+
+47
+
+(6.7)
+
+47
+
+Eye disorders
+
+25
+
+(7.1)
+
+25
+
+22
+
+(6.2)
+
+22
+
+47
+
+(6.7)
+
+47
+
+Neovascular age-related macular degeneration
+
+25 (7.1)
+
+25
+
+22
+
+(6.2)
+
+22
+
+47
+
+47
+
+(6.7)
+
+E = frequency of events; MedDRA = Medical Dictionary for Regulatory Activities; N = total number of patients; n = number
+
+of patients with event; TEAE = treatment-emergent adverse event
+
+Percentages were based on number of patient in the Safety Set.
+
+Ocular TEAE was coded using MedDRA version 20.1 coding dictionary.
+
+a The incidence of ocular TEAEs in the fellow eye reported > 5% in either treatment group was based on Preferred Term. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-4, Table 14.3.1-1.3.3
+
+All of severe TEAEs by SOC and PT in the fellow eye are provided in the table below.
+
+Table 50
+
+Table 8:
+
+Severe TEAEs in the Fellow Eye by SOC and PT (Safety Set, Study SB11-
+
+G31-AMD)
+
+SB11
+
+US Lucentis®
+
+Total N = 704
+
+System Organ Class
+
+N = 350
+
+N = 354
+
+Preferred Term
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Any TEAE
+
+4 (1.1)
+
+6
+
+2 (0.6)
+
+2
+
+6 (0.9)
+
+8
+
+Eye disorders
+
+4 (1.1)
+
+6
+
+2
+
+(0.6)
+
+2
+
+6
+
+(0.9)
+
+8
+
+Neovascular age-related macular
+
+degeneration
+
+1
+
+(0.3)
+
+1
+
+0 (0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Cataract
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.1)
+
+1
+
+Retinal haemorrhage
+
+2
+
+Age-related macular degeneration
+
+1
+
+Vitreous haemorrhage
+
+1
+
+Retinal artery occlusion
+
+0
+
+(0.6)
+
+3
+
+0 (0.0)
+
+(0.3)
+
+1
+
+0 (0.0)
+
+(0.3)
+
+1
+
+0 (0.0)
+
+(0.0)
+
+0
+
+1
+
+0
+
+2 (0.3)
+
+0
+
+1 (0.1)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+N = number of patients; n = number of patients with event; E = frequency of events.
+
+Percentages were based on the number of patients in the Safety Set.
+
+3
+
+1
+
+(0.1)
+
+1
+
+1
+
+If a patient had multiple events with different severity, then the patient was counted only once at the worst severity (i.e., related) for the number of patients (n).
+
+Source: Attachment 86-3
+
+(Of note, none were considered related to IP.)
+
+Assessment report EMA/446448/2021
+
+Page 98/146
+
+Non-ocular TEAEs
+
+Table 51
+
+Table 12: Non-ocular TEAEs with Incidence ≥ 5% of Patients in Any Treatment Group by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+System Organ Class
+
+Preferred Term n
+
+Non-ocular TEAEs
+
+194
+
+SB11
+
+N= 350
+
+(%)
+
+US Lucentis®
+
+N = 354
+
+E
+
+n
+
+(55.4)
+
+(%)
+
+E
+
+590
+
+205 (57.9)
+
+552 399
+
+Total
+
+N= 704
+
+n
+
+(%)
+
+E
+
+(56.7)
+
+1142
+
+Any non-ocular TEAEs with incidence ≥ 5% of patientsª
+
+52
+
+(14.9)
+
+60
+
+60
+
+(16.9)
+
+77
+
+112 (15.9)
+
+137
+
+Infections and infestations
+
+37
+
+(10.6)
+
+42
+
+35
+
+(9.9) 40
+
+72
+
+(10.2)
+
+82
+
+SB11
+
+US Lucentis®
+
+Total
+
+System Organ Class
+
+N= 350
+
+N= 354
+
+N = 704
+
+Preferred Term n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Nasopharyngitis 37
+
+(10.6)
+
+42
+
+35
+
+(9.9)
+
+40
+
+72 (10.2)
+
+82
+
+Vascular disorders
+
+17
+
+(4.9)
+
+18
+
+26 (7.3)
+
+37
+
+43
+
+(6.1)
+
+55
+
+Hypertension
+
+17
+
+(4.9)
+
+18
+
+26
+
+(7.3)
+
+37
+
+43
+
+(6.1)
+
+55
+
+E = frequency of events; N = total number of patients; n = number of patients with event; TEAE = treatment-emergent adverse event
+
+Percentages were based on number of patient in the Safety Set.
+
+a The incidence of non-ocular TEAEs reported ≥ 5% in either treatment group was based on Preferred Term.
+
+Non-ocular TEAE was coded using MedDRA version 20.1 coding dictionary
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-5, Table 14.3.1-1.3.4
+
+The table below presents any TEAEs and number of events (study and fellow eye, non-ocular) by PT in ≥2% of patients in any treatment group.
+
+Assessment report EMA/446448/2021
+
+Page 99/146
+
+Table 52
+
+Table 9: Number (%) of Patients with TEAEs and Number of Events by Preferred Term during the Study Period in > 2% of Patients in Any Treatment Group (Safety Set, Study SB11-G31-AMD)
+
+US Lucentis®
+
+System Organ Class
+
+Preferred Term
+
+n
+
+SB11
+
+N=350
+
+(%)
+
+E
+
+N=354
+
+n
+
+(%)
+
+E
+
+n
+
+Total N = 704
+
+(%)
+
+E
+
+Any TEAE 255
+
+(72.9)
+
+910
+
+256
+
+(72.3)
+
+897
+
+511
+
+(72.6)
+
+1807
+
+Eye disorders
+
+135
+
+(38.6)
+
+247
+
+130 (36.7)
+
+247
+
+265
+
+(37.6)
+
+494
+
+Neovascular age-related macular degeneration
+
+25
+
+(7.1)
+
+25
+
+23
+
+(6.5)
+
+23
+
+48
+
+(6.8)
+
+48
+
+Visual acuity reduced
+
+23
+
+(6.6)
+
+30
+
+23
+
+(6.5)
+
+32
+
+46
+
+(6.5)
+
+62
+
+Conjunctival haemorrhage
+
+19
+
+(5.4)
+
+23
+
+19
+
+(5.4)
+
+21
+
+38
+
+(5.4)
+
+44
+
+Cataract
+
+13
+
+(3.7)
+
+16
+
+7
+
+(2.0)
+
+11
+
+20
+
+(2.8)
+
+27
+
+Macular degeneration
+
+10
+
+(2.9)
+
+11
+
+9
+
+(2.5)
+
+9
+
+19
+
+(2.7)
+
+20
+
+Vitreous detachment
+
+8
+
+(2.3)
+
+11
+
+6
+
+(1.7)
+
+7
+
+14
+
+(2.0)
+
+18
+
+Posterior capsule opacification
+
+7
+
+(2.0)
+
+12
+
+3
+
+(0.8)
+
+3
+
+10
+
+(1.4)
+
+15
+
+Visual impairment
+
+6
+
+(1.7)
+
+6
+
+14
+
+(4.0)
+
+16
+
+20
+
+(2.8)
+
+22
+
+Dry eye
+
+5
+
+(1.4) (0.9)
+
+8
+
+8
+
+(2.3)
+
+13 (2.3)
+
+13
+
+(1.8)
+
+21
+
+Ocular hypertension
+
+3
+
+6
+
+8
+
+16
+
+11
+
+(1.6)
+
+22
+
+Vitreous floaters
+
+3
+
+(0.9)
+
+3 9
+
+(2.5)
+
+9
+
+12 (1.7)
+
+12
+
+Gastrointestinal disorders
+
+34
+
+(9.7)
+
+46
+
+29 (8.2)
+
+45
+
+63
+
+(8.9)
+
+91
+
+Constipation
+
+9
+
+(2.6)
+
+9
+
+0
+
+(0.0)
+
+0
+
+9
+
+(1.3)
+
+9
+
+Assessment report EMA/446448/2021
+
+Page 100/146
+
+
+SB11 N= 350
+
+US Lucentis®
+
+System Organ Class
+
+n
+
+Preferred Term
+
+Diarrhoea 3
+
+Infections and infestations
+
+114
+
+Nasopharyngitis
+
+37
+
+Influenza 15
+
+Urinary tract infection 14
+
+Bronchitis
+
+13
+
+Upper respiratory tract infection
+
+9
+
+Injury, poisoning and procedural complications
+
+35
+
+Fall
+
+8
+
+Investigations
+
+47
+
+Intraocular pressure increased
+
+24
+
+Blood pressure increased
+
+4
+
+Musculoskeletal and connective tissue disorders
+
+35
+
+(%) (0.9)
+
+E
+
+6
+
+(32.6)
+
+174
+
+(10.6)
+
+42
+
+(4.3)
+
+15
+
+(4.0)
+
+21
+
+(3.7)
+
+13
+
+(2.6)
+
+10
+
+(10.0)
+
+49
+
+(2.3)
+
+9
+
+(13.4)
+
+89
+
+(6.9)
+
+47
+
+(1.1)
+
+4
+
+(10.0)
+
+54
+
+N = 354
+
+n
+
+(%)
+
+8
+
+(2.3)
+
+98 (27.7)
+
+35
+
+(9.9)
+
+11
+
+(3.1)
+
+8
+
+(2.3)
+
+6
+
+(1.7)
+
+3
+
+(0.8)
+
+32
+
+(9.0)
+
+8
+
+(2.3)
+
+46 (13.0)
+
+29
+
+(8.2)
+
+9
+
+(2.5)
+
+38 (3.4)
+
+(10.7)
+
+E
+
+8 11
+
+142 212
+
+40
+
+11
+
+11
+
+8
+
+3
+
+44
+
+8
+
+131
+
+77
+
+11
+
+55
+
+Total N= 704
+
+n
+
+(%)
+
+E
+
+(1.6)
+
+14
+
+(30.1)
+
+316
+
+72
+
+(10.2)
+
+82
+
+26
+
+(3.7)
+
+26
+
+22
+
+(3.1)
+
+32
+
+19
+
+(2.7
+
+21
+
+12
+
+(1.7)
+
+13
+
+67
+
+(9.5)
+
+93
+
+16
+
+(2.3)
+
+17
+
+93
+
+(13.2)
+
+220
+
+53
+
+(7.5)
+
+124
+
+13
+
+(1.8)
+
+15
+
+73
+
+(10.4)
+
+109
+
+Back pain
+
+12
+
+12
+
+8
+
+(2.3)
+
+8
+
+20
+
+(2.8)
+
+20
+
+Arthralgia
+
+6
+
+(1.7)
+
+7
+
+7
+
+(2.0)
+
+7
+
+13
+
+(1.8)
+
+14
+
+Nervous system disorders
+
+31
+
+(8.9)
+
+42
+
+29
+
+(8.2) (2.8)
+
+36
+
+60
+
+(8.5)
+
+78
+
+Headache
+
+14
+
+(4.0)
+
+16
+
+10
+
+10
+
+24
+
+(3.4)
+
+26
+
+Dizziness
+
+6
+
+(1.7)
+
+6
+
+7
+
+(2.0)
+
+8 13
+
+(1.8)
+
+14
+
+Renal and urinary disorders
+
+18
+
+(5.1)
+
+24 13
+
+(3.7)
+
+17
+
+31
+
+(4.4) (1.3)
+
+41
+
+Haematuria
+
+7
+
+(2.0)
+
+8
+
+2
+
+(0.6)
+
+2
+
+9
+
+10
+
+Respiratory, thoracic and mediastinal disorders
+
+25
+
+(7.1) 28
+
+17 (4.8)
+
+19
+
+42
+
+(6.0)
+
+47
+
+Cough
+
+5
+
+(1.4)
+
+6
+
+8
+
+(2.3)
+
+8
+
+13
+
+(1.8)
+
+14
+
+Vascular disorders
+
+28
+
+(8.0)
+
+32
+
+32 (9.0)
+
+45
+
+60
+
+(8.5)
+
+77
+
+Hypertension
+
+17
+
+(4.9)
+
+18
+
+26
+
+(7.3)
+
+37 43
+
+(6.1)
+
+55
+
+E = frequency of events; MedDRA = Medical Dictionary for Regulatory Activities; N = total number of patients; n = number of patients with event; TEAE = treatment-emergent adverse event Percentages were based on number of patient in the Safety Set.
+
+TEAE was coded using MedDRA version 20.1 coding dictionary
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 14.3.1-1.2.1
+
+Assessment report EMA/446448/2021
+
+Page 101/146
+
+All severe non- ocular TEAEs by SOC are provided in the table below (ad hoc analysis).
+
+Table 53
+
+Table 9: Severe Non-ocular TEAEs by SOC (Safety Set, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+SB11
+
+US Lucentis®
+
+System Organ Class
+
+N = 350
+
+N = 354
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Total
+
+N = 704
+
+n (%)
+
+Any TEAE
+
+22
+
+(6.3)
+
+30
+
+22 (6.2)
+
+22
+
+44
+
+Cardiac disorders 4 (1.1)
+
+Gastrointestinal disorders 0 (0.0)
+
+4
+
+0
+
+1
+
+(0.3)
+
+2 (0.6)
+
+1
+
+5 (0.7)
+
+2
+
+2 (0.3)
+
+E
+
+(6.3)
+
+52
+
+5
+
+2
+
+General disorders and administration site conditions 1 (0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3 (0.4) 3
+
+Infections and infestations
+
+3
+
+(0.9)
+
+3
+
+6 (1.7)
+
+6
+
+9 (1.3)
+
+9
+
+Injury, poisoning and procedural complications 4
+
+(1.1)
+
+6
+
+3
+
+(0.8)
+
+3
+
+7 (1.0)
+
+9
+
+Metabolism and nutrition disorders
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+Musculoskeletal and connective tissue disorders 1
+
+(0.3)
+
+2
+
+1
+
+(0.3)
+
+1
+
+2 (0.3)
+
+3
+
+Neoplasms benign, malignant and unspecified (incl cysts and polyps) 5
+
+(1.4)
+
+5
+
+3
+
+(0.8)
+
+3
+
+8 (1.1)
+
+8
+
+Nervous system disorders
+
+2
+
+(0.6)
+
+3
+
+1
+
+(0.3)
+
+1
+
+3 (0.4)
+
+4
+
+Renal and urinary disorders
+
+1
+
+(0.3)
+
+1
+
+1 (0.3)
+
+1
+
+2 (0.3)
+
+2
+
+Reproductive system and breast disorders
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1) 1
+
+Respiratory, thoracic and mediastinal disorders
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1) 1
+
+Skin and subcutaneous tissue disorders
+
+0 (0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1) 1
+
+Vascular disorders 3
+
+(0.9)
+
+3
+
+0
+
+(0.0)
+
+N = number of patients; n = number of patients with event; E = frequency of events. Percentages were based on the number of patients in the Safety Set.
+
+1
+
+If a patient had multiple events with different severity, then the patient was counted only once at the worst severity (i.e., related) for the number of patients (n). System Organ Classes were presented alphabetically.
+
+0
+
+3 (0.4)
+
+Source: Attachment 86-4
+
+AESI
+
+The following AEs in the study eye were classified as adverse events of special interest (AESIs) in this study using 6 different categories which were pre-defined in the study protocol:
+
+· Category 1: Any case of new onset IOP of > 21 mmHg that did not respond to treatment, except the transient pressure rise observed within an hour after ITV injection of IP
+
+. Category 2: Any case of IOP ≥ 35 mmHg, at any time, that required treatment
+
+· Category 3: Any case of intraocular infection such as endophthalmitis
+
+· Category 4: Any case of intraocular inflammation such as iritis, vitritis, and iridocyclitis
+
+· Category 5: Iatrogenic traumatic cataract
+
+· Category 6: Arterial thromboembolic events defined as non-fatal stroke, non-fatal myocardial infarction, or vascular death (including deaths of unknown cause)
+
+The table below presents a summary of Adverse Events of Special Interest (Safety Set).
+
+Assessment report EMA/446448/2021
+
+Page 102/146
+
+Table 54
+
+Number of Subjects Experiencing
+
+AESI
+
+8 (2.3) 13
+
+8 (2.3) 16
+
+AESI Category
+
+Category 1
+
+3 (0.8) 3
+
+Category 2
+
+3 (0.9) 4
+
+Category 3
+
+2 (0.6) 2
+
+Category 4
+
+4 (1.1) 6
+
+Category 5
+
+Category 6
+
+Intraocular inflammation TEAEs
+
+Intraocular inflammation TEAEs in the
+
+study eye
+
+Intraocular inflammation TEAEs in the
+
+fellow eye
+
+SB11
+
+N=350 n (9%) E
+
+0 (0.0) 0
+
+0 (0.0) 0
+
+1 (0.3) 1
+
+4 (1.1) 6
+
+4 (1.1) 6
+
+0 (0.0) 0
+
+Lucentis* N=354 n (96) E
+
+3 (0.8) 11
+
+0 (0.0) 0 2 (0.3) 2
+
+0 (0.0) 0 4 (0.6) 6
+
+0 (0.0) 0 0 (0.0) 0
+
+2 (0.6) 2 3 (0.4) 3
+
+0 (0.0) 0
+
+0 (0.0) 0
+
+0 (0.0) 0
+
+Total N = 704 n (96) E
+
+16 (2.3) 29
+
+3 (0.4) 3
+
+6 (0.9) 15
+
+4 (0.6) 6
+
+4 (0.6) 6
+
+0 (0.0) 0
+
+The results of all categories of AESI analyses subdivided by SOC and PT are presented in Table 55 below.
+
+Assessment report EMA/446448/2021
+
+Page 103/146
+
+Table 55
+
+Table 21: Adverse Events of Special Interest (AESI) by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+SB11
+
+US Lucentis®
+
+Total
+
+System Organ Class
+
+Preferred Term n
+
+Any AESI 8 (2.3)
+
+Eye disorders 4 (1.1)
+
+Iridocyclitis 3
+
+Uveitis
+
+1
+
+Vitritis 1
+
+N = 350
+
+(%)
+
+E
+
+n
+
+13
+
+8
+
+6
+
+0
+
+(0.9)
+
+3
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+2
+
+0 (0.0)
+
+N = 354
+
+(%)
+
+E
+
+n
+
+(2.3)
+
+16
+
+16
+
+(0.0)
+
+0
+
+4 (0.6)
+
+(0.0)
+
+0
+
+3
+
+(0.0)
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+N = 704
+
+(%)
+
+E
+
+(2.3)
+
+29
+
+6
+
+(0.4
+
+3
+
+1
+
+2
+
+SB11
+
+US Lucentis®
+
+Total N = 704
+
+System Organ Class
+
+N = 350
+
+N = 354
+
+Preferred Term
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+General disorders and administration site conditions
+
+1
+
+(0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3
+
+(0.4)
+
+3
+
+Death
+
+1
+
+(0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3
+
+(0.4)
+
+3
+
+Infections and infestations
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0
+
+2
+
+(0.3)
+
+2
+
+Endophthalmitis
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0
+
+2 (0.3)
+
+2
+
+Investigations
+
+3
+
+(0.9)
+
+4
+
+6
+
+(1.7)
+
+14
+
+9
+
+(1.3)
+
+18
+
+Intraocular pressure increased
+
+3
+
+(0.9) 4
+
+6
+
+14 (1.7)
+
+9
+
+(1.3)
+
+18
+
+AESI = adverse events of special interest; E = frequency of events; MedDRA = Medical Dictionary for Regulatory Activities;
+
+N = total number of patients; n = number of patients with event
+
+Percentages were based on the number of patients in the Safety Set.
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA coding dictionary version 20.1.
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+If patient had multiple conditions with the same Preferred Term and System Organ Class, the patient was counted only once. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-9, Table 14.3.1-1.12
+
+Category 1: Any case of new onset Intraocular Pressure (IOP) of > 21 mmHg that does not respond
+
+to treatment, except the transient pressure rise observed within an hour after ITV Injection of IP
+
+Three out of 29 events were in this category (3 [0.8%] patients in the Lucentis treatment group). All of them were moderate in intensity. In a conservative ad-hoc approach, all three events were considered related to IP. No patients were permanently discontinued from IP.
+
+Category 2: Any case of IOP > 35 mmHg, at any time, that required treatment
+
+Fifteen out of 29 events were in this category (3 [0.9%] patients in the SB11 treatment group and 3 [0.8%] patients in the US Lucentis treatment group). Of these 15 events of increased IOP, 8 events were reported by 1 patient from the Lucentis treatment group, 2 events were reported by 2 patients from each treatment group, and 1 event was each reported by 2 patients in the SB11 treatment group and 1 patient in the Lucentis treatment group. All of them were moderate in intensity, with the exception of 1 event in 1 patient from the SB11 treatment group, which was reported as severe. In a
+
+Assessment report EMA/446448/2021
+
+Page 104/146
+
+conservative ad-hoc analysis, all 15 events were considered related to IP and no patients were permanently discontinued from IP.
+
+Category 3: Any case of intraocular infection such as endophthalmitis
+
+Two out of 29 events were in this category (2 [0.6%] patients in the SB11 treatment group). Out of these 2 events of endophthalmitis, one event was moderate in intensity while the other was severe in intensity. Both events were treated with vitrectomy, ITV injection of antibiotics, and topical steroid/antibiotics. None of them were considered related to the IP by the Investigator. The Sponsor considered both as related to treatment. One patient was permanently discontinued from IP. The ADA status was not reported.
+
+Category 4: Any case of intraocular inflammation such as iritis, vitritis, and iridocyclitis
+
+Six out of overall 29 AESIs were in this category (all of which occurred in 4 [1.1%] patients in the SB11 treatment group).
+
+- One patient experienced 3 events of intraocular inflammation with 1 event of iridocyclitis with mild intensity and 2 events of vitritis with mild and moderate intensity, respectively (all considered related to IP by the Investigator). These events were managed with topical steroid.
+
+- One patient experienced 1 event of uveitis with severe intensity (not considered related to IP by Investigator, but related by Sponsor) and treated with subconjunctival steroid/antibiotics/anti- cholinergics, topical steroid/antibiotics/anti-cholinergics, intralymphatic enzymes/anti-inflammatory agents, and intravenous steroid/antibiotics.
+
+- One patient experienced 1 event of iridocyclitis with mild intensity (not considered related to IP by the Investigator) and was managed by topical steroid and antibiotics (of note, the same patient also experienced endophthalmitis).
+
+- Another patient also experienced 1 event of iridocyclitis with severe intensity (considered related to IP by the Investigator and Sponsor) and treated with microinvasive vitrectomy, subconjunctival steroid/antibiotics, and topical steroid/antibiotics and resulted in permanent discontinuation of IP.
+
+Among TEAEs for IOI, only one event of iridocyclitis required permanent IP discontinuation. One patient had a positive ADA status.
+
+Category 5: Iatrogenic traumatic cataract
+
+No events were reported in this category.
+
+Category 6: Arterial thromboembolic events defined as non-fatal stroke, non-fatal myocardial infarction, or vascular death (including deaths of unknown as cause)
+
+Three deaths with unknown cause occurred that fitted the definition of category 6; one (0.3%) in the SB11 treatment arm and two (0.6%) in the Lucentis treatment group. None of them were considered related to the IP.
+
+Subgroup Analysis of Overall Anti-drug Antibody up to End of Study
+
+Ocular Treatment-emergent Adverse Events (Study Eye/Fellow Eye) by Overall Anti-drug Antibody Result up to End of Study (Week 52)
+
+Assessment report EMA/446448/2021
+
+Page 105/146
+
+Table 56
+
+Table 13: Ocular Treatment-emergent Adverse Events in the Study Eye or Fellow Eye by Overall Anti-drug Antibody Result up to Week 52 (Safety Set, Study SB11-G31-AMD)
+
+Eye Subgroup
+
+Study eye
+
+Overall ADA positive
+
+5 / 14
+
+Overall ADA negative
+
+95 / 312
+
+n / n'
+
+SB11 (N = 350)
+
+(%)
+
+E
+
+US Lucentis® (N = 354)
+
+(35.7)
+
+11
+
+(30.4)
+
+177
+
+n / n'
+
+(%)
+
+4/ 18
+
+(22.2)
+
+95 / 308
+
+(30.8)
+
+E
+
+9
+
+206
+
+Eye
+
+SB11 (N= 350)
+
+US Lucentis® (N = 354)
+
+Subgroup
+
+n / n'
+
+(%)
+
+E
+
+n / n'
+
+(%)
+
+E
+
+Inconclusive
+
+1 /4
+
+(25.0)
+
+1
+
+1/1
+
+(100.0)
+
+1
+
+Fellow eye
+
+Overall ADA positive
+
+2 / 14
+
+(14.3)
+
+2
+
+2/18
+
+(11.1)
+
+4
+
+Overall ADA negative 79 / 312
+
+(25.3)
+
+101
+
+69 / 308
+
+(22.4)
+
+106
+
+Inconclusive 2 / 4
+
+(50.0)
+
+3
+
+0/0
+
+(0.0)
+
+0
+
+ADA = anti-drug antibody; E = frequency of events; N = total number of patients in the Safety Set; n = number of patients with event; n'= number of patients with overall ADA result up to End of Study; TEAE = treatment-emergent adverse event Percentages were based on n'.
+
+Overall ADA results were determined as positive for a patient with treatment-induced or treatment-boosted ADA, where treatment-induced ADA indicates at least 1 positive result after pre-dose of Week 0 for patients with negative ADA at pre-dose of Week 0, and treatment-boosted ADA indicates at least 1 positive result with higher titer level compared with pre-dose of
+
+Week 0 after pre-dose of Week 0 for patients with positive ADA at pre-dose of Week 0.
+
+Overall ADA result was defined as negative for a patient without positive ADA until Week 52
+
+Overall ADA result was defined as inconclusive for a patient with positive ADA at Week 0 and without positive result with higher titer level observed after pre-dose of Week 0 up to Week 52
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 14.3.1-1.4.2, Table 14.3.1-1.4.3
+
+Non-ocular Treatment-emergent Adverse Events by Overall Anti-drug Antibody Result up to End of Study (Week 52)
+
+A total of 32 non-ocular TEAEs were reported in 17 patients (16 events in 8 patients in the SB11 treatment group and 16 events in the 9 patients in the Lucentis treatment group) with an overall ADA positive result up to EOS. At the SOC level, the most commonly reported non-ocular TEAEs
+
+among the patients who were determined as overall ADA positive up to EOS were infections and infestations (5 events in 5 patients the SB11 treatment group and 6 events in 4 patients in the Lucentis treatment group) and gastrointestinal disorders (2 events in 2 patients in the SB11 treatment group and 2 events in 2 patients in the Lucentis treatment group).
+
+A total of 1052 non-ocular TEAEs were reported in 354 patients (546 events in 173 patients in the SB11 treatment group and 506 events in 181 patients in the Lucentis treatment group) with an overall ADA negative result up to EOS. At the SOC level, the most commonly reported non-ocular
+
+TEAEs who were determined as overall ADA negative up to EOS were infections and
+
+infestations (144 events in 93 patients the SB11 treatment group and 115 events in 83 patients in
+
+the Lucentis treatment group), musculoskeletal and connective tissue disorders (53 events in 34 patients in the SB11 treatment group and 51 events in 36 patients in the Lucentis treatment group), and investigations (42 events in 28 patients in the SB11 treatment group and 54 events in 31 patients in the Lucentis treatment group).
+
+Assessment report EMA/446448/2021
+
+Page 106/146
+
+Subgroup Analysis of Safety Profiles in the Pharmacokinetic Analysis Set
+
+Overall no clear imbalance between treatment groups is apparent in this subgroup analysis. For details, please refer to the D80 clinical assessment report.
+
+Serious adverse event/deaths/other significant events
+
+Definition Serious Adverse Event
+
+A serious adverse event (SAE) is any untoward medical occurrence at any dose that:
+
+• Results in death
+
+• Is life-threatening
+
+• Requires inpatient hospitalisation or prolongation of existing hospitalisation
+
+• Results in persistent or significant disability/incapacity
+
+• Results in congenital anomaly/birth defects
+
+• Is medically important
+
+• In addition, sight-threatening ocular AE was reported as SAE if it met one or more of the following criteria:
+
+- A decrease in VA of ≥ 30 letters from the last assessment of VA
+
+- A decrease in VA to the level of light perception or worse
+
+- Requirement of surgical intervention (e.g., conventional surgery, vitreous tap or biopsy with ITV injection of antibiotics, laser treatment, ITV gas injection, or retinal cryopexy) to prevent permanent loss of vision
+
+- Severe intraocular inflammation (e.g., 4+ anterior chamber cell/flare or 4+ vitritis)
+
+- In the Investigator's opinion, medical intervention was required to prevent permanent loss of vision
+
+Serious Ocular TEAEs in the Study Eye
+
+A total of 22 ocular SAEs were reported in 18 (2.6%) patients (10 [2.9%] patients in the SB11 treatment group and 8 [2.3%] patients in the Lucentis treatment group) in the study eye during the study (Table 57). In terms of causality, a total of 7 (1.0%) patients with 9 ocular SAEs in the study eye were related to IP (4 [1.1%] patients in the SB11 and 3 [0.8%] patients in the Lucentis treatment group) (SB11: vitritis, iridocyclitis, subretinal fluid, visual acuity reduced/macular oedema/retinal pigment epithelial tear; Lucentis: retinal haemorrhage, subretinal fluid, macular degeneration).
+
+Assessment report EMA/446448/2021
+
+Page 107/146
+
+Table 57
+
+Table 17: Ocular Serious Adverse Events in the Study Eye by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+SB11
+
+US Lucentis®
+
+System Organ Class
+
+Preferred Term
+
+n
+
+Any Ocular SAE in the study
+
+eye
+
+10
+
+Eye disorders
+
+8
+
+Cataract
+
+2
+
+Visual acuity reduced
+
+2
+
+(0.6)
+
+N= 350
+
+(%)
+
+E
+
+n
+
+N=354
+
+(%)
+
+(2.9)
+
+14
+
+8
+
+(2.3)
+
+(2.3)
+
+12
+
+8
+
+(0.6)
+
+2
+
+0
+
+3
+
+1
+
+(2.3)
+
+(0.0)
+
+(0.3)
+
+E
+
+n
+
+8
+
+18 (2.6)
+
+8
+
+16 (2.3)
+
+0
+
+2
+
+1
+
+3
+
+SB11
+
+US Lucentis®
+
+System Organ Class
+
+N= 350
+
+N= 354
+
+Preferred Term n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+Iridocyclitis 1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+Macular oedema
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+2 (0.3)
+
+Retinal haemorrhage
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+2 (0.3)
+
+Retinal pigment epithelial tear
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+Sub-retinal fluid
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+2 (0.3)
+
+Uveitis
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+Vitritis
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+Cataract subcapsular
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+Macular degeneration
+
+0
+
+(0.0)
+
+0
+
+2
+
+(0.6)
+
+2
+
+2
+
+Retinal artery occlusion
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1) 1
+
+Infections and infestations
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0
+
+2 (0.3)
+
+Endophthalmitis
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0
+
+2 (0.3)
+
+Total
+
+N = 704
+
+(%)
+
+E
+
+22
+
+20
+
+(0.3)
+
+2
+
+(0.4)
+
+4
+
+Total
+
+N= 704
+
+(%)
+
+E
+
+(0.1)
+
+1
+
+2
+
+2
+
+(0.1)
+
+1
+
+2
+
+1
+
+1
+
+1
+
+(0.3)
+
+2
+
+2
+
+2
+
+E = frequency of events; N = total number of patients; n = number of patients with event; SAE = serious adverse event Percentages were based on the number of patients in the Safety Set.
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA coding dictionary version 20.1.
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+If patient had multiple conditions with the same Preferred Term and System Organ Class, the patient was counted only once. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-6, Table 14.3.1-1.6.1
+
+Serious Ocular TEAEs in the Fellow Eye
+
+A total of 5 (0.7%) patients (3 [0.9%] patients in the SB11 and 2 [0.6%] patients in the Lucentis treatment group) had 7 ocular SAEs in the fellow eye during the study. None of the ocular SAEs in the fellow eye were related to the IP (Table 58).
+
+Assessment report EMA/446448/2021
+
+Page 108/146
+
+Table 58
+
+Table 18: Ocular Serious Adverse Events in the Fellow Eye by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+System Organ Class
+
+Preferred Term n
+
+SB11 N= 350
+
+(%)
+
+E
+
+US Lucentis®
+
+N= 354
+
+n
+
+(%)
+
+E
+
+n
+
+Total
+
+N= 704
+
+(%)
+
+E
+
+Any Ocular SAE in the fellow eye
+
+3
+
+(0.9)
+
+5
+
+2
+
+(0.6)
+
+2
+
+5
+
+(0.7)
+
+7
+
+SB11
+
+US Lucentis®
+
+Total
+
+System Organ Class Preferred Term n (%)
+
+N=350
+
+N= 354
+
+N = 704
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Eye disorders 3 (0.9)
+
+5
+
+2
+
+(0.6
+
+2
+
+5 (0.7)
+
+7
+
+Retinal haemorrhage 2
+
+(0.6)
+
+3
+
+0
+
+(0.0
+
+0
+
+2
+
+(0.3)
+
+3
+
+Age-related macular degeneration 1
+
+(0.3)
+
+1
+
+0
+
+(0.0
+
+0
+
+1
+
+(0.1)
+
+1
+
+Vitreous haemorrhage 1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Choroidal neovascularization
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.1)
+
+1
+
+Retinal artery occlusion 0
+
+(0.0)
+
+0 1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+E = frequency of events; N = total number of patients; n = number of patients with event; SAE = serious adverse event Percentages were based on the number of patients in the Safety Set.
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA coding dictionary version 20.1. System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+If patient had multiple conditions with the same Preferred Term and System Organ Class, the patient was counted only once. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-7, Table 14.3.1-1.6.2
+
+Serious Non-ocular TEAEs
+
+41 [11.7%] patients in the SB11 treatment group and 42 [11.9%] patients in the Lucentis treatment group reported non-ocular SAEs during the study (Table 59). In terms of causality, the majority of the non-ocular SAEs were considered not related to the IP, and 2 (0.3%) patients with 2 non-ocular SAEs were related to IP (2 [0.6%] patients in the SB11 treatment group) (cerebral haemorrhage and cardiac congestive failure). Throughout the procedure, after amendment of causality assessment, 2 non-ocular SAEs were newly considered as related to IP: 'Iliac artery embolism' and 'Peripheral ischaemia' by PT. Both of these IP-related non-ocular SAEs were 'Vascular disorders' by SOC (2 [0.6%] patients in the SB11 treatment group.
+
+Assessment report EMA/446448/2021
+
+Page 109/146
+
+Table 59
+
+Table 19: Non-ocular Serious Adverse Events by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+System Organ Class
+
+Preferred Term n
+
+Any non-ocular SAE
+
+41
+
+Blood and lymphatic system disorders
+
+1
+
+Anaemia 1
+
+Cardiac disorders
+
+8
+
+Atrial fibrillation 4
+
+Cardiac failure congestive
+
+2
+
+Angina pectoris 1
+
+Coronary artery disease
+
+1
+
+Left ventricular failure
+
+1
+
+Myocardial ischaemia
+
+1
+
+Angina unstable
+
+0
+
+Bradycardia
+
+0
+
+Ear and labyrinth disorders
+
+1
+
+Vestibular disorder
+
+1
+
+Gastrointestinal disorders
+
+0
+
+Gastric ulcer haemorrhage
+
+0
+
+Inguinal hernia
+
+0
+
+Intra-abdominal haemorrhage
+
+0
+
+Pancreatitis acute
+
+0
+
+Small intestinal obstruction
+
+0
+
+General disorders and administration site conditions
+
+1
+
+Death
+
+1
+
+Hepatobiliary disorders
+
+2
+
+Bile duct stone
+
+1
+
+Cholelithiasis
+
+1
+
+Cholecystitis
+
+0
+
+Infections and infestations
+
+3
+
+Pneumonia
+
+1
+
+Pneumonia bacterial
+
+1
+
+Urinary tract infection
+
+1
+
+SB11
+
+US Lucentis®
+
+N=350
+
+(%) (11.7)
+
+E n
+
+52
+
+42
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+1
+
+(2.3)
+
+10
+
+8 (2.3)
+
+(1.1)
+
+4 3
+
+(0.6)
+
+2
+
+2
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+6 (1.7)
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+2
+
+(0.0)
+
+0
+
+1
+
+N= 354
+
+(%)
+
+E
+
+n
+
+(11.9)
+
+55
+
+83
+
+(0.3) (0.3)
+
+1
+
+2 (0.3)
+
+1
+
+2 (0.3)
+
+8
+
+16 (2.3)
+
+(0.8)
+
+3
+
+7
+
+(0.6)
+
+2
+
+4 (0.6)
+
+(0.3)
+
+1
+
+2 (0.3)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+6
+
+6
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3) (0.3)
+
+1
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+(0.6)
+
+2
+
+2 (0.3)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3 (0.4)
+
+(0.3)
+
+1
+
+2
+
+3 (0.4)
+
+(0.6)
+
+2
+
+2
+
+4 (0.6)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+1
+
+2 (0.3)
+
+1
+
+1 (0.1)
+
+11
+
+14 (2.0)
+
+1
+
+2 (0.3) 2
+
+0
+
+1 (0.1) 1
+
+(0.9)
+
+3
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+2
+
+(0.6
+
+2
+
+(0.6)
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+11
+
+(3.1)
+
+1
+
+(0.3)
+
+0 (0.0)
+
+1
+
+(0.3)
+
+1
+
+2
+
+Total
+
+N = 704
+
+(%)
+
+E
+
+(11.8)
+
+107
+
+2
+
+2
+
+18
+
+(1.0)
+
+7
+
+4
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+(0.9)
+
+6
+
+1
+
+1
+
+1
+
+2
+
+1
+
+3
+
+3
+
+4
+
+1
+
+2
+
+1
+
+14
+
+(0.3) 2
+
+Assessment report EMA/446448/2021
+
+Page 110/146
+
+
+System Organ Class
+
+Preferred Term n
+
+Bacterial colitis
+
+0
+
+Cystitis 0
+
+Diverticulitis intestinal haemorrhagic
+
+0
+
+Hepatitis C
+
+0
+
+Infection 0
+
+Meningitis aseptic
+
+0
+
+Pulmonary tuberculosis
+
+0
+
+Sepsis
+
+0
+
+Injury, poisoning and procedural complications
+
+7
+
+SB11
+
+N= 350
+
+(%) (0.0)
+
+E
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0 1
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(2.0)
+
+7
+
+US Lucentis®
+
+N= 354
+
+n
+
+(%) (0.3)
+
+1
+
+2
+
+(0.6)
+
+1
+
+(0.3)
+
+(0.3)
+
+1
+
+(0.3) 1
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+E
+
+n
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1 (0.1)
+
+7
+
+(2.0)
+
+8
+
+14
+
+Total N = 704
+
+(%)
+
+E
+
+(0.1)
+
+1
+
+(0.3)
+
+2
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+1
+
+(2.0)
+
+15
+
+Anaemia postoperative
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+Ankle fracture 1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Femoral neck fracture
+
+1
+
+(0.3)
+
+1
+
+2
+
+(0.6)
+
+2
+
+3
+
+(0.4)
+
+3
+
+Hand fracture
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Humerus fracture
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+Pneumothorax traumatic
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Postoperative ileus
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Joint dislocation
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Lower limb fracture
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Radius fracture
+
+0
+
+(0.0)
+
+0 1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Spinal compression fracture
+
+0
+
+(0.0)
+
+0 1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Subdural haematoma
+
+0
+
+(0.0)
+
+0 1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Upper limb fracture
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Metabolism and nutrition disorders
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+Dehydration
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1 (0.1)
+
+1
+
+Musculoskeletal and connective tissue disorders
+
+1
+
+(0.3)
+
+1
+
+3
+
+(0.8)
+
+4
+
+4 (0.6)
+
+5
+
+Spinal osteoarthritis
+
+1
+
+Arthralgia
+
+0
+
+Back pain
+
+0
+
+Myalgia
+
+0
+
+Neck pain
+
+0
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+0
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+1
+
+1
+
+1
+
+1 (0.1)
+
+1
+
+1
+
+1
+
+(0.1)
+
+1
+
+1
+
+Assessment report EMA/446448/2021
+
+Page 111/146
+
+SB11
+
+US Lucentis®
+
+System Organ Class Preferred Term n
+
+Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+
+10
+
+Chronic lymphocytic leukaemia 1 (0.3)
+
+Colon cancer
+
+1
+
+Endometrial adenocarcinoma
+
+1
+
+Lung adenocarcinoma
+
+1
+
+Mantle cell lymphoma
+
+1
+
+Pancreatic carcinoma
+
+1
+
+Prostate cancer
+
+1
+
+Schwannoma
+
+1
+
+Squamous cell carcinoma of lung
+
+1
+
+Uterine cancer
+
+1
+
+Breast cancer female
+
+0
+
+Plasma cell myeloma
+
+0
+
+Nervous system disorders
+
+3
+
+Cerebral circulatory failure
+
+1
+
+Cerebral haemorrhage
+
+1
+
+Syncope
+
+1
+
+Renal and urinary disorders
+
+4
+
+Acute kidney injury
+
+3
+
+Renal colic
+
+1
+
+Calculus bladder
+
+0
+
+Nephrolithiasis
+
+0
+
+Renal artery stenosis
+
+0
+
+Urethral stenosis
+
+0
+
+Reproductive system and breast disorders
+
+0
+
+N=350
+
+(%)
+
+E
+
+n
+
+(2.9)
+
+10
+
+3
+
+1
+
+0
+
+(0.3) 1
+
+0 (0.0)
+
+(0.3)
+
+1
+
+0 (0.0)
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.9)
+
+3
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(0.3)
+
+1
+
+0
+
+(1.1)
+
+4
+
+4 (1.1)
+
+(0.9)
+
+3
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0 1
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+2 (0.6)
+
+N=354
+
+(%) E
+
+n
+
+(0.8)
+
+3
+
+13
+
+(0.0)
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+(0.0)
+
+0
+
+1
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+2 (0.3)
+
+(0.0) (0.0)
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.0)
+
+0
+
+3 (0.4)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1 (0.1)
+
+5
+
+8 (1.1)
+
+(0.3)
+
+1
+
+4 (0.6
+
+(0.0)
+
+0
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3)
+
+1
+
+1 (0.1)
+
+(0.3
+
+1
+
+1 (0.1)
+
+2
+
+2 (0.3)
+
+Total N = 704
+
+(%)
+
+E
+
+(1.8)
+
+13
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3
+
+1
+
+1
+
+1
+
+9
+
+4
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+Benign prostatic hyperplasia
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Metrorrhagia
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1 (0.1)
+
+1
+
+Respiratory, thoracic and mediastinal disorders
+
+2
+
+(0.6)
+
+2
+
+0
+
+(0.0)
+
+0
+
+2 (0.3)
+
+2
+
+Chronic obstructive pulmonary disease
+
+2
+
+Skin and subcutaneous tissue disorders
+
+0
+
+(0.6)
+
+2
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+2
+
+(0.6)
+
+0
+
+2 (0.3)
+
+2
+
+2 (0.3)
+
+2
+
+2
+
+Assessment report EMA/446448/2021
+
+Page 112/146
+
+SB11
+
+US Lucentis®
+
+Total
+
+System Organ Class
+
+N= 350
+
+N = 354
+
+N = 704
+
+Preferred Term
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Angioedema 0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.1)
+
+1
+
+Rash
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.1)
+
+1
+
+Vascular disorders 6 (1.7)
+
+6
+
+1
+
+(0.3)
+
+1
+
+7
+
+(1.0)
+
+7
+
+Hypertension 3 (0.9)
+
+3
+
+0
+
+(0.0
+
+0
+
+3
+
+(0.4)
+
+3
+
+Aortic aneurysm 1
+
+(0.3)
+
+1
+
+0
+
+(0.0
+
+0
+
+1
+
+(0.1)
+
+1
+
+Iliac artery embolism
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0
+
+0
+
+1
+
+(0.1)
+
+1
+
+Peripheral ischaemia
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+Haematoma
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+(0.1)
+
+1
+
+E = frequency of events; N = total number of patients; n = number of patients with event; SAE = serious adverse event Percentages were based on the number of patients in the Safety Set.
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA coding dictionary version 20.1. System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+If patient had multiple conditions with the same Preferred Term and System Organ Class, the patient was counted only once. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 12-8, Table 14.3.1-1.6.3
+
+Deaths
+
+A total of 6 (0.9%) patients died during the study: 2 (0.6%) patients in the SB11 treatment group with primary cause of death reported as chronic obstructive pulmonary disease for 1 (0.3%) patient and unknown for the other one (0.3%) patient; and 4 (1.1%) patients in the Lucentis treatment group with primary cause of death reported as infection for 1 (0.3%) patient and pneumonia for 1 (0.3%) patient, and unknown for the other two 2 (0.6%) patients. At least five of six patients had serious concomitant diseases that possibly offer better explanation for the events of death than the IP. One patient (Lucentis treatment arm) was not known to have concomitant non-ocular diseases and only scarce information is available on the circumstances of death. No further conclusion on any potential relatedness to treatment (Lucentis) can be drawn.
+
+Laboratory findings
+
+Haematology
+
+Haematology assessment was performed at Screening, Week 12, Week 24, Week 36, and Week 52. Summary statistics of the baseline values, values measured at each time point. No discernible differences in the changes of mean values for haematology parameters (haemoglobin, haematocrit, platelets, leukocytes, neutrophils, lymphocytes, monocytes, basophils, and eosinophils) were observed between the SB11 and Lucentis treatment groups.
+
+For each haematology parameter, the majority of patients had values in the normal range at baseline and remained normal. There were no noteworthy shifts observed from baseline to Week 52 in any of the haematology parameters. Few of the shift from baselines for the parameters were reported as TEAEs. Two of them (i.e., 2 events of anaemia) were considered as SAE (1 [0.3%] patient each in the SB11 and Lucentis treatment group).
+
+Assessment report EMA/446448/2021
+
+Page 113/146
+
+Only a few patients had clinically meaningful abnormalities in haematology parameters in both the SB11 and Lucentis treatment groups. During the study, few patients had abnormal haematology parameters which were reported as AEs:
+
+- anaemia (5 [1.4%] patients in the SB11 and 2 [0.6%] patients in the Lucentis treatment groups);
+
+- white blood cell count increased (1 [0.3%] patient in the SB11 and 3 [0.8%] patients in the Lucentis treatment groups);
+
+- neutrophil count increased (2 [0.6%] patients in the SB11 and 1 [0.3%] patient in the Lucentis treatment groups);
+
+- iron deficiency anaemia, iron deficiency, neutrophil count decreased, and platelet count decreased (1 [0.3%] patient each in both treatment groups);
+
+- cytopenia, febrile neutropenia, haemorrhagic anaemia, leucocytosis, thrombocytopenia, lymphocyte count decreased, and platelet count increased (1 [0.3%] patient each in the SB11 treatment group);
+
+- erythropenia, haemoglobin decreased, and international normalised ratio increased (1 [0.3%] patient each in the Lucentis treatment group).
+
+Biochemistry
+
+Biochemistry assessment was performed at Screening, Week 12, Week 24, Week 36 and Week 52. No discernible differences in the changes of mean values for biochemistry parameters (sodium, potassium, creatinine, glucose [random], calcium, phosphate, bilirubin, albumin, alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase [ALP], and lactate dehydrogenase [LDH]) were observed between the SB11 and Lucentis treatment groups.
+
+For each serum chemistry parameter, the majority of patients had values in the normal range at baseline and remained normal. There were no noteworthy shifts observed from baseline to Week 52 in any of the chemistry parameters, except for 1 (0.3%) patient in the Lucentis treatment group at Week 24 (parameter: glucose, random; baseline: high; Week 24: low), and another patient in the Lucentis treatment group at Week 52 (parameter: phosphate; baseline: low; Week 52: high). Few of the shift from baselines for the parameters were reported as TEAEs, but none of them were considered as SAE.
+
+Only a few patients had clinically meaningful abnormalities in haematology parameters in both the SB11 and Lucentis treatment groups. During the study, few patients had abnormal blood chemistry parameters which were reported as AEs:
+
+- blood potassium increased (4 [1.1%] patients in the SB11 and 6 [1.7%] patients in the Lucentis treatment groups);
+
+- ALT increased and blood glucose increased (3 [0.9%] patients each in the SB11 and 3 [0.8%] patients each in the Lucentis treatment groups);
+
+- blood ALP increased (3 [0.9%] patients in the SB11 and 2 [0.6%] patients in the Lucentis treatment groups);
+
+- blood creatinine increased (3 [0.9%] patients in the SB11 and 1 [0.3%] patient in the Lucentis treatment groups);
+
+- AST increased (1 [0.3%] patient in the SB11 and 3 [0.8%] patients in the Lucentis treatment groups);
+
+Assessment report EMA/446448/2021
+
+Page 114/146
+
+- blood LDH increased and hyperkalaemia (1 [0.3%] patient each in the SB11 and 2 [0.6%] patients each in the Lucentis treatment groups);
+
+- hyperglycemia (2 [0.6%] patients in the SB11 and 1 [0.3%] patient in the Lucentis treatment groups);
+
+- blood bilirubin increased and blood phosphorus decreased (2 [0.6%] patients each in the SB11 treatment group);
+
+- blood sodium increased (2 [0.6%] patients in the Lucentis treatment group);
+
+- blood LDH decreased, blood phosphorus increased, liver function test increased, hypokalaemia, and hypoglycaemia (1 [0.3%] patient each in the SB11 treatment group);
+
+- C-reactive protein increased and lipids decreased (1 [0.3%] patient each in the Lucentis treatment group);
+
+- hyperlipidaemia and hypomagnesaemia (1 [0.3%] patient each in the SB11 and Lucentis treatment groups).
+
+Urinalysis
+
+Urinalysis assessment was performed at Screening, Week 12, Week 24, Week 36, and Week 52.
+
+During the study, most of the patients had normal values of urinalysis parameters at each timepoint and only few had abnormal, clinically significant values:
+
+- Four patients (1 [0.3%] patient in the SB11 and 3 [0.8%] patients in the Lucentis treatment groups) had blood in urine.
+
+- Glucose present in urine was reported in 1 [0.3%] patient in the SB11 treatment group.
+
+- Nitrite urine, protein present in urine, and ketone body present in urine was reported in 1 [0.3%] patient each in the Lucentis treatment group
+
+- white blood cells present in urine was reported in 2 [0.6%] patients in the Lucentis treatment group.
+
+The proportion of patients with each result (normal, abnormal, not clinically significant [NCS], and abnormal, clinically significant [CS]) were comparable between the SB11 and Lucentis treatment groups.
+
+Vital signs, physical findings, and other observations related to safety
+
+There were no clinically meaningful changes in mean values from baseline to Week 52 for haematology and chemistry parameters in both the treatment groups. Analyses of vital signs did not reveal any clinically relevant difference across the treatment groups.
+
+Intraocular pressure measured was comparable for both the treatment groups at each timepoint.
+
+The number of subjects with cells and flare in the anterior chamber and vitreous cells were very low in both the treatment groups and there was no notable difference between the 2 treatment groups. The majority of subjects had vitreous opacity grade 0 or trace across all visits and the number of subjects reporting each grade were comparable in both the treatment groups.
+
+Assessment report EMA/446448/2021
+
+Page 115/146
+
+On indirect ophthalmoscopy assessment, the proportion of subjects with each result (normal, abnormal, not clinically significant, and abnormal, clinically significant) at both pre-dose and post-dose timepoints were comparable between the 2 treatment groups.
+
+Immunological events
+
+Evaluation of Anti-drug Antibodies (ADAs) development
+
+It has been reported that repeated ITV administrations of ranibizumab was associated with the development of ADAs in a small percentage of patients [Lucentis SmPC; Lucentis US PI]. For the immune response of ranibizumab across all indications, the pre-treatment incidence of immunoreactivity to Lucentis was 0 to 5%, including age-related macular degeneration (AMD), diabetic macular oedema (DME), proliferative diabetic retinopathy (PDR), and retinal vein occlusion (RVO). After monthly dosing with Lucentis for 6 to 24 months, antibodies to Lucentis were detected in approximately 1 to 9% of patients [Lucentis US PI]. Of note, among patients with neovascular AMD patients with the highest levels of immunoreactivity, iritis or vitritis was observed in some patients. However, intraocular inflammation was not observed in patients with DME and DR at baseline, or RVO patients with the highest levels of immunoreactivity [Lucentis US PI].
+
+Study SB11-G31-AMD: In this study, sampling schedules were designed to obtain pre-dose samples at Week 0 before treatment and post-treatment given the risk of ADA development, half-life of the drug, and drug tolerance. To assess the impact of immunogenicity on safety, PK, and efficacy, immunogenicity sampling was performed before the administration of the drug during the treatment period and incorporated into the PK schedule for parallel sample collection. Blood sampling for immunogenicity were collected prior to ITV injection of Investigational Product (IP) at Week 0 (Day 1), Week 4, Week 8, Week 16, Week 24, and Week 36. Blood sampling for immunogenicity was collected at any time during the visit at Week 1 and Week 52 (End of Study [EOS] Visit) or Early Termination (ET) visit.
+
+Assessment report EMA/446448/2021
+
+Page 116/146
+
+Table 60 Table 8:
+
+Incidence of Anti-drug Antibodies and Neutralizing Antibodies by Visit and Treatment Group (Safety Set, Study SB11-G31-AMD)
+
+Timepoint
+
+Week 0 (BL)
+
+Week 1
+
+Week 4
+
+Week 8
+
+Week 16
+
+Week 24
+
+Parameter Assessment
+
+ADA
+
+NAb
+
+ADA
+
+NAb
+
+ADA Positive 8/318 (2.5)
+
+NAb
+
+ADA
+
+NAb
+
+ADA
+
+NAb
+
+ADA
+
+NAb
+
+Positive 7/343 (2.0)
+
+Negative 336/343 (98.0) 344/348 (98.9)
+
+Positive 1/7 (14.3) 0/4 (0.0) 1/11 (9.1)
+
+Negative 6/7 (85.7) 4/4 (100.0)
+
+Positive 9/334 (2.7) 3/325 (0.9)
+
+Negative 325/334 (97.3) 322/325 (99.1)
+
+Positive
+
+Negative 9/9 (100.0) 2/3 (66.7)
+
+Negative 310/318 (97.5)
+
+Positive
+
+Negative 6/8 (75.0) 4/5 (80.0) 10/13 (76.9)
+
+Positive 8/312 (2.6)
+
+Negative 304/312|(97.4)
+
+Positive
+
+Negative 7/8 (87.5)
+
+Positive
+
+Negative 297/301 (98.7)
+
+Positive 1/4 (25.0)
+
+Negative 3/4 (75.0)
+
+Positive
+
+Negative 287/294 (97.6)
+
+Positive
+
+0/7 (0.0)
+
+Negative
+
+7/7 (100.0)
+
+SB11
+
+N=350
+
+n/n' (%)
+
+0/9 (0.0) 1/3 (33.3)
+
+2/8 (25.0) 1/5 (20.0) 3/13 (23.1)
+
+1/8 (12.5)
+
+4/301 (1.3)
+
+7/294 (2.4)
+
+US Lucentis
+
+N=354
+
+n/n' (%)
+
+4/348 (1.1)
+
+5/321 (1.6)
+
+316/321 (98.4) 626/639 (98.0)
+
+7/311 (2.3)
+
+304/311 (97.7) 608/623 (97.6)
+
+1/7 (14.3) 2/15 (13.3)
+
+6/7 (85.7) 13/15 (86.7)
+
+4/297 (1.3)
+
+293/297 (98.7) 590/598 (98.7)
+
+0/4 (0.0) 1/8 (12.5)
+
+4/4 (100.0) 7/8 (87.5)
+
+2/290 (0.7) 9/584 (1.5)
+
+288/290 (99.3) 575/584 (98.5)
+
+1/2 (50.0) 1/9 (11.1)
+
+1/2 (50.0)
+
+Total N=704 n/n' (%)
+
+11/691 (1.6)
+
+680/691 (98.4)
+
+10/11 (90.9)
+
+12/659 (1.8)
+
+647/659 (98.2)
+
+1/12 (8.3)
+
+11/12 (91.7)
+
+13/639 (2.0)
+
+15/623 (2.4)
+
+8/598 (1.3)
+
+8/9 (88.9)
+
+Assessment report EMA/446448/2021
+
+Page 117/146
+
+Timepoint
+
+Week 36
+
+Week 52
+
+Parameter Assessment n/n' (%)
+
+ADA
+
+NAb
+
+ADA
+
+NAb
+
+Positive
+
+Negative 262/270 (97.0)
+
+Positive
+
+2/8 (25.0)
+
+Negative 6/8 (75.0)
+
+Positive 9/257 (3.5)
+
+Negative 248/257 (96.5)
+
+Positive
+
+1/9 (11.1)
+
+Negative
+
+8/9 (88.9)
+
+SB11 N=350
+
+8/270 (3.0)
+
+US Lucentis® N=354 n/n' (%)
+
+5/274 (1.8)
+
+269/274 (98.2) 531/544 (97.6)
+
+0/5 (0.0) 2/13 (15.4)
+
+5/5 (100.0) 11/13 (84.6)
+
+12/267 (4.5) 21/524 (4.0)
+
+255/267 (95.5) 503/524 (96.0)
+
+0/12 (0.0)
+
+1/21 (4.8)
+
+12/12 (100.0)
+
+20/21 (95.2)
+
+Total N=704
+
+n/n' (%)
+
+13/544 (2.4)
+
+ADA = anti-drug antibody; BL = baseline; NAb = neutralizing antibody; n'= number of patients with available assessment results at each visit Percentages were based on n'.
+
+Source: Table 5 in CTD Section 2.7.2 Summary of Clinical Pharmacology studies
+
+Assessment report EMA/446448/2021
+
+Page 118/146
+
+Table 61
+
+Table 24: Incidence of Overall Anti-drug Antibodies and Overall Neutralizing Antibodies by Visit (Safety Set, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+Timepoint
+
+Parameter
+
+Overall up to Week 4
+
+ADA
+
+NAb
+
+Assessment
+
+Positive 8/330 (2.4)
+
+Negative 318/330 (96.4) 320/327 (97.9) 638/657 (97.1)
+
+Inconclusive 4/330 (1.2)
+
+Positive
+
+Negative
+
+SB11 N= 350
+
+n/n' (%)
+
+2/12 (16.7)
+
+10/12 (83.3)
+
+US Lucentis®
+
+N = 354
+
+n/n' (%) n/n' (%)
+
+5/327 (1.5) 13/657 (2.0)
+
+2/327 (0.6) 6/657 (0.9)
+
+1/7 (14.3)
+
+6/7 (85.7)
+
+Total
+
+N = 704
+
+3/19 (15.8)
+
+16/19 (84.2)
+
+SB11
+
+US Lucentis®
+
+Timepoint
+
+Parameter
+
+Assessment
+
+N= 350
+
+N = 354 n/n' (%) 7/327 (2.1)
+
+n/n' (%)
+
+Positive 8/330 (2.4)
+
+ADA
+
+Negative 318/330 (96.4)
+
+318/327 (97.2)
+
+Overall up to Week 8
+
+Inconclusive
+
+4/330 (1.2)
+
+2/327 (0.6)
+
+Positive 2/12 (16.7)
+
+2/9 (22.2)
+
+NAb
+
+Negative 10/12 (83.3)
+
+7/9 (77.8)
+
+Positive 10/330 (3.0)
+
+10/327 (3.1)
+
+ADA
+
+Negative 316/330 (95.8)
+
+316/327 (96.6) 1/327 (0.3) 5/657 (0.8)
+
+Overall up to Week 24
+
+Inconclusive
+
+4/330 (1.2)
+
+Positive 2/14 (14.3)
+
+3/11 (27.3) 5/25 (20.0)
+
+NAb
+
+Negative 12/14 (85.7)
+
+8/11 (72.7)
+
+Positive 14/330 (4.2)
+
+18/327 (5.5) 32/657 (4.9)
+
+ADA
+
+Negative 312/330 (94.5)
+
+308/327 (94.2) 620/657 (94.4)
+
+Overall up to Week 52
+
+Inconclusive 4/330 (1.2)
+
+1/327 (0.3) 5/657 (0.8)
+
+Positive
+
+4/18 (22.2)
+
+3/19 (15.8)
+
+NAb
+
+Negative
+
+14/18 (77.8)
+
+16/19 (84.2)
+
+Total
+
+N = 704
+
+n/n' (%)
+
+15/657 (2.3)
+
+636/657 (96.8)
+
+6/657 (0.9)
+
+4/21 (19.0)
+
+17/21 (81.0)
+
+20/657 (3.0)
+
+632/657 (96.2)
+
+20/25 (80.0)
+
+7/37 (18.9)
+
+30/37 (81.1)
+
+ADA = anti-drug antibody; BL = baseline; NAb = neutralizing antibody; N = total number of patients; n'= number of patients with available assessment results at each visit
+
+Percentages were based on n'.
+
+Overall ADA results were determined as positive for a patient with treatment-induced or treatment-boosted ADA, where treatment-induced ADA indicates at least 1 positive result after pre-dose of Week 0 for patients with negative ADA at pre-dose of Week 0, and treatment-boosted ADA indicates at least 1 positive result with higher titer level compared with pre-dose of Week 0 after pre-dose of Week 0 for patients with positive ADA at pre-dose of Week 0. Overall ADA result was defined as negative for a patient without positive ADA until Week 4, Week 8, Week 24, and Week 52. Overall ADA result was defined as inconclusive for a patient with positive ADA at Week 0 and without positive result with higher titer level observed after pre-dose of Week 0 up to Week 4, Week 8, Week 24, and Week 52. Unscheduled measurements were contributed to the overall ADA result.
+
+Overall NAb results (up to the relevant timepoints) were determined as positive when a patient had at least one positive result among all available NAb test results up to the relevant timepoints.
+
+Assessment report EMA/446448/2021
+
+Page 119/146
+
+Table 62: (Excerpt for week 36 and 52): Incidence of Anti-drug Antibody by Titer, Visit, and Treatment Group (Safety Set, Study SB11-G31-AMD)
+
+Treatment
+
+Timepoint
+
+Assessment Titer
+
+SB11
+
+N=350
+
+n
+
+%
+
+n
+
+US Lucentis®
+
+N=354
+
+n'
+
+%
+
+Week 36
+
+Week 52
+
+ADA-positive
+
+Titerª
+
+ADA-positive
+
+Titerª
+
+N/A
+
+8
+
+< 50
+
+0
+
+50
+
+1
+
+100
+
+3
+
+200
+
+1
+
+400
+
+1
+
+800
+
+1
+
+3200
+
+1
+
+N/A
+
+9
+
+< 50
+
+1
+
+50
+
+3
+
+100
+
+3
+
+200
+
+0
+
+400
+
+1
+
+800
+
+0
+
+270
+
+3.0
+
+8
+
+0.0
+
+8
+
+12.5
+
+8 37.5
+
+8
+
+12.5
+
+8
+
+12.5
+
+8
+
+12.5
+
+8
+
+12.5
+
+257
+
+3.5
+
+9
+
+11.1
+
+9
+
+33.3
+
+9
+
+33.3
+
+9
+
+0.0
+
+9
+
+11.1
+
+9
+
+0.0
+
+5
+
+274
+
+0
+
+5 0.0
+
+1
+
+5
+
+4
+
+5
+
+0
+
+5 0.0
+
+0
+
+5 0.0
+
+0
+
+5 0.0
+
+0
+
+5
+
+12
+
+267
+
+2
+
+12
+
+6
+
+12
+
+3
+
+12 25.0
+
+1
+
+12
+
+0
+
+12
+
+0
+
+12
+
+1.8
+
+20.0
+
+80.0
+
+0.0
+
+4.5
+
+16.7
+
+50.0
+
+8.3
+
+0.0
+
+0.0
+
+0.0
+
+ADA = anti-drug antibody; BL = baseline; N/A = not applicable; n = number of patients with event of interest; n'= number of patients with available assessment result at each timepoint
+
+3200
+
+1
+
+9
+
+11.1
+
+Percentages were based on n'
+
+" Titer presented with factoring minimum required dilution (MRD, 50)
+
+Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 14.3-3.2
+
+0
+
+12
+
+Highest ADA titres were found in two patients: ADA titre for one patient was 800 at Week 36, and the ADA titre for the other patient was 3200 at Week 36 and Week 52 (Table 63). Among them, only latter patient with ADA titre of 3200 showed neutralising capacity. No influence of the high ADA titres (and its neutralising capacity) on the BCVA and CST (efficacy) was evident.
+
+Assessment report EMA/446448/2021
+
+Page 120/146
+
+
+Table 63
+
+Table 25: Immunogenicity Assessment Results of Patient SB SB (Safety Set, Study SB11-G31-AMD)
+
+and Patient
+
+Patient
+
+SB
+
+SB
+
+Timepoint
+
+Week 0 (BL)
+
+Week 1 2018-05-02T11:05/6
+
+Week 4 2018-05-25T11:50/29
+
+Week 8 2018-06-22T11:25/57
+
+Week 16 2018-08-17T11:49/113
+
+Week 24 2018-10-12T11:37/169
+
+Week 36 2019-01-11T11:45/260
+
+Week 52 (EOS/ET)
+
+2019-05-03T12:35/372
+
+Week 0 (BL)
+
+2018-09-15T10:35/1
+
+Week 1 2018-09-21T09:30/7
+
+Week 4 2018-10-15T10:15/31
+
+Week 8 2018-11-12T10:00/59
+
+Week 16 2019-01-07T10:30/115
+
+Week 24
+
+Week 36
+
+Week 52 (EOS/ET) 2019-09-18T09:41/369
+
+Sampling Date Time/Study Day 2018-04-27T11:00/1
+
+2019-03-06T10:00/173
+
+2019-05-29T10:00/257
+
+Final ADA
+
+Positive
+
+200
+
+Positive 200
+
+Positive 400
+
+Positive 200
+
+Positive 200
+
+Positive 200
+
+Positive 800
+
+Positive 400
+
+Negative N/A
+
+Negative N/A
+
+Negative N/A
+
+Negative N/A
+
+Negative N/A
+
+Positive 50
+
+Positive
+
+Positive
+
+ADA Titer
+
+3200
+
+3200
+
+NAb
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Negative
+
+Positive
+
+Positive
+
+BL = baseline; ADA = anti-drug antibody; NAB = neutralizing antibody; EOS = end of study, ET = early termination Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Listing 16.2.9-1.6
+
+Positive ADA results were reported for one out of four patients with intraocular inflammation (IOI). An overview with timepoints is shown of immunogenicity assessment results (Table 64) and AEs (Table 65) for this patient. No clear conclusions are drawn regarding the temporal relationship between IOI events and ADAs, although a relationship is considered possible.
+
+Assessment report EMA/446448/2021
+
+Page 121/146
+
+Table 64
+
+Table 19:
+
+Immunogenicity Assessment Results for Patient SB
+
+Patient ID
+
+SB
+
+Timepoint
+
+Week 0 (BL)
+
+IP Injection Date
+
+Time / Study Day
+
+Sampling Date
+
+Time / Study Day
+
+Final ADA
+
+ADA Titer
+
+NAb
+
+2018-05-25T14:50/1
+
+2018-05-25T10:50/1
+
+Negative -
+
+-
+
+Week 1
+
+-
+
+Patient ID
+
+Week 4
+
+Week 8
+
+Week 12
+
+Week 16
+
+Week 20
+
+Week 24
+
+Week 28
+
+Week 32
+
+Timepoint
+
+Week 36
+
+2019-02-08T15:10/260
+
+Week 40 2019-03-01T15:20/281
+
+Week 44
+
+Week 48 2019-05-03T13:50/344 .
+
+Week 52 EOS (ET)
+
+2018-05-30T10:50/6
+
+Negative -
+
+-
+
+2018-06-22T14:00/29
+
+2018-06-22T10:35/29
+
+Negative -
+
+-
+
+2018-07-20T15:50/57
+
+2018-07-20T10:55/57
+
+Negative
+
+-
+
+2018-08-17T14:20/85
+
+-
+
+- -
+
+2018-09-14T15:40/113
+
+2018-09-14T10:20/113
+
+Negative - -
+
+2018-10-12T14:45/141
+
+- -
+
+2018-11-09T15:35/169
+
+2018-11-09T11:20/169
+
+Negative - -
+
+2018-12-07T14:45/197
+
+-
+
+- -
+
+2019-01-18T14:15/239
+
+-
+
+-
+
+- -
+
+IP Injection Date
+
+Time / Study Day
+
+Sampling Date
+
+Time / Study Day 2019-02-08T10:05/260
+
+Final ADA
+
+ADA Titer
+
+NAb
+
+Positive
+
+200
+
+Negative
+
+-
+
+- - -
+
+2019-04-05T14:30/316
+
+-
+
+- - -
+
+-
+
+- -
+
+2019-05-24T11:25/365
+
+Positive
+
+100
+
+Negative
+
+ADA = anti-drug antibody; BL = baseline; EOS = end of study; ET = early treatment; IP = investigational product; NAb = neutralizing antibody Study day was relative to the first study drug date. Source: CTD Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Listing 16.2.9-1.6
+
+Table 65
+
+Table 20: Summary of Patients with ADA Positive Results with Intraocular Inflammation in Study Eye Reported in the Final Clinical Study Report (Safety Set, Study SB11-G31-AMD)
+
+Patient ID
+
+SB
+
+PT
+
+Iridocyclitis
+
+Vitritis
+
+Vitritis
+
+Start Date (Study Day)
+
+End Date (Study Day)
+
+Severity
+
+Outcome/ Relationship to IP
+
+Action Taken with IP
+
+SAE
+
+SAE Criteria
+
+Jan 04, 2019 (225)
+
+Jan 11, 2019 (232)
+
+Mild
+
+Recovered/ Resolved/ Related
+
+IP
+
+temporarily stopped
+
+No
+
+N/A
+
+Jan 04, 2019 (225)
+
+Feb 08, 2019 (260)
+
+Moderate
+
+Recovered/ Resolved/ Related
+
+IP
+
+temporarily stopped
+
+Yes
+
+Medically important
+
+Mar 29, 2019 (309)
+
+Apr 05, 2019 (316)
+
+Mild
+
+Recovered/ Resolved/ Related
+
+IP
+
+temporarily stopped
+
+No N/A
+
+IP = investigational product; N/A = not applicable; PT = Preferred Term; SAE = serious adverse events; Causality assessment based on the Investigator's discretion Source: Derived from Table 35 in CTD Section 2.5 Clinical Overview
+
+Similar time-related information has been provided for both ADA-positive subjects that reported endophthalmitis in response to a CHMP request. The first patients experienced endophthalmitis of severe intensity on Mar 18, 2019 (Study Day 228) and the event endophthalmitis was resolved on May 17, 2019 (Study Day 288). Prior to the occurrence of the event, a total of 6 immunogenicity assessments was performed and the assessment result was 'ADA-negative' at all 6 timepoints,
+
+Assessment report EMA/446448/2021
+
+Page 122/146
+
+including baseline (Week 0). During the event (Study Day 228 to Study Day 288), an immunogenicity assessment was performed at Week 36 visit (Study Day 258) and an 'ADA-negative' result was obtained, same as for previous results. After event resolution, an immunogenicity assessment was performed at early termination (ET) visit (Study Day 288) and an 'ADA negative' result was obtained.
+
+The second patients experienced endophthalmitis of moderate intensity on Oct 25, 2018 (Study Day 144) and the event endophthalmitis was resolved with sequelae on Jan 14, 2019 (Study Day 225). Prior to the occurrence of the event, a total of 5 immunogenicity assessments was performed and the assessment result was 'ADA-negative' at all 5 timepoints, including baseline (Week 0). During the event (Study Day 144 to 225), an immunogenicity assessment was performed at Week 24 visit (Study Day 169) and an 'ADA-negative' result was obtained, same as for previous results. The patient discontinued from the study and blood sampling for immunogenicity assessment was done at ET visit (Study Day 255); however, analysis was not performed due to sampling loss. Nevertheless, based on the previous data reported for the patient, it is unlikely that the event endophthalmitis was caused by ADA.
+
+ADA results for all patients with immunogenicity assessment at ET visit (25 of 71 patients in total that earlier discontinued from treatment [n=17 and n=8 for SB11 and Lucentis, respectively]) are negative (Table 66 below).
+
+Assessment report EMA/446448/2021
+
+Page 123/146
+
+Table 66
+
+Table 22: Immunogenicity Assessment Results of 25 Patients at Early Termination Visit (Study SB11-G31-AMD)
+
+Patient ID
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+Patient ID
+
+SB
+
+SB SB11
+
+SB SB11
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB Lucentis® ET
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+SB
+
+Treatment Group Visit
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+Treatment Group
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+Lucentis® ET 2019-03-27 2019-04-30
+
+Lucentis® ET
+
+Lucentis® ET 2019-04-03
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+ET 2019-01-15
+
+ET
+
+ET
+
+ET
+
+ET
+
+ET
+
+ET
+
+Visit
+
+ET 2018-11-20
+
+ET 2019-02-07
+
+ET 2019-03-15 2019-05-17
+
+ET 2019-01-14
+
+ET 2018-12-20 2019-01-10
+
+ET 2019-06-19
+
+ET 2019-03-20
+
+ET 2019-05-31 2019-08-13
+
+ET 2018-06-07 2018-07-02
+
+ET
+
+ET 2018-11-21
+
+ET
+
+ET
+
+Date of Last Exposure to Treatment
+
+2018-10-29
+
+2018-09-06 2018-10-04
+
+2018-08-23 2018-09-24
+
+2019-08-23
+
+2019-06-14
+
+2018-06-11
+
+Date of Last Exposure to Treatment
+
+2019-07-15 2019-10-09
+
+2019-02-13
+
+2018-08-20
+
+2018-06-25
+
+2018-07-02
+
+SB
+
+Lucentis®
+
+ET
+
+2018-12-21
+
+ADA = anti-drug antibody; ET = early termination
+
+Date of Early Termination Visit
+
+2019-04-30
+
+2019-01-23
+
+2019-09-05 2019-09-05
+
+2019-07-19
+
+2018-07-13
+
+Date of Early Termination Visit
+
+2019-01-15
+
+2019-03-04
+
+2019-03-11
+
+2019-09-17
+
+2019-04-24
+
+2019- 03-12 2019- 03-12
+
+2018-10-10 2018-10-10
+
+2019-05-02
+
+2018-12-19 2018-12-19 NEGATIVE
+
+2018-07-30
+
+2018-07-30
+
+2019-04-05
+
+Date of Sampling for ADA 2019-04-30
+
+2019-01-23 NEGATIVE
+
+2018-10-04 NEGATIVE
+
+2018-09-24 NEGATIVE
+
+2019-07-19
+
+2018-07-13 NEGATIVE
+
+Date of Sampling for ADA 2019-01-15
+
+2019-03-04
+
+2019-05-17
+
+2019-03-11
+
+2019-01-10
+
+2019-09-17
+
+2019-04-24 NEGATIVE
+
+2019-08-13
+
+2018-07-02 NEGATIVE
+
+2019-10-09
+
+2019-04-30
+
+2019-05-02 NEGATIVE
+
+2018-07-30 NEGATIVE
+
+2018-07-30
+
+2019-04-05
+
+ADA Result at Early Termination Visit
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+ADA Result at Early
+
+Termination Visit
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+Of 653 patients with available immunogenicity assessment results at the end of study (EOS) or the ET visit, 26 patients (12 patients in the SB11 treatment group and 14 patients in the Lucentis treatment group) had positive ADA results at that time point and 22 of 26 patients had increased titre of ADA at EOS compared to baseline (Table 67 below).
+
+Assessment report EMA/446448/2021
+
+Page 124/146
+
+Table 67
+
+Table 23: Patients with Positive ADA Results with Increased Titer Level from Baseline at the End of Study (EOS) or the Early Termination Visit (Study SB11-G31-AMD)
+
+Patient No End of Study Dateª
+
+SB
+
+SE
+
+SB 2019-06-05
+
+SE
+
+SB
+
+SB
+
+SB
+
+SB
+
+SE
+
+SB
+
+SE 2019-03-26
+
+SB
+
+SE
+
+SB
+
+SE
+
+SB
+
+SE
+
+Patient No
+
+SB
+
+SE
+
+SB
+
+SE
+
+SE
+
+2019-05-03
+
+2019-05-24 SB11
+
+2019-06-07 SB11
+
+2019-09-18 SB11
+
+2019-05-15 SB11
+
+2019-11-06 SB11
+
+2019-10-04
+
+2019-04-09
+
+2019-08-06
+
+2019-11-14
+
+2019-07-22
+
+2019-06-05
+
+2019-08-20
+
+2019-05-08
+
+2019-05-29
+
+End of Study Datea
+
+2019-06-27
+
+2019-09-10
+
+2019-08-28
+
+2019-05-13
+
+2019-10-03
+
+Treatment
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+SB11
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Treatment Visit
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Lucentis®
+
+Visit
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET) POSITIVE
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+Week 52 (EOS/ET)
+
+ADA Result
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE 50
+
+ADA Result
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+POSITIVE
+
+ADA Titer
+
+400
+
+100
+
+100
+
+100
+
+3200
+
+50
+
+100
+
+50
+
+50
+
+100
+
+25
+
+100
+
+50
+
+25
+
+25
+
+100
+
+ADA Titer
+
+50
+
+50
+
+50
+
+200
+
+50
+
+NAb
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+POSITIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NAb
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+NEGATIVE
+
+ADA = anti-drug antibody; AE = adverse event; EOS = end of study; ET = early termination; IP = investigational product; NAb = neutralizing antibody;
+
+a Date of "End of study (W52)" or "Early termination"
+
+b IP-related AE with ongoing status, not resolved/not recovered or recovering/resolving
+
+Unresolved IP-related AE at the Time of EOS or ET Visitb
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Unresolved IP-related AE at the Time of EOS or ET Visitb
+
+No
+
+No
+
+No
+
+No
+
+No
+
+The drug tolerance of the SB11 ADA assay used to measure ADAs in serum obtained from neovascular AMD patients in Study SB11-G31-AMD was up to 100 ng/ml. Based on the maximum ranibizumab concentration (6.7 ng/ml) in the Pharmacokinetic Analysis Set of Study SB11-G31-AMD, it is unlikely that ADA measurements were interfered by drug. Immunogenicity assessment results for three patients with positive ADA results in the Pharmacokinetic Analysis Set (PKS) are provided below.
+
+Assessment report EMA/446448/2021
+
+Page 125/146
+
+Table 68
+
+Table 21: Immunogenicity Assessment Results for 3 Patients with Positive ADA Results (Pharmacokinetic Analysis Set, Study SB11-G31-AMD)
+
+Patient No.
+
+SB
+
+Treatment
+
+Group
+
+SB11
+
+Timepoint
+
+Week 0 (BL)
+
+Week 1
+
+Week 4
+
+Week 8
+
+Week 16
+
+Week 24
+
+Week 36
+
+Week 52
+
+Sampling date
+
+Time/Study day
+
+2018-05-16T08:57/1
+
+2018-05-23T08:50/8
+
+2018-06-13T09:00/29
+
+2018-07-11T08:25/57
+
+2018-09-05T08:35/113
+
+2018-10-31T08:45/169
+
+2019-01-23T08:44/253
+
+2019-05-15T09:20/365
+
+Final ADA
+
+Negative
+
+Negative N/A
+
+Negative
+
+Negative N/A N/A
+
+Negative N/A N/A
+
+Negative N/A
+
+Negative N/A
+
+Positive 50
+
+ADA Titer N/A
+
+N/A N/A
+
+NAb
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Negative
+
+SB
+
+Patient No.
+
+SB
+
+Lucentis®
+
+Treatment
+
+Group
+
+SB11
+
+Week 0 (BL) 2018-05-07T12:35/1
+
+Week 1
+
+Week 4
+
+Timepoint
+
+Week 8
+
+Week 16
+
+Week 24
+
+Week 36
+
+Week 52
+
+Week 0 (BL)
+
+Week 1
+
+Week 4
+
+Week 8
+
+Week 16
+
+Week 24
+
+Week 52 2019-04-09T09:05/366
+
+2018-05-16T15:01/10
+
+2018-06-02T10:43/27
+
+Sampling date
+
+Time/Study day
+
+2018-06-30T09:42/55
+
+2018-08-25T07:16/111
+
+2018-10-20T12:08/167
+
+2019-01-12T09:08/251
+
+2019-05-06T10:16/365
+
+2018-04-09T08:50/1
+
+2018-04-17T09:15/9
+
+2018-05-01T08:35/23
+
+2018-06-05T08:55/58
+
+2018-07-31T08:50/114
+
+2018-09-25T09:00/170
+
+Negative N/A
+
+Negative N/A
+
+Negative N/A
+
+Final ADA
+
+Negative N/A
+
+Negative N/A
+
+Negative N/A
+
+Positive 100
+
+Negative N/A N/A
+
+Negative N/A N/A
+
+Negative
+
+Negative N/A N/A
+
+Negative N/A N/A
+
+Negative N/A N/A
+
+Negative
+
+Positive
+
+50
+
+ADA Titer
+
+N/A N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+NAb
+
+N/A
+
+N/A
+
+N/A
+
+Negative
+
+N/A
+
+Negative
+
+ADA = anti-drug antibody; BL = baseline; EOS = end of study; ET = early treatment; N/A = not available; NAb = neutralizing antibody; No. = number Study day was relative to the first study drug date. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Listing 16.2.9-1.6
+
+Discontinuation due to adverse events
+
+Subject disposition
+
+For reasons for discontinuation before week 24 and before week 52 per treatment, refer to Clinical efficacy.
+
+Of the 705 subjects who were randomised, 634 (89.9%) subjects completed 52 weeks of the study. Prior to Week 52, 71 (10.1%) subjects discontinued treatment with the IP. The most common reasons for withdrawal were consent withdrawal by subject (25 [3.5%] subjects) and adverse event (13 [1.8%] subjects).
+
+From all patients who discontinued the study treatment before week 52, 7/44 (2.0%) from the SB11 treatment group vs. 6/27 (1.7%) from the Lucentis treated group were due to AE. Discontinuation due
+
+Assessment report EMA/446448/2021
+
+Page 126/146
+
+to death or other reasons occurred in 2 (0.6%) and 3 (0.9%) patients in the SB11 group, and in 3 (0.8%) and 2 (0.6%) patients in the Lucentis group, respectively.
+
+TEAEs Leading to IP Discontinuation
+
+A higher proportion of patients discontinued in the SB11 compared to the Lucentis group, though in absolute numbers the overall discontinuations are low (Table 69).
+
+A total of 14 (2.0%) patients had 20 TEAEs that led to discontinuation of IP. Of 14 patients, 11 (1.6%) patients (9 events in 7 [2.0%] patients in the SB11 treatment group and 6 events in 4 [1.1%] patients in the Lucentis treatment group) discontinued treatment with IP due to ocular TEAEs in the study eye and 3 (0.4%) patients (3 events in 2 [0.6%] patients in the SB11 treatment group and 2 events in 1 [0.3%] patient in the Lucentis treatment group) discontinued treatment with IP due to non-ocular TEAEs (Table below).
+
+The most frequent events leading to IP discontinuation at the PT level were retinal haemorrhage and sub-retinal fluid (2 [0.3%] patients each). All other events were reported by 1 (0.1%) patient each.
+
+Assessment report EMA/446448/2021
+
+Page 127/146
+
+Table 69
+
+Table 20: Treatment-emergent Adverse Events Leading to Investigational Product Discontinuation by System Organ Class and Preferred Term (Safety Set, Study SB11-G31-AMD)
+
+US Lucentis®
+
+System Organ Class
+
+Preferred Term
+
+n
+
+Any TEAE leading to IP discontinuation 9
+
+Eye disorders 6 (1.7)
+
+Cataract 1 (0.3)
+
+Iridocyclitis
+
+1
+
+Macular hole
+
+1
+
+Macular oedema
+
+1
+
+Retinal haemorrhage
+
+1
+
+Retinal pigment epithelial tear
+
+1
+
+Subretinal fluid
+
+1
+
+Visual acuity reduced
+
+1
+
+Macular degeneration
+
+0
+
+Macular fibrosis
+
+0
+
+Retinal degeneration
+
+0
+
+Infections and infestations
+
+1
+
+Endophthalmitis
+
+1
+
+Musculoskeletal and connective tissue disorders
+
+0 (0.0)
+
+SB11
+
+N=350
+
+(%)
+
+E
+
+(2.6)
+
+12
+
+8
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+0
+
+N = 354
+
+n
+
+(%)
+
+5
+
+(1.4)
+
+4 (1.1)
+
+0
+
+(0.0)
+
+0 (0.0)
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+0
+
+(0.0)
+
+1
+
+(0.3) (0.3)
+
+1
+
+1
+
+(0.3)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+E
+
+n
+
+8
+
+14
+
+6
+
+10
+
+0
+
+1
+
+0
+
+1
+
+0 (0.0)
+
+1
+
+0
+
+1
+
+1
+
+2
+
+0
+
+1 (0.1)
+
+1
+
+2
+
+0
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+2
+
+1
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+1
+
+1 (0.1)
+
+Pathological fracture
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+Plasma cell myeloma
+
+0 (0.0)
+
+0
+
+1
+
+(0.3)
+
+1
+
+1
+
+Nervous system disorders
+
+2
+
+(0.6)
+
+3
+
+0
+
+(0.0)
+
+0
+
+2 (0.3)
+
+Cerebral circulatory failure
+
+1
+
+(0.3)
+
+1
+
+0
+
+0 (0.0)
+
+1 (0.1)
+
+Cerebral haemorrhage
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+Speech disorders
+
+1
+
+(0.3)
+
+1
+
+0
+
+(0.0)
+
+0
+
+1
+
+Total
+
+N = 704
+
+(%)
+
+E
+
+(2.0)
+
+20
+
+(1.4)
+
+14
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.3)
+
+2
+
+1
+
+(0.3)
+
+2
+
+1
+
+1
+
+1
+
+(0.1)
+
+2
+
+1
+
+1
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+3
+
+1
+
+(0.1)
+
+1
+
+(0.1)
+
+1
+
+E = frequency of events; IP = investigational product; N = total number of patients; n = number of patients with event;
+
+TEAE = treatment-emergent adverse event
+
+Percentages were based on the number of patients in the Safety Set.
+
+AEs were coded to System Organ Class and Preferred Term using MedDRA coding dictionary version 20.1. System Organ Classes were presented alphabetically; Preferred Terms were sorted within each system organ class in descending order of patient frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically.
+
+If patient had multiple conditions with the same Preferred Term and System Organ Class, the patient was counted only once. Source: Section 5.3.5.1 Final CSR, Study SB11-G31-AMD, Table 14.3.1-1.14
+
+Assessment report EMA/446448/2021
+
+Page 128/146
+
+IP-related serious adverse events (SAEs) leading to IP discontinuation occurred in 4 (1.1%) patients in the SB11 treatment group and 3 (0.8%) patients in the Lucentis treatment group. IP-related SAEs- causative discontinuations per treatment group by SOC and PT are presented in Table 70. Summary listing of the 3 non-ocular SAEs that led to discontinuation per treatment group including nature and timing of the causative event are given in Table 71.
+
+Assessment report EMA/446448/2021
+
+Page 129/146
+
+Table 70
+
+Table 10: Serious Adverse Events Leading to IP Discontinuation by System Organ Class, Preferred Term and Causality (Safety Set, Study SB11-G31-AMD) (Ad-hoc Analysis)
+
+SB11
+
+N = 350
+
+US Lucentis®
+
+N = 354
+
+System Organ Class
+
+Preferred Term
+
+Causality
+
+n
+
+(%)
+
+E
+
+n
+
+(%)
+
+E
+
+Total N = 704
+
+n
+
+(%)
+
+Any SAE leading to IP
+
+discontinuation
+
+Eye disorders Overall 5
+
+Iridocyclitis
+
+Macular oedema
+
+Retinal haemorrhage
+
+Overall 8 (2.3)
+
+Related 4 (1.1)
+
+Not related 4 (1.1)
+
+Related
+
+3
+
+Not related 2
+
+Overall
+
+1
+
+Related
+
+1
+
+Not related
+
+0
+
+Overall
+
+1
+
+Related
+
+1
+
+Not related
+
+0
+
+Overall
+
+1
+
+Related
+
+0
+
+Not related
+
+1
+
+10
+
+6
+
+4
+
+(1.4)
+
+7
+
+(0.9)
+
+5
+
+(0.6)
+
+2
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+4 (1.1)
+
+3
+
+(0.8)
+
+1 (0.3)
+
+3
+
+(0.8)
+
+3 (0.8)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+0 (0.0)
+
+4
+
+12
+
+3
+
+7
+
+1
+
+5
+
+3
+
+8
+
+3
+
+6
+
+0
+
+2
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+0
+
+0 (0.0)
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+0
+
+0
+
+1
+
+2
+
+1
+
+1
+
+0
+
+1 (0.1)
+
+E
+
+(1.7)
+
+14
+
+(1.0)
+
+9
+
+(0.7)
+
+5
+
+(1.1)
+
+10
+
+(0.9)
+
+8
+
+(0.3)
+
+2
+
+1
+
+1
+
+0
+
+1
+
+1
+
+(0.0)
+
+0
+
+(0.3) 2
+
+(0.1)
+
+1
+
+1
+
+Assessment report EMA/446448/2021
+
+Page 130/146
+
+
+Retinal pigment epithelial
+
+tear
+
+Overall
+
+1
+
+(0.3)
+
+1
+
+Related
+
+1
+
+(0.3)
+
+1
+
+Not related
+
+0
+
+(0.0)
+
+0
+
+Subretinal fluid
+
+Overall 1
+
+(0.3)
+
+1
+
+Related 1
+
+(0.3)
+
+1
+
+Not related 0
+
+Visual acuity reduced Overall 1
+
+Related
+
+1
+
+Not related 0
+
+Macular degeneration Overall 0
+
+(0.0)
+
+0
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+Related
+
+0
+
+(0.0)
+
+0
+
+Not related
+
+0
+
+(0.0)
+
+0
+
+Nervous system disorders Overall 2
+
+(0.6)
+
+2
+
+System Organ Class
+
+SB11 N = 350
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0 (0.0)
+
+1
+
+(0.3) 1
+
+1
+
+(0.3) 1
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0
+
+(0.0)
+
+1
+
+(0.3)
+
+1
+
+(0.3)
+
+0
+
+(0.0)
+
+0
+
+(0.0)
+
+0
+
+1
+
+(0.1)
+
+1
+
+0
+
+1
+
+(0.1)
+
+1
+
+0
+
+0
+
+(0.0)
+
+0
+
+2
+
+(0.3)
+
+2
+
+2
+
+(0.3)
+
+2
+
+0
+
+0
+
+0
+
+1 (0.1)
+
+0
+
+1 (0.1)
+
+0
+
+0 (0.0) 0
+
+1
+
+1 (0.1)
+
+(0.0)
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+(0.1)
+
+1
+
+0
+
+0
+
+(0.0)
+
+0
+
+0
+
+2 (0.3)
+
+2
+
+US Lucentis® N = 354
+
+Preferred Term
+
+Causality
+
+n
+
+(%)
+
+E
+
+Related 1
+
+(0.3) 1
+
+Cerebral haemorrhage
+
+Not related
+
+1
+
+Overall 1
+
+Related 1
+
+(0.3) 1
+
+(0.3)
+
+1
+
+(0.3)
+
+1
+
+n
+
+(%)
+
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+0
+
+(0.0)
+
+Total N = 704
+
+E
+
+n
+
+(%)
+
+E
+
+0
+
+1 (0.1)
+
+1
+
+0
+
+1 (0.1)
+
+0 1 (0.1)
+
+0
+
+1
+
+1
+
+1
+
+(0.1)
+
+1
+
+Not related
+
+0
+
+(0.0) 0
+
+0
+
+(0.0)
+
+0
+
+0
+
+(0.0)
+
+0
+
+E = frequency of events; IP = investigational product; n = number of patients with event; SAE = serious adverse events Percentages were based on the number of patients in the Safety Set
+
+System Organ Classes were presented alphabetically; Preferred Terms were sorted within each System Organ Class in descending order of subject frequency of SB11. If the frequency of the Preferred Terms were tied, the Preferred Terms were ordered alphabetically
+
+If a patient had multiple events with different causality, then the patient was counted only once at the worst causality (i.e., related) for the number of patients (n). Source: Section 5.3.5.1 Final CSR Study SB11-G31-AMD Listing 14.3.2-1.2
+
+Table 71
+
+Table 11: Non-Ocular Serious Adverse Events Leading to Investigational Product Discontinuation (Safety Set, Study SB11-
+
+G31-AMD)
+
+Country/ Center/ Patient
+
+Age/ System Organ Class/ Preferred Term/ Sex/ Verbatim Term
+
+Treatment Group
+
+Race
+
+Last IP Administration
+
+Start Date/Dayª End Date/Dayª
+
+(Date/Dayª)
+
+71/
+
+M/
+
+Asian
+
+Nervous system disorders/
+
+CEREBRAL HEMORRHAGE
+
+Severity
+
+Outcome/
+
+Relationship
+
+to IP
+
+Action Taken with
+
+IP
+
+TEAE/ AESI
+
+SAE Criteria
+
+2019-02-24/216 Cerebral haemorrhage/
+
+2019-02-01/193
+
+2019-04-25/276
+
+SB11
+
+85/
+
+M/
+
+Nervous system disorders/ Cerebral circulatory failure/
+
+Severe
+
+Recovered/
+
+Resolved with
+
+Sequelae/ Related
+
+IP permanently discontinued
+
+Yes/No 3
+
+2018-12-14/232
+
+2018-11-09/197
+
+White
+
+ACUTE POSTERIOR CEREBRAL CIRCULATION FAILURE
+
+2019-02-08/288
+
+Lucentis®
+
+72/
+
+M/
+
+White
+
+Neoplasms benign, malignant and unspecified (incl cysts and polyps)/ Plasma cell myeloma/
+
+MULTIPLE MYELOMA IGG KAPPA
+
+2019-04-12/147
+
+Ongoing
+
+2019-03-09/113
+
+Severe
+
+Recovered/ Resolved/ Not related
+
+IP permanently discontinued
+
+Yes/No 3, 6
+
+Severe
+
+Not Recovered/ Not resolved/ Not related
+
+IP permanently discontinued
+
+Yes/No
+
+3, 4, 6
+
+AESI = adverse event of special interest; IP = investigational product; SAE = serious adverse event; TEAE = treatment emergent adverse event a Day represented study day Study day was relative to the first IP dosing date. Adverse events were coded using MedDRA version 20.1 coding dictionary. SAE criteria: 1 = death; 2 = life-threatening; 3 = required inpatient hospitalization or prolongation of existing hospitalization; 4 = persistent or significant disability/incapacity; 5 = congenital anomaly/birth defects; 6 = medically important; 7 = sight-threatening ocular SAE.
+
+Source: Section 5.3.5.1 Final CSR Study SB11-G31-AMD Listing 14.3.2-1.2
+
+Assessment report EMA/446448/2021
+
+Page 131/146
+
+2.5.1. Discussion on clinical safety
+
+To compare the safety profiles of SB11 and US-Lucentis, one pivotal Phase III study including a total of 705 randomised patients diagnosed with neovascular AMD (randomised 1:1) was conducted.
+
+Neovascular AMD is considered a sufficiently sensitive population to investigate clinical biosimilarity from a safety perspective, as there is comparability in terms of target receptor, mode of action and safety across authorised indications, i.e., DME, RVO, CNV and PDR. In addition, immunogenicity of ranibizumab was reported to be overall low across indications (up to 9%).
+
+The monthly administration of IP is in agreement with the anticipated posology in patients with the highest treatment need and is, from a safety perspective, most sensitive, as higher exposure levels can be expected in comparison with a treat and extend regimen and is therefore supported.
+
+Per treatment arm, 350 and 354 patients were included in the safety analysis set, respectively for SB11 and Lucentis. The present sample size is acceptable to conclude on comparability in terms of common or very common adverse effects. However, it is too small to draw robust conclusions with regard to less frequently occurring adverse events. This seems especially important to note with regard to the evaluation of the more serious, less common adverse reactions, such as endophthalmitis, blindness, retinal detachment, retinal tear, iatrogenic traumatic cataract or important systemic AEs such as arterial thromboembolic events or non-ocular haemorrhages. Of note, an unexpected, low occurrence of those ocular and non-ocular adverse events anticipated to occur 'commonly/very commonly' based on Lucentis treatment experience further complicates interpretability of the results. The applicant justified based on more recent studies investigating intra-vitreal VEGF inhibitors that with increasing experience, AEs tended to be reported with lower frequencies as they might be considered by investigators to be no longer considered as reportable events. Nevertheless, this may reflect an underreporting of events, which then evidently would result in a loss of sensitivity/power to detect minor differences between treatments, should such exist. This is regarded an uncertainty in this study programme. However, since the observed most common AEs do not indicate significant differences between treatment groups and, from a totality of evidence perspective, similarity can be concluded between SB11 and Lucentis, no concern is raised.
+
+The majority of patients completed the study (48 weeks of treatment, last assessment at 52 weeks) (87.5 and 92.4% for SB11 and Lucentis, respectively). At 24 weeks of treatment, both treatment groups showed similar data on exposure and discontinuation. After 24 weeks, the number of patients discontinuing treatment is increasingly higher in the SB11 arm compared to the Lucentis group. Mean exposure time was shorter in the SB11 treatment group (317.9, SD 61.84 days) vs. Lucentis (323.2, SD 57.93 days). The methods to determine duration of IP exposure and end of study have been clarified. The difference between numbers of patients that were exposed at least 337 days to IP (60.9 and 68.1% in the SB11 and Lucentis arm, respectively) and the numbers of patients that completed the phase III study and reached EOS at week 52 (87.5 and 92.4% with SB11 and Lucentis, respectively) was explained by the use of either true exposure days or calendar days, respectively. In addition, due to the dosing protocol that allowed dosing visits within 7 days of schedule date, calculated exposure days varied for similar calendar days.
+
+Overall, a higher proportion of patients reported ocular TEAEs in the study eye in the SB11 (n=112 [32.0%], E=202) compared to the Lucentis (n=105 [29.7%], E=228) arm. Ocular adverse events that were expected to occur (very) commonly (per Lucentis SmPC) were overall comparable between treatment arms in the present study, although it is notable that most AEs occurred at a lower rate than expected.
+
+The most frequently reported ocular TEAEs (study eye) were: 'intraocular pressure increased' (6.6 and 7.7%), followed by 'conjunctival haemorrhage' (4.6 and 5.1% of patients), 'visual acuity reduced' (4.3
+
+Assessment report EMA/446448/2021
+
+Page 132/146
+
+and 2.8%), 'cataract' (2.9 and 1.4%), and vitreous detachment' (2.3 and 1.4%) in the SB11 and Lucentis arm, respectively. Next to 'intraocular pressure increased', 'ocular hypertension' was separately reported, with a comparable imbalance in favour of SB11-treated patients (0.9% vs. 2.3%). Posterior capsule opacification occurred more frequently in the SB11 compared to the Lucentis group (1.7% vs. 0.3%, respectively). Similarly, infections and infestations (conjunctivitis, endopthalmitis) were more frequently reported in the SB11 arm.
+
+In terms of causality, a slight imbalance between both products could be observed, pointing towards a more frequent occurrence of 'related' ocular events in the SB11 (n=19 [5.4%], E=25 vs. n=9 [2.5%], E=15). In addition, severe TEAEs were reported more frequently in the SB11 arm (n=7 [2.0%], E=10 vs. n=4 [1.1%], E=5). Causality assessment was further discussed for select serious adverse events of interest and serious AEs that led to discontinuation. An ad hoc analysis was presented, with updated causality assessment by ad-hoc categorisation of Category 1 and 2 AESIs to be considered as 'related' by default, which raises no concern. Narratives for other select serious AEs were presented and causality assessment justified and in some cases a more prudent approach was adopted and the events considered as related to treatment. Corresponding tables were updated accordingly. Overall, and keeping in mind the very low numbers involved and the inherent associated uncertainties, it is agreed with the applicant 's analysis that no clinically meaningful differences seem to exist between both groups when it comes to IP-related SAEs that led to IP discontinuation.
+
+Overall, only few ocular SAEs in the study were reported, and very few more with SB11 (study eye n=10 [2.9 %], E=14) compared to Lucentis (study eye n=8 [2.3 %], E=8; fellow eye n=2 [0.6%], E=2). Serious infections of the study eye (i.e., endophtalmitis, n=2 [0.6%], E=2) occurred only in the SB11 arm. Other ocular SAEs occurred with a low incidence and no evident pattern of a difference between treatment groups.
+
+A numerical imbalance seems noteworthy for the AESIs intraocular infection and inflammation. All reported events (endophthalmitis n=2 [0.6%], E=2; iritis/vitritis/iridocyclitis n=4 [1.1%], E=6) occurred in the SB11 arm only. IP was permanently discontinued in both events of infection and in one case of inflammation. The applicant's thorough discussion on the occurrence of these events is acknowledged. Based on detailed review of these events, it is concluded that there appears to be no relationship to positive ADA status. The imbalance is overall difficult to interpret due to the overall low incidence of SAE/AESI and should be viewed in conjunction with the overall safety profile and the totality of evidence.
+
+Overall, a comparable proportion of patients reported non-ocular TEAEs (n=194, [55.4%], E=590 for SB11 vs. n= 205 [57.9%], E=552 for Lucentis). Nasopharyngitis was the most frequently reported TEAE and occurred with a similar rate for both groups (10.6 vs. 9.9% for SB11/Lucentis). The second most frequent non-ocular TEAE was hypertension, which was more frequently reported in the Lucentis treatment arm (4.9 vs. 7.3% for SB11/Lucentis). Other (systemic) adverse events that are expected to occur commonly according to the Lucentis SmPC are anaemia, hypersensitivity, anxiety, cough, nausea and allergic reactions. However, most adverse events were reported at lower than expected rates in the present study, which hamper robust conclusions on comparability. Among the mentioned AEs, headache was reported slightly more frequently in the SB11 arm (4.0 vs. 2.8% for SB11/Lucentis), as were also anaemia (1.4 and 0.6%) and nausea (1.4 vs. 0.3%). Further numerical imbalances were noted for 'urinary tract infections' (4.0 vs. 2.3%), 'haematuria' (2.0 vs. 0.6%), 'bronchitis' (3.7% and 1.7%) and 'upper respiratory tract infections' (2.6% and 0.8%). Arthralgia occurred at comparable rates (1.7 vs. 2.0% for SB11/Lucentis).
+
+Non-ocular SAEs occurred with comparable (low) frequencies in both treatment arms.
+
+It should be noted that for intraocular anti-VEGF treatments, concerns were raised on potential adverse effects resulting from the systemic suppression of these treatments. These particularly relate
+
+Assessment report EMA/446448/2021
+
+Page 133/146
+
+to cardiovascular and arterial thromboembolic effects, renal and gastrointestinal effects and wound- healing complications. With ranibizumab, systemic VEGF-inhibiting activity is expected to be low, when compared to other VEGF inhibitors such as bevacizumab or aflibercept. However, based on the trend of increased systemic concentration levels observed in the small subset of patients that provided evaluable PK data, the non-ocular safety profile and the evaluation of the mentioned class effects seems of particular interest for the present procedure. It is however considered likely that the study is insensitive to detect differences in the incidence of more uncommon AEs (potentially) related to the higher exposure under SB11 treatment.
+
+Upon request, the applicant provided an integrated discussion on whether the tendency of an unfavourable safety profile for SB11 compared to Lucentis may be attributable to an increased systemic exposure. No concern arises from the review of the quality data or from the safety data based on subjects with highest concentration levels. Ad-hoc analyses of ocular TEAEs in the study eye and non-ocular TEAEs for the PKS were provided. As only a small number of patients were compared, these are difficult to interpret. It is acknowledged that the analyses did not show any notable differences between treatment arms. In addition, a tabulated comparative summary of AEs that may potentially be associated with systemic VEGF inhibition was provided, which did not show a pattern of a systematic difference between both treatment groups. In summary, the observed trend for an overexposure in SB11- compared to Lucentis-treated patients observed in this study does not seem to translate into an increased incidence of AEs potentially related to systemic VEGF inhibition. Although, overall, a slightly more unfavourable safety profile is notable with SB11 compared to Lucentis treatment, this trend is derived from a small number of events and must therefore be cautiously interpreted.
+
+Laboratory and vital sign findings did not reveal any potential traces of significant difference between both treatment groups.
+
+Immunogenicity
+
+Of the 350 and 354 patients treated with SB11 and Lucentis, respectively, a total of 330 patients for SB11 and 327 patients for Lucentis contributed available ADA results for overall ADA up to Week 52. Most of the patients were determined as ADA negative at each time point, the incidence of positive ADAs to ranibizumab was low and overall comparable between treatment arms. A maximum was observed at week 52 with 9/257 (3.5%) and 12/267 (4.5%) positive ADA counts for SB11 and Lucentis, respectively. The majority of the detected ADA in the SB11 and Lucentis treatment groups was non-neutralizing. At each time point, no more than two patients had neutralizing antibodies and there was no obvious trend of a difference between treatment arms in terms of incidence at each time point. Cumulatively, the incidence of overall ADAs over time was also comparable between the two treatment groups. The number of patients with an overall ADA positive result up to Week 52 was 14/330 (4.2%) in the SB11 and 18/327 (5.5%) in the Lucentis treatment groups. When comparing the ADA incidence by titre, the distribution of ADA titres between the SB11 and Lucentis treatment arms were generally comparable (mostly ranged up to 1:200 and occasionally were as high as 1:400). It is, though, notable that the highest titres were observed in the SB11 treatment group only (week 36: 1 subject with 1:800; week 52: 1 subject each with titre 1:800 and 1:3200). No correlation between ADA-positivity and PK results could be concluded based on additionally requested information. No clear conclusions are drawn regarding the temporal relationship between IOI events and ADAs, although a relationship is considered possible.
+
+The applicant provided data on patients in whom an immunogenicity assessment was performed at early termination (ET) (25 of 71 patients in total that earlier discontinued from treatment [n=17 and n=8 for SB11 and Lucentis, respectively]) and on those who were ADA positive at either EOS or ET (26 of 653 available assessments of 705 randomised patients in total [n= 12 and n=14 for SB11 and Lucentis, respectively]). Argumentation from the applicant for why not all patients underwent EOS/ET
+
+Assessment report EMA/446448/2021
+
+Page 134/146
+
+(immunogenicity) assessment can be followed. Patients terminating the study prematurely with available immunogenicity evaluation were all ADA-negative. Of the 26 ADA-positive patients at EOS, 22 had increased titre compared to baseline, of which one had an unresolved IP-related AE at EOS (`Hyalosis asteroid') and was therefore followed until ADA-negative. Titres were low and comparable to data during the study (all ≤100, except for one of each titre of 200, 400 and 3200). Upon request, further data and graphics were provided for the three high antibody titres (1:800 at week 36, and 1:3200 at week 36 and week 52). According to the data, these results belong to two patients who had positive ADA titres varying from 1:200 to 1:800, but non-neutralizing ADA, and positive ADA titres at week 24 and 52 (1:3200) with NAb, respectively. It is agreed with the applicant that graphically no influence of the high ADA titres (and its neutralizing capacity) on the BCVA and CST (efficacy) is evident. TEAE did not occur during the study period, respectively only during ADA-negative period. It can be agreed upon that immunogenicity in the concerned patients with the highest ADA titres did not apparently diminish the efficacy or cause safety issues.
+
+No safety in special populations was investigated, on ground that the product would be biosimilar in nature and thus that these points would be similar to the knowledge on special population as elucidated for the innovator product.
+
+2.5.2. Conclusions on the clinical safety
+
+In summary, the safety profile after administration of SB11- and Lucentis in neovascular AMD patients observed in this study is generally comparable, with a trend towards a lower tolerability of SB11 compared to the reference product in particular for adverse events that occurred with a low frequency (i.e., were reported in less than 5% of patients), namely severe/serious AEs, AEs considered related to IP or AESIs. Due to the small numbers of observed cases, these numerical imbalances must however be cautiously interpreted and it is concluded that they do not challenge the biosimilarity conclusion between SB11 and Lucentis.
+
+2.6. Risk Management Plan
+
+Safety concerns
+
+Table 72: Summary of safety concerns
+
+Summary of safety concerns
+
+Important identified risks
+
+Missing information
+
+Infectious endophthalmitis
+
+Intraocular inflammation
+
+Retinal detachment and retinal tear
+
+Intraocular pressure increase
+
+Visudyne (verteporfin-PDT) given in combination with ranibizumab (PM) Long term effects on the progression of the condition CNV (other than neovascular AMD)
+
+Assessment report EMA/446448/2021
+
+Page 135/146
+
+Pharmacovigilance plan
+
+Table 73
+
+On-going and planned additional pharmacovigilance activities
+
+Study
+
+Status
+
+Summary of
+
+objectives
+
+Safety concerns addressed
+
+Milestones
+
+Due dates
+
+Category 1 - Imposed mandatory additional pharmacovigilance activities which are conditions of the marketing authorisation
+
+Not applicable
+
+Category 2 - Imposed mandatory additional pharmacovigilance activities which are Specific Obligations in the context of a conditional marketing authorisation or a marketing authorisation under exceptional circumstances
+
+Not applicable Category 3 - Required additional pharmacovigilance activities Not applicable
+
+Risk minimisation measures
+
+Table 74
+
+Summary table of pharmacovigilance activities and risk minimisation activities by safety concern
+
+Safety concern
+
+Risk minimisation measures
+
+Pharmacovigilance activities
+
+Infectious
+
+endophthalmitis
+
+Intraocular inflammation
+
+<Routine risk minimisation measures>
+
+SmPC Sections 4.2, 4.3, 4.4, 4.8 and 6.6; PL Sections 2, 3, 4.
+
+Pack size: One vial for single use only.
+
+Restricted medical-prescription-only medication
+
+<Additional risk minimisation measures>
+
+Educational plan for adult patients
+
+<Routine risk minimisation measures>
+
+SmPC Sections 4.3, 4.4; PL Sections 2, 4.
+
+Pack size: One vial for single use only.
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection>
+
+Specific AE follow-up questionnaire
+
+<Additional pharmacovigilance activities>
+
+None
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection>
+
+None
+
+Assessment report EMA/446448/2021
+
+Page 136/146
+
+Summary table of pharmacovigilance activities and risk minimisation activities by safety concern
+
+Safety concern
+
+Risk minimisation measures
+
+Pharmacovigilance activities
+
+Retinal detachment
+
+and retinal tear
+
+measures>
+
+SmPC Sections 4.4, 4.8; PL Sections
+
+2, 4.
+
+Intraocular pressure
+
+increase
+
+Visudyne (verteporfin-
+
+PDT) given in
+
+combination with
+
+ranibizumab (PM)
+
+Restricted medical prescription-only
+
+medication
+
+<Additional pharmacovigilance
+
+activities>
+
+<Additional risk minimisation measures>
+
+Educational plan for adult patients
+
+<Routine risk minimisation
+
+Pack size: One vial for single use only.
+
+Restricted medical prescription-only medication
+
+<Additional risk minimisation
+
+measures>
+
+Educational plan for adult patients.
+
+<Routine risk minimisation
+
+measures>
+
+SmPC Sections 4.4, 4.8, 4.9; PL
+
+Sections 2, 4.
+
+Pack size: One vial for single use
+
+only.
+
+Restricted medical prescription-only medication
+
+<Additional risk minimisation measures>
+
+Educational plan for adult patients.
+
+<Routine risk minimisation
+
+measures>
+
+None
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection>
+
+None
+
+<Additional pharmacovigilance activities> None
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection>
+
+None
+
+<Additional pharmacovigilance activities> None
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection> None
+
+Assessment report EMA/446448/2021
+
+Page 137/146
+
+Summary table of pharmacovigilance activities and risk minimisation activities by safety concern
+
+Safety concern
+
+Risk minimisation measures
+
+Pharmacovigilance activities
+
+Long term effects on the progression of the condition CNV (other than neovascular AMD)
+
+Conclusion
+
+SmPC Section 5.1.
+
+This missing information is not mentioned in PL.
+
+Pack size: One vial for single use only.
+
+Restricted medical prescription-only medication <Additional risk minimisation measures> None
+
+<Routine risk minimisation
+
+measures>
+
+SmPC Section 5.1.
+
+This missing information is not mentioned in PL.
+
+Pack size: One vial for single use only.
+
+Restricted medical prescription-only medication
+
+<Additional risk minimisation measures>
+
+None
+
+<Additional pharmacovigilance
+
+activities>
+
+None
+
+<Routine pharmacovigilance activities beyond adverse reactions reporting and signal detection> None
+
+<Additional pharmacovigilance activities> None
+
+The CHMP and PRAC considered that the risk management plan version 1.1 is acceptable.
+
+2.7. Pharmacovigilance
+
+Pharmacovigilance system
+
+The CHMP considered that the pharmacovigilance system summary submitted by the applicant fulfils the requirements of Article 8(3) of Directive 2001/83/EC.
+
+Assessment report EMA/446448/2021
+
+Page 138/146
+
+Periodic Safety Update Reports submission requirements
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+2.8. Product information
+
+2.8.1. User consultation
+
+A justification for not performing a full user consultation with target patient groups on the package leaflet has been submitted by the applicant and has been found acceptable for the following reasons:
+
+No full user consultation with target patient groups on the package leaflet has been performed on the basis of a bridging report making reference to Lucentis. The bridging report submitted by the applicant has been found acceptable.
+
+2.8.2. Additional monitoring
+
+Pursuant to Article 23(1) of Regulation No (EU) 726/2004, Byooviz (ranibizumab) is included in the additional monitoring list as it is a biological product authorised after 1 January 2011.
+
+Therefore, the summary of product characteristics and the package leaflet includes a statement that this medicinal product is subject to additional monitoring and that this will allow quick identification of new safety information. The statement is preceded by an inverted equilateral black triangle.
+
+2.8.3. Third party intervention during the evaluation of Byooviz
+
+On 28 July 2021, the EMA received, after the adoption of the CHMP positive opinion, correspondence from a third party which expressed concerns about the name "Byooviz" and the possible confusion with the name of another medicinal product.
+
+The CHMP, consulting its Name Review Group, considered the intervention and concluded that the arguments put forward by the third party did not impact the CHMP conclusion that the name "Byooviz" is acceptable. However, further differentiation of the packaging design was requested and satisfactory package was submitted on 5 August 2021. A revised opinion was adopted by the CHMP on 09 August 2021 in order reflect the above.
+
+3. Biosimilarity assessment
+
+3.1. Comparability exercise and indications claimed
+
+Byooviz (also referred to as SB11) is developed as a biosimilar to the reference product Lucentis. The administration route (intravitreal), posology, and indications are according to the reference product as described in the Lucentis SmPC except for the treatment of retinopathy of prematurity (ROP) with zone I (stage1+, 2+, 3 or 3+), zone II (stage 3+) or AP-ROP (aggressive posterior ROP) disease of ROP in preterm infants.
+
+The marketing authorisation is claimed for
+
+Assessment report EMA/446448/2021
+
+Page 139/146
+
+·The treatment of neovascular (wet) age-related macular degeneration (AMD)
+
+·The treatment of visual impairment due to diabetic macular oedema (DME)
+
+·The treatment of proliferative diabetic retinopathy (PDR)
+
+.The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
+
+·The treatment of visual impairment due to choroidal neovascularisation (CNV)
+
+Quality
+
+In general, a comprehensive biosimilarity evaluation for demonstration of a comparable quality profile of SB11 and its medicinal reference product Lucentis has been conducted in accordance with the relevant scientific EMA guidelines and the given CHMP advice. The biosimilarity evaluation started with a comprehensive characterisation of EU- and US-sourced Lucentis lots. As US-sourced Lucentis has been used as the sole comparator in the phase 3 clinical trial, a three-way comparison was performed between SB11, EU Lucentis, and US Lucentis. SB11 batches were evaluated against similarity range based on EU Lucentis as a reference product, and similarity range based on US Lucentis as a clinical comparator. In addition, the comparability between EU and US Lucentis was evaluated. EU- and US- sourced Lucentis lots have been characterised with respect to the key quality attributes.
+
+Summary of clinical data
+
+The clinical developmental programme comprises one clinical study SB11-G31-AMD. The pivotal efficacy and safety study was a randomised (1:1), double-blind, multiple dose (0.5 mg/kg per ITV injection every 4 weeks) parallel group study for a duration of up to 48 weeks comparing the efficacy, safety, immunogenicity between SB11 and US-Lucentis in 705 subjects with neovascular age-related macular degeneration. PK was evaluated in a subset of patients (25 and 29 patients for SB11 and Lucentis, respectively).
+
+The clinical development plan for SB11 was aligned with the EMA guidelines [EMEA/CHMP/BMWP/42832/2005 Rev.1] and endorsed by the EMA through SA [EMA/CHMP/SAWP/403022/2016, Jun 23, 2016; EMA/CHMP/SAWP/646420/2016, Oct 13, 2016].
+
+3.2. Results supporting biosimilarity
+
+Quality
+
+A large panel of standard and state-of-the-art methods has been used to characterize and compare the most relevant physicochemical and biological quality attributes of the ranibizumab molecule.
+
+Overall, the presented data on the physicochemical comparison indicate that SB11 is structurally similar to its reference medicinal product Lucentis. A few minor differences seen in the SE-HPLC, non- reducing CE-SDS and in the quantity (in the mentioned analysis one of the included SB11 batches was slightly outside of the EU similarity ranges) could be sufficiently justified and do not jeopardize the biosimilarity claim. Also for biological activity the data available so far indicate a similar behaviour of SB11 and Lucentis. Finally, comparative stress testing supports the conclusion that SB11 and Lucentis show similar degradation profiles supporting similarity across SB11, EU and US Lucentis.
+
+Clinical Pharmacokinetics
+
+Assessment report EMA/446448/2021
+
+Page 140/146
+
+
+PK profiles between the SB11 and Lucentis were compared in the clinical Phase III Study SB11-G31- AMD in a sub-set of patients with neovascular AMD. Of the 705 patients randomised, 54 (7.7%) patients (25 [7.1%] patients in the SB11 and 29 [8.2%] patients in the Lucentis treatment groups) were included in Pharmacokinetic Analysis Set (PKS).
+
+Pre-dose Ctrough levels and post-dose (near) 'Cmax' levels (24-72 hours) were summarised using descriptive statistics at pre-specified time points (baseline, week 1, 4, 8, 16, 24, 36 and pre-baseline only for week 52).
+
+Throughout all post-dose timepoints, arithmetic mean concentrations ranged between 1,346.5 pg/mL and 1,952.2 pg/mL for SB11 and 771.2 pg/mL and 1,298.0 pg/mL for Lucentis. The observed variability (CV%) ranged between 63.61% and 96.03% for SB11 and between 39.39% and 97.73% for Lucentis for post-dose timepoints and error bars for both treatments overlapped.
+
+Efficacy
+
+Primary endpoint: In the PPS population, the change from baseline in CST at Week 4 was -108.40 um in the SB11 and -100.05 um in the Lucentis arm and the point estimate of -8.35 um [95% CI: -19.446, 2.747] for the adjusted treatment difference. The two-sided 95% CI was completely contained within the pre-defined equivalence margin of [-36 um, 36 um]. The difference in the FAS population using available cases was -8.18 um [95% CI: - 19.054, 2.699], and the two-sided 95% CI was also contained within the pre-specified equivalence margin. Sensitivity analyses based on the primary endpoint for the FAS analysis population using multiple imputation (MI) for all subjects with missing data who dropped out from the study prior to the primary analysis timepoint were performed under MAR and MNAR assumptions as supporting evidence. The difference of the CST LS mean was -7.90 [95% CI: - 18.776, 2.984] and -7.90 [95% CI: - 18.776, 2.984] for MI-MAR and MI-MNAR, respectively.
+
+Secondary endpoints: The adjusted treatment difference for change from baseline in BCVA at Week 8 in the FAS using MI-MAR was -0.80 letters and the 95% CI [-2.023, 0.415] of the difference lie entirely within the pre-defined equivalence margin of [-3 letters, 3 letters]. In addition, the point estimate for the difference in the PPS population was -0.76 letters [95% CI: - 2.010, 0.487], thus supporting the requirements of the EU authorities. Sensitivity analyses performed in the FAS using available cases demonstrated a difference of -0.82 letters [95% CI: - 2.046, 0.398], in the FAS using LOCF demonstrated a difference of -0.83 letters [95% CI: - 2.064, 0.397] and in the FAS using MI- MNAR showed a difference of -0.77 letters [95% CI: - 1.998, 0.451]. In all analyses the 95% CIs were within the bioequivalence margin set by the FDA [-3 letters, 3 letters].
+
+The change from baseline in BCVA at Week 24 and Week 52 for the FAS using available cases were comparable in the SB11 and Lucentis treatment groups (SB11: 8.52 letters, Lucentis: 9.33 letters at Week 24; SB11: 9.79 letters, Lucentis: 10.41 letters at Week 52). The difference is non-significant and the 90% and ad-hoc 95% CIs of the difference between the groups lie within the equivalence margins chosen for BCVA at Week 8 (Week 24: - 0.80; 90% CI of [-2.071, 0.462], 95% CI of [-2.314, 0.705] and Week 52: - 0.62; 90% CI of [-2.092, 0.857], 95% CI of [-2.375, 1.140]) in the FAS using available cases.
+
+The change from baseline in CRLT at Week 24 and Week 52 for the FAS using available cases were also comparable between the 2 treatment groups (SB11: - 147.67 um, Lucentis: - 138.41 um at Week 24; SB11: - 161.00 um, Lucentis: - 149.46 um at Week 52).
+
+The proportion of patients who lost fewer than 15/10/5 letters but also gained 5/10/15 letters of more in BCVA at Week 24 and Week 52 in the FAS using available cases was comparable between the two treatment arms SB11 and US-Lucentis.
+
+Assessment report EMA/446448/2021
+
+Page 141/146
+
+The change from baseline in total CNV size at Week 24 and Week 52 for the FAS using available cases were comparable in the SB11 and Lucentis treatment groups (SB11: - 3.98 mm2, Lucentis: - 3.91 mm2 at Week 24; SB11: - 5.17 mm2, Lucentis: - 4.62 mm2 at Week 52) and the proportion of subjects with active CNV leakage at Week 24 and Week 52 for the FAS were found to be decreased compared with baseline and comparable between the 2 treatment groups (SB11: 64.6% [210/325], Lucentis: 66.3% [218/329] subjects at Week 24).
+
+It was shown that the proportion of patients without intra- or subretinal fluid increased equally in both study arms over the 52-week period without showing a consistent higher improvement in one of the arms.
+
+Overall, the mean change in the NEI VFQ-25 composite score is comparable between the two treatment groups (SB11: 3.80, Lucentis: 4.98 at Week 24; SB11: 4.54, Lucentis: 6.47 at Week 52).
+
+Most of the subgroup analyses of the efficacy variables CST and BCVA were comparable regarding prognostic factors (total lesion area, lesion type, country) and immunogenicity results.
+
+Safety
+
+The Safety Analysis Set comprised 350 SB11-treated patients and 354 Lucentis-treated patients. This sample size (up to week 52) should in principle be sufficiently large to allow to conclude on comparability in terms of common or very common adverse effects (but see caveat under section on uncertainties). A total of 307 [87.5%] patients in the SB11 treatment group and 327 [92.4%] patients in the Lucentis treatment group completed the study until Week 52.
+
+A total of 112 (32.0%) subjects in the SB11 group and 105 [29.7%] subjects in the Lucentis had ocular TEAEs in the study eye. The most common ocular TEAE in the study eye was intraocular pressure increased (23 [6.6%] patients of which 7 [2.0%, E=8] IP-related in the SB11 treatment group and 26 [7.3%] patients of which 7 [2.0%, E=15] IP related in the Lucentis treatment group) followed by conjunctival haemorrhage (16 [4.6%] patients in the SB11 treatment group and 18 [5.1%] patients in the Lucentis treatment group). The majority of the ocular TEAEs in the study eye were mild or moderate in severity. Overall the incidence of mild and moderate ocular TEAEs in the study eye were comparable between both treatment groups. The majority of the ocular TEAEs in the study eye were not related to the IP.
+
+Only few ocular SAEs in the study were reported in 10 patients [2.9 %, E=14] in the SB11 arm and 8 patients [2.3 %, E=8] in the Lucentis arm. The incidence of SAEs in the study eye with possible relationship to treatment was similar for SB11 (n=4 [1.1%]) and Lucentis (n=3 [0.8%]) treatment arms and concerned the following AEs: vitritis, iridocyclitis, subretinal fluid, visual acuity reduced/macular oedema/retinal pigment epithelial tear (SB11 arm); retinal haemorrhage, subretinal fluid, macular degeneration (Lucentis arm). Ocular SAEs in three of the SB11 and all of the Lucentis patients led to IP discontinuation. SAEs of the fellow eye were all considered 'not related'.
+
+A comparable proportion of patients in both treatment groups reported non-ocular TEAEs (n=194, [55.4%], E=590 for SB11 vs. n= 205 [57.9%], E 552 for Lucentis). Nasopharyngitis was the most frequently reported TEAE (10.6 vs. 9.9% for SB11/Lucentis), followed by hypertension (4.9 vs. 7.3% for SB11/Lucentis). The majority of the ocular TEAEs in the study eye were mild or moderate in severity. The incidence of mild, moderate and severe non-ocular TEAEs were comparable between both treatment groups. Non-ocular TEAES were considered as 'related' in only 2 patients (0.6%) with 2 events in SB11 and 1 patient (0.3%) with 4 events in Lucentis treatment arms.
+
+The most frequent AESIs were increased intraocular pressure (Categories 1 and 2), reported by 3 [0.9%] patients in the SB11 treatment group and 6 [1.7%] patients in the Lucentis treatment group.
+
+Assessment report EMA/446448/2021
+
+Page 142/146
+
+Comparable patterns of laboratory findings (haematology; biochemistry; urinalysis; vital signs, physical findings, and other observations related to safety [vital signs, intraocular pressure, slit lamp examinations, indirect ophthalmoscopy]) were observed between SB11- and Lucentis-treated patients. Abnormalities occurred in very few patients.
+
+Immunogenicity: Of the 350 and 354 patients treated with SB11 and Lucentis, respectively, a total of 330 patients for SB11 and 327 patients for Lucentis contributed available ADA results for overall ADA up to Week 52. Most of the patients were determined as ADA negative at each timepoint, the incidence of positive ADAs to ranibizumab was low and overall comparable between treatment arms. A maximum was observed at week 52 with 9/257 (3.5%) and 12/267 (4.5%) positive ADA counts for SB11 and Lucentis, respectively. The majority of the detected ADA in the SB11 and Lucentis treatment groups was non-neutralizing. At each time-point, no more than two patients had neutralizing antibodies and there was no obvious trend of a difference in terms of incidence between treatment arms at each time point.
+
+Cumulatively, the incidence of overall ADAs over time was also comparable between the two treatment groups. The number of patients with an overall ADA positive result up to Week 52 was 14/330 (4.2%) in the SB11 and 18/327 (5.5%) in the Lucentis treatment groups.
+
+When comparing the ADA incidence by titre, the distribution of ADA titres between the SB11 and Lucentis treatment arms were generally comparable (mostly ranged up to 1:200 or 1:400) (with few exceptions, see section on uncertainties).
+
+ADA negative and ADA positive subgroups showed a safety profile that was largely consistent with the overall safety results.
+
+3.3. Uncertainties and limitations about biosimilarity
+
+Quality
+
+Uncertainties and limitations identified during the evaluation have been sufficiently addressed.
+
+Clinical
+
+Pharmacokinetics
+
+The mean post-dose concentrations of SB11 (24-72 hours post dose and at week 1) seem to be higher than the mean concentrations of Lucentis for all time-points, hinting at an overexposure of SB11 in comparison to Lucentis. The difference in mean serum concentrations seem to increase until week 36 with the mean of SB11 lying outside the mean plus the standard deviation of Lucentis in the end.
+
+The variability also seems to be higher for SB11. No Lucentis-treated patients from the PK sub-set showed concentration levels above 2.78 ng/ml, while the maximum levels that were reached in SB11- treated patients ranged up to 6.67 ng/ml.
+
+Based on a thorough review of safety data (of subjects with highest concentration levels as well as any AEs that could potentially be associated with systemic VEGF inhibition), this trend of an overexposure is not expected to translate into clinically relevant differences.
+
+Efficacy
+
+Secondary endpoints: Some of the point estimates of the effect for Lucentis on the secondary endpoints seem higher than those of SB11. However the 95% Cis mostly overlap and the difference can be attributed to chance or alternatively be considered not clinically significant.
+
+Assessment report EMA/446448/2021
+
+Page 143/146
+
+The subgroup of "classic CNV" containing 27 patients per treatment arm showed a marked difference in difference in mean change from baseline in BCVA at Week 8 compared to the overall population, i.e. it had a mean difference of 7.49 letters in mean change from baseline in BCVA at Week 8 with 95% CI: [3.613, 11.365], which does not include the overall treatment effect of -0.8 letters. However, it can be assumed that baseline imbalances (slight imbalance in total lesion/CNV area and central retinal lesion thickness) and the relatively small sample sizes led to the difference of the classic CNV subgroup.
+
+It was also noted that the analysis of primary endpoint outcomes stratified by ADA-status indicated that ADA+ SB11 patients saw a higher efficiency for the week4 CST change primary endpoint. Contradictory, the similar analysis done for the FDA-facing primary endpoint showed ADA+ SB11 subjects having worse outcomes for the week 8 BCVA change FDA-facing endpoint. Given the contradictory nature of these findings, and the fact that only very limited numbers of subjects in the trial were ADA+, it is not possible to infer clinical meaning to these results.
+
+Safety
+
+Some of the relevant safety events have been observed with higher frequency in patients treated with SB11 compared to patients treated with Lucentis. This includes 'related' ocular TEAEs, intraocular infection and inflammation (Category 3 and 4 AESIs), and TEAEs leading to treatment discontinuation.
+
+The only non-ocular SAEs that were considered related to the IP occurred in the SB11 treatment arm (one case of cerebral haemorrhage, cardiac failure, iliac artery embolism, peripheral ischaemia in 4 patients [1.1%])
+
+However, this trend is derived from a small number of events and only concerns events that occurred with low frequencies. These numerical imbalances cannot be attributed to true differences between biosimilar candidate and reference product with sufficient confidence.
+
+Overall, ocular and non-ocular adverse events expected to occur 'commonly/very commonly' based on the Lucentis SmPC occurred with lower frequency. As the applicant argues, it is possible that with increasing experience, AEs tended to be reported with lower frequencies as they might be considered by investigators to be no longer considered as reportable events. Nonetheless, this is a limitation to the sensitivity of the study to detect minor differences in safety profile. It is however concluded that in this case clinically relevant differences are not expected
+
+Immunogenicity
+
+It is notable that the highest titres were observed in the SB11 treatment group only (week 36: 1 subject with 1:800; week 52: 1 subject each with titre 1:800 and 1:3200). There was no obvious correlation between ADA samples with high titres and neutralizing properties. Likewise, there was not obvious relationship between ADA positivity and the occurrence of AEs, though this cannot be completely ruled out. No significant difference between both treatment groups was however evident.
+
+3.4. Discussion on biosimilarity
+
+Biosimilarity between SB11 and EU-sourced Lucentis at quality level, but also comparability between EU- and US-sourced Lucentis could be demonstrated in a well-established and comprehensive biosimilarity exercise.
+
+The pivotal efficacy and safety study in neovascular age-related macular degeneration patients was adequately designed and the primary and secondary efficacy outcomes and similarity criteria are deemed acceptable. The primary endpoint, the change from baseline in CST at Week 4, falls clearly within the equivalence margins, and the other clinical endpoints support similarity between the products as well.
+
+Assessment report EMA/446448/2021
+
+Page 144/146
+
+From a safety point of view, the most common adverse events occurred at comparable rates (nasopharyngitis, conjunctival haemorrhage, increased intraocular pressure) or lower rates for SB11 (hypertension). However, only these four adverse events were reported by more than 5% of patients and it is noteworthy that a substantial number of adverse events would have been expected to occur (very) commonly based on the Lucentis SmPC, but were reported at much lower rates in this study, thus impeding robust conclusions to some extent. All observed imbalances concern only low numbers of patients and events and must therefore be interpreted with caution. After thorough review of AEs observed in patients with highest serum ranibizumab concentration levels and AEs that could potentially be associated with systemic VEGF inhibition, it is concluded that this trend of an increased exposure in SB11-treated patients is not expected to translate into clinically relevant differences.
+
+In summary, the data supports biosimilarity between SB11 and Lucentis.
+
+3.5. Extrapolation of safety and efficacy
+
+The indications granted for the reference product Lucentis were applied for Byooviz. Ranibizumab binds to VEGF-A to prevent binding to corresponding receptors, thereby suppressing neovascularisation. The mode of action of ranibizumab is considered to be the same across all approved indications of Lucentis. The systemic exposure of ranibizumab was described to be comparable in RVO, DME, and AMD patients [Zhang et al., 2014]. The biological activities related to the mode of action have been comprehensively evaluated in the analytical similarity exercise. Extrapolation to other indications of the reference product than neovascular age-related macular degeneration is considered acceptable. Hence, extrapolation to all approved indications of Lucentis applied for is supported.
+
+3.6. Conclusions on biosimilarity and benefit risk balance
+
+Based on the review of the submitted data, Byooviz is considered biosimilar to Lucentis. Therefore, a benefit/risk balance comparable to the reference product can be concluded.
+
+4. Recommendations
+
+Outcome
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus that the benefit-risk balance of Byooviz is favourable in the following indication:
+
+Byooviz is indicated in adults for:
+
+• The treatment of neovascular (wet) age-related macular degeneration (AMD)
+
+• The treatment of visual impairment due to diabetic macular oedema (DME)
+
+• The treatment of proliferative diabetic retinopathy (PDR)
+
+• The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
+
+• The treatment of visual impairment due to choroidal neovascularisation (CNV)
+
+The CHMP therefore recommends the granting of the marketing authorisation subject to the following conditions:
+
+Assessment report EMA/446448/2021
+
+Page 145/146
+
+Conditions or restrictions regarding supply and use
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+Other conditions and requirements of the marketing authorisation
+
+Periodic Safety Update Reports
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+Conditions or restrictions with regard to the safe and effective use of the medicinal product
+
+Risk Management Plan (RMP)
+
+The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+. At the request of the European Medicines Agency;
+
+· Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+Assessment report EMA/446448/2021
+
+Page 146/146
+
