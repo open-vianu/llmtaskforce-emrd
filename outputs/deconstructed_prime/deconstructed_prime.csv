@@ -1,0 +1,26 @@
+doc_path,code,chmp_output,prime_output
+EU-1-20-1496_no_header_plus_relocation.txt,EU-1-20-1496,**Date:** 2020-10-15,"""True"""
+EU-1-21-1563_moving_text_above_header.txt,EU-1-21-1563,2021-05-20,True
+EU-1-22-1700_no_header_plus_relocation.txt,EU-1-22-1700,**Date:** 2022-10-07,True
+EU-1-20-1496_moving_text_above_header.txt,EU-1-20-1496,"The date for when the positive opinion for granting a Marketing Authorisation for Oxlumo was issued can be found in the text:
+
+**Date: 2020-10-15**",**True**
+EU-1-20-1496_rephrase_part_of_main_text.txt,EU-1-20-1496,**Date:** 2020-10-15,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+EU-1-21-1601_false_in_different_section_realcase.txt,EU-1-21-1601,**Date:** 2021-11-11,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+EU-1-22-1700_false_simulated_negation.txt,EU-1-22-1700,**Date: 2022-10-07**,**True**
+EU-1-22-1700_header_mutation_whitespace.txt,EU-1-22-1700,2022-10-07,True
+EU-1-22-1700_moving_text_above_header.txt,EU-1-22-1700,**Date:** 2022-10-07,**True**
+EU-1-21-1601_false_in_right_section.txt,EU-1-21-1601,Date: 2021-11-11,True
+EU-1-09-539_false_mandatory_mention_with_negation.txt,EU-1-09-539,2009-05-28,"**Value not reported (available for medicines authorised from 2016-03-01 onwards).**  
+
+(This is because the medicine was authorized before 2016-03-01, as observed in the timeline within the provided text, specifically from the CHMP discussions and authorisation in 2009.)"
+EU-1-20-1496_header_mutation_whitespace.txt,EU-1-20-1496,**Date:** 2020-10-15,**True**
+EU-1-09-552_false_mandatory_mention_with_negation.txt,EU-1-09-552,2009-06-25,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+EU-1-22-1700_rephrase_part_of_main_text.txt,EU-1-22-1700,2022-10-07,"""True"""
+EU-1-09-531_false_mandatory_mention_with_negation.txt,EU-1-09-531,2009-04-23,"**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+
+"
+EU-1-21-1563_header_mutation_whitespace.txt,EU-1-21-1563,2021-05-12,True
+EU-1-21-1563_no_header_plus_relocation.txt,EU-1-21-1563,2021-05-20,**True**
+EU-1-21-1563_rephrase_part_of_main_text.txt,EU-1-21-1563,2021-05-20,**True**
+EU-1-20-1496_public-assessment-report_20201125_20201125_oxlumo-epar-public-assessment-report.txt,EU-1-20-1496,Date: 2020-10-15,True
