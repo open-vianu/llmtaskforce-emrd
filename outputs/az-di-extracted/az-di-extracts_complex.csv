@@ -1,0 +1,28 @@
+doc_path,code,chmp_output,prime_output
+EU-1-20-1496_public-assessment-report_20201125_20201125_oxlumo-epar-public-assessment-report_content.md,EU-1-20-1496,Date: 2020-10-15,True
+EU-1-14-921_public-assessment-report_20140519_20140519_biresp-spiromax-epar-public-assessment-report_content.md,EU-1-14-921,2014-02-20,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-11-737_public-assessment-report_20111212_20111212_eviplera-epar-public-assessment-report_content.md,EU-1-11-737,2011-09-22,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-22-1700_public-assessment-report_20230111_20230111_ebvallo-epar-public-assessment-report_content.md,EU-1-22-1700,2022-10-13,**True**
+EU-1-21-1563_public-assessment-report_20210727_20220404_skysona-epar-public-assessment-report_content.md,EU-1-21-1563,Date: 2021-05-12,"### Output
+
+True"
+EU-1-15-1033_public-assessment-report_20150901_20150901_kanuma-epar-public-assessment-report_content.md,EU-1-15-1033,### Date: 2015-06-25,"The medicine is not classified as a PRIME medicine. Therefore, the output is:
+
+""Value not reported (available for medicines authorised from 2016-03-01 onwards)"""
+EU-1-11-729_public-assessment-report_20111208_20140402_onduarp-epar-public-assessment-report_content.md,EU-1-11-729,2011-09-22,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-17-1216_public-assessment-report_20170831_20170831_imraldi-epar-public-assessment-report_content.md,EU-1-17-1216,"During the meeting on 22 June 2017, the CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a marketing authorisation to Imraldi on 22 June 2017.
+
+Date: 2017-06-22",Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-09-566_public-assessment-report_20091109_20091109_lamivudine-teva-epar-public-assessment-report_content.md,EU-1-09-566,2009-07-23,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-16-1122_public-assessment-report_20160902_20200115_aerivio-spiromax-epar-public-assessment-report_content.md,EU-1-16-1122,2016-06-23,"### Determination of PRIME Status
+
+Based on the criteria defined for determining PRIME status:
+
+1. No header explicitly contains the word 'prime'.
+2. The section titled ""Submission of the dossier"" does not contain the word 'prime'.
+3. The text does not indicate that the medicine has been granted 'prime' status or is eligible as a 'prime' medicine in any other sections.
+
+The medicine has been authorized on 2016-09-02, which post-dates 2016-03-01. Since none of the PRIME criteria are met for the medicine Aerivio Spiromax based on the provided text, the output should be:
+
+**False**"
+EU-1-21-1611_public-assessment-report_20220617_20220617_vildagliptin---metformin-hydrochloride-accord-epar-public-assessment-report_content.md,EU-1-21-1611,2022-01-27,**False**
