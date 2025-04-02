@@ -1,13 +1,14 @@
 doc_path,code,chmp_output,prime_output
-EU-1-22-1700_public-assessment-report_20230111_20230111_ebvallo-epar-public-assessment-report.md,EU-1-22-1700,2022-10-13,2022-10-13
-EU-1-11-729_public-assessment-report_20111208_20140402_onduarp-epar-public-assessment-report.md,EU-1-11-729,2009-09-22,2009-09-22
-EU-1-23-1736_public-assessment-report_20230608_20230608_omvoh-epar-public-assessment-report.md,EU-1-23-1736,**Date:** 2023-03-30,**Date:** 2023-03-30
-EU-1-09-566_public-assessment-report_20091109_20091109_lamivudine-teva-epar-public-assessment-report.md,EU-1-09-566,2009-07-23,2009-07-23
-EU-1-21-1601_public-assessment-report_20211119_20211119_ronapreve-epar-public-assessment-report.md,EU-1-21-1601,**Date: 2021-11-11**,**Date: 2021-11-11**
-EU-1-14-921_public-assessment-report_20140519_20140519_biresp-spiromax-epar-public-assessment-report.md,EU-1-14-921,2014-02-20,2014-02-20
-EU-1-16-1122_public-assessment-report_20160902_20200115_aerivio-spiromax-epar-public-assessment-report.md,EU-1-16-1122,2016-06-23,2016-06-23
-EU-1-21-1611_public-assessment-report_20220617_20220617_vildagliptin---metformin-hydrochloride-accord-epar-public-assessment-report.md,EU-1-21-1611,2022-01-27,2022-01-27
-EU-1-15-1033_public-assessment-report_20150901_20150901_kanuma-epar-public-assessment-report.md,EU-1-15-1033,2015-06-25,2015-06-25
-EU-1-20-1496_public-assessment-report_20201125_20201125_oxlumo-epar-public-assessment-report.md,EU-1-20-1496,2020-10-15,2020-10-15
-EU-1-11-737_public-assessment-report_20111212_20111212_eviplera-epar-public-assessment-report.md,EU-1-11-737,2011-09-22,2011-09-22
-EU-1-17-1216_public-assessment-report_20170831_20170831_imraldi-epar-public-assessment-report.md,EU-1-17-1216,2017-06-22,2017-06-22
+EU-1-22-1700_public-assessment-report_20230111_20230111_ebvallo-epar-public-assessment-report.md,EU-1-22-1700,2022-10-13,### True
+EU-1-11-729_public-assessment-report_20111208_20140402_onduarp-epar-public-assessment-report.md,EU-1-11-729,2009-09-22,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-09-566_public-assessment-report_20091109_20091109_lamivudine-teva-epar-public-assessment-report.md,EU-1-09-566,2009-07-23,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+EU-1-21-1601_public-assessment-report_20211119_20211119_ronapreve-epar-public-assessment-report.md,EU-1-21-1601,2021-11-11,True
+EU-1-14-921_public-assessment-report_20140519_20140519_biresp-spiromax-epar-public-assessment-report.md,EU-1-14-921,2014-02-20,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-16-1122_public-assessment-report_20160902_20200115_aerivio-spiromax-epar-public-assessment-report.md,EU-1-16-1122,2016-06-23,True
+EU-1-21-1611_public-assessment-report_20220617_20220617_vildagliptin---metformin-hydrochloride-accord-epar-public-assessment-report.md,EU-1-21-1611,2022-01-27,**False**
+EU-1-15-1033_public-assessment-report_20150901_20150901_kanuma-epar-public-assessment-report.md,EU-1-15-1033,2015-06-25,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
+EU-1-20-1496_public-assessment-report_20201125_20201125_oxlumo-epar-public-assessment-report.md,EU-1-20-1496,2020-10-15,**True**
+EU-1-11-737_public-assessment-report_20111212_20111212_eviplera-epar-public-assessment-report.md,EU-1-11-737,2011-09-22,"""Value not reported (available for medicines authorised from 2016-03-01 onwards)"""
+EU-1-17-1216_public-assessment-report_20170831_20170831_imraldi-epar-public-assessment-report.md,EU-1-17-1216,2017-06-22,"""True"""
+EU-1-21-1563_public-assessment-report_20210727_20220404_skysona-epar-public-assessment-report.md,EU-1-21-1563,2021-05-20,**True**
+EU-1-14-959_public-assessment-report_20150109_20150109_lynparza-epar-public-assessment-report.md,EU-1-14-959,2014-10-23,**Value not reported (available for medicines authorised from 2016-03-01 onwards)**
