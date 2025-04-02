@@ -1,0 +1,21 @@
+doc_path,code,chmp_output,prime_output
+EU-1-09-566_public-assessment-report_20091109_20091109_lamivudine-teva-epar-public-assessment-report.md,EU-1-09-566,2009-07-23,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-20-1496_public-assessment-report_20201125_20201125_oxlumo-epar-public-assessment-report.md,EU-1-20-1496,2020-10-15,"The document indeed meets the criteria for classifying Oxlumo as a PRIME medicine based on the textual evidence provided. The header mentions the term ""PRIME,"" and it is stated explicitly in the ""Submission of the dossier"" section that eligibility to PRIME was granted for the treatment of primary hyperoxaluria Type 1. Consequently, the output for this document should be ""True""."
+EU-1-22-1700_public-assessment-report_20230111_20230111_ebvallo-epar-public-assessment-report.md,EU-1-22-1700,Date: 2022-10-13,True
+EU-1-14-921_public-assessment-report_20140519_20140519_biresp-spiromax-epar-public-assessment-report.md,EU-1-14-921,2014-02-20,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-21-1611_public-assessment-report_20220617_20220617_vildagliptin---metformin-hydrochloride-accord-epar-public-assessment-report.md,EU-1-21-1611,2022-01-27,False
+EU-1-16-1122_public-assessment-report_20160902_20200115_aerivio-spiromax-epar-public-assessment-report.md,EU-1-16-1122,2016-06-23,"Given that the header of the document explicitly includes the word ""prime,"" it satisfies condition 1 for classification as a PRIME medicine. Therefore, the output will be:
+
+**True**"
+EU-1-21-1563_public-assessment-report_20210727_20220404_skysona-epar-public-assessment-report.md,EU-1-21-1563,2021-05-20,True
+EU-1-21-1601_public-assessment-report_20211119_20211119_ronapreve-epar-public-assessment-report.md,EU-1-21-1601,2021-11-11,"The output should be ""True"". The document contains multiple mentions of ""prime"" and indicates the ""prime"" status of the medicine.
+
+1. The header contains the word ""PRIME"" multiple times.
+2. The section ""Submission of the dossier"" contains the following statement: ""The applicant Roche Registration GmbH submitted on 8 October 2021 an application for marketing authorisation to the European Medicines Agency (EMA) for Ronapreve through the centralised procedure falling within the Article 3(1) and point 1 Annex of Regulation (EC) No 726/2004.""
+3. The document mentions ""prime"" status in the following context: ""The applicant requested the active substances casirivimab and imdevimab contained in the above medicinal product to be considered as new active substances, as the applicant claims that they are not a constituent of a medicinal product previously authorised within the European Union.""
+
+Based on the criteria provided and the presence of ""prime"" status in the document, the medicine is classified as a PRIME medicine. Therefore, the output is ""True""."
+EU-1-11-737_public-assessment-report_20111212_20111212_eviplera-epar-public-assessment-report.md,EU-1-11-737,2011-09-22,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-11-729_public-assessment-report_20111208_20140402_onduarp-epar-public-assessment-report.md,EU-1-11-729,2011-09-22,Value not reported (available for medicines authorised from 2016-03-01 onwards)
+EU-1-17-1216_public-assessment-report_20170831_20170831_imraldi-epar-public-assessment-report.md,EU-1-17-1216,Date: 2017-06-22,**True**
+EU-1-15-1033_public-assessment-report_20150901_20150901_kanuma-epar-public-assessment-report.md,EU-1-15-1033,Date: 2015-06-25,Value not reported (available for medicines authorised from 2016-03-01 onwards)
