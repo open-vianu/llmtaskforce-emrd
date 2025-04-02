@@ -12,4 +12,6 @@ dependencies = [
     "pymupdf>=1.25.5",
     "pymupdf4llm>=0.0.19",
     "langchain>=0.3.22",
+    "openpyxl>=3.1.5",
+    "matplotlib>=3.10.1",
 ]
