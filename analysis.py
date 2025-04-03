@@ -19,26 +19,26 @@ def rule_based_all() -> pd.DataFrame:
     return df
 
 
-def free_text_to_date(text):
-    # from free text, extract anything in the forma %Y-%m-%d
-    matches = re.findall(r"\d{4}-\d{2}-\d{2}", str(text))
-    if not matches:
-        return ""
-    dates = [
-        pd.to_datetime(match, format="%Y-%m-%d") for i, match in enumerate(matches)
-    ]
-    # return the latest date
-    return max(dates) if dates else None
+# def free_text_to_date(text):
+#     # from free text, extract anything in the forma %Y-%m-%d
+#     matches = re.findall(r"\d{4}-\d{2}-\d{2}", str(text))
+#     if not matches:
+#         return ""
+#     dates = [
+#         pd.to_datetime(match, format="%Y-%m-%d") for i, match in enumerate(matches)
+#     ]
+#     # return the latest date
+#     return max(dates) if dates else None
 
 
-def free_text_to_label(text):
-    # if Not reported in text, return that
-    if "not reported" in text.lower():
-        return "Not reported"
-    if "true" in text.lower():
-        return "True"
-    if "false" in text.lower():
-        return "False"
+# def free_text_to_label(text):
+#     # if Not reported in text, return that
+#     if "not reported" in text.lower():
+#         return "Not reported"
+#     if "true" in text.lower():
+#         return "True"
+#     if "false" in text.lower():
+#         return "False"
 
 
 def truth_and_rule_based() -> pd.DataFrame:
@@ -157,7 +157,7 @@ def date_metrics(df) -> pd.DataFrame:
 
 
 def prime_applicable_metrics(df):
-    metrics_df = pd.DataFrame([], columns=["input", "precision", "recall", "f1", "mcc"])
+    metrics_df = pd.DataFrame([], columns=["input", "precision", "recall", "f1"])
     col_base = "eu_prime_initial"
     for name, truth, pred in compare_generator(df, col_base):
 
@@ -171,8 +171,6 @@ def prime_applicable_metrics(df):
             "precision": tp / (tp + fp),
             "recall": tp / (tp + fn),
             "f1": 2 * tp / (2 * tp + fp + fn),
-            "mcc": (tp * tn - fp * fn)
-            / np.sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn)),
         }
         metrics_df = pd.concat(
             [metrics_df, pd.DataFrame.from_dict(metrics, orient="index").T]
@@ -181,7 +179,7 @@ def prime_applicable_metrics(df):
 
 
 def prime_status_metrics(df):
-    metrics_df = pd.DataFrame([], columns=["input", "precision", "recall", "f1", "mcc"])
+    metrics_df = pd.DataFrame([], columns=["input", "precision", "recall", "f1"])
     col_base = "eu_prime_initial"
     for name, truth, pred in compare_generator(df, col_base):
         truth = np.array(truth)
@@ -189,6 +187,8 @@ def prime_status_metrics(df):
         mask = truth != "Not reported"  # only ones where status is applicable
         truth = truth[mask]
         pred = pred[mask]
+        # for pred, replace any "Not reported" with False
+        pred = np.where(pred == "Not reported", "True", pred)
         # the values are boolean strings, get the metrics and add them to the dataframe as a row with concat
         tp = np.sum((truth == "True") & (pred == "True"))
         tn = np.sum((truth == "False") & (pred == "False"))
@@ -200,8 +200,6 @@ def prime_status_metrics(df):
             "precision": tp / (tp + fp),
             "recall": tp / (tp + fn),
             "f1": 2 * tp / (2 * tp + fp + fn),
-            "mcc": (tp * tn - fp * fn)
-            / np.sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn)),
         }
         metrics_df = pd.concat(
             [metrics_df, pd.DataFrame.from_dict(metrics, orient="index").T]
@@ -219,6 +217,8 @@ def generate_plots(df):
     for key, value in metrics.items():
         value.to_csv(f"results/{key}_metrics.csv", index=False)
     for key, value in metrics.items():
+        # sort columns on alphabetical order
+        value = value.sort_values("input")
         labels = value["input"].apply(lambda x: x.split(key)[-1])
         value.plot.bar(x="input", title=key)
         plt.savefig(f"results/{key}_metrics.png", bbox_inches="tight")
@@ -229,6 +229,15 @@ def main():
     # df = add_in_random(df)
     df = add_in_results(truth_and_rule_based())
     df.to_csv("results/all.csv", index=False)
+    print(
+        df[
+            [
+                "chmp_opinion_date_truth",
+                "chmp_opinion_date_az_complex",
+                "chmp_opinion_date_az_simple",
+            ]
+        ]
+    )
     generate_plots(df)
 
 
